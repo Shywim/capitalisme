@@ -1,0 +1,12 @@
+{
+  "name": "capitalisme",
+  "version": "0.1.0",
+  "private": true,
+  "description": "À qui appartient vraiment ce que vous achetez ? Recherche marque → grand groupe + controverses sourcées.",
+  "type": "module",
+  "scripts": {
+    "start": "node scripts/serve.mjs",
+    "validate": "node scripts/validate.mjs"
+  },
+  "license": "MIT"
+}
