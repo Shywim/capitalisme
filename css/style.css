@@ -166,6 +166,8 @@ main { padding: 34px 0 60px; }
 .owns-arrow .arrow { color: var(--accent); font-size: 22px; }
 .g-sub { color: var(--muted); font-size: 14.5px; margin-top: 6px; display: flex; flex-wrap: wrap; gap: 6px 14px; }
 .g-sub .dot::before { content: "·"; margin-right: 14px; color: var(--line-strong); }
+.g-legal { margin: 8px 0 0; color: var(--muted); font-size: 13px; font-family: var(--mono); }
+.g-note { margin: 12px 0 0; padding: 9px 13px; background: var(--accent-soft); border-radius: 8px; font-size: 14.5px; color: var(--accent-dark); }
 .g-desc { margin: 14px 0 0; color: #3a3a40; }
 .g-links { margin-top: 14px; }
 .g-links a {

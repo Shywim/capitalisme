@@ -50,8 +50,11 @@
 
   DATA.forEach((g) => {
     groupById[g.id] = g;
-    // Le groupe lui-même est cherchable.
+    // Le groupe lui-même est cherchable (par nom court et raison sociale).
     index.push({ key: norm(g.name), display: g.name, type: "group", group: g, category: "Groupe" });
+    if (g.legalName && norm(g.legalName) !== norm(g.name)) {
+      index.push({ key: norm(g.legalName), display: g.name, type: "group", group: g, category: "Groupe" });
+    }
     (g.brands || []).forEach((b) => {
       const names = [b.name].concat(b.aliases || []);
       names.forEach((n, i) => {
@@ -150,6 +153,7 @@
     if (g.founded) meta.push("fondé en " + escapeHtml(String(g.founded)));
     if (g.revenue) meta.push(escapeHtml(g.revenue));
     const metaHtml = meta.map((m, i) => i === 0 ? `<span>${m}</span>` : `<span class="dot">${m}</span>`).join("");
+    const legalHtml = g.legalName ? `<p class="g-legal">Raison sociale : ${escapeHtml(g.legalName)}</p>` : "";
 
     const brandsHtml = (g.brands || [])
       .slice()
@@ -186,6 +190,8 @@
           <span class="g-name">${escapeHtml(g.name)}</span>
         </div>
         <div class="g-sub">${metaHtml}</div>
+        ${legalHtml}
+        ${g.groupNote ? `<p class="g-note">↳ ${escapeHtml(g.groupNote)}</p>` : ""}
         ${g.description ? `<p class="g-desc">${escapeHtml(g.description)}</p>` : ""}
         ${g.website ? `<div class="g-links"><a href="${escapeHtml(g.website)}" target="_blank" rel="noopener noreferrer">Site officiel ↗</a></div>` : ""}
         ${noteHtml}

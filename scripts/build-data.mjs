@@ -19,6 +19,64 @@ const slug = (s) =>
   (s || "").toString().toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "")
     .replace(/&/g, " et ").replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, "").slice(0, 48) || "groupe";
 
+// Noms d'affichage courts pour le grand public (la raison sociale complète est
+// conservée dans `legalName`). Clé = nom renvoyé par la recherche.
+const DISPLAY_NAMES = {
+  "Nestlé S.A.": "Nestlé",
+  "The Coca-Cola Company": "Coca-Cola",
+  "PepsiCo, Inc.": "PepsiCo",
+  "Unilever PLC": "Unilever",
+  "The Procter & Gamble Company (P&G)": "Procter & Gamble",
+  "Mondelēz International": "Mondelēz",
+  "Danone S.A.": "Danone",
+  "Mars, Incorporated": "Mars",
+  "The Kraft Heinz Company": "Kraft Heinz",
+  "General Mills, Inc.": "General Mills",
+  "Kellanova (ex-Kellogg's)": "Kellanova",
+  "L'Oréal S.A.": "L'Oréal",
+  "Lactalis (Groupe Lactalis)": "Lactalis",
+  "Groupe Bel (Bel SA)": "Groupe Bel",
+  "Anheuser-Busch InBev SA/NV (AB InBev)": "AB InBev",
+  "Heineken N.V.": "Heineken",
+  "Reckitt Benckiser Group plc (Reckitt)": "Reckitt",
+  "Colgate-Palmolive Company": "Colgate-Palmolive",
+  "Kenvue Inc.": "Kenvue",
+  "Henkel AG & Co. KGaA": "Henkel",
+  "Bayer AG (Monsanto)": "Bayer (Monsanto)",
+  "Suntory (Orangina Schweppes / Suntory Beverage & Food France)": "Suntory (Orangina Schweppes)",
+  "Barilla (Barilla G. e R. Fratelli S.p.A.)": "Barilla",
+  "Andros (Groupe Andros)": "Andros",
+  "Savencia Fromage & Dairy (anciennement Bongrain / Soparind Bongrain)": "Savencia",
+  "Groupe Bigard": "Bigard",
+  "Groupe Bolloré (Bolloré SE)": "Bolloré",
+};
+
+// Corrections factuelles post-recherche (clé = nom d'affichage du groupe).
+// Marques mal attribuées par la recherche, retirées du groupe concerné.
+const BRAND_REMOVALS = {
+  // Vichy → L'Oréal ; Kellogg's / Froot Loops / Frosted Flakes → Kellanova.
+  "Ferrero": ["Vichy", "Kellogg's", "Froot Loops", "Frosted Flakes"],
+  // Extra → chewing-gum Wrigley (groupe Mars), pas Kellanova.
+  "Kellanova": ["Extra"],
+  // Marques détenues via Kellanova : on les rattache à Kellanova pour éviter les doublons.
+  "Mars": ["Pringles", "Pop-Tarts", "Cheez-It"],
+};
+
+// Note de rattachement (filiale d'un autre groupe), affichée en évidence.
+const GROUP_NOTES = {
+  "Kellanova": "Filiale du groupe Mars : l'acquisition de Kellanova par Mars a été finalisée en décembre 2025.",
+};
+
+/** Nettoyage générique si pas d'entrée explicite dans DISPLAY_NAMES. */
+function autoClean(name) {
+  let s = name.replace(/^The\s+/, "");
+  s = s.replace(/[,]?\s+(Incorporated|Inc\.?|S\.A\.?|S\.p\.A\.?|N\.V\.|PLC|plc|SE|AG & Co\. KGaA|AG|Company|Group plc|Group)\s*$/g, "").trim();
+  return s || name;
+}
+function displayName(name) {
+  return DISPLAY_NAMES[name] || autoClean(name);
+}
+
 const usedIds = new Set();
 function uniqueId(base) {
   let id = base, n = 2;
@@ -31,13 +89,17 @@ const groups = (raw.groups || [])
   .filter((g) => g && g.group && g.group.name)
   .map((g) => {
     const meta = g.group;
-    const id = uniqueId(slug(meta.name));
+    const disp = displayName(meta.name);
+    const id = uniqueId(slug(disp));
+    // Marques retirées (corrections factuelles), normalisées pour comparaison.
+    const removeSet = new Set((BRAND_REMOVALS[disp] || []).map((n) =>
+      n.toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "").trim()));
     // Dédoublonnage des marques par nom normalisé.
     const seen = new Set();
     const brands = (g.brands || []).filter((b) => {
       if (!b || !b.name) return false;
       const k = b.name.toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "").trim();
-      if (seen.has(k)) return false;
+      if (seen.has(k) || removeSet.has(k)) return false;
       seen.add(k);
       return true;
     }).map((b) => ({
@@ -59,7 +121,9 @@ const groups = (raw.groups || [])
 
     return {
       id,
-      name: meta.name,
+      name: disp,
+      ...(disp !== meta.name ? { legalName: meta.name } : {}),
+      ...(GROUP_NOTES[disp] ? { groupNote: GROUP_NOTES[disp] } : {}),
       country: meta.country || "",
       founded: meta.founded ?? null,
       website: meta.website || null,
