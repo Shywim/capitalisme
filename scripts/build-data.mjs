@@ -49,6 +49,37 @@ const DISPLAY_NAMES = {
   "Savencia Fromage & Dairy (anciennement Bongrain / Soparind Bongrain)": "Savencia",
   "Groupe Bigard": "Bigard",
   "Groupe Bolloré (Bolloré SE)": "Bolloré",
+  // Lot 2 (tech, mode/luxe, distribution, santé/tabac/énergie, boissons)
+  "Alphabet Inc.": "Alphabet (Google)",
+  "Meta Platforms, Inc.": "Meta",
+  "Amazon.com, Inc.": "Amazon",
+  "Apple Inc.": "Apple",
+  "Microsoft Corporation": "Microsoft",
+  "ByteDance Ltd.": "ByteDance (TikTok)",
+  "Industria de Diseño Textil, S.A. (Inditex)": "Inditex (Zara)",
+  "H & M Hennes & Mauritz AB": "H&M",
+  "NIKE, Inc.": "Nike",
+  "Adidas AG": "Adidas",
+  "LVMH Moët Hennessy Louis Vuitton SE": "LVMH",
+  "Kering SA": "Kering",
+  "Restaurant Brands International Inc. (RBI)": "Restaurant Brands (Burger King)",
+  "McDonald's Corporation": "McDonald's",
+  "Carrefour SA": "Carrefour",
+  "Yum! Brands, Inc.": "Yum! Brands (KFC, Pizza Hut)",
+  "ITM Entreprises (Groupement Les Mousquetaires)": "Les Mousquetaires (Intermarché)",
+  "Diageo plc": "Diageo",
+  "JDE Peet's N.V.": "JDE Peet's",
+  "Red Bull GmbH": "Red Bull",
+  "Carlsberg A/S": "Carlsberg",
+  "Sanofi S.A. (santé grand public regroupée sous Opella Healthcare)": "Sanofi (Opella)",
+  "Sanofi S.A.": "Sanofi (Opella)",
+  "Haleon plc": "Haleon",
+  "Philip Morris International Inc. (PMI)": "Philip Morris (Marlboro)",
+  "Philip Morris International Inc.": "Philip Morris (Marlboro)",
+  "British American Tobacco p.l.c. (BAT)": "British American Tobacco",
+  "British American Tobacco p.l.c.": "British American Tobacco",
+  "TotalEnergies SE": "TotalEnergies",
+  "Shell plc": "Shell",
 };
 
 // Corrections factuelles post-recherche (clé = nom d'affichage du groupe).
@@ -60,11 +91,19 @@ const BRAND_REMOVALS = {
   "Kellanova": ["Extra"],
   // Marques détenues via Kellanova : on les rattache à Kellanova pour éviter les doublons.
   "Mars": ["Pringles", "Pop-Tarts", "Cheez-It"],
+  // Entités explicitement NON détenues par Yum! Brands (société séparée Yum China) ou non-marques.
+  "Yum! Brands (KFC, Pizza Hut)": ["Yum China", "Little Sheep", "East Dawning", "KFC Yum! Center"],
+  // Mascotte / concept fermé / gamme non confirmée.
+  "McDonald's": ["Ronald McDonald", "CosMc's", "McNified"],
+  // Marques NON détenues par BAT en Europe (Camel = JTI hors USA ; Newport = USA via Reynolds).
+  "British American Tobacco": ["Camel", "Newport"],
 };
 
 // Note de rattachement (filiale d'un autre groupe), affichée en évidence.
 const GROUP_NOTES = {
   "Kellanova": "Filiale du groupe Mars : l'acquisition de Kellanova par Mars a été finalisée en décembre 2025.",
+  "Sanofi (Opella)": "La santé grand public de Sanofi (Doliprane…) est regroupée sous Opella, dont Sanofi a cédé le contrôle majoritaire au fonds CD&R (2024-2025).",
+  "JDE Peet's": "Depuis 2026, JDE Peet's est passé sous le contrôle de l'américain Keurig Dr Pepper.",
 };
 
 /** Nettoyage générique si pas d'entrée explicite dans DISPLAY_NAMES. */
