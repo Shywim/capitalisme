@@ -2209,6 +2209,28 @@ window.CAPITALISME_DATA = {
       ]
     },
     {
+      "id": "belle-brands-windsong-global",
+      "name": "Belle Brands (Windsong Global)",
+      "country": "États-Unis",
+      "founded": null,
+      "website": null,
+      "revenue": null,
+      "description": "Plateforme de marques de beauté du groupe américain Windsong Global, qui a racheté KVD Beauty (ex-Kat Von D Beauty) à Kendo/LVMH en septembre 2025.",
+      "brands": [
+        {
+          "name": "KVD Beauty",
+          "aliases": [
+            "Kat Von D",
+            "Kat Von D Beauty",
+            "KVD Vegan Beauty"
+          ],
+          "category": "Cosmétiques",
+          "note": "Maquillage vegan lancé à l'origine avec la tatoueuse Kat Von D ; cédé par Kendo/LVMH à Windsong Global (Belle Brands) en septembre 2025."
+        }
+      ],
+      "scandals": []
+    },
+    {
       "id": "bigard",
       "name": "Bigard",
       "legalName": "Groupe Bigard",
@@ -6686,6 +6708,16 @@ window.CAPITALISME_DATA = {
           ],
           "category": "Alimentation",
           "note": "Préparation pour pancakes et pâtisseries."
+        },
+        {
+          "name": "Edgard & Cooper",
+          "aliases": [
+            "Edgard et Cooper",
+            "Edgar & Cooper",
+            "Edgard&Cooper"
+          ],
+          "category": "Alimentation animale",
+          "note": "Alimentation naturelle pour chiens et chats (Belgique) ; rachetée par General Mills en avril 2024."
         }
       ],
       "scandals": [
@@ -9726,6 +9758,98 @@ window.CAPITALISME_DATA = {
       ]
     },
     {
+      "id": "l-occitane",
+      "name": "L'Occitane",
+      "legalName": "L'Occitane Group",
+      "country": "Luxembourg",
+      "founded": 2000,
+      "website": "https://group.loccitane.com",
+      "revenue": "2,8 milliards d'euros (exercice 2024-2025, clos le 31 mars 2025)",
+      "description": "Groupe international de cosmétiques et de produits de soin et bien-être, constitué en 2000 au Luxembourg comme holding (L'Occitane International S.A.) de la marque L'Occitane en Provence fondée en 1976 par Olivier Baussan. Le groupe est contrôlé par l'homme d'affaires austro-français Reinold Geiger, président, qui en a racheté l'intégralité du capital lors d'une OPA (avec le soutien du fonds Blackstone) valorisant le groupe à environ 6 milliards d'euros, conduisant au retrait de la cote de la Bourse de Hong Kong, finalisé en 2024 après quatorze ans de cotation. Le portefeuille comprend huit marques : L'Occitane en Provence, Melvita, Erborian, L'Occitane au Brésil, LimeLife, Elemis, Sol de Janeiro et Dr. Vranjes Firenze. Le groupe conserve des bureaux régionaux notamment à Genève, Paris, Hong Kong, Tokyo, New York et São Paulo.",
+      "brands": [
+        {
+          "name": "Erborian",
+          "category": "Cosmétiques",
+          "note": "Marque de soins franco-coréenne acquise en 2012, connue pour avoir popularisé la BB Cream en Europe."
+        },
+        {
+          "name": "L'Occitane en Provence",
+          "aliases": [
+            "L'OCCITANE en Provence"
+          ],
+          "category": "Cosmétiques",
+          "note": "Marque historique et phare du groupe (fondée en 1976), représentant la plus grande part des ventes (de l'ordre de 48 % au FY2025)."
+        },
+        {
+          "name": "Melvita",
+          "category": "Cosmétiques",
+          "note": "Marque de cosmétiques bio et de produits à base de plantes, intégrée au groupe."
+        },
+        {
+          "name": "Elemis",
+          "aliases": [
+            "ELEMIS"
+          ],
+          "category": "Cosmétiques",
+          "note": "Marque britannique de soins premium acquise en 2019 (environ 900 M$) ; certifiée B Corporation. De l'ordre de 10 % des ventes du groupe au FY2025."
+        },
+        {
+          "name": "Sol de Janeiro",
+          "category": "Cosmétiques",
+          "note": "Marque de soins corporels et parfums d'inspiration brésilienne ; le groupe en a pris le contrôle majoritaire en 2021 (environ 450 M$). Deuxième contributeur aux ventes du groupe (de l'ordre de 31 % au FY2025)."
+        },
+        {
+          "name": "LimeLife",
+          "aliases": [
+            "LimeLife by Alcone"
+          ],
+          "category": "Cosmétiques",
+          "note": "Marque de vente directe (social selling) de maquillage et de soins."
+        },
+        {
+          "name": "L'Occitane au Brésil",
+          "aliases": [
+            "L'OCCITANE au Brésil"
+          ],
+          "category": "Cosmétiques",
+          "note": "Marque dédiée au marché brésilien et à des ingrédients d'Amérique latine."
+        },
+        {
+          "name": "Dr. Vranjes Firenze",
+          "category": "Cosmétiques",
+          "note": "Marque italienne de parfums d'intérieur de luxe intégrée au portefeuille du groupe."
+        }
+      ],
+      "scandals": [
+        {
+          "title": "Accusations de greenwashing sur les recharges plastique (Changing Markets Foundation)",
+          "year": 2022,
+          "severity": "modéré",
+          "tags": [
+            "greenwashing",
+            "environnement",
+            "plastique",
+            "marketing"
+          ],
+          "summary": "En juin 2022, la fondation Changing Markets a placé L'Occitane dans un \"hall of shame\" sur son site greenwash.com, aux côtés d'autres grandes marques. Sa gamme de recharges \"Eco-recharge\" a été qualifiée de \"solution paresseuse qui n'évite pas le plastique superflu et ne devrait pas être considérée comme une recharge\", la marque remplaçant ses flacons par des sachets souples difficilement recyclables. La fondation a toutefois salué l'essai de stations de recharge en magasin (alors limité à quelques magasins au Royaume-Uni). Il s'agit d'une accusation d'ONG, sans sanction officielle connue à ce titre.",
+          "sources": [
+            {
+              "label": "Cosmetics Business - L'Oréal, P&G and L'Occitane accused of greenwashing in new findings",
+              "url": "https://cosmeticsbusiness.com/l-or-al-p-g-and-l-occitane-accused-of-greenwashing-in-new-findings--201904"
+            },
+            {
+              "label": "Greenwash.com (Changing Markets Foundation) - L'Occitane",
+              "url": "https://greenwash.com/brands/loccitane/"
+            },
+            {
+              "label": "TheIndustry.beauty - Beauty brands exposed for 'misleading and mendacious' packaging claims",
+              "url": "https://theindustry.beauty/beauty-brands-exposed-for-misleading-and-mendacious-packaging-claims/"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "l-oreal",
       "name": "L'Oréal",
       "legalName": "L'Oréal S.A.",
@@ -10990,6 +11114,37 @@ window.CAPITALISME_DATA = {
             "connaissance-des-arts"
           ],
           "category": "Magazine"
+        },
+        {
+          "name": "Fenty Beauty",
+          "aliases": [
+            "Fenty Beauty by Rihanna"
+          ],
+          "category": "Cosmétiques",
+          "note": "via Kendo Brands (LVMH). Marque de maquillage cofondée en 2017 avec Rihanna ; LVMH/Kendo en détient environ 50 %. En 2025-2026, LVMH explore activement la cession de sa participation (banque conseil Evercore). Marque la plus rentable de Kendo (plus de 600 M$ de revenus annuels)."
+        },
+        {
+          "name": "Fenty Skin",
+          "category": "Cosmétiques",
+          "note": "via Kendo Brands (LVMH). Ligne de soins de la peau de l'univers Fenty by Rihanna."
+        },
+        {
+          "name": "Fenty Hair",
+          "category": "Cosmétiques",
+          "note": "via Kendo Brands (LVMH). Ligne de soins capillaires de l'univers Fenty by Rihanna, lancée en 2024."
+        },
+        {
+          "name": "OLEHENRIKSEN",
+          "aliases": [
+            "Ole Henriksen"
+          ],
+          "category": "Cosmétiques",
+          "note": "via Kendo Brands (LVMH). Marque de soins de la peau ; reste détenue par Kendo en 2025-2026."
+        },
+        {
+          "name": "Lip Lab",
+          "category": "Cosmétiques",
+          "note": "via Kendo Brands (LVMH). Enseigne de rouges à lèvres personnalisables ; reste détenue par Kendo en 2025-2026."
         }
       ],
       "scandals": [
@@ -14278,6 +14433,27 @@ window.CAPITALISME_DATA = {
           ]
         }
       ]
+    },
+    {
+      "id": "rare-beauty",
+      "name": "Rare Beauty",
+      "country": "États-Unis",
+      "founded": 2020,
+      "website": "https://www.rarebeauty.com",
+      "revenue": "Ventes nettes estimées au-delà de 400 millions de dollars (2024-2025) ; valorisation évoquée jusqu'à environ 2 à 2,7 milliards de dollars",
+      "description": "Marque de maquillage fondée en 2020 par la chanteuse et actrice Selena Gomez. À jour 2026, Rare Beauty reste indépendante : elle n'a pas été rachetée par un grand groupe cosmétique (ni L'Oréal, ni Estée Lauder, etc.). Selena Gomez en demeure la fondatrice et l'actionnaire de contrôle (estimée autour de 51 % du capital), avec la société Rare Beauty détenue principalement par elle. En 2024, des conseillers financiers avaient été mandatés pour explorer une cession potentielle (valorisation visée d'environ 2 milliards de dollars) ; ce processus de vente a été suspendu en septembre 2024 faute d'offre satisfaisante, et Selena Gomez a publiquement indiqué ne pas vouloir vendre et vouloir continuer à développer la marque. La direction opérationnelle est assurée par le PDG Scott Friedman, Selena Gomez restant directrice créative. La marque a poursuivi son expansion (lancement chez Ulta Beauty début 2026). Statut : indépendante (contrôlée par Selena Gomez).",
+      "brands": [
+        {
+          "name": "Rare Beauty",
+          "aliases": [
+            "Rare Beauty by Selena Gomez",
+            "Rare Beauty LLC"
+          ],
+          "category": "Cosmétiques",
+          "note": "Marque de maquillage et soin ; positionnement « beauté inclusive » et santé mentale (initiative Rare Impact Fund). Reste indépendante, contrôlée par Selena Gomez."
+        }
+      ],
+      "scandals": []
     },
     {
       "id": "reckitt",
