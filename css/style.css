@@ -134,8 +134,33 @@ main { padding: 34px 0 60px; }
 
 .section-title {
   font-size: 14px; text-transform: uppercase; letter-spacing: .08em;
-  color: var(--muted); margin: 0 0 16px; font-weight: 700;
+  color: var(--muted); margin: 40px 0 8px; font-weight: 700;
 }
+.section-title:first-of-type { margin-top: 0; }
+.section-hint { margin: 0 0 16px; color: var(--muted); font-size: 14.5px; }
+
+/* ---------- Thèmes de controverse ---------- */
+.theme-cloud, .theme-filter { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 38px; }
+.theme-filter { margin-bottom: 12px; }
+.theme-chip {
+  display: inline-flex; align-items: center; gap: 8px;
+  border: 1px solid var(--line-strong); background: var(--surface);
+  border-radius: 30px; padding: 8px 14px; font-size: 15px; cursor: pointer;
+  color: var(--ink); font-family: var(--font); transition: all .12s;
+}
+.theme-chip:hover { border-color: var(--accent); background: var(--accent-soft); color: var(--accent-dark); }
+.theme-chip.is-on { border-color: var(--accent); background: var(--accent); color: #fff; }
+.theme-chip .th-emoji { font-size: 16px; line-height: 1; }
+.theme-chip .th-count {
+  font-size: 12px; font-family: var(--mono); background: var(--paper); color: var(--muted);
+  border-radius: 20px; padding: 1px 8px; min-width: 22px; text-align: center;
+}
+.theme-chip.is-on .th-count { background: rgba(255,255,255,.25); color: #fff; }
+.clear-themes {
+  border: 0; background: none; color: var(--accent-dark); cursor: pointer;
+  font-family: var(--font); font-size: 14px; padding: 2px 0; margin-bottom: 14px;
+}
+.clear-themes:hover { color: var(--accent); text-decoration: underline; }
 
 .group-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 12px; }
 .group-card {
@@ -202,6 +227,12 @@ main { padding: 34px 0 60px; }
 .scandal.sev-faible { border-left-color: var(--sev-faible); }
 .scandal.sev-modéré { border-left-color: var(--sev-modere); }
 .scandal.sev-élevé  { border-left-color: var(--sev-eleve); }
+.scandal-group {
+  display: inline-block; border: 0; background: none; cursor: pointer;
+  font-family: var(--font); font-size: 13px; font-weight: 700; letter-spacing: .02em;
+  text-transform: uppercase; color: var(--accent-dark); padding: 0; margin-bottom: 8px;
+}
+.scandal-group:hover { color: var(--accent); text-decoration: underline; }
 .scandal-top { display: flex; align-items: baseline; gap: 12px; flex-wrap: wrap; }
 .scandal h4 { margin: 0; font-size: 18px; flex: 1; min-width: 200px; }
 .scandal .year { font-family: var(--mono); color: var(--muted); font-size: 14px; }
@@ -215,6 +246,8 @@ main { padding: 34px 0 60px; }
 .scandal p { margin: 10px 0 12px; color: #3a3a40; font-size: 15.5px; }
 .tags { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 10px; }
 .tag { font-size: 12px; background: var(--paper); border: 1px solid var(--line); color: var(--muted); padding: 2px 9px; border-radius: 20px; }
+button.tag-link { cursor: pointer; font-family: var(--font); transition: all .12s; }
+button.tag-link:hover { border-color: var(--accent); background: var(--accent-soft); color: var(--accent-dark); }
 .sources { font-size: 13.5px; color: var(--muted); }
 .sources a { margin-right: 12px; white-space: nowrap; }
 

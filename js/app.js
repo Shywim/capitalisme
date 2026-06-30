@@ -74,6 +74,62 @@
   const totalBrands = DATA.reduce((n, g) => n + (g.brands ? g.brands.length : 0), 0);
   const totalScandals = DATA.reduce((n, g) => n + (g.scandals ? g.scandals.length : 0), 0);
 
+  // ---------- Thèmes de controverse ----------
+  // Regroupe les nombreux tags bruts en grandes catégories navigables.
+  const THEMES = [
+    { id: "sante", emoji: "🩺", label: "Santé & nutrition",
+      tags: ["santé", "nutrition", "laits infantiles", "composition", "efficacité des produits"] },
+    { id: "environnement", emoji: "🌍", label: "Environnement",
+      tags: ["environnement", "pollution", "déforestation", "plastique", "eau", "emballage", "huile de palme", "greenwashing"] },
+    { id: "droits", emoji: "✊", label: "Droits humains & travail",
+      tags: ["droits humains", "travail des enfants", "conditions de travail", "travail", "discrimination", "devoir de vigilance", "chaîne d'approvisionnement", "conflit armé", "restructuration"] },
+    { id: "pub", emoji: "📣", label: "Publicité & tromperie",
+      tags: ["publicité", "publicité mensongère", "marketing", "controverse marketing", "tromperie", "étiquetage", "information du consommateur", "image de marque", "réputation", "polémique"] },
+    { id: "concurrence", emoji: "⚖️", label: "Concurrence & ententes",
+      tags: ["concurrence", "entente", "entente sur les prix", "concentration", "prix du lait", "egalim", "franchise", "relations fournisseurs", "régulation"] },
+    { id: "securite", emoji: "🍽️", label: "Sécurité des produits",
+      tags: ["sécurité alimentaire", "sécurité des produits", "sécurité produit", "rappel produit", "sécurité des produits"] },
+    { id: "fisca", emoji: "💰", label: "Fiscalité & corruption",
+      tags: ["fiscalité", "corruption", "lobbying", "conflit d'intérêts", "comptabilité", "gouvernance", "douane"] },
+    { id: "medias", emoji: "📰", label: "Médias & désinformation",
+      tags: ["médias", "désinformation", "pluralisme", "liberté de la presse"] },
+    { id: "donnees", emoji: "🔒", label: "Données personnelles",
+      tags: ["données personnelles"] },
+    { id: "geo", emoji: "🌐", label: "Géopolitique",
+      tags: ["russie", "afrique", "conflit armé"] },
+  ];
+
+  const themeById = {};
+  const tagToThemes = {}; // tag normalisé -> [id de thème]
+  THEMES.forEach((t) => {
+    themeById[t.id] = t;
+    t.tags.forEach((tag) => {
+      const k = norm(tag);
+      (tagToThemes[k] = tagToThemes[k] || []);
+      if (!tagToThemes[k].includes(t.id)) tagToThemes[k].push(t.id);
+    });
+  });
+
+  /** Ensemble des thèmes d'une controverse, déduits de ses tags. */
+  function scandalThemes(sc) {
+    const set = new Set();
+    (sc.tags || []).forEach((tag) => (tagToThemes[norm(tag)] || []).forEach((id) => set.add(id)));
+    return set;
+  }
+
+  // Liste à plat de toutes les controverses, avec leur groupe et leurs thèmes.
+  const allScandals = [];
+  DATA.forEach((g) => (g.scandals || []).forEach((sc) =>
+    allScandals.push({ sc, group: g, themes: scandalThemes(sc) })));
+
+  const themeCounts = {};
+  allScandals.forEach((it) => it.themes.forEach((id) => { themeCounts[id] = (themeCounts[id] || 0) + 1; }));
+
+  /** Thèmes non vides, triés par nombre de controverses décroissant. */
+  function activeThemeList() {
+    return THEMES.filter((t) => themeCounts[t.id]).sort((a, b) => themeCounts[b.id] - themeCounts[a.id]);
+  }
+
   // ---------- Recherche ----------
   /** Retourne une liste classée de résultats {entry, score}. score bas = meilleur. */
   function search(query, limit) {
@@ -127,15 +183,26 @@
 
   function severityClass(s) { return "sev-" + (s || "modéré"); }
 
-  function renderScandal(sc) {
+  function renderScandal(sc, opts) {
     const sev = sc.severity || "modéré";
     const when = sc.year != null ? sc.year : (sc.period || "");
-    const tags = (sc.tags || []).map((t) => `<span class="tag">${escapeHtml(t)}</span>`).join("");
+    // Tags : cliquables s'ils correspondent à un thème, simples sinon.
+    const tags = (sc.tags || []).map((t) => {
+      const th = tagToThemes[norm(t)];
+      return th && th.length
+        ? `<button class="tag tag-link" data-theme="${th[0]}">${escapeHtml(t)}</button>`
+        : `<span class="tag">${escapeHtml(t)}</span>`;
+    }).join("");
     const sources = (sc.sources || [])
       .map((s) => `<a href="${escapeHtml(s.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(s.label || "source")} ↗</a>`)
       .join("");
+    // En-tête de groupe (utilisé dans la vue thématique).
+    const groupHead = opts && opts.group
+      ? `<button class="scandal-group" data-group="${escapeHtml(opts.group.id)}">${escapeHtml(opts.group.name)} →</button>`
+      : "";
     return `
       <article class="scandal ${severityClass(sev)}">
+        ${groupHead}
         <div class="scandal-top">
           <h4>${escapeHtml(sc.title)}</h4>
           ${when !== "" ? `<span class="year">${escapeHtml(String(when))}</span>` : ""}
@@ -168,7 +235,7 @@
       ? `<div class="scandals">${g.scandals
           .slice()
           .sort((a, b) => sevRank(b.severity) - sevRank(a.severity))
-          .map(renderScandal).join("")}</div>`
+          .map((sc) => renderScandal(sc)).join("")}</div>`
       : `<p class="no-scandal">Aucune controverse majeure recensée dans cette base pour ce groupe. Cela ne signifie pas qu'il n'en existe pas — la base est partielle.</p>`;
 
     let ownershipHtml = "";
@@ -241,6 +308,55 @@
     resultsEl.innerHTML = "";
     homeEl.hidden = false;
     hideSuggestions();
+  }
+
+  // ---------- Vue par thème de controverse ----------
+  let activeThemes = new Set();
+
+  function themeChip(t, selected, attr) {
+    return `<button class="theme-chip${selected ? " is-on" : ""}" ${attr}="${t.id}" aria-pressed="${selected ? "true" : "false"}">
+      <span class="th-emoji" aria-hidden="true">${t.emoji}</span>${escapeHtml(t.label)}<span class="th-count">${themeCounts[t.id]}</span>
+    </button>`;
+  }
+
+  function showThemeView(themeIds, scroll) {
+    activeThemes = new Set((themeIds || []).filter((id) => themeById[id]));
+    homeEl.hidden = true;
+    resultsEl.hidden = false;
+    hideSuggestions();
+    input.value = "";
+    clearBtn.hidden = true;
+
+    const sel = activeThemes;
+    const items = allScandals
+      .filter((it) => !sel.size || [...sel].some((id) => it.themes.has(id)))
+      .sort((a, b) => sevRank(b.sc.severity) - sevRank(a.sc.severity) || ((b.sc.year || 0) - (a.sc.year || 0)));
+
+    const chips = activeThemeList().map((t) => themeChip(t, sel.has(t.id), "data-themetoggle")).join("");
+    const title = sel.size ? [...sel].map((id) => themeById[id].label).join(" + ") : "Toutes les controverses";
+    const cardsHtml = items.length
+      ? items.map((it) => renderScandal(it.sc, { group: it.group })).join("")
+      : "<p class='no-scandal'>Aucune controverse pour ce filtre.</p>";
+
+    resultsEl.innerHTML = `
+      <button class="back-link" data-back="1">← Retour à l'accueil</button>
+      <div class="block">
+        <h3>Filtrer par type de controverse</h3>
+        <div class="theme-filter">${chips}</div>
+        ${sel.size ? `<button class="clear-themes" data-clearthemes="1">↺ Tout afficher</button>` : ""}
+      </div>
+      <div class="block">
+        <h3>${escapeHtml(title)} <span class="count">${items.length}</span></h3>
+        <div class="scandals">${cardsHtml}</div>
+      </div>`;
+    if (scroll !== false) window.scrollTo({ top: 0, behavior: "smooth" });
+  }
+
+  function toggleTheme(id) {
+    if (!themeById[id]) return;
+    if (activeThemes.has(id)) activeThemes.delete(id);
+    else activeThemes.add(id);
+    showThemeView([...activeThemes], false);
   }
 
   // ---------- Soumission ----------
@@ -330,6 +446,12 @@
       `<span class="muted" style="align-self:center;margin-right:4px;font-size:14px">Essayez :</span>` +
       examples.map((n) => `<button class="chip" data-pick="${escapeHtml(n)}">${escapeHtml(n)}</button>`).join("");
 
+    // Explorer par type de controverse.
+    const themeCloud = document.getElementById("theme-cloud");
+    if (themeCloud) {
+      themeCloud.innerHTML = activeThemeList().map((t) => themeChip(t, false, "data-theme")).join("");
+    }
+
     const grid = document.getElementById("group-grid");
     grid.innerHTML = DATA
       .slice()
@@ -386,6 +508,12 @@
 
   // Délégation de clics dans les résultats et l'accueil.
   document.body.addEventListener("click", (e) => {
+    const themeToggle = e.target.closest("[data-themetoggle]");
+    if (themeToggle) { toggleTheme(themeToggle.dataset.themetoggle); return; }
+    const clearThemes = e.target.closest("[data-clearthemes]");
+    if (clearThemes) { showThemeView([], false); return; }
+    const themeOpen = e.target.closest("[data-theme]");
+    if (themeOpen) { showThemeView([themeOpen.dataset.theme]); return; }
     const pick = e.target.closest("[data-pick]");
     if (pick) { input.value = pick.dataset.pick; clearBtn.hidden = false; runSearch(pick.dataset.pick); return; }
     const brandBtn = e.target.closest("[data-brand]");
@@ -399,7 +527,13 @@
 
   // ---------- Routage simple par hash (#marque) ----------
   function fromHash() {
-    const h = decodeURIComponent((location.hash || "").replace(/^#/, "")).trim();
+    const raw = (location.hash || "").replace(/^#/, "");
+    if (!raw) return;
+    if (raw.indexOf("theme=") === 0) {
+      const ids = decodeURIComponent(raw.slice(6)).split(",").map((s) => s.trim()).filter((id) => themeById[id]);
+      if (ids.length) { showThemeView(ids); return; }
+    }
+    const h = decodeURIComponent(raw).trim();
     if (h) { input.value = h; clearBtn.hidden = false; runSearch(h); }
   }
 
