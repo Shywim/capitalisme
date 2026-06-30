@@ -80,6 +80,16 @@ const DISPLAY_NAMES = {
   "British American Tobacco p.l.c.": "British American Tobacco",
   "TotalEnergies SE": "TotalEnergies",
   "Shell plc": "Shell",
+  // Lot 3 — médias français
+  "Groupe Le Monde": "Groupe Le Monde",
+  "Groupe Figaro (Dassault Médias)": "Groupe Figaro (Dassault)",
+  "Éditions Philippe Amaury (EPA)": "Groupe Amaury (L'Équipe)",
+  "CMA CGM (pôle médias)": "CMA CGM (Saadé)",
+  "Groupe EBRA": "EBRA (Crédit Mutuel)",
+  "Groupe SIPA – Ouest-France": "Ouest-France (SIPA)",
+  "Groupe La Dépêche du Midi": "Groupe La Dépêche (Baylet)",
+  "CMI France (Czech Media Invest / Daniel Křetínský)": "CMI France (Křetínský)",
+  "Bayard (Bayard Presse)": "Bayard",
 };
 
 // Corrections factuelles post-recherche (clé = nom d'affichage du groupe).
