@@ -17476,6 +17476,627 @@
           ]
         }
       ]
+    },
+    {
+      "group": {
+        "name": "Ecotone",
+        "country": "France",
+        "founded": 2020,
+        "website": "https://www.ecotone.bio",
+        "revenue": "708 millions d'euros (2025)",
+        "description": "Ecotone est le leader européen de l'alimentation biologique, végétale et issue du commerce équitable, dont le siège est à Saint-Genis-Laval, près de Lyon. Issu du groupe néerlandais Wessanen (fondé en 1765), il a été renommé Ecotone en 2020 après son rachat en 2019 et sa sortie de la Bourse d'Amsterdam par le fonds de private equity français PAI Partners (environ 62 %) et l'investisseur Charles Jobson (environ 38 %)."
+      },
+      "brands": [
+        {
+          "name": "Bjorg",
+          "aliases": [
+            "bjorg"
+          ],
+          "category": "Alimentation bio",
+          "note": "Marque pionnière et leader du bio en grande distribution en France (boissons végétales, céréales, biscuits, alternatives végétales)."
+        },
+        {
+          "name": "Bonneterre",
+          "aliases": [
+            "bonneterre"
+          ],
+          "category": "Épicerie bio",
+          "note": "Marque historique des magasins bio spécialisés en France."
+        },
+        {
+          "name": "Alter Eco",
+          "aliases": [
+            "alter eco",
+            "altereco"
+          ],
+          "category": "Commerce équitable",
+          "note": "Chocolat, café et sucre bio et équitables."
+        },
+        {
+          "name": "Clipper",
+          "aliases": [
+            "clipper",
+            "clipper teas"
+          ],
+          "category": "Boissons bio",
+          "note": "Marque britannique de thés et infusions bio et équitables."
+        },
+        {
+          "name": "Danival",
+          "aliases": [
+            "danival"
+          ],
+          "category": "Épicerie bio",
+          "note": "Plats cuisinés et conserves bio, l'une des premières entreprises françaises certifiées Bio par Ecocert."
+        },
+        {
+          "name": "Allos",
+          "aliases": [
+            "allos"
+          ],
+          "category": "Alimentation bio",
+          "note": "Marque allemande de purées de fruits, barres et céréales bio."
+        },
+        {
+          "name": "Evernat",
+          "aliases": [
+            "evernat"
+          ],
+          "category": "Épicerie bio",
+          "note": "Marque destinée aux magasins spécialisés."
+        },
+        {
+          "name": "Kallø",
+          "aliases": [
+            "kallo",
+            "kallø"
+          ],
+          "category": "Épicerie bio",
+          "note": "Galettes de riz et en-cas sans gluten (Royaume-Uni)."
+        },
+        {
+          "name": "Tartex",
+          "aliases": [
+            "tartex"
+          ],
+          "category": "Épicerie bio",
+          "note": "Tartinables végétariens."
+        },
+        {
+          "name": "El Granero",
+          "aliases": [
+            "el granero",
+            "el granero integral"
+          ],
+          "category": "Épicerie bio",
+          "note": "Marque bio espagnole."
+        },
+        {
+          "name": "Isola Bio",
+          "aliases": [
+            "isola bio"
+          ],
+          "category": "Boissons bio",
+          "note": "Boissons végétales bio (Italie)."
+        },
+        {
+          "name": "Zonnatura",
+          "aliases": [
+            "zonnatura"
+          ],
+          "category": "Alimentation bio",
+          "note": "Marque bio historique aux Pays-Bas."
+        },
+        {
+          "name": "Destination",
+          "aliases": [
+            "destination"
+          ],
+          "category": "Commerce équitable",
+          "note": "Café, sucre et produits d'épicerie bio et équitables."
+        },
+        {
+          "name": "Lima",
+          "aliases": [
+            "lima"
+          ],
+          "category": "Alimentation bio",
+          "note": "Marque bio macrobiotique (Belgique), galettes, boissons végétales et épicerie."
+        },
+        {
+          "name": "Céréal Bio",
+          "aliases": [
+            "cereal bio",
+            "céréal bio"
+          ],
+          "category": "Alimentation bio",
+          "note": "Galettes, plats et biscuits bio."
+        },
+        {
+          "name": "Mrs Crimble's",
+          "aliases": [
+            "mrs crimbles",
+            "mrs crimble's"
+          ],
+          "category": "Épicerie bio",
+          "note": "Pâtisseries et biscuits sans gluten (Royaume-Uni)."
+        }
+      ],
+      "scandals": [
+        {
+          "title": "Retrait du Nutri-Score par Bjorg à la veille du durcissement des critères",
+          "year": 2023,
+          "period": "fin 2023 - 2024",
+          "severity": "modéré",
+          "tags": [
+            "étiquetage",
+            "transparence",
+            "nutrition",
+            "controverse marketing"
+          ],
+          "summary": "Fin 2023, la marque Bjorg (groupe Ecotone) a discrètement retiré le Nutri-Score de ses produits, à quelques semaines de l'entrée en vigueur, le 1er janvier 2024, d'un durcissement des critères de ce logo. Selon l'UFC-Que Choisir, la moitié des biscuits Bjorg seraient passés en note E et un tiers de ses boissons végétales auraient chuté de A/B à D/E avec les nouveaux critères. Ecotone a justifié ce choix par sa préférence pour le Planet-Score (impact environnemental) et par la lisibilité, tandis que des associations comme Foodwatch et le créateur du Nutri-Score, Serge Hercberg, ont dénoncé une décision opportuniste, voire malhonnête.",
+          "sources": [
+            {
+              "label": "Novethic - Bjorg retire le Nutri-Score de ses produits",
+              "url": "https://www.novethic.fr/actualite/social/consommation/isr-rse/bjorg-retire-le-nutri-score-de-ses-produits-151888.html"
+            },
+            {
+              "label": "UFC-Que Choisir - Nutri-Score, Bjorg l'efface discrètement",
+              "url": "https://www.quechoisir.org/actualite-nutri-score-bjorg-l-efface-discretement-n113002/"
+            },
+            {
+              "label": "Foodwatch - Nutri-Score : l'agroalimentaire ne doit pas faire marche arrière",
+              "url": "https://www.foodwatch.org/fr/sinformer/nos-campagnes/transparence-et-scandales/logo-nutri-score/petition-nutri-score-l-agroalimentaire-ne-doit-pas-faire-marche-arriere"
+            }
+          ]
+        },
+        {
+          "title": "Financiarisation du bio : rachat par un fonds de private equity et cessions de marques",
+          "year": 2019,
+          "period": "2019-2024",
+          "severity": "modéré",
+          "tags": [
+            "private equity",
+            "financiarisation",
+            "LBO",
+            "restructuration"
+          ],
+          "summary": "En 2019, le groupe coté Wessanen a été racheté pour environ 885 millions d'euros et retiré de la Bourse d'Amsterdam par un consortium associant le fonds PAI Partners et l'investisseur Charles Jobson, opération financée par une combinaison de fonds propres et de dette. Cette prise de contrôle d'un leader du bio par un fonds de capital-investissement a alimenté le débat sur la financiarisation du secteur. Recentré sur ses marques phares, le groupe (devenu Ecotone en 2020) a ensuite cédé des activités, dont la vente de la marque britannique Whole Earth au groupe KP Snacks (Intersnack) fin 2024.",
+          "sources": [
+            {
+              "label": "Tribune de Lyon - Wessanen devient Ecotone et mise sur la région lyonnaise",
+              "url": "https://tribunedelyon.fr/economie/le-geant-du-bio-wessanen-devient-ecotone-et-mise-tout-sur-la-region-lyonnaise/"
+            },
+            {
+              "label": "PAI Partners - Acquisition de Wessanen (Ecotone)",
+              "url": "https://www.paipartners.com/investment/wessanen/"
+            },
+            {
+              "label": "Food Manufacture - KP Snacks acquiring Whole Earth from Ecotone",
+              "url": "https://www.foodmanufacture.co.uk/Article/2024/11/07/KP-Snacks-acquiring-Whole-Earth-from-Ecotone/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group": {
+        "name": "Association Familiale Mulliez (AFM)",
+        "country": "France",
+        "founded": "1955",
+        "website": "https://www.lafamillemulliez.fr",
+        "revenue": "Plus de 90 milliards d'euros de chiffre d'affaires cumulé (estimations 2024-2025)",
+        "description": "L'Association Familiale Mulliez (AFM) est la structure faîtière qui regroupe les participations de la famille Mulliez, l'un des plus grands empires de distribution familiaux de France. Fondée en 1955 autour du principe « Tous dans tout » (chaque membre détient une part de l'ensemble des entreprises), elle fédère plusieurs centaines de descendants de Louis Mulliez (environ 800 à près de 1 000 actionnaires familiaux selon les sources) et est présidée depuis 2014 par Barthélémy Guislain. L'AFM n'est pas une holding cotée mais un pacte d'actionnaires familial qui regroupe des participations dans de grands groupes de distribution : Auchan (grande distribution), Decathlon (sport), Adeo / Leroy Merlin (bricolage), Kiabi et FashionCube/HappyChic (habillement), United.b/Boulanger (électronique), Mobivia/Norauto (automobile) ou encore Agapes Restauration (restauration). Le patrimoine est en partie logé via des sociétés en Belgique, aux Pays-Bas et au Luxembourg, ce qui lui a valu des critiques récurrentes sur l'optimisation fiscale. L'AFM dispose d'un bras d'investissement, le fonds Creadev, qui prend des participations dans des entreprises innovantes et de croissance, et qui est devenu en 2025 actionnaire majoritaire de la société Nxtfood, propriétaire de la marque d'alternatives végétales Accro."
+      },
+      "brands": [
+        {
+          "name": "Auchan",
+          "aliases": [
+            "Auchan Retail",
+            "Atac",
+            "Auchan Hypermarché"
+          ],
+          "category": "Grande distribution",
+          "note": "Coeur historique de l'empire ; l'AFM en détient une large majorité (environ 80 %)."
+        },
+        {
+          "name": "Decathlon",
+          "aliases": [],
+          "category": "Sport",
+          "note": "Distributeur d'articles de sport, participation majeure de l'AFM (autour de 45 %)."
+        },
+        {
+          "name": "Leroy Merlin",
+          "aliases": [
+            "Adeo"
+          ],
+          "category": "Bricolage",
+          "note": "Principale enseigne du groupe Adeo, pôle bricolage de la galaxie Mulliez."
+        },
+        {
+          "name": "Bricoman",
+          "aliases": [],
+          "category": "Bricolage",
+          "note": "Enseigne du groupe Adeo (matériaux et outillage pour professionnels)."
+        },
+        {
+          "name": "Weldom",
+          "aliases": [],
+          "category": "Bricolage",
+          "note": "Enseigne de bricolage de proximité du groupe Adeo."
+        },
+        {
+          "name": "Boulanger",
+          "aliases": [
+            "United.b"
+          ],
+          "category": "Électronique",
+          "note": "Enseigne d'électrodomestique et multimédia, regroupée dans le pôle United.b."
+        },
+        {
+          "name": "Electro Dépôt",
+          "aliases": [
+            "Electro Depot",
+            "United.b"
+          ],
+          "category": "Électronique",
+          "note": "Enseigne discount d'électroménager et multimédia, pôle United.b (avec Boulanger)."
+        },
+        {
+          "name": "Norauto",
+          "aliases": [
+            "Mobivia"
+          ],
+          "category": "Automobile",
+          "note": "Enseigne d'entretien automobile du groupe Mobivia (ex-Norauto)."
+        },
+        {
+          "name": "Midas",
+          "aliases": [
+            "Mobivia"
+          ],
+          "category": "Automobile",
+          "note": "Réseau de centres d'entretien automobile du groupe Mobivia."
+        },
+        {
+          "name": "Kiabi",
+          "aliases": [],
+          "category": "Habillement",
+          "note": "Enseigne de mode à petits prix, participation de l'AFM (environ un tiers du capital)."
+        },
+        {
+          "name": "Jules",
+          "aliases": [
+            "HappyChic",
+            "FashionCube"
+          ],
+          "category": "Habillement",
+          "note": "Enseigne de mode masculine du pôle HappyChic / FashionCube ; l'enseigne Brice y a été fusionnée."
+        },
+        {
+          "name": "Bizzbee",
+          "aliases": [
+            "HappyChic",
+            "FashionCube"
+          ],
+          "category": "Habillement",
+          "note": "Marque de mode jeune du pôle HappyChic / FashionCube."
+        },
+        {
+          "name": "Cultura",
+          "aliases": [],
+          "category": "Distribution culturelle",
+          "note": "Enseigne de produits culturels et de loisirs créatifs associée à l'AFM."
+        },
+        {
+          "name": "Saint Maclou",
+          "aliases": [],
+          "category": "Équipement de la maison",
+          "note": "Enseigne de revêtements de sol et décoration associée à l'AFM."
+        },
+        {
+          "name": "Tape à l'œil",
+          "aliases": [
+            "TAO"
+          ],
+          "category": "Habillement",
+          "note": "Enseigne de mode enfantine associée à l'AFM."
+        },
+        {
+          "name": "Flunch",
+          "aliases": [
+            "Agapes Restauration"
+          ],
+          "category": "Restauration",
+          "note": "Chaîne de restauration en libre-service du pôle Agapes Restauration."
+        },
+        {
+          "name": "Pizza Paï",
+          "aliases": [
+            "Agapes Restauration"
+          ],
+          "category": "Restauration",
+          "note": "Enseigne de restauration italienne du pôle Agapes Restauration."
+        },
+        {
+          "name": "Les 3 Brasseurs",
+          "aliases": [
+            "Agapes Restauration"
+          ],
+          "category": "Restauration",
+          "note": "Chaîne de brasseries-microbrasseries du pôle Agapes Restauration."
+        },
+        {
+          "name": "Grossbill",
+          "aliases": [],
+          "category": "Électronique",
+          "note": "Distributeur en ligne de matériel informatique et électronique rattaché à la galaxie Mulliez."
+        },
+        {
+          "name": "Top Office",
+          "aliases": [],
+          "category": "Distribution spécialisée",
+          "note": "Enseigne de fournitures et matériel de bureau associée à l'AFM."
+        },
+        {
+          "name": "Accro",
+          "aliases": [
+            "Nxtfood"
+          ],
+          "category": "Alimentation végétale",
+          "note": "Marque d'alternatives végétales à la viande, éditée par la société Nxtfood ; détenue via le fonds Creadev (Mulliez) qui en est devenu actionnaire majoritaire en 2025, lors d'une levée de fonds de 49 M€."
+        }
+      ],
+      "scandals": [
+        {
+          "title": "Auchan mis en cause après l'effondrement du Rana Plaza au Bangladesh",
+          "year": 2013,
+          "period": "2013-2023",
+          "severity": "modéré",
+          "tags": [
+            "droits humains",
+            "sous-traitance",
+            "Bangladesh",
+            "Auchan",
+            "sécurité au travail"
+          ],
+          "summary": "En avril 2013, l'effondrement de l'immeuble Rana Plaza au Bangladesh fait plus de 1 100 morts. Des étiquettes de la marque In Extenso, vendue par Auchan, sont retrouvées dans les décombres. En 2014, les associations Sherpa, Peuples Solidaires et le Collectif Éthique sur l'étiquette portent plainte contre Auchan pour pratiques commerciales trompeuses. Auchan a nié avoir passé commande dans cette usine, évoquant une sous-traitance non déclarée. La plainte a été classée sans suite en 2015, et la Cour de cassation a définitivement écarté les poursuites une dizaine d'années après le drame.",
+          "sources": [
+            {
+              "label": "Business & Human Rights Resource Centre - Résumé du procès Auchan (Bangladesh)",
+              "url": "https://www.business-humanrights.org/fr/derni%C3%A8res-actualit%C3%A9s/r%C3%A9sum%C3%A9-du-proc%C3%A8s-auchan-usine-textile-au-bangladesh/"
+            },
+            {
+              "label": "France Bleu - Auchan visé par une plainte un an après le Rana Plaza",
+              "url": "https://www.francebleu.fr/infos/faits-divers-justice/auchan-vise-par-une-plainte-un-apres-la-catastrophe-du-rana-plaza-au-bangladesh-1398335455"
+            }
+          ]
+        },
+        {
+          "title": "Decathlon accusé de liens avec le travail forcé ouïghour au Xinjiang",
+          "year": 2025,
+          "period": "2025",
+          "severity": "modéré",
+          "tags": [
+            "droits humains",
+            "travail forcé",
+            "Ouïghours",
+            "Xinjiang",
+            "Decathlon",
+            "chaîne d'approvisionnement"
+          ],
+          "summary": "En février 2025, une enquête du média Disclose, menée avec l'émission Cash Investigation (France 2), met en cause Decathlon pour des liens dans sa chaîne d'approvisionnement chinoise avec le système de travail forcé visant la minorité ouïghoure au Xinjiang, notamment via son fournisseur Qingdao Jifa Group et l'usage potentiel de coton du Xinjiang. Decathlon a contesté ces accusations, affirmant que son coton provient de sources qualifiées de responsables et garantissant selon lui l'absence de travail forcé. Le Congrès mondial ouïghour a publiquement condamné l'enseigne.",
+          "sources": [
+            {
+              "label": "Disclose - Decathlon profits from Uyghur forced labour in China",
+              "url": "https://disclose.ngo/en/article/decathlon-profits-from-uyghur-forced-labour-in-china"
+            },
+            {
+              "label": "France 24 - Decathlon on back foot over China forced labour accusations",
+              "url": "https://www.france24.com/en/live-news/20250206-decathlon-on-back-foot-over-china-forced-labour-accusations"
+            }
+          ]
+        },
+        {
+          "title": "Adeo (Leroy Merlin) maintient son activité en Russie après l'invasion de l'Ukraine",
+          "year": 2022,
+          "period": "2022",
+          "severity": "modéré",
+          "tags": [
+            "Russie",
+            "Ukraine",
+            "Leroy Merlin",
+            "Adeo",
+            "controverse",
+            "réputation"
+          ],
+          "summary": "En mars 2022, après l'invasion de l'Ukraine, le président Volodymyr Zelensky cite devant le Parlement français plusieurs entreprises maintenues en Russie, dont Leroy Merlin (via sa holding Adeo) et Auchan. Adeo justifie son maintien par sa responsabilité d'employeur vis-à-vis de ses dizaines de milliers de salariés russes et affirme appliquer l'intégralité des sanctions européennes, tout en suspendant ses nouveaux investissements. Cette position a suscité de vives critiques en France.",
+          "sources": [
+            {
+              "label": "La Libre - Adeo (Leroy Merlin) maintient son activité en Russie",
+              "url": "https://www.lalibre.be/economie/entreprises-startup/2022/03/23/malgre-la-declaration-de-zelensky-adeo-leroy-merlin-maintient-son-activite-en-russie-7GLGJWGPDVDQXBBTIX5NKFNRUQ/"
+            }
+          ]
+        },
+        {
+          "title": "Optimisation fiscale de la famille Mulliez via des holdings en Belgique et au Luxembourg",
+          "year": 2018,
+          "period": "années 2010-2020",
+          "severity": "modéré",
+          "tags": [
+            "optimisation fiscale",
+            "Belgique",
+            "Luxembourg",
+            "holdings",
+            "exil fiscal"
+          ],
+          "summary": "L'AFM et plusieurs membres de la famille Mulliez sont régulièrement critiqués pour des montages d'optimisation fiscale s'appuyant sur des holdings intermédiaires en Belgique, aux Pays-Bas et au Luxembourg, permettant notamment d'atténuer la taxation des plus-values de cession. Des membres de la famille se sont installés en Belgique (village de Néchin, à la frontière) pour bénéficier d'un régime fiscal favorable. Ces pratiques, présentées comme légales par la famille, ont fait l'objet d'enquêtes journalistiques et judiciaires, dont une enquête pour fraude fiscale assortie de perquisitions en France, en Belgique et au Luxembourg.",
+          "sources": [
+            {
+              "label": "PTB - Les Mulliez, exilés fiscaux, et le paradis fiscal belge",
+              "url": "https://www.ptb.be/actualites/les-mulliez-exiles-fiscaux-professionnels-ont-eu-le-coup-de-coeur-pour-le-paradis-fiscal"
+            },
+            {
+              "label": "LSA Conso - Comment l'AFM fait fructifier ses 8 milliards d'actifs immobiliers",
+              "url": "https://www.lsa-conso.fr/comment-l-association-familiale-mulliez-fait-fructifier-ses-8-milliards-d-euros-d-actifs-immobiliers,464248"
+            }
+          ]
+        },
+        {
+          "title": "Plan social Auchan : un PSE de près de 2 400 suppressions de postes invalidé par la justice",
+          "year": 2025,
+          "period": "2024-2025",
+          "severity": "modéré",
+          "tags": [
+            "plan social",
+            "PSE",
+            "emploi",
+            "Auchan",
+            "restructuration",
+            "France"
+          ],
+          "summary": "En novembre 2024, Auchan annonce un plan de sauvegarde de l'emploi prévoyant la suppression d'environ 2 389 postes en France, accompagné de l'arrêt de la livraison à domicile et de la fermeture de plusieurs points de vente. Le 23 septembre 2025, le tribunal administratif de Lille annule ce plan social, estimant qu'il aurait dû être validé par les représentants syndicaux de chacune des cinq composantes du groupe. La cour d'appel administrative de Douai a confirmé l'annulation, et la direction d'Auchan s'est pourvue devant le Conseil d'État.",
+          "sources": [
+            {
+              "label": "France Bleu (ICI) - Le plan social Auchan invalidé en appel",
+              "url": "https://www.francebleu.fr/infos/economie-social/auchan-le-plan-social-avec-2-400-suppressions-d-emplois-invalide-en-appel-la-direction-saisit-le-conseil-d-etat-5424499"
+            },
+            {
+              "label": "France 3 Hauts-de-France - Le plan social d'Auchan invalidé par le tribunal administratif",
+              "url": "https://france3-regions.franceinfo.fr/hauts-de-france/nord-0/lille/la-direction-a-voulu-passer-en-force-elle-s-est-fait-retoquer-par-la-justice-le-plan-social-d-auchan-invalide-par-le-tribunal-administratif-3221612.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group": {
+        "name": "La Vie (alimentation végétale)",
+        "country": "France",
+        "founded": 2019,
+        "website": null,
+        "revenue": null,
+        "description": "Startup française indépendante de l'alimentation végétale (charcuterie végétale : lardons, bacon, jambon végétaux), à ne pas confondre avec le magazine catholique du même nom. Société exploitante : 77 Foods. Fondée en 2019 par Nicolas Schweitzer (PDG) et Vincent Poulichet (CTO, docteur en physico-chimie). N'appartient à aucun grand groupe agroalimentaire : elle reste contrôlée par ses fondateurs et financée par des levées de fonds (environ 50 M€ cumulés). Principaux investisseurs : Seventure Partners (lead), Partech, Capagro, Oyster Bay, Entrepreneur First et Bleu Capital, ainsi que des business angels (Natalie Portman, Frédéric Mazzella de BlaBlaCar, Thibaud Hug de Larauze de Back Market, Thomas Plantenga de Vinted) et plus de 3 000 particuliers via une campagne de crowdequity en 2024. Distribuée en France et au Royaume-Uni."
+      },
+      "brands": [
+        {
+          "name": "La Vie",
+          "aliases": [
+            "La Vie Foods",
+            "La Vie (alimentation végétale)",
+            "77 Foods",
+            "77Foods",
+            "Lavie",
+            "La Vie vegetal",
+            "La Vie végétal"
+          ],
+          "category": "Alimentation végétale"
+        }
+      ],
+      "scandals": [
+        {
+          "title": "Décret sur les dénominations « viande végétale » (Conseil d'État)",
+          "year": 2024,
+          "severity": "modéré",
+          "tags": [],
+          "summary": "La Vie (via sa société 77 Foods) figure parmi les entreprises requérantes ayant attaqué les décrets français interdisant l'emploi de termes de boucherie/charcuterie (« steak », « jambon », « lardons » végétaux). Le Conseil d'État a suspendu le décret du 26 février 2024 le 10 avril 2024, puis a annulé les décrets de 2022 et 2024 par décisions du 28 janvier 2025, les jugeant contraires au droit de l'Union européenne. Il s'agit d'un litige réglementaire public, et non d'une faute imputée à l'entreprise.",
+          "sources": [
+            {
+              "label": "novethic.fr",
+              "url": "https://www.novethic.fr/environnement/climat/suspension-decret-viande-vegetale-conseil-etat-2024"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group": {
+        "name": "Happyvore",
+        "country": "France",
+        "founded": 2020,
+        "website": null,
+        "revenue": null,
+        "description": "Startup française indépendante d'alimentation végétale (alternatives végétales à la viande : steaks, nuggets, saucisses, lardons, gamme au fromage Croq'Fondant). Fondée en 2020 sous le nom Les Nouveaux Fermiers par Guillaume Dubois et Cédric Meston, deux ingénieurs passés par McKinsey, puis renommée Happyvore. N'appartient à aucun grand groupe : elle reste contrôlée par ses fondateurs et financée par levées de fonds (environ 3 M€ en 2020 puis 35 M€). Principaux investisseurs : le groupe d'investissement Invus (lié à la famille Artal), ainsi que des partenaires historiques comme Adrien de Schompré (cofondateur de Sushi Shop) et Philippe Cantet (fondateur d'Innocent). Exploite à Chevilly (Loiret) la plus grande usine française de viande végétale (capacité 10 000 tonnes/an, inaugurée en 2023). Devenue en 2026 numéro 1 français du marché des alternatives végétales devant Garden Gourmet (Nestlé) selon les données Circana. Cédric Meston a depuis quitté l'entreprise ; Guillaume Dubois la dirige."
+      },
+      "brands": [
+        {
+          "name": "Happyvore",
+          "aliases": [
+            "HappyVore",
+            "Happy Vore",
+            "Les Nouveaux Fermiers",
+            "Nouveaux Fermiers",
+            "Happyvore Croq'Fondant"
+          ],
+          "category": "Alimentation végétale"
+        }
+      ],
+      "scandals": [
+        {
+          "title": "Décret sur les dénominations « viande végétale » (Conseil d'État)",
+          "year": 2024,
+          "severity": "modéré",
+          "tags": [],
+          "summary": "Happyvore (sous le nom Les Nouveaux Fermiers) figure parmi les entreprises requérantes ayant attaqué les décrets français interdisant les appellations de type « steak végétal » ou « escalope végétale ». Le Conseil d'État a suspendu le décret du 26 février 2024 (10 avril 2024), puis annulé les décrets de 2022 et 2024 le 28 janvier 2025 comme contraires au droit européen. Il s'agit d'un litige réglementaire public, et non d'une faute imputée à l'entreprise.",
+          "sources": [
+            {
+              "label": "francebleu.fr",
+              "url": "https://www.francebleu.fr/infos/societe/interdiction-des-viandes-vegetales-on-est-convaincu-qu-on-va-gagner-au-conseil-d-etat-estime-happyvore-2212814"
+            }
+          ]
+        },
+        {
+          "title": "Opposition au vote du Parlement européen sur les termes « steak » et « saucisse »",
+          "year": 2025,
+          "severity": "modéré",
+          "tags": [],
+          "summary": "Le 8 octobre 2025, le Parlement européen a voté (355 voix contre 247) en faveur de l'interdiction des mentions « steak », « saucisse » ou « burger » pour les produits végétaux. Happyvore a publiquement dénoncé ce vote comme « un recul » et a interpellé Bruxelles, estimant que les consommateurs distinguent un steak végétal d'un steak de bœuf. Débat public/réglementaire, sans faute imputée à l'entreprise.",
+          "sources": [
+            {
+              "label": "francebleu.fr",
+              "url": "https://www.francebleu.fr/infos/societe/le-parlement-europeen-s-oppose-au-terme-steak-pour-les-produits-vegetariens-une-deception-pour-l-entreprise-happyvore-3280337"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group": {
+        "name": "Heura",
+        "country": "Espagne",
+        "founded": 2017,
+        "website": null,
+        "revenue": null,
+        "description": "Startup espagnole indépendante d'alimentation végétale, basée à Barcelone (société Foods for Tomorrow, marque Heura). Fondée en avril 2017 par Marc Coloma et Bernat Añaños, militants de la transition alimentaire. N'appartient à aucun grand groupe : ses fondateurs en restaient les actionnaires majoritaires selon Marc Coloma. Financée par plusieurs tours de table, dont une Série B de 40 M€ bouclée début 2024 menée par le fabricant néerlandais Upfield (marques Flora, I Can't Believe It's Not Butter) avec les fonds d'impact European Circular Bioeconomy Fund (ECBF), Newtree Impact et Unovis Asset Management ; un prêt de 20 M€ de la Banque européenne d'investissement (BEI) en 2025 ; et des campagnes d'equity crowdfunding « Equity for Good Rebels » (footballeurs Sergi Roberto, Cesc Fàbregas, Chris Smalling parmi les souscripteurs). Heura a annoncé un EBITDA positif pour la première fois au premier trimestre 2026."
+      },
+      "brands": [
+        {
+          "name": "Heura",
+          "aliases": [
+            "Heura Foods",
+            "Foods for Tomorrow",
+            "Heüra",
+            "Eura",
+            "Heura vegetal"
+          ],
+          "category": "Alimentation végétale"
+        }
+      ],
+      "scandals": [
+        {
+          "title": "Campagne « Un hamburger pollue plus que ta voiture » et procès du lobby de la viande",
+          "year": 2022,
+          "severity": "modéré",
+          "tags": [],
+          "summary": "Après une campagne d'affichage lancée fin 2020 à Madrid affirmant « Un hamburger pollue plus que ta voiture » (panneau retiré au bout d'un mois), six organisations du secteur de la viande (Interporc, Provacuno, Interovic, Asici, Avianza, Intercun) ont poursuivi Heura en 2022 pour concurrence déloyale, publicité trompeuse et dénigrement. En appel, le tribunal de Barcelone a largement blanchi Heura, jugeant sa campagne protégée par la liberté d'expression et appuyée sur des sources scientifiques (FAO, OMS, CIRC, AESAN, Harvard, Oxford). Litige emblématique opposant marques végétales et filière viande.",
+          "sources": [
+            {
+              "label": "vegconomist.com",
+              "url": "https://vegconomist.com/company-news/spanish-appeals-court-clears-heura-unfair-competition-claims-brought-six-meat-lobby-groups/"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
