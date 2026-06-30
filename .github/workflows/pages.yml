@@ -1,13 +1,18 @@
 name: Déploiement GitHub Pages
 
 # Déploie le site statique sur GitHub Pages.
-# Se déclenche sur la branche principale (après merge) et sur la branche de
-# développement (pour une mise en ligne immédiate), ainsi qu'à la demande.
+# Se déclenche sur la branche principale (après merge) et à la demande.
+#
+# Prérequis (réglages du dépôt, à faire une seule fois) :
+#   1. Dépôt privé : GitHub Pages nécessite un plan payant. Sinon, rendre le
+#      dépôt public (Settings → General → Danger Zone → Change visibility).
+#   2. Settings → Actions → General → Workflow permissions :
+#      cocher « Read and write permissions ».
+# Une fois ces réglages faits, ce workflow active Pages et déploie tout seul.
 on:
   push:
     branches:
       - main
-      - claude/brand-parent-company-lookup-8d8xm2
   workflow_dispatch:
 
 # Permissions nécessaires au déploiement Pages.
