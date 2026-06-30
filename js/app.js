@@ -181,6 +181,53 @@
   const clearBtn = document.getElementById("clear-btn");
   const form = document.getElementById("search-form");
 
+  // ---------- URL partageable (hash bidirectionnel) ----------
+  let suppressHash = false;
+  function currentHash() { return decodeURIComponent((location.hash || "").replace(/^#/, "")); }
+  /** Met à jour l'URL sans relancer la navigation (garde le lien copiable/partageable). */
+  function writeHash(h) {
+    if (currentHash() === h) return;
+    suppressHash = true;
+    location.hash = "#" + encodeURI(h);
+  }
+  function clearHash() {
+    if (!location.hash) return;
+    suppressHash = true;
+    history.replaceState(null, "", location.pathname + location.search);
+    suppressHash = false;
+  }
+
+  /** Copie l'URL courante dans le presse-papier, avec retour visuel sur le bouton. */
+  function copyLink(btn) {
+    const url = location.href;
+    const ok = () => {
+      const old = btn.dataset.label || btn.textContent;
+      btn.dataset.label = old;
+      btn.textContent = "✓ Lien copié";
+      btn.classList.add("copied");
+      setTimeout(() => { btn.textContent = old; btn.classList.remove("copied"); }, 1800);
+    };
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      navigator.clipboard.writeText(url).then(ok).catch(() => fallbackCopy(url, ok));
+    } else { fallbackCopy(url, ok); }
+  }
+  function fallbackCopy(text, ok) {
+    try {
+      const ta = document.createElement("textarea");
+      ta.value = text; ta.style.position = "fixed"; ta.style.opacity = "0";
+      document.body.appendChild(ta); ta.focus(); ta.select();
+      document.execCommand("copy"); document.body.removeChild(ta); ok();
+    } catch { window.prompt("Copiez ce lien :", text); }
+  }
+
+  /** Barre d'actions en haut d'une vue résultat (retour + partage). */
+  function actionsBar(backLabel) {
+    return `<div class="result-actions">
+      <button class="back-link" data-back="1">← ${escapeHtml(backLabel)}</button>
+      <button class="share-btn" data-share="1" title="Copier un lien vers cette page">🔗 Copier le lien</button>
+    </div>`;
+  }
+
   function severityClass(s) { return "sev-" + (s || "modéré"); }
 
   function renderScandal(sc, opts) {
@@ -250,7 +297,7 @@
       ? `<div class="note-inline">${escapeHtml(matchedBrand.note)}</div>` : "";
 
     return `
-      <button class="back-link" data-back="1">← Retour / nouvelle recherche</button>
+      ${actionsBar("Retour / nouvelle recherche")}
       <div class="result-head">
         ${ownershipHtml}
         <div class="owns-arrow">
@@ -281,6 +328,7 @@
     homeEl.hidden = true;
     resultsEl.hidden = false;
     resultsEl.innerHTML = renderGroup(g, matchedBrand);
+    writeHash(matchedBrand ? "q=" + matchedBrand.name : "groupe=" + g.id);
     window.scrollTo({ top: 0, behavior: "smooth" });
   }
 
@@ -293,13 +341,14 @@
           `<button class="chip" data-pick="${escapeHtml(r.entry.display)}">${escapeHtml(r.entry.display)}</button>`).join(" ")}</div>`
       : "";
     resultsEl.innerHTML = `
-      <button class="back-link" data-back="1">← Retour</button>
+      ${actionsBar("Retour")}
       <div class="empty">
         <div class="big">🤷</div>
         <h2>Aucune marque trouvée pour « ${escapeHtml(query)} »</h2>
         <p>Cette base est partielle (${totalBrands} marques, ${DATA.length} groupes). La marque n'y figure peut-être pas encore.</p>
         ${suggestions}
       </div>`;
+    writeHash("q=" + query);
     window.scrollTo({ top: 0, behavior: "smooth" });
   }
 
@@ -308,6 +357,7 @@
     resultsEl.innerHTML = "";
     homeEl.hidden = false;
     hideSuggestions();
+    clearHash();
   }
 
   // ---------- Vue par thème de controverse ----------
@@ -339,7 +389,7 @@
       : "<p class='no-scandal'>Aucune controverse pour ce filtre.</p>";
 
     resultsEl.innerHTML = `
-      <button class="back-link" data-back="1">← Retour à l'accueil</button>
+      ${actionsBar("Retour à l'accueil")}
       <div class="block">
         <h3>Filtrer par type de controverse</h3>
         <div class="theme-filter">${chips}</div>
@@ -349,6 +399,7 @@
         <h3>${escapeHtml(title)} <span class="count">${items.length}</span></h3>
         <div class="scandals">${cardsHtml}</div>
       </div>`;
+    writeHash(sel.size ? "theme=" + [...sel].join(",") : "controverses");
     if (scroll !== false) window.scrollTo({ top: 0, behavior: "smooth" });
   }
 
@@ -508,6 +559,8 @@
 
   // Délégation de clics dans les résultats et l'accueil.
   document.body.addEventListener("click", (e) => {
+    const share = e.target.closest("[data-share]");
+    if (share) { copyLink(share); return; }
     const themeToggle = e.target.closest("[data-themetoggle]");
     if (themeToggle) { toggleTheme(themeToggle.dataset.themetoggle); return; }
     const clearThemes = e.target.closest("[data-clearthemes]");
@@ -525,16 +578,27 @@
     if (!e.target.closest(".search")) hideSuggestions();
   });
 
-  // ---------- Routage simple par hash (#marque) ----------
+  // ---------- Routage par hash (URL partageable, bidirectionnel) ----------
+  // Formats : #groupe=<id> · #theme=<id1>,<id2> · #controverses · #q=<recherche> · #<recherche> (legacy)
   function fromHash() {
+    if (suppressHash) { suppressHash = false; return; } // changement provoqué par nous-mêmes
     const raw = (location.hash || "").replace(/^#/, "");
-    if (!raw) return;
-    if (raw.indexOf("theme=") === 0) {
-      const ids = decodeURIComponent(raw.slice(6)).split(",").map((s) => s.trim()).filter((id) => themeById[id]);
-      if (ids.length) { showThemeView(ids); return; }
+    if (!raw) { goHome(); return; }
+    const eq = raw.indexOf("=");
+    const key = eq >= 0 ? raw.slice(0, eq) : raw;
+    const val = eq >= 0 ? decodeURIComponent(raw.slice(eq + 1)) : "";
+    if (key === "theme") {
+      const ids = val.split(",").map((s) => s.trim()).filter((id) => themeById[id]);
+      showThemeView(ids); return;
     }
-    const h = decodeURIComponent(raw).trim();
-    if (h) { input.value = h; clearBtn.hidden = false; runSearch(h); }
+    if (key === "controverses") { showThemeView([]); return; }
+    if (key === "groupe") {
+      const g = groupById[val];
+      if (g) { input.value = g.name; clearBtn.hidden = false; showGroup(g, null); } else { goHome(); }
+      return;
+    }
+    const q = (key === "q" ? val : decodeURIComponent(raw)).trim();
+    if (q) { input.value = q; clearBtn.hidden = false; runSearch(q); }
   }
 
   // ---------- Init ----------

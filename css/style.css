@@ -267,6 +267,18 @@ button.tag-link:hover { border-color: var(--accent); background: var(--accent-so
 }
 .back-link:hover { color: var(--accent); }
 
+/* Barre d'actions (retour + partage) en haut des vues résultat */
+.result-actions { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; margin-bottom: 18px; }
+.result-actions .back-link { margin-bottom: 0; }
+.share-btn {
+  border: 1px solid var(--line-strong); background: var(--surface); color: var(--ink);
+  border-radius: 8px; padding: 7px 13px; font-size: 14px; cursor: pointer;
+  font-family: var(--font); transition: all .12s; white-space: nowrap;
+}
+.share-btn:hover { border-color: var(--accent); background: var(--accent-soft); color: var(--accent-dark); }
+.share-btn.copied { border-color: #1a7f37; background: #e7f6ec; color: #1a7f37; }
+@media (prefers-color-scheme: dark) { .share-btn.copied { background: #16351f; color: #4ade80; border-color: #4ade80; } }
+
 /* ---------- Pied ---------- */
 .site-footer { border-top: 1px solid var(--line); padding: 28px 0 48px; margin-top: 30px; }
 .site-footer p { font-size: 14px; color: #54545c; margin: 0 0 8px; max-width: 720px; }
