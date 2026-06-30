@@ -100,6 +100,9 @@ const DISPLAY_NAMES = {
   "The Walt Disney Company": "Disney",
   "Comcast (NBCUniversal)": "Comcast (NBCUniversal)",
   "Paramount (Paramount Skydance Corporation)": "Paramount (Skydance)",
+  // Lot 5 — bio/végétal et empire Mulliez
+  "Association Familiale Mulliez (AFM)": "Mulliez (AFM)",
+  "La Vie (alimentation végétale)": "La Vie (végétal)",
 };
 
 // Corrections factuelles post-recherche (clé = nom d'affichage du groupe).
