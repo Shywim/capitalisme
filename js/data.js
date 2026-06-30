@@ -500,6 +500,53 @@ window.CAPITALISME_DATA = {
       ]
     },
     {
+      "id": "affinity-petcare-agrolimen",
+      "name": "Affinity Petcare (Agrolimen)",
+      "country": "Espagne",
+      "founded": "Affinity Petcare basée à Barcelone ; groupe Agrolimen fondé dans les années 1930-1940 autour de Gallina Blanca",
+      "website": "https://www.affinity-petcare.com/",
+      "revenue": "Affinity Petcare est la division d'alimentation animale du groupe espagnol Agrolimen (qui détient aussi GBfoods). Le groupe Agrolimen a réalisé un chiffre d'affaires d'environ 2,393 milliards d'euros en 2024 (toutes activités confondues, alimentation humaine et animale). La filiale Affinity Petcare France a déclaré un chiffre d'affaires d'environ 273,7 M€ au 31/12/2024.",
+      "description": "Affinity Petcare S.A., basée à Barcelone, est la filiale d'alimentation pour chiens et chats du groupe familial espagnol Agrolimen. Affinity est leader de l'alimentation pour animaux de compagnie en Espagne, parmi les premiers en Europe. Elle commercialise notamment Ultima, Advance, Brekkies, Libra et la marque sans céréales Nature's Variety / True Instinct. Le groupe Agrolimen détient également GBfoods (alimentation humaine) et, via Nature's Variety/Instinct, des actifs aux États-Unis (rachat finalisé des parts en 2016).",
+      "brands": [
+        {
+          "name": "Ultima",
+          "aliases": [
+            "Affinity Ultima"
+          ],
+          "category": "Alimentation animale",
+          "note": "Marque phare d'Affinity Petcare, très distribuée en grande surface et animalerie."
+        },
+        {
+          "name": "Advance",
+          "aliases": [
+            "Affinity Advance"
+          ],
+          "category": "Alimentation animale",
+          "note": "Gamme premium physiologique d'Affinity Petcare."
+        },
+        {
+          "name": "Brekkies",
+          "category": "Alimentation animale",
+          "note": "Marque d'entrée/milieu de gamme d'Affinity Petcare."
+        },
+        {
+          "name": "Libra",
+          "category": "Alimentation animale",
+          "note": "Marque d'Affinity Petcare."
+        },
+        {
+          "name": "Nature's Variety / True Instinct",
+          "aliases": [
+            "True Instinct",
+            "Nature's Variety"
+          ],
+          "category": "Alimentation animale",
+          "note": "Marque sans céréales (viandes fraîches) du portefeuille Affinity Petcare / Agrolimen."
+        }
+      ],
+      "scandals": []
+    },
+    {
       "id": "allianz",
       "name": "Allianz",
       "country": "Allemagne",
@@ -8731,6 +8778,26 @@ window.CAPITALISME_DATA = {
       ]
     },
     {
+      "id": "inspired-pet-nutrition-ultra-premium-direct",
+      "name": "Inspired Pet Nutrition (Ultra Premium Direct)",
+      "country": "Royaume-Uni",
+      "founded": "Ultra Premium Direct (UPD) fondée en 2013 en France ; acquise par Inspired Pet Nutrition en octobre 2025",
+      "website": "https://www.ultrapremiumdirect.com/",
+      "revenue": "UPD a annoncé un chiffre d'affaires d'environ 70 M€ en 2024 (environ 180 salariés, plus de 285 000 clients actifs).",
+      "description": "Ultra Premium Direct (UPD) est une marque française de croquettes pour chiens et chats vendues en direct au consommateur (D2C), fondée en 2013. Eurazeo en avait pris le contrôle en mai 2021 (environ 68 M€). En octobre 2025, Eurazeo a finalisé la cession d'UPD au britannique Inspired Pet Nutrition (IPN), soutenu par le fonds CapVest Partners, pour une valorisation globale estimée entre 200 et 250 M€. UPD n'est donc plus indépendante : elle appartient désormais à IPN (groupe britannique adossé à CapVest), qui constitue une plateforme européenne d'alimentation animale (incluant aussi le breton Sopral racheté en 2025).",
+      "brands": [
+        {
+          "name": "Ultra Premium Direct",
+          "aliases": [
+            "UPD"
+          ],
+          "category": "Alimentation animale",
+          "note": "Marque française de croquettes en vente directe, propriété d'Inspired Pet Nutrition (groupe britannique adossé à CapVest) depuis octobre 2025."
+        }
+      ],
+      "scandals": []
+    },
+    {
       "id": "jde-peet-s",
       "name": "JDE Peet's",
       "legalName": "JDE Peet's N.V.",
@@ -11457,6 +11524,38 @@ window.CAPITALISME_DATA = {
           "name": "Frolic",
           "category": "Animalerie",
           "note": "Aliments pour chiens."
+        },
+        {
+          "name": "Acana",
+          "aliases": [
+            "ACANA"
+          ],
+          "category": "Alimentation animale",
+          "note": "Marque de Champion Petfoods, racheté par Mars Petcare (acquisition achevée le 28 février 2023). Rattachée à Mars Petcare."
+        },
+        {
+          "name": "Orijen",
+          "aliases": [
+            "ORIJEN"
+          ],
+          "category": "Alimentation animale",
+          "note": "Marque de Champion Petfoods, racheté par Mars Petcare (acquisition achevée le 28 février 2023). Rattachée à Mars Petcare."
+        },
+        {
+          "name": "Crave",
+          "aliases": [
+            "CRAVE"
+          ],
+          "category": "Alimentation animale",
+          "note": "Marque Mars Petcare (gamme naturelle riche en protéines pour chiens et chats)."
+        },
+        {
+          "name": "Perfect Fit",
+          "aliases": [
+            "PerfectFit"
+          ],
+          "category": "Alimentation animale",
+          "note": "Marque Mars Petcare (gamme super premium pour chiens et chats)."
         }
       ],
       "scandals": [
@@ -14209,6 +14308,49 @@ window.CAPITALISME_DATA = {
       ]
     },
     {
+      "id": "premium-petfood-brands-yarrah",
+      "name": "Premium Petfood Brands (Yarrah)",
+      "country": "Pays-Bas",
+      "founded": "Yarrah fondée en 1992 ; reprise par Premium Petfood Brands B.V. en novembre 2024",
+      "website": "https://www.yarrah.com/",
+      "revenue": "Donnée financière consolidée non publiée publiquement de façon fiable.",
+      "description": "Yarrah est une marque néerlandaise d'alimentation 100 % biologique pour chiens et chats (basée à Harderwijk), fondée en 1992 par Jan Jaap Roelevink. Première entreprise d'alimentation animale d'Europe continentale certifiée B Corp (2019). Après avoir été cédée à Vendis Capital (2012) puis à AAC Capital (2017), Yarrah a connu une faillite, puis a été reprise en novembre 2024 par Premium Petfood Brands B.V. (Pays-Bas) — opération par laquelle son fondateur Jan Jaap Roelevink a repris le contrôle de la marque. Le portefeuille repris inclut aussi les marques Smølke et Rodi. Yarrah n'est donc pas indépendante : elle appartient à Premium Petfood Brands.",
+      "brands": [
+        {
+          "name": "Yarrah",
+          "aliases": [
+            "Yarrah Organic Petfood"
+          ],
+          "category": "Alimentation animale",
+          "note": "Alimentation bio (label AB / certifiée B Corp) pour chiens et chats, propriété de Premium Petfood Brands B.V. depuis novembre 2024."
+        }
+      ],
+      "scandals": [
+        {
+          "title": "Faillite de Yarrah et reprise par Premium Petfood Brands",
+          "year": 2024,
+          "period": "2024",
+          "severity": "modéré",
+          "tags": [
+            "faillite",
+            "redressement",
+            "acquisition"
+          ],
+          "summary": "Sous la propriété du fonds AAC Capital, Yarrah a dû se déclarer en faillite. La marque, alors présentée comme leader de l'alimentation bio pour animaux, a été reprise en novembre 2024 par le néerlandais Premium Petfood Brands B.V., permettant à son fondateur Jan Jaap Roelevink de récupérer le contrôle de l'entreprise.",
+          "sources": [
+            {
+              "label": "De Molenaar – Bankrupt Yarrah acquired by Premium Petfood Brands",
+              "url": "https://www.demolenaar.nl/en/pet-food-a/companies-mergers-and-acquisitions-pet-food/bankrupt-yarrah-acquired-by-premium-petfood-brands/55853/"
+            },
+            {
+              "label": "PetfoodIndustry – Premium Petfood Brands acquires organic pet food brand Yarrah",
+              "url": "https://www.petfoodindustry.com/pet-food-market/market-trends-and-reports/news/15707822/premium-petfood-brands-acquires-organic-pet-food-brand-yarrah"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "procter-et-gamble",
       "name": "Procter & Gamble",
       "legalName": "The Procter & Gamble Company (P&G)",
@@ -16190,6 +16332,174 @@ window.CAPITALISME_DATA = {
       ]
     },
     {
+      "id": "spectrum-brands",
+      "name": "Spectrum Brands",
+      "country": "États-Unis",
+      "founded": "1906 (origines : French Battery Company / Rayovac ; entité Spectrum Brands Holdings actuelle issue de la fusion avec HRG Group en juillet 2018)",
+      "website": "https://www.spectrumbrands.com",
+      "revenue": "Environ 2,81 milliards USD de chiffre d'affaires net pour l'exercice fiscal 2025 (clos le 30 septembre 2025), en baisse d'environ 5,2 % sur un an",
+      "description": "Spectrum Brands Holdings, Inc. (NYSE : SPB) est un conglomérat américain de biens de consommation et d'articles pour la maison, basé à Middleton (Wisconsin). Le groupe est organisé autour de trois pôles : Global Pet Care (animalerie : alimentation, soin et accessoires pour animaux), Home & Garden (jardin et lutte antiparasitaire, surtout aux États-Unis) et Home & Personal Care / Global Appliances (petit électroménager et soin de la personne). En décembre 2014, le groupe a racheté à Procter & Gamble l'activité européenne d'aliments pour animaux IAMS et Eukanuba. Le groupe a annoncé un projet de séparation stratégique visant à isoler son activité Global Appliances et à recentrer une société sur les pôles Global Pet Care et Home & Garden.",
+      "brands": [
+        {
+          "name": "IAMS",
+          "aliases": [
+            "Iams"
+          ],
+          "category": "Alimentation animale",
+          "note": "Marque détenue par Spectrum Brands en Europe seulement (rachat à Procter & Gamble finalisé le 31 décembre 2014). En Amérique du Nord et dans le reste du monde, IAMS appartient à Mars (acquisition auprès de P&G en 2014)."
+        },
+        {
+          "name": "Eukanuba",
+          "aliases": [
+            "Eukanuba"
+          ],
+          "category": "Alimentation animale",
+          "note": "Marque détenue par Spectrum Brands en Europe seulement (rachat à Procter & Gamble finalisé le 31 décembre 2014). En Amérique du Nord et dans le reste du monde, Eukanuba appartient à Mars."
+        },
+        {
+          "name": "8in1",
+          "aliases": [
+            "8-in-1",
+            "Eight in One"
+          ],
+          "category": "Soin animalier",
+          "note": "Marque de snacks et accessoires pour animaux (chiens, chats, petits animaux), historiquement liée à la division United Pet Group."
+        },
+        {
+          "name": "DreamBone",
+          "category": "Soin animalier",
+          "note": "Friandises à mâcher pour chiens sans cuir brut (rawhide-free)."
+        },
+        {
+          "name": "SmartBones",
+          "category": "Soin animalier",
+          "note": "Friandises à mâcher pour chiens sans cuir brut."
+        },
+        {
+          "name": "Good Boy",
+          "aliases": [
+            "Good 'n' Fun"
+          ],
+          "category": "Soin animalier",
+          "note": "Friandises et snacks pour chiens (Good Boy au Royaume-Uni ; gamme Good 'n' Fun)."
+        },
+        {
+          "name": "FURminator",
+          "category": "Soin animalier",
+          "note": "Outils de toilettage et de gestion des poils pour chiens et chats."
+        },
+        {
+          "name": "Nature's Miracle",
+          "aliases": [
+            "Natures Miracle"
+          ],
+          "category": "Soin animalier",
+          "note": "Produits de nettoyage et anti-odeurs/anti-taches pour animaux."
+        },
+        {
+          "name": "Healthy Hide",
+          "aliases": [
+            "Healthy-Hide",
+            "Healthy Hide Good 'n' Fun"
+          ],
+          "category": "Soin animalier",
+          "note": "Produits à mâcher pour chiens (cuir brut)."
+        },
+        {
+          "name": "Tetra",
+          "category": "Soin animalier",
+          "note": "Aquariophilie : aliments pour poissons, soins et équipements d'aquariums et de bassins."
+        },
+        {
+          "name": "Marineland",
+          "category": "Soin animalier",
+          "note": "Aquariophilie : aquariums, filtration et équipements."
+        },
+        {
+          "name": "Russell Hobbs",
+          "category": "Électroménager",
+          "note": "Petit électroménager de cuisine et de maison (pôle Home & Personal Care / Global Appliances)."
+        },
+        {
+          "name": "Remington",
+          "category": "Électroménager",
+          "note": "Rasoirs, tondeuses et produits de soin de la personne (pôle Home & Personal Care). À ne pas confondre avec le fabricant d'armes Remington, sans lien."
+        },
+        {
+          "name": "George Foreman",
+          "category": "Électroménager",
+          "note": "Grills et appareils de cuisson sous licence (pôle Home & Personal Care / Global Appliances)."
+        },
+        {
+          "name": "Spectracide",
+          "category": "Jardin",
+          "note": "Insecticides et produits de traitement pour le jardin (pôle Home & Garden, principalement aux États-Unis)."
+        },
+        {
+          "name": "Cutter",
+          "category": "Jardin",
+          "note": "Répulsifs anti-insectes et anti-moustiques (pôle Home & Garden, principalement aux États-Unis)."
+        },
+        {
+          "name": "Hot Shot",
+          "category": "Jardin",
+          "note": "Produits de lutte antiparasitaire domestique (pôle Home & Garden, principalement aux États-Unis)."
+        }
+      ],
+      "scandals": [
+        {
+          "title": "Rappel de friandises à mâcher en cuir brut (rawhide) pour contamination chimique",
+          "year": 2017,
+          "period": "Juin 2017",
+          "severity": "modéré",
+          "tags": [
+            "rappel produit",
+            "sécurité animale",
+            "contamination chimique",
+            "alimentation animale"
+          ],
+          "summary": "En juin 2017, United Pet Group (division de Spectrum Brands) a procédé au rappel volontaire de plusieurs marques de friandises à mâcher en cuir brut pour chiens (notamment American Beefhide, Digest-eeze et Healthy Hide), puis l'a étendu à des marques de distributeurs. En cause : l'utilisation d'un mélange à base d'ammonium quaternaire (composé antimicrobien) comme aide de fabrication dans des usines au Mexique et en Colombie et chez un fournisseur au Brésil — un usage non approuvé aux États-Unis pour la production de cuir brut destiné aux chiens. L'ingestion pouvait provoquer perte d'appétit et troubles digestifs (diarrhées, vomissements). Le rappel a été mené avec l'information de la FDA.",
+          "sources": [
+            {
+              "label": "FDA - United Pet Group Voluntary Recalls Multiple Brands of Rawhide Chew Products (2017)",
+              "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/united-pet-group-voluntary-recalls-multiple-brands-rawhide-chew-products-dogs-due-possible-chemical"
+            },
+            {
+              "label": "FDA - United Pet Group Expands Voluntary Recall to Include Private Label Brands (2017)",
+              "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/united-pet-group-expands-voluntary-recall-multiple-brands-rawhide-chew-products-dogs-also-include"
+            },
+            {
+              "label": "Dog Food Advisor - United Pet Group Recalls Multiple Brands of Rawhide Chews",
+              "url": "https://www.dogfoodadvisor.com/dog-food-recalls/united-pet-group-recalls-multiple-brands-of-rawhide-chews/"
+            }
+          ]
+        },
+        {
+          "title": "Recours antitrust du DOJ et règlement sur la cession de la branche HHI à ASSA ABLOY",
+          "year": 2023,
+          "period": "Septembre 2022 - mai 2023",
+          "severity": "modéré",
+          "tags": [
+            "antitrust",
+            "concurrence",
+            "DOJ",
+            "fusion-acquisition"
+          ],
+          "summary": "Le département américain de la Justice (DOJ) avait saisi la justice en septembre 2022 pour bloquer la vente, par Spectrum Brands au groupe suédois ASSA ABLOY, de sa branche quincaillerie et amélioration de l'habitat (Hardware and Home Improvement, HHI), opération d'environ 4,3 milliards USD. Le DOJ estimait que l'ensemble combiné détiendrait des parts de marché trop élevées sur la quincaillerie de porte premium et les serrures connectées aux États-Unis. Un règlement a été conclu en mai 2023, en plein procès, autorisant l'opération moyennant la cession par ASSA ABLOY de certaines activités (Emtek, Schaub, Yale et August aux États-Unis) à Fortune Brands Innovations.",
+          "sources": [
+            {
+              "label": "Spectrum Brands - communiqué : règlement avec le DOJ sur l'acquisition HHI (2023)",
+              "url": "https://investor.spectrumbrands.com/news-releases/news-release-details/spectrum-brands-and-doj-reach-settlement-regarding-hhi"
+            },
+            {
+              "label": "Business Wire - Spectrum Brands and the DOJ Reach a Settlement Regarding the HHI Acquisition",
+              "url": "https://www.businesswire.com/news/home/20230505005508/en/Spectrum-Brands-and-the-DOJ-Reach-a-Settlement-Regarding-the-HHI-Acquisition"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "spotify",
       "name": "Spotify",
       "country": "Suède",
@@ -17211,6 +17521,53 @@ window.CAPITALISME_DATA = {
       ]
     },
     {
+      "id": "vafo-carnilove-brit",
+      "name": "VAFO (Carnilove, Brit)",
+      "legalName": "VAFO Group",
+      "country": "République tchèque",
+      "founded": "1994",
+      "website": "https://www.vafo.com/",
+      "revenue": "Producteur tchèque d'aliments super-premium pour animaux ; production annuelle d'environ 90 000 tonnes, exportations dans plus de 60 pays (chiffres communiqués par l'entreprise).",
+      "description": "Groupe familial tchèque (entité historique VAFO Praha s.r.o.), fondé en 1994 par Frantisek Bouska et détenu par ses fils Pavel et Jan Bouska. Spécialisé dans l'alimentation super-premium pour chiens et chats, il regroupe plusieurs marques dont Carnilove, Brit et Brit Care. Carnilove est une marque tchèque lancée en 2012 par le groupe.",
+      "brands": [
+        {
+          "name": "Carnilove",
+          "aliases": [
+            "Carnilove Pet Food"
+          ],
+          "category": "Alimentation animale",
+          "note": "Marque tchèque créée en 2012, propriété du groupe VAFO."
+        },
+        {
+          "name": "Brit",
+          "aliases": [
+            "Brit Care",
+            "Brit Premium"
+          ],
+          "category": "Alimentation animale",
+          "note": "Marque historique du groupe VAFO (VAFO Praha)."
+        }
+      ],
+      "scandals": []
+    },
+    {
+      "id": "virbac",
+      "name": "Virbac",
+      "country": "France",
+      "founded": "1968",
+      "website": "https://www.virbac.com/",
+      "revenue": "Chiffre d'affaires 2025 d'environ 1,465 milliard d'euros (en hausse de 7,9 % par rapport à 1,397 Md€ en 2024).",
+      "description": "Entreprise française de santé animale (médicaments et produits vétérinaires), fondée en 1968 à Carros près de Nice par le vétérinaire Pierre-Richard Dick. Cotée à Euronext Paris (indice SBF 120) et toujours contrôlée par la famille Dick. Sixième groupe pharmaceutique vétérinaire mondial, avec environ 6 400 collaborateurs ; activité répartie entre animaux de compagnie (majorité) et animaux de production. À distinguer des marques d'alimentation : Virbac est un laboratoire de santé animale à part entière.",
+      "brands": [
+        {
+          "name": "Virbac",
+          "category": "Santé animale",
+          "note": "Laboratoire vétérinaire français coté, contrôlé par la famille Dick. Comprend aussi des gammes nutritionnelles/diététiques vétérinaires (ex. Veterinary HPM)."
+        }
+      ],
+      "scandals": []
+    },
+    {
       "id": "vodafone",
       "name": "Vodafone",
       "country": "Royaume-Uni",
@@ -17758,6 +18115,26 @@ window.CAPITALISME_DATA = {
           ]
         }
       ]
+    },
+    {
+      "id": "ziggy",
+      "name": "Ziggy",
+      "country": "France",
+      "founded": "2020",
+      "website": "https://ziggyfamily.com/",
+      "revenue": "Chiffre d'affaires d'environ 8 M€ en 2024 (objectif d'environ 10 M€ en 2025), environ 25 salariés.",
+      "description": "Marque française d'alimentation pour chats (croquettes, pâtées, friandises, compléments), fabriquée en France, fondée en 2020 à Bordeaux par Marie Bonhomme et Alyosha Rozo, avec la vétérinaire Dr Géraldine Blanchard. Vente directe (e-commerce, abonnement), boutiques dédiées 100 % chats (Bordeaux, Paris), réseau de cliniques vétérinaires et enseignes spécialisées (partenariat Truffaut). Entreprise indépendante, financée par crowdfunding et levées de fonds (de l'ordre de 1 M€) ; aucune opération de rachat par un groupe n'a été documentée à la date de recherche (juin 2026).",
+      "brands": [
+        {
+          "name": "Ziggy",
+          "aliases": [
+            "Ziggy Family"
+          ],
+          "category": "Alimentation animale",
+          "note": "Marque française indépendante d'alimentation pour chats en vente directe ; aucun rachat par un groupe documenté à ce jour."
+        }
+      ],
+      "scandals": []
     }
   ]
 };

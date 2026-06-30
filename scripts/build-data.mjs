@@ -103,6 +103,8 @@ const DISPLAY_NAMES = {
   // Lot 5 — bio/végétal et empire Mulliez
   "Association Familiale Mulliez (AFM)": "Mulliez (AFM)",
   "La Vie (alimentation végétale)": "La Vie (végétal)",
+  // Lot 6 — animalerie
+  "VAFO Group": "VAFO (Carnilove, Brit)",
 };
 
 // Corrections factuelles post-recherche (clé = nom d'affichage du groupe).
