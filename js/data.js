@@ -426,6 +426,161 @@ window.CAPITALISME_DATA = {
       ]
     },
     {
+      "id": "aema-macif",
+      "name": "Aéma (Macif)",
+      "legalName": "Aéma Groupe (Macif, Abeille Assurances)",
+      "country": "France",
+      "founded": null,
+      "website": null,
+      "revenue": null,
+      "description": "Groupe mutualiste français né du rapprochement de la Macif, d'Aésio et d'Abeille Assurances (ex-Aviva France).",
+      "brands": [
+        {
+          "name": "Macif",
+          "category": "Assurance"
+        },
+        {
+          "name": "Abeille Assurances",
+          "category": "Assurance"
+        },
+        {
+          "name": "AÉSIO mutuelle",
+          "category": "Assurance"
+        },
+        {
+          "name": "Apivia",
+          "category": "Assurance"
+        },
+        {
+          "name": "Ofi Invest Asset Management",
+          "category": "Assurance"
+        },
+        {
+          "name": "Eurofil",
+          "category": "Assurance"
+        },
+        {
+          "name": "Macifilia",
+          "category": "Assurance"
+        }
+      ],
+      "scandals": [
+        {
+          "title": "Tensions sociales autour de la vente directe (Eurofil) chez Abeille Assurances",
+          "severity": "modéré",
+          "tags": [
+            "social",
+            "emploi",
+            "restructuration"
+          ],
+          "summary": "Après le rachat d'Aviva France et son intégration sous le nom Abeille Assurances, le projet de la direction de se séparer de l'activité de vente directe (marque Eurofil) a provoqué un conflit social. La CFDT a dénoncé une « trahison » d'Aéma Groupe, qui avait mis en avant son engagement à maintenir l'emploi lors de l'acquisition.",
+          "sources": [
+            {
+              "label": "argusdelassurance.com",
+              "url": "https://www.argusdelassurance.com/les-assureurs/compagnies/abeille-assurances-la-cfdt-crie-a-la-trahison-sur-l-avenir-de-l-activite-de-vente-directe.235549"
+            }
+          ]
+        },
+        {
+          "title": "Endettement lié au rachat d'Aviva France",
+          "severity": "modéré",
+          "tags": [
+            "finance",
+            "endettement",
+            "gouvernance"
+          ],
+          "summary": "Pour financer l'acquisition d'Aviva France (estimée à environ 3,2 milliards d'euros), Aéma Groupe (Macif et Aésio) s'est endetté à hauteur de 1,75 milliard d'euros, une opération de grande ampleur qui a interrogé sur la soutenabilité financière et le modèle mutualiste du groupe.",
+          "sources": [
+            {
+              "label": "francetransactions.com",
+              "url": "https://www.francetransactions.com/actus/assurancevie/la-macif-a-emprunte-1-75-milliard-d-euros-pour-financer-l-acquisition-d-aviva.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "allianz",
+      "name": "Allianz",
+      "country": "Allemagne",
+      "founded": null,
+      "website": null,
+      "revenue": null,
+      "description": "L'un des premiers groupes mondiaux d'assurance et de gestion d'actifs, basé à Munich.",
+      "brands": [
+        {
+          "name": "Allianz",
+          "category": "Assurance"
+        },
+        {
+          "name": "Allianz France",
+          "category": "Assurance"
+        },
+        {
+          "name": "Allianz Trade (ex-Euler Hermes)",
+          "category": "Assurance"
+        },
+        {
+          "name": "Allianz Partners",
+          "category": "Assurance"
+        },
+        {
+          "name": "Allianz Global Investors",
+          "category": "Assurance"
+        },
+        {
+          "name": "PIMCO",
+          "category": "Assurance"
+        },
+        {
+          "name": "Allianz Direct",
+          "category": "Assurance"
+        }
+      ],
+      "scandals": [
+        {
+          "title": "Fraude Structured Alpha d'Allianz Global Investors",
+          "severity": "modéré",
+          "tags": [
+            "fraude financière",
+            "gestion d'actifs",
+            "sanction réglementaire"
+          ],
+          "summary": "En mai 2022, la filiale américaine de gestion d'actifs Allianz Global Investors U.S. a plaidé coupable de fraude (securities fraud) devant la justice américaine dans l'affaire des fonds « Structured Alpha ». Des gérants avaient dissimulé l'ampleur réelle des risques de ces fonds, qui ont perdu plusieurs milliards lors du krach de mars 2020. Allianz a accepté de verser plus de 6 milliards de dollars (amendes SEC et DOJ, restitutions), dont environ 5 milliards d'indemnisation aux investisseurs lésés.",
+          "sources": [
+            {
+              "label": "sec.gov",
+              "url": "https://www.sec.gov/newsroom/press-releases/2022-84"
+            },
+            {
+              "label": "insurancejournal.com",
+              "url": "https://www.insurancejournal.com/news/international/2022/05/17/667952.htm"
+            }
+          ]
+        },
+        {
+          "title": "Politique charbon et énergies fossiles critiquée par les ONG",
+          "severity": "modéré",
+          "tags": [
+            "environnement",
+            "climat",
+            "énergies fossiles"
+          ],
+          "summary": "Allianz a annoncé une sortie totale du charbon d'ici 2040 et cessé d'assurer des centrales et mines de charbon individuelles. Les ONG environnementales ont toutefois critiqué le fait que le groupe n'excluait pas de ses investissements les développeurs de nouvelles infrastructures charbon, ni de ses services d'assurance certains acteurs du charbon. Allianz s'est en revanche engagé, sous pression, à ne pas assurer le pipeline est-africain EACOP de TotalEnergies.",
+          "sources": [
+            {
+              "label": "reclaimfinance.org",
+              "url": "https://reclaimfinance.org/site/en/2020/05/14/allianz-updates-its-coal-policy/"
+            },
+            {
+              "label": "atlas-mag.net",
+              "url": "https://www.atlas-mag.net/en/article/allianz-pledges-not-to-insure-the-east-african-crude-oil-pipeline-eacop"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "alphabet-google",
       "name": "Alphabet (Google)",
       "legalName": "Alphabet Inc.",
@@ -638,6 +793,80 @@ window.CAPITALISME_DATA = {
             {
               "label": "Touteleurope.eu – confirmation par la CJUE (2024)",
               "url": "https://www.touteleurope.eu/economie-et-social/la-justice-europeenne-confirme-une-amende-de-24-milliards-d-euros-contre-google-pour-pratiques-anticoncurrentielles/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "altice-sfr",
+      "name": "Altice (SFR)",
+      "legalName": "Altice France (SFR)",
+      "country": "France",
+      "founded": null,
+      "website": null,
+      "revenue": null,
+      "description": "Maison mère de l'opérateur SFR, contrôlée par Patrick Drahi via le groupe Altice.",
+      "brands": [
+        {
+          "name": "SFR",
+          "category": ""
+        },
+        {
+          "name": "RED by SFR",
+          "category": ""
+        },
+        {
+          "name": "SFR Business",
+          "category": ""
+        }
+      ],
+      "scandals": [
+        {
+          "title": "Endettement colossal et restructuration de la dette d'Altice France",
+          "severity": "modéré",
+          "tags": [
+            "fiscalité",
+            "concentration"
+          ],
+          "summary": "Bâti par Patrick Drahi sur une stratégie d'acquisitions financées par la dette (LBO), Altice France a accumulé un endettement d'environ 24,8 milliards d'euros. Le 4 août 2025, le tribunal des activités économiques de Paris a validé un plan de restructuration ramenant la dette à 15,5 milliards d'euros : dix-sept fonds créanciers ont effacé 8,6 milliards de dette en échange de 45 % du capital. Des syndicats ont dénoncé l'intégration forcée de sociétés rentables comme SFR dans un schéma d'endettement dont elles ne tiraient aucun bénéfice, tandis que la cession de SFR était mise à l'agenda.",
+          "sources": [
+            {
+              "label": "cnews.fr",
+              "url": "https://www.cnews.fr/france/2025-08-04/endettee-hauteur-de-24-milliards-deuros-altice-maison-mere-de-sfr-fixee-sur-son"
+            },
+            {
+              "label": "lutte-ouvriere.org",
+              "url": "https://www.lutte-ouvriere.org/journal/article/altice-sfr-tribunal-sauve-fortune-drahi-186195.html"
+            }
+          ]
+        },
+        {
+          "title": "Recueil contesté du consentement publicitaire et données personnelles",
+          "severity": "modéré",
+          "tags": [
+            "données personnelles",
+            "médias"
+          ],
+          "summary": "SFR a été critiqué pour ses pratiques de recueil du consentement en matière de publicité et de traceurs, dans un contexte où le groupe Altice a développé une importante activité de régie publicitaire via l'acquisition de Teads, très impliquée dans la collecte de données. Le média Next a documenté en détail la manière dont l'opérateur « maquillait » le recueil du consentement de ses utilisateurs.",
+          "sources": [
+            {
+              "label": "next.ink",
+              "url": "https://next.ink/8077/106365-donnees-personnelles-sfr-ou-lart-maquiller-recueil-consentement/"
+            }
+          ]
+        },
+        {
+          "title": "Plans de restructuration et conflits sociaux à SFR",
+          "severity": "modéré",
+          "tags": [
+            "conditions de travail"
+          ],
+          "summary": "Après le rachat par Altice en 2014, SFR a engagé d'importants plans de réduction d'effectifs, source de tensions sociales récurrentes. La justice a notamment condamné SFR à communiquer aux syndicats les détails de ses projets de restructuration, illustrant les conflits autour de la transparence sur la suppression de postes.",
+          "sources": [
+            {
+              "label": "m.nextinpact.com",
+              "url": "https://m.nextinpact.com/news/102279-sfr-condamne-a-devoiler-aux-syndicats-details-sa-future-restructuration.htm"
             }
           ]
         }
@@ -1336,6 +1565,92 @@ window.CAPITALISME_DATA = {
             {
               "label": "Basta! - Subventions et déforestation : la facture des agrocarburants",
               "url": "https://www.bastamag.net/Comment-le-geant-Sofiproteol-Avril-repeint-en-vert-les-agrocarburants"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "axa",
+      "name": "AXA",
+      "country": "France",
+      "founded": null,
+      "website": null,
+      "revenue": null,
+      "description": "Premier assureur français et l'un des plus grands groupes mondiaux d'assurance et de gestion d'actifs, basé à Paris.",
+      "brands": [
+        {
+          "name": "AXA",
+          "category": "Assurance"
+        },
+        {
+          "name": "AXA France",
+          "category": "Assurance"
+        },
+        {
+          "name": "Direct Assurance",
+          "category": "Assurance"
+        },
+        {
+          "name": "AXA Banque",
+          "category": "Assurance"
+        },
+        {
+          "name": "AXA Investment Managers",
+          "category": "Assurance"
+        },
+        {
+          "name": "AXA Assistance",
+          "category": "Assurance"
+        },
+        {
+          "name": "AXA Partners",
+          "category": "Assurance"
+        },
+        {
+          "name": "AXA XL",
+          "category": "Assurance"
+        }
+      ],
+      "scandals": [
+        {
+          "title": "Investissements et assurance dans les énergies fossiles dénoncés par les ONG",
+          "severity": "modéré",
+          "tags": [
+            "environnement",
+            "climat",
+            "énergies fossiles",
+            "investissement"
+          ],
+          "summary": "AXA a longtemps été ciblée par des ONG comme Reclaim Finance et Les Amis de la Terre pour son soutien aux énergies fossiles. En avril 2023, Reclaim Finance a appelé l'assureur à renforcer sa politique, pointant qu'AXA Investment Managers continuait d'investir dans de nouvelles obligations de développeurs pétro-gaziers (TotalEnergies, BP, Eni). Sous la pression, AXA a annoncé en juillet 2023 ne plus couvrir de nouveaux champs gaziers et une sortie complète du charbon d'ici 2030 dans l'UE et 2040 dans le reste du monde.",
+          "sources": [
+            {
+              "label": "reclaimfinance.org",
+              "url": "https://reclaimfinance.org/site/en/2024/03/14/the-inconsistency-of-insurance-groups-in-the-face-of-fossil-expansion/"
+            },
+            {
+              "label": "lessentiel.novethic.fr",
+              "url": "https://lessentiel.novethic.fr/blog/l-actu-1/post/mis-sous-pression-par-les-ong-le-groupe-axa-annonce-une-extension-de-ses-exclusions-des-energies-fossiles-720"
+            }
+          ]
+        },
+        {
+          "title": "Pression des ONG sur le projet de pipeline EACOP",
+          "severity": "modéré",
+          "tags": [
+            "environnement",
+            "climat",
+            "énergies fossiles"
+          ],
+          "summary": "Dans le cadre de la mobilisation contre le projet de pipeline est-africain EACOP porté par TotalEnergies, qualifié de « bombe climatique » par les ONG, AXA fait partie des assureurs et réassureurs (avec Allianz, Munich Re, Zurich, SCOR, Swiss Re, Hannover Re) qui se sont engagés à ne pas fournir d'assurance directe ni de réassurance au projet, après des campagnes des Amis de la Terre et de Reclaim Finance.",
+          "sources": [
+            {
+              "label": "atlas-mag.net",
+              "url": "https://www.atlas-mag.net/en/article/allianz-pledges-not-to-insure-the-east-african-crude-oil-pipeline-eacop"
+            },
+            {
+              "label": "amisdelaterre.org",
+              "url": "https://www.amisdelaterre.org/j-agis-demandez-a-votre-assureur-d-arreter-de-soutenir-les-energies-fossiles/"
             }
           ]
         }
@@ -2047,6 +2362,249 @@ window.CAPITALISME_DATA = {
       ]
     },
     {
+      "id": "bmw",
+      "name": "BMW",
+      "legalName": "BMW Group",
+      "country": "Allemagne",
+      "founded": null,
+      "website": null,
+      "revenue": null,
+      "description": "Constructeur automobile premium allemand (BMW, Mini, Rolls-Royce), basé à Munich.",
+      "brands": [
+        {
+          "name": "BMW",
+          "category": "Automobile"
+        },
+        {
+          "name": "Mini",
+          "category": "Automobile"
+        },
+        {
+          "name": "Rolls-Royce",
+          "category": "Automobile"
+        },
+        {
+          "name": "BMW Motorrad",
+          "category": "Automobile"
+        }
+      ],
+      "scandals": [
+        {
+          "title": "Entente sur les technologies antipollution diesel (amende UE 2021)",
+          "severity": "modéré",
+          "tags": [
+            "environnement",
+            "tromperie"
+          ],
+          "summary": "En juillet 2021, la Commission européenne a infligé à BMW une amende de 372,8 millions d'euros pour entente avec d'autres constructeurs allemands (cartel) visant à limiter le déploiement des technologies de dépollution (réduction catalytique sélective, SCR) des moteurs diesel entre 2009 et 2014.",
+          "sources": [
+            {
+              "label": "usinenouvelle.com",
+              "url": "https://www.usinenouvelle.com/article/pourquoi-l-europe-inflige-875-millions-d-euros-d-amende-a-bmw-et-volkswagen.N1120689"
+            },
+            {
+              "label": "letemps.ch",
+              "url": "https://www.letemps.ch/economie/emissions-polluantes-lue-ouvre-une-enquete-contre-bmw-daimler-volkswagen"
+            }
+          ]
+        },
+        {
+          "title": "Airbags Takata défectueux",
+          "severity": "modéré",
+          "tags": [
+            "sécurité des produits",
+            "santé"
+          ],
+          "summary": "BMW figure parmi les nombreux constructeurs concernés par le vaste rappel mondial des airbags Takata, dont les gonfleurs au nitrate d'ammonium peuvent se dégrader et exploser en projetant des fragments métalliques. De nombreux modèles BMW (séries 1, 3, 5, X) ont été rappelés.",
+          "sources": [
+            {
+              "label": "lifestyle-bmw.fr",
+              "url": "https://lifestyle-bmw.fr/airbag-takata-bmw/"
+            },
+            {
+              "label": "bmw.be",
+              "url": "https://www.bmw.be/fr/topics/offers-and-services/personal-services/recall-information.html"
+            }
+          ]
+        },
+        {
+          "title": "Rappels pour risque d'incendie (refroidisseur EGR)",
+          "severity": "modéré",
+          "tags": [
+            "sécurité des produits"
+          ],
+          "summary": "BMW a procédé à des rappels portant sur des moteurs diesel produits entre 2014 et 2020 en raison d'un risque de fuite de liquide de refroidissement au niveau du refroidisseur EGR, pouvant s'échauffer au contact de dépôts inflammables et provoquer un départ de feu. Plus de 50 000 véhicules ont été concernés en France.",
+          "sources": [
+            {
+              "label": "automag.fr",
+              "url": "https://www.automag.fr/pratique/fiabilite-et-rappels/bmw-rappel-risque-incendie.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bnp-paribas",
+      "name": "BNP Paribas",
+      "country": "France",
+      "founded": "2000 (fusion BNP et Paribas ; racines de la BNP remontant à 1848)",
+      "website": "https://group.bnpparibas",
+      "revenue": "Produit net bancaire de 51,2 milliards d'euros en 2024",
+      "description": "Premier groupe bancaire français et l'une des plus grandes banques de la zone euro. Banque universelle présente dans plus de 60 pays, organisée autour de trois pôles : Banque Commerciale et Services (banque de détail), Investissement et Protection (assurance, gestion d'actifs) et Corporate & Institutional Banking (banque de financement et d'investissement).",
+      "brands": [
+        {
+          "name": "Hello bank!",
+          "aliases": [
+            "Hello bank"
+          ],
+          "category": "Banque en ligne",
+          "note": "Banque mobile du groupe lancée en 2013."
+        },
+        {
+          "name": "Nickel",
+          "aliases": [
+            "Compte Nickel"
+          ],
+          "category": "Compte sans banque",
+          "note": "Compte accessible chez les buralistes, racheté par BNP Paribas en 2017 ; environ 4,3 millions de comptes."
+        },
+        {
+          "name": "Cetelem",
+          "aliases": [
+            "BNP Paribas Personal Finance"
+          ],
+          "category": "Crédit à la consommation",
+          "note": "Marque historique de crédit conso, opérée via BNP Paribas Personal Finance."
+        },
+        {
+          "name": "Cardif",
+          "aliases": [
+            "BNP Paribas Cardif"
+          ],
+          "category": "Assurance",
+          "note": "Filiale d'assurance (assurance emprunteur, épargne, prévoyance)."
+        },
+        {
+          "name": "Arval",
+          "category": "Location longue durée de véhicules",
+          "note": "Leader de la location de flottes automobiles."
+        },
+        {
+          "name": "BNP Paribas Fortis",
+          "aliases": [
+            "Fortis"
+          ],
+          "category": "Banque de détail",
+          "note": "Principale banque de détail en Belgique."
+        },
+        {
+          "name": "BNL",
+          "aliases": [
+            "Banca Nazionale del Lavoro"
+          ],
+          "category": "Banque de détail",
+          "note": "Réseau de banque de détail en Italie."
+        },
+        {
+          "name": "BNP Paribas Asset Management",
+          "aliases": [
+            "BNPP AM"
+          ],
+          "category": "Gestion d'actifs",
+          "note": "A intégré AXA Investment Managers fin 2025."
+        },
+        {
+          "name": "BNP Paribas Real Estate",
+          "category": "Immobilier",
+          "note": "Services immobiliers aux entreprises et investisseurs."
+        },
+        {
+          "name": "BNP Paribas Leasing Solutions",
+          "category": "Financement locatif",
+          "note": "Financement et location d'équipements professionnels."
+        },
+        {
+          "name": "Bank of the West",
+          "category": "Banque de détail (historique)",
+          "note": "Ex-filiale américaine, cédée à BMO en 2023."
+        },
+        {
+          "name": "BancWest",
+          "category": "Banque (historique)",
+          "note": "Holding américaine, liée à la cession de Bank of the West."
+        }
+      ],
+      "scandals": [
+        {
+          "title": "Amende record de 8,9 milliards de dollars aux États-Unis pour violation d'embargos",
+          "year": 2014,
+          "period": "Transactions 2002-2009, accord en 2014",
+          "severity": "modéré",
+          "tags": [
+            "sanctions internationales",
+            "conformité"
+          ],
+          "summary": "Le 30 juin 2014, BNP Paribas a plaidé coupable et accepté de payer près de 8,9 milliards de dollars pour avoir réalisé des transactions avec l'Iran, Cuba et le Soudan en violation des embargos économiques américains. Il s'agit de la plus lourde sanction financière jamais infligée à une banque étrangère aux États-Unis, l'aggravation tenant à la poursuite des opérations après les premiers avertissements des autorités.",
+          "sources": [
+            {
+              "label": "La finance pour tous - Amende de 8,834 milliards de dollars",
+              "url": "https://www.lafinancepourtous.com/2014/07/03/bnp-paribas-paiera-une-amende-de-8834-milliards-de-dollars/"
+            },
+            {
+              "label": "Jeune Afrique - BNP Paribas va payer 8,9 milliards de dollars",
+              "url": "https://www.jeuneafrique.com/8621/economie-entreprises/tats-unis-bnp-paribas-va-payer-une-amende-de-8-9-milliards-de-dollars/"
+            }
+          ]
+        },
+        {
+          "title": "Premier financeur français des énergies fossiles et poursuites pour devoir de vigilance",
+          "year": 2024,
+          "period": "Années 2020, action en justice depuis 2023",
+          "severity": "modéré",
+          "tags": [
+            "environnement",
+            "climat"
+          ],
+          "summary": "Selon les ONG (Oxfam France, Reclaim Finance, Les Amis de la Terre, Notre Affaire à Tous), BNP Paribas reste le premier soutien français au développement des énergies fossiles, avec 5,9 milliards de dollars accordés aux développeurs en 2024 (+37%). La banque a été assignée en justice pour non-respect de la loi sur le devoir de vigilance. BNP Paribas Asset Management a toutefois annoncé fin 2024 cesser le financement primaire d'obligations de certaines entreprises pétro-gazières.",
+          "sources": [
+            {
+              "label": "Oxfam France - Affaire BNP",
+              "url": "https://www.oxfamfrance.org/climat-et-energie/affaire-bnp/"
+            },
+            {
+              "label": "Vert.eco - Le podium des banques françaises qui financent les énergies fossiles",
+              "url": "https://vert.eco/articles/bnp-paribas-credit-agricole-societe-generale-le-podium-des-banques-francaises-qui-financent-les-energies-fossiles"
+            },
+            {
+              "label": "Notre Affaire à Tous - Décryptage de l'assignation de BNP Paribas",
+              "url": "https://notreaffaireatous.org/decryptage-un-an-apres-son-assignation-en-justice-bnp-paribas-appelee-a-mettre-un-point-final-a-lexpansion-des-energies-fossiles/"
+            }
+          ]
+        },
+        {
+          "title": "Soupçons de fraude fiscale CumCum et perquisitions",
+          "year": 2023,
+          "period": "Pratiques révélées en 2018, perquisitions en mars 2023",
+          "severity": "modéré",
+          "tags": [
+            "fiscalité",
+            "fraude fiscale"
+          ],
+          "summary": "En mars 2023, une vaste opération de perquisition visant la fraude fiscale dite CumCum (arbitrage de dividendes destiné à éluder la retenue à la source des actionnaires étrangers) a ciblé cinq établissements dont BNP Paribas et sa filiale Exane, mobilisant 150 enquêteurs et le PNF avec des procureurs allemands. Le coût pour les finances publiques françaises est estimé à plusieurs dizaines de milliards d'euros sur vingt ans.",
+          "sources": [
+            {
+              "label": "Actu-Juridique - Fin de partie pour la fraude CumCum",
+              "url": "https://www.actu-juridique.fr/fiscalite/fiscal-finances/fin-de-partie-pour-la-fraude-cumcum/"
+            },
+            {
+              "label": "Actu-Juridique - Fraude CumCum, transactions des banques",
+              "url": "https://www.actu-juridique.fr/fiscalite/fiscal-finances/fraude-cumcum-deuxieme-transaction-pour-une-banque-dans-le-viseur-de-bercy/"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "bollore",
       "name": "Bolloré",
       "legalName": "Groupe Bolloré (Bolloré SE)",
@@ -2353,6 +2911,266 @@ window.CAPITALISME_DATA = {
             {
               "label": "Observatoire des multinationales – La machine médiatique et culturelle de Vincent Bolloré",
               "url": "https://multinationales.org/fr/enquetes/le-systeme-bollore/la-machine-de-guerre-mediatique-et-culturelle-de-vincent-bollore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bouygues",
+      "name": "Bouygues",
+      "country": "France",
+      "founded": null,
+      "website": null,
+      "revenue": null,
+      "description": "Conglomérat familial français présent dans la construction (Colas, Bouygues Construction), les télécoms (Bouygues Telecom) et les médias (groupe TF1).",
+      "brands": [
+        {
+          "name": "Bouygues Telecom",
+          "category": ""
+        },
+        {
+          "name": "B&You",
+          "category": ""
+        },
+        {
+          "name": "TF1",
+          "category": ""
+        },
+        {
+          "name": "LCI",
+          "category": ""
+        },
+        {
+          "name": "TMC",
+          "category": ""
+        },
+        {
+          "name": "TFX",
+          "category": ""
+        },
+        {
+          "name": "TF1 Séries Films",
+          "category": ""
+        },
+        {
+          "name": "TF1+",
+          "category": ""
+        },
+        {
+          "name": "TV Breizh",
+          "category": ""
+        },
+        {
+          "name": "Ushuaïa TV",
+          "category": ""
+        },
+        {
+          "name": "Histoire TV",
+          "category": ""
+        },
+        {
+          "name": "Colas",
+          "category": ""
+        },
+        {
+          "name": "Bouygues Construction",
+          "category": ""
+        },
+        {
+          "name": "Bouygues Immobilier",
+          "category": ""
+        },
+        {
+          "name": "Equans",
+          "category": ""
+        }
+      ],
+      "scandals": [
+        {
+          "title": "Projet avorté de fusion TF1-M6 et concentration des médias",
+          "severity": "modéré",
+          "tags": [
+            "concentration",
+            "médias"
+          ],
+          "summary": "Annoncé en mai 2021, le projet de fusion entre TF1 (Bouygues) et M6 (RTL Group) aurait réuni environ 40 % de l'audience télévisée et 71 % du marché publicitaire TV, suscitant de vives critiques sur la concentration des médias et les menaces pour le pluralisme. Face aux objections de l'Autorité de la concurrence, qui pointait un risque sur le pouvoir de marché publicitaire, Bouygues et RTL Group ont renoncé au rapprochement le 16 septembre 2022.",
+          "sources": [
+            {
+              "label": "autoritedelaconcurrence.fr",
+              "url": "https://www.autoritedelaconcurrence.fr/en/communiques-de-presse/tf1m6-autorite-de-la-concurrence-takes-note-decision-withdraw-its-planned"
+            },
+            {
+              "label": "acrimed.org",
+              "url": "https://www.acrimed.org/Fusion-TF1-M6-avortee-les-regrets-de-Francois"
+            }
+          ]
+        },
+        {
+          "title": "Condamnation pour travail illégal sur l'EPR de Flamanville",
+          "severity": "modéré",
+          "tags": [
+            "conditions de travail"
+          ],
+          "summary": "Par un arrêt du 12 janvier 2021, la Cour de cassation a rendu définitive la condamnation de Bouygues TP pour travail dissimulé sur le chantier de l'EPR de Flamanville (période 2009-2011). Le système, via la société Atlanco (filiale chypriote d'une entreprise irlandaise) et un bureau en Pologne, recourait à des centaines de travailleurs détachés roumains et polonais privés de protection sociale, de congés payés et, pour certains, de bulletins de paie. Les amendes ont été comprises entre 15 000 et 60 000 euros pour les sociétés condamnées.",
+          "sources": [
+            {
+              "label": "batiactu.com",
+              "url": "https://www.batiactu.com/edito/bouygues-condamne-cassation-travail-non-declare-sur-61072.php"
+            },
+            {
+              "label": "multinationales.org",
+              "url": "https://multinationales.org/fr/a-chaud/actualites/bouygues-juge-pour-travail-illegal-sur-le-chantier-de-l-epr"
+            }
+          ]
+        },
+        {
+          "title": "Convention judiciaire d'intérêt public pour corruption (hôpital d'Annecy)",
+          "severity": "modéré",
+          "tags": [
+            "corruption",
+            "fiscalité"
+          ],
+          "summary": "Le 15 mai 2023, le Parquet national financier a conclu une Convention judiciaire d'intérêt public (CJIP) avec Bouygues Bâtiment Sud-Est et Linkcity Sud-Est, assortie d'une amende d'intérêt public totale de 7,9 millions d'euros. Les filiales de Bouygues ont reconnu des irrégularités dans l'attribution de marchés de restructuration du centre hospitalier Annecy Genevois, dont un marché de 32 M€ attribué malgré un classement défavorable sur les prix et délais. La CJIP impose un programme de conformité de trois ans sous le contrôle de l'Agence française anticorruption.",
+          "sources": [
+            {
+              "label": "groupe-ecomedia.com",
+              "url": "https://groupe-ecomedia.com/une-amende-de-7964-me-infligee-a-bouygues/"
+            },
+            {
+              "label": "justice.gouv.fr",
+              "url": "https://www.justice.gouv.fr/sites/default/files/2023-06/CJIP_BBSE_LYSE_20230523.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bpce",
+      "name": "BPCE",
+      "country": "France",
+      "founded": "2009 (fusion des organes centraux de la Banque Populaire et de la Caisse d'Épargne)",
+      "website": "https://www.groupebpce.com",
+      "revenue": "Produit net bancaire de 23,3 milliards d'euros en 2024 ; résultat net part du groupe de 3,5 milliards d'euros",
+      "description": "Deuxième groupe bancaire français, mutualiste, né de la fusion des Banques Populaires et des Caisses d'Épargne. Organisé autour de deux réseaux de banque de détail mutualistes, de la banque de grande clientèle, gestion d'actifs et assurance regroupée chez Natixis, et de filiales spécialisées.",
+      "brands": [
+        {
+          "name": "Banque Populaire",
+          "category": "Banque de détail mutualiste",
+          "note": "Réseau de banques régionales coopératives ; PNB d'environ 6,1 milliards d'euros en 2024."
+        },
+        {
+          "name": "Caisse d'Épargne",
+          "aliases": [
+            "L'Écureuil"
+          ],
+          "category": "Banque de détail mutualiste",
+          "note": "Réseau de caisses régionales ; PNB d'environ 6,1 milliards d'euros en 2024."
+        },
+        {
+          "name": "Natixis",
+          "category": "Banque de grande clientèle / gestion d'actifs",
+          "note": "Pôle de banque de financement, gestion d'actifs et services financiers du groupe."
+        },
+        {
+          "name": "Oney",
+          "aliases": [
+            "Oney Bank"
+          ],
+          "category": "Crédit à la consommation / paiement",
+          "note": "Crédit conso et solutions de paiement fractionné."
+        },
+        {
+          "name": "Natixis Investment Managers",
+          "aliases": [
+            "Natixis IM"
+          ],
+          "category": "Gestion d'actifs",
+          "note": "Plateforme multi-affiliés de gestion d'actifs."
+        },
+        {
+          "name": "BPCE Assurances",
+          "category": "Assurance",
+          "note": "Activités d'assurance du groupe."
+        },
+        {
+          "name": "Banque Palatine",
+          "category": "Banque privée / entreprises",
+          "note": "Banque des entreprises et de la gestion privée."
+        },
+        {
+          "name": "BRED",
+          "aliases": [
+            "BRED Banque Populaire"
+          ],
+          "category": "Banque de détail",
+          "note": "Banque Populaire de grande taille, notamment en Île-de-France."
+        },
+        {
+          "name": "Crédit Foncier",
+          "category": "Financement immobilier (historique)",
+          "note": "Activités progressivement réintégrées au groupe."
+        },
+        {
+          "name": "Bpifrance (participation)",
+          "category": "Financement",
+          "note": "Lien historique ; Natixis a été associée à des activités de financement public."
+        }
+      ],
+      "scandals": [
+        {
+          "title": "Affaire H2O Asset Management (Natixis)",
+          "year": 2022,
+          "period": "Révélée en 2019, amende AMF fin 2022",
+          "severity": "modéré",
+          "tags": [
+            "protection des épargnants",
+            "gestion d'actifs",
+            "conformité"
+          ],
+          "summary": "H2O Asset Management, alors filiale de Natixis (BPCE), a été au cœur d'un scandale après la révélation en 2019 d'importantes positions sur des actifs illiquides liés à l'homme d'affaires Lars Windhorst. Le gel d'une partie des fonds (1,6 milliard d'euros) a privé les épargnants de l'accès à leur argent. La commission des sanctions de l'AMF a infligé fin 2022 une amende record totale de 93 millions d'euros (dont 75 millions à H2O). Natixis s'était désengagée progressivement à partir de 2022.",
+          "sources": [
+            {
+              "label": "Gestion de Fortune - Le Conseil d'État avalise la sanction de l'AMF",
+              "url": "https://www.gestiondefortune.com/fiscalite-droit/12458-affaire-h2o-le-conseil-d-etat-avalise-la-sanction-de-l-amf.html"
+            },
+            {
+              "label": "TradingView/AFP - Les grandes étapes du scandale H2O",
+              "url": "https://fr.tradingview.com/news/afp:fea0ea4667eac:0/"
+            }
+          ]
+        },
+        {
+          "title": "Soupçons de fraude fiscale CumCum (Natixis)",
+          "year": 2023,
+          "period": "Pratiques révélées en 2018, perquisitions en mars 2023",
+          "severity": "modéré",
+          "tags": [
+            "fiscalité",
+            "fraude fiscale"
+          ],
+          "summary": "Natixis, filiale de BPCE, a fait partie des cinq établissements perquisitionnés en mars 2023 dans l'enquête du PNF sur la fraude fiscale dite CumCum (arbitrage de dividendes destiné à éluder la retenue à la source des actionnaires étrangers).",
+          "sources": [
+            {
+              "label": "Actu-Juridique - Fin de partie pour la fraude CumCum",
+              "url": "https://www.actu-juridique.fr/fiscalite/fiscal-finances/fin-de-partie-pour-la-fraude-cumcum/"
+            }
+          ]
+        },
+        {
+          "title": "Financement des énergies fossiles",
+          "year": 2024,
+          "period": "Années 2020",
+          "severity": "modéré",
+          "tags": [
+            "environnement",
+            "climat"
+          ],
+          "summary": "Avec ses pairs français, BPCE figure parmi les financeurs des énergies fossiles pointés par le rapport Banking on Climate Chaos (co-réalisé par Reclaim Finance), classé autour de la 31e place mondiale, contribuant aux quelque 50 milliards de dollars de financements fossiles des banques françaises en 2024.",
+          "sources": [
+            {
+              "label": "Vert.eco - Le podium des banques françaises qui financent les énergies fossiles",
+              "url": "https://vert.eco/articles/bnp-paribas-credit-agricole-societe-generale-le-podium-des-banques-francaises-qui-financent-les-energies-fossiles"
             }
           ]
         }
@@ -3451,6 +4269,56 @@ window.CAPITALISME_DATA = {
       ]
     },
     {
+      "id": "cnp-assurances",
+      "name": "CNP Assurances",
+      "country": "France",
+      "founded": null,
+      "website": null,
+      "revenue": null,
+      "description": "Grand assureur français spécialisé dans l'assurance de personnes, filiale du groupe La Banque Postale.",
+      "brands": [
+        {
+          "name": "CNP Assurances",
+          "category": "Assurance"
+        },
+        {
+          "name": "CNP Patrimoine",
+          "category": "Assurance"
+        },
+        {
+          "name": "Caisse des Dépôts (actionnaire)",
+          "category": "Assurance"
+        },
+        {
+          "name": "La Banque Postale (actionnaire)",
+          "category": "Assurance"
+        }
+      ],
+      "scandals": [
+        {
+          "title": "Critiques des ONG sur le financement des énergies fossiles",
+          "severity": "modéré",
+          "tags": [
+            "environnement",
+            "climat",
+            "énergies fossiles",
+            "investissement"
+          ],
+          "summary": "Comme les autres grands investisseurs institutionnels, CNP Assurances a été épinglée par des ONG (Reclaim Finance, Les Amis de la Terre) pour son rôle de financeur des énergies fossiles via ses investissements. L'ONG reprochait notamment l'absence de date claire de sortie et des lacunes dans l'exclusion des énergies non conventionnelles. En février 2022, CNP Assurances a annoncé l'arrêt immédiat du financement de tout nouveau projet d'exploration ou de production de pétrole et de gaz fossile, une politique alors saluée comme « best practice » par Reclaim Finance.",
+          "sources": [
+            {
+              "label": "connaissancedesenergies.org",
+              "url": "https://www.connaissancedesenergies.org/afp/cnp-assurances-met-fin-au-financement-de-nouveaux-projets-dexploration-ou-de-production-de-petrole-et-de-gaz-fossile-220216"
+            },
+            {
+              "label": "reclaimfinance.org",
+              "url": "https://reclaimfinance.org/site/en/2022/02/17/major-french-investor-ends-support-for-oil-and-gas-expansion-and-sets-example-for-the-finance-community/"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "coca-cola",
       "name": "Coca-Cola",
       "legalName": "The Coca-Cola Company",
@@ -3915,6 +4783,437 @@ window.CAPITALISME_DATA = {
       ]
     },
     {
+      "id": "comcast-nbcuniversal",
+      "name": "Comcast (NBCUniversal)",
+      "country": "États-Unis",
+      "founded": null,
+      "website": null,
+      "revenue": null,
+      "description": "Géant américain des médias et télécommunications, propriétaire de NBCUniversal et de Sky.",
+      "brands": [
+        {
+          "name": "NBCUniversal",
+          "category": ""
+        },
+        {
+          "name": "NBC",
+          "category": ""
+        },
+        {
+          "name": "Universal Pictures",
+          "category": ""
+        },
+        {
+          "name": "DreamWorks Animation",
+          "category": ""
+        },
+        {
+          "name": "Universal Studios",
+          "category": ""
+        },
+        {
+          "name": "Peacock",
+          "category": ""
+        },
+        {
+          "name": "Sky",
+          "category": ""
+        },
+        {
+          "name": "Xfinity",
+          "category": ""
+        }
+      ],
+      "scandals": [
+        {
+          "title": "Fuite de données Xfinity touchant environ 36 millions de clients (2023)",
+          "severity": "modéré",
+          "tags": [
+            "données personnelles",
+            "cybersécurité"
+          ],
+          "summary": "En octobre 2023, le service Xfinity de Comcast a subi une intrusion exploitant la vulnerabilite « Citrix Bleed » (CVE-2023-4966). Les donnees compromises comprenaient des noms d'utilisateur, des mots de passe hashes, des dates de naissance, des coordonnees, les quatre derniers chiffres de numeros de securite sociale et des questions de securite. Une action collective a abouti a un reglement de 117,5 millions de dollars.",
+          "sources": [
+            {
+              "label": "cybersecuritydive.com",
+              "url": "https://www.cybersecuritydive.com/news/comcasts-xfinity-data-breach-citrixbleed/702957/"
+            },
+            {
+              "label": "therecord.media",
+              "url": "https://therecord.media/millions-affected-by-xfinity-data-breach"
+            },
+            {
+              "label": "fierce-network.com",
+              "url": "https://www.fierce-network.com/broadband/comcast-pay-out-1175m-over-security-breach"
+            }
+          ]
+        },
+        {
+          "title": "Atteintes a la neutralite du net et bridage du trafic P2P",
+          "severity": "modéré",
+          "tags": [
+            "neutralité du net",
+            "concurrence"
+          ],
+          "summary": "Comcast a ete au coeur du debat americain sur la neutralite du net. En 2007, une etude de l'Electronic Frontier Foundation a montre que Comcast utilisait des techniques de falsification de paquets pour entraver le partage de fichiers pair-a-pair (P2P), entrainant une procedure devant la FCC. L'entreprise a ete critiquee pour son opposition au principe d'egalite de traitement de tout le trafic Internet.",
+          "sources": [
+            {
+              "label": "Wikipédia",
+              "url": "https://en.wikipedia.org/wiki/Criticism_of_Comcast"
+            },
+            {
+              "label": "heritage.org",
+              "url": "https://www.heritage.org/technology/report/the-comcast-net-neutrality-controversy-discussion"
+            }
+          ]
+        },
+        {
+          "title": "Reputation de mauvais service client et pratiques commerciales agressives",
+          "severity": "modéré",
+          "tags": [
+            "pratiques commerciales",
+            "service client"
+          ],
+          "summary": "Comcast a regulierement obtenu parmi les plus mauvais scores de satisfaction client aux Etats-Unis (American Customer Satisfaction Index, 2004 et 2007). L'entreprise a connu plusieurs scandales de service client, dont le plus celebre fut l'enregistrement d'un representant refusant de laisser un abonne resilier son service. Frais caches et tactiques tarifaires agressives lui ont ete reproches.",
+          "sources": [
+            {
+              "label": "Wikipédia",
+              "url": "https://en.wikipedia.org/wiki/Criticism_of_Comcast"
+            },
+            {
+              "label": "stopthecap.com",
+              "url": "https://stopthecap.com/2014/08/11/comcasts-reputation-for-bad-customer-service-is-legendary-and-never-ending/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "covea",
+      "name": "Covéa",
+      "legalName": "Covéa (MAAF, MMA, GMF)",
+      "country": "France",
+      "founded": null,
+      "website": null,
+      "revenue": null,
+      "description": "Groupe mutualiste français d'assurance réunissant les marques MAAF, MMA et GMF.",
+      "brands": [
+        {
+          "name": "MAAF",
+          "category": "Assurance"
+        },
+        {
+          "name": "MMA",
+          "category": "Assurance"
+        },
+        {
+          "name": "GMF",
+          "category": "Assurance"
+        },
+        {
+          "name": "Fidélia Assistance",
+          "category": "Assurance"
+        },
+        {
+          "name": "Covéa Protection Juridique",
+          "category": "Assurance"
+        },
+        {
+          "name": "Covéa Finance",
+          "category": "Assurance"
+        },
+        {
+          "name": "Covéa Affinity",
+          "category": "Assurance"
+        },
+        {
+          "name": "SMI",
+          "category": "Assurance"
+        },
+        {
+          "name": "PartnerRe",
+          "category": "Assurance"
+        }
+      ],
+      "scandals": [
+        {
+          "title": "Rachat de PartnerRe et litige avec les sociétaires",
+          "severity": "modéré",
+          "tags": [
+            "gouvernance",
+            "mutualité",
+            "litige"
+          ],
+          "summary": "Covéa a racheté pour environ 9 milliards de dollars le réassureur bermudien PartnerRe. L'opération a suscité une controverse et des actions en justice : des sociétaires et l'homme d'affaires Didier Calmels ont contesté l'usage de ce « trésor de guerre » accumulé par les mutuelles, estimant qu'il aurait dû bénéficier aux sociétaires (baisse des primes ou redistribution) au nom des principes mutualistes de solidarité. Une assignation au fond contre la Sgam Covéa et ses mutuelles a été déposée au Tribunal judiciaire de Paris.",
+          "sources": [
+            {
+              "label": "francesoir.fr",
+              "url": "https://www.francesoir.fr/societe-economie/affaire-covea"
+            },
+            {
+              "label": "Wikipédia",
+              "url": "https://en.wikipedia.org/wiki/Cov%C3%A9a"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "credit-agricole",
+      "name": "Crédit Agricole",
+      "country": "France",
+      "founded": "1894 (premières caisses locales) ; structure actuelle issue des caisses régionales mutualistes",
+      "website": "https://www.credit-agricole.com",
+      "revenue": "Produit net bancaire d'environ 38 milliards d'euros pour le groupe en 2024 (27,2 milliards pour Crédit Agricole S.A.)",
+      "description": "Groupe bancaire mutualiste, l'un des premiers de France et d'Europe. Organisé autour de caisses régionales mutualistes, de l'organe central Crédit Agricole S.A. et de filiales spécialisées en banque de détail, assurance, gestion d'actifs et crédit à la consommation. Premier financeur de l'économie française.",
+      "brands": [
+        {
+          "name": "LCL",
+          "aliases": [
+            "Le Crédit Lyonnais"
+          ],
+          "category": "Banque de détail",
+          "note": "Réseau bancaire urbain du groupe."
+        },
+        {
+          "name": "BforBank",
+          "category": "Banque en ligne",
+          "note": "Banque en ligne 100% du groupe."
+        },
+        {
+          "name": "Amundi",
+          "category": "Gestion d'actifs",
+          "note": "Premier gestionnaire d'actifs européen, environ 2 000 milliards d'euros d'encours."
+        },
+        {
+          "name": "Sofinco",
+          "aliases": [
+            "CA Consumer Finance"
+          ],
+          "category": "Crédit à la consommation",
+          "note": "Marque de crédit conso du groupe en France."
+        },
+        {
+          "name": "Indosuez Wealth Management",
+          "aliases": [
+            "Indosuez",
+            "CA Indosuez"
+          ],
+          "category": "Banque privée / gestion de fortune",
+          "note": "Gestion de fortune internationale."
+        },
+        {
+          "name": "Crédit Agricole Assurances",
+          "aliases": [
+            "Pacifica",
+            "Predica"
+          ],
+          "category": "Assurance",
+          "note": "Premier assureur en France ; Pacifica (dommages) et Predica (vie)."
+        },
+        {
+          "name": "CACIB",
+          "aliases": [
+            "Crédit Agricole Corporate and Investment Bank"
+          ],
+          "category": "Banque de financement et d'investissement",
+          "note": "Banque de financement et d'investissement du groupe."
+        },
+        {
+          "name": "CACEIS",
+          "category": "Services aux investisseurs",
+          "note": "Conservation et administration d'actifs."
+        },
+        {
+          "name": "Crédit Agricole Italia",
+          "category": "Banque de détail",
+          "note": "Réseau de banque de détail en Italie."
+        },
+        {
+          "name": "Eurofactor",
+          "category": "Affacturage",
+          "note": "Solutions d'affacturage et de financement du poste clients."
+        }
+      ],
+      "scandals": [
+        {
+          "title": "Fraude fiscale CumCum : CJIP et amende de 88 millions d'euros",
+          "year": 2025,
+          "period": "Pratiques antérieures, CJIP signée en septembre 2025",
+          "severity": "modéré",
+          "tags": [
+            "fiscalité",
+            "fraude fiscale"
+          ],
+          "summary": "Crédit Agricole Corporate and Investment Bank (CACIB) a signé en septembre 2025 une convention judiciaire d'intérêt public (CJIP) avec le Parquet national financier, acceptant de payer environ 88,2 millions d'euros pour obtenir l'abandon des poursuites dans l'affaire de fraude fiscale dite CumCum (arbitrage de dividendes visant à éluder la retenue à la source).",
+          "sources": [
+            {
+              "label": "Franceinfo - CumCum : Crédit Agricole accepte une amende de 88 millions d'euros",
+              "url": "https://www.franceinfo.fr/economie/stratageme-fiscal-cumcum-credit-agricole-accepte-de-payer-une-amende-de-88-millions-d-euros_7480222.html"
+            },
+            {
+              "label": "LCB-FT - Crédit Agricole signe une CJIP pour 88 millions d'euros",
+              "url": "https://www.lcb-ft.fr/news/cumcum-credit-agricole-cjip"
+            }
+          ]
+        },
+        {
+          "title": "Important financeur des énergies fossiles",
+          "year": 2024,
+          "period": "Années 2020",
+          "severity": "modéré",
+          "tags": [
+            "environnement",
+            "climat"
+          ],
+          "summary": "Le Crédit Agricole figure parmi les principaux financeurs français des énergies fossiles, dans le top 30 mondial selon le rapport Banking on Climate Chaos co-réalisé par Reclaim Finance. Le groupe a annoncé en 2024 cesser tout financement de nouveaux projets d'extraction d'énergies fossiles, revendiquant une baisse de 40% de ses expositions entre 2020 et 2024, des engagements jugés encore insuffisants par les ONG.",
+          "sources": [
+            {
+              "label": "Vert.eco - Le podium des banques françaises qui financent les énergies fossiles",
+              "url": "https://vert.eco/articles/bnp-paribas-credit-agricole-societe-generale-le-podium-des-banques-francaises-qui-financent-les-energies-fossiles"
+            },
+            {
+              "label": "Presse Crédit Agricole - Crédit Agricole amplifie ses engagements climat",
+              "url": "https://presse.credit-agricole.com/actualites/credit-agricole-amplifie-ses-engagements-en-faveur-du-climat-8c40-9ed05.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "credit-mutuel",
+      "name": "Crédit Mutuel",
+      "legalName": "Crédit Mutuel Alliance Fédérale",
+      "country": "France",
+      "founded": "Crédit Mutuel fondé au XIXe siècle ; Crédit Mutuel Alliance Fédérale structurée dans les années 2010",
+      "website": "https://www.creditmutuelalliancefederale.fr",
+      "revenue": "Produit net bancaire record de 16,6 milliards d'euros en 2024 ; résultat net de 4,1 milliards d'euros",
+      "description": "Principal regroupement du Crédit Mutuel, banque mutualiste. Banque universelle de bancassurance regroupant des fédérations régionales de Crédit Mutuel, le réseau CIC, des filiales de crédit à la consommation, d'assurance, de technologie et un important pôle de presse régionale (EBRA).",
+      "brands": [
+        {
+          "name": "CIC",
+          "aliases": [
+            "Crédit Industriel et Commercial"
+          ],
+          "category": "Banque de détail / entreprises",
+          "note": "Réseau bancaire national ; PNB d'environ 6,3 milliards d'euros en 2024."
+        },
+        {
+          "name": "Cofidis",
+          "aliases": [
+            "Cofidis Group"
+          ],
+          "category": "Crédit à la consommation",
+          "note": "Crédit conso en France et en Europe."
+        },
+        {
+          "name": "Targobank",
+          "aliases": [
+            "TARGOBANK"
+          ],
+          "category": "Banque de détail",
+          "note": "Banque de détail en Allemagne (et Espagne)."
+        },
+        {
+          "name": "Beobank",
+          "category": "Banque de détail",
+          "note": "Réseau de banque de détail en Belgique."
+        },
+        {
+          "name": "ACM",
+          "aliases": [
+            "Assurances du Crédit Mutuel"
+          ],
+          "category": "Assurance",
+          "note": "Pôle assurance vie, dommages et prévoyance du groupe."
+        },
+        {
+          "name": "Euro-Information",
+          "category": "Technologie / informatique",
+          "note": "Filiale technologique et systèmes d'information du groupe."
+        },
+        {
+          "name": "BECM",
+          "aliases": [
+            "Banque Européenne du Crédit Mutuel"
+          ],
+          "category": "Banque des entreprises",
+          "note": "Banque dédiée aux entreprises et à l'immobilier professionnel."
+        },
+        {
+          "name": "Fortuneo",
+          "category": "Banque en ligne",
+          "note": "Banque en ligne du groupe Crédit Mutuel Arkéa (autre branche du Crédit Mutuel) — distincte d'Alliance Fédérale."
+        },
+        {
+          "name": "Monabanq",
+          "category": "Banque en ligne",
+          "note": "Banque en ligne du groupe."
+        },
+        {
+          "name": "Homiris",
+          "aliases": [
+            "EPS"
+          ],
+          "category": "Télésurveillance",
+          "note": "Services de télésurveillance et sécurité résidentielle."
+        },
+        {
+          "name": "EBRA",
+          "aliases": [
+            "Groupe EBRA",
+            "Est Bourgogne Rhône-Alpes"
+          ],
+          "category": "Presse / médias",
+          "note": "Premier groupe de presse quotidienne régionale français (L'Est Républicain, Le Progrès, Le Dauphiné Libéré, DNA, L'Alsace...), détenu à 100% via la BFCM ; concentration médias pointée par l'Autorité de la concurrence et des observateurs."
+        }
+      ],
+      "scandals": [
+        {
+          "title": "Concentration des médias via le groupe de presse EBRA",
+          "year": 2009,
+          "period": "Depuis 2006-2009, débats persistants",
+          "severity": "modéré",
+          "tags": [
+            "concentration des médias",
+            "pluralisme"
+          ],
+          "summary": "Crédit Mutuel Alliance Fédérale détient à 100% (via la BFCM) le groupe EBRA, premier groupe de presse quotidienne régionale français, contrôlant neuf quotidiens (L'Est Républicain, Le Progrès, Le Dauphiné Libéré, DNA, L'Alsace...) en situation de quasi-monopole dans l'Est de la France. L'Autorité de la concurrence avait relevé un risque d'homogénéisation des contenus et de réduction de la diversité de la presse, alimentant des critiques récurrentes sur l'indépendance éditoriale et le pluralisme.",
+          "sources": [
+            {
+              "label": "Wikipédia - Groupe EBRA",
+              "url": "https://fr.wikipedia.org/wiki/Groupe_EBRA"
+            },
+            {
+              "label": "Acrimed - Le groupe Ebra",
+              "url": "https://www.acrimed.org/+-Le-groupe-Ebra-+"
+            }
+          ]
+        },
+        {
+          "title": "Litiges récurrents de Cofidis sur le crédit à la consommation",
+          "year": 2024,
+          "period": "Années 2010-2020",
+          "severity": "modéré",
+          "tags": [
+            "protection des consommateurs",
+            "crédit à la consommation"
+          ],
+          "summary": "La filiale de crédit à la consommation Cofidis fait l'objet de litiges récurrents devant les tribunaux : décisions de justice retenant des manquements tels que le défaut de vérification de la solvabilité de l'emprunteur ou l'absence de remise de la fiche d'information précontractuelle (FIPEN), conduisant à la déchéance du droit aux intérêts ou au rejet de demandes en paiement.",
+          "sources": [
+            {
+              "label": "Cointet Avocat - Action de la banque Cofidis jugée irrecevable",
+              "url": "https://cointetavocatparis.fr/victoire-cabinet-cointet-cofidis-pret-personnel-irrecevable/"
+            },
+            {
+              "label": "Avocat Boutmy - Cofidis condamnée, action prescrite",
+              "url": "https://www.avocat-boutmy.com/asnieres---cofidis-deboutee--son-action-declaree-prescrite_ad256.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "danone",
       "name": "Danone",
       "legalName": "Danone S.A.",
@@ -4183,6 +5482,88 @@ window.CAPITALISME_DATA = {
       ]
     },
     {
+      "id": "deutsche-telekom",
+      "name": "Deutsche Telekom",
+      "legalName": "Deutsche Telekom (T-Mobile)",
+      "country": "Allemagne",
+      "founded": null,
+      "website": null,
+      "revenue": null,
+      "description": "Principal opérateur télécom allemand, maison mère de T-Mobile ; l'État allemand en est actionnaire.",
+      "brands": [
+        {
+          "name": "Deutsche Telekom",
+          "category": ""
+        },
+        {
+          "name": "Telekom",
+          "category": ""
+        },
+        {
+          "name": "T-Mobile",
+          "category": ""
+        },
+        {
+          "name": "T-Mobile US",
+          "category": ""
+        },
+        {
+          "name": "T-Systems",
+          "category": ""
+        },
+        {
+          "name": "Congstar",
+          "category": ""
+        },
+        {
+          "name": "T-Online",
+          "category": ""
+        },
+        {
+          "name": "Magenta Telekom (Autriche)",
+          "category": ""
+        },
+        {
+          "name": "OTE (Grèce, participation)",
+          "category": ""
+        }
+      ],
+      "scandals": [
+        {
+          "title": "Scandale d'écoutes et de surveillance de journalistes (2008)",
+          "severity": "modéré",
+          "tags": [
+            "données personnelles"
+          ],
+          "summary": "Révélé fin mai 2008 par Der Spiegel, le scandale a porté sur la surveillance de journalistes et de membres du conseil de surveillance de Deutsche Telekom. L'objectif était d'identifier les sources de fuites internes sur les réductions d'effectifs et acquisitions en 2005-2006. Des centaines de milliers d'enregistrements de connexions (fixes et mobiles) d'une soixantaine de personnes ont été analysés par une société de sécurité berlinoise. En 2010, un ancien responsable de la sécurité a été condamné, tandis que les poursuites contre l'ex-président Klaus Zumwinkel et l'ex-PDG Kai-Uwe Ricke ont été abandonnées.",
+          "sources": [
+            {
+              "label": "Wikipédia",
+              "url": "https://en.wikipedia.org/wiki/Deutsche_Telekom_eavesdropping_controversy"
+            },
+            {
+              "label": "bloomberg.com",
+              "url": "https://www.bloomberg.com/news/articles/2010-11-30/ex-deutsche-telekom-security-manager-convicted-for-spying-on-journalists"
+            }
+          ]
+        },
+        {
+          "title": "Vol de données de 17 millions de clients T-Mobile (2006)",
+          "severity": "modéré",
+          "tags": [
+            "données personnelles"
+          ],
+          "summary": "Deutsche Telekom a reconnu qu'un support de stockage contenant les données d'environ 17 millions de clients T-Mobile (noms, adresses, numéros de mobile, parfois date de naissance ou e-mail) avait été dérobé en 2006. Le vol a été signalé aux autorités au printemps 2006, mais pas au public ni aux clients concernés, l'affaire n'éclatant qu'en 2008. Le groupe et sa filiale américaine T-Mobile US ont par la suite connu plusieurs autres incidents majeurs de fuite de données.",
+          "sources": [
+            {
+              "label": "darkreading.com",
+              "url": "https://www.darkreading.com/perimeter/deutsche-telekom-t-mobile-confirm-theft-of-personal-data-on-17m-customers"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "diageo",
       "name": "Diageo",
       "legalName": "Diageo plc",
@@ -4438,6 +5819,163 @@ window.CAPITALISME_DATA = {
             {
               "label": "CNBC — Diageo pulls Snapchat adverts globally (3 janv. 2018)",
               "url": "https://www.cnbc.com/2018/01/03/diageo-pulls-snapchat-adverts-globally-as-uk-bans-captain-morgan-ad.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "disney",
+      "name": "Disney",
+      "legalName": "The Walt Disney Company",
+      "country": "États-Unis",
+      "founded": 1923,
+      "website": "https://thewaltdisneycompany.com",
+      "revenue": "Chiffre d'affaires d'environ 91 milliards de dollars sur l'exercice 2024",
+      "description": "Conglomérat américain de médias et de divertissement fondé en 1923 par Walt et Roy Disney. Il regroupe des studios de cinéma et d'animation, des chaînes de télévision (dont ABC et ESPN), des services de streaming (Disney+, Hulu), des parcs à thèmes et stations de vacances, ainsi que des activités de produits dérivés. Le groupe est dirigé par Robert Iger (PDG).",
+      "brands": [
+        {
+          "name": "Disney+",
+          "aliases": [
+            "disney+",
+            "disney plus",
+            "disneyplus"
+          ],
+          "category": "Service de streaming",
+          "note": "Plateforme de streaming lancée en 2019."
+        },
+        {
+          "name": "Pixar",
+          "aliases": [
+            "pixar",
+            "pixar animation"
+          ],
+          "category": "Studio d'animation",
+          "note": "Studio d'animation (Toy Story, Les Indestructibles), acquis par Disney en 2006."
+        },
+        {
+          "name": "Marvel Studios",
+          "aliases": [
+            "marvel",
+            "marvel studios"
+          ],
+          "category": "Studio de cinéma",
+          "note": "Studio à l'origine du Marvel Cinematic Universe, acquis via Marvel Entertainment en 2009."
+        },
+        {
+          "name": "Lucasfilm",
+          "aliases": [
+            "lucasfilm",
+            "star wars"
+          ],
+          "category": "Studio de cinéma",
+          "note": "Studio détenteur de la franchise Star Wars, acquis par Disney en 2012."
+        },
+        {
+          "name": "20th Century Studios",
+          "aliases": [
+            "20th century studios",
+            "20th century fox",
+            "20th century"
+          ],
+          "category": "Studio de cinéma",
+          "note": "Ex-20th Century Fox, intégré à Disney via le rachat des actifs de la 21st Century Fox en 2019."
+        },
+        {
+          "name": "ABC",
+          "aliases": [
+            "abc",
+            "abc news"
+          ],
+          "category": "Chaîne de télévision",
+          "note": "Réseau de télévision américain et division d'information."
+        },
+        {
+          "name": "ESPN",
+          "aliases": [
+            "espn"
+          ],
+          "category": "Chaîne de sport",
+          "note": "Groupe de chaînes sportives, détenu majoritairement par Disney."
+        },
+        {
+          "name": "Hulu",
+          "aliases": [
+            "hulu"
+          ],
+          "category": "Service de streaming",
+          "note": "Service de streaming américain, sous contrôle de Disney."
+        },
+        {
+          "name": "National Geographic",
+          "aliases": [
+            "national geographic",
+            "nat geo"
+          ],
+          "category": "Médias / chaîne",
+          "note": "Marque de médias et chaîne documentaire, sous contrôle de Disney."
+        },
+        {
+          "name": "Disneyland Paris",
+          "aliases": [
+            "disneyland paris",
+            "disneyland",
+            "eurodisney"
+          ],
+          "category": "Parcs et loisirs",
+          "note": "Complexe de parcs à thèmes en France, exploité par le groupe Disney."
+        }
+      ],
+      "scandals": [
+        {
+          "title": "Conflit avec la Floride et le gouverneur Ron DeSantis",
+          "year": 2023,
+          "period": "2022-2024",
+          "severity": "élevé",
+          "tags": [
+            "liberté d'expression",
+            "lobbying",
+            "politique"
+          ],
+          "summary": "Après que Disney s'est publiquement opposé en 2022 à la loi floridienne « Parental Rights in Education » (surnommée « Don't Say Gay » par ses détracteurs), le gouverneur républicain Ron DeSantis a engagé des représailles. La Floride a dissous le statut fiscal autonome du Reedy Creek Improvement District (qui administrait Disney World) et l'État en a pris le contrôle début 2023. Disney a alors poursuivi DeSantis en justice, dénonçant une « campagne de représailles » contre sa liberté d'expression, et a notamment renoncé à un projet de campus d'environ un milliard de dollars en Floride.",
+          "sources": [
+            {
+              "label": "Forbes - Disney Sues Florida Gov. Ron DeSantis Over Control Of Special District",
+              "url": "https://www.forbes.com/sites/kellyphillipserb/2023/04/26/disney-sues-florida-gov-ron-desantis-over-control-of-special-district-alleging-retaliation/"
+            },
+            {
+              "label": "Wikipedia - Disney v. DeSantis",
+              "url": "https://en.wikipedia.org/wiki/Disney_v._DeSantis"
+            },
+            {
+              "label": "Al Jazeera - Why is Florida Governor Ron DeSantis feuding with Disney?",
+              "url": "https://www.aljazeera.com/news/2023/5/24/why-is-florida-governor-ron-desantis-feuding-with-disney"
+            }
+          ]
+        },
+        {
+          "title": "Conditions de travail et salaires dans les parcs (« cast members »)",
+          "year": 2024,
+          "period": "2018-2024",
+          "severity": "modéré",
+          "tags": [
+            "conditions de travail",
+            "salaires",
+            "droit du travail"
+          ],
+          "summary": "Les conditions de travail et de rémunération des salariés des parcs Disney font l'objet de critiques récurrentes. En 2024, environ 99 % des salariés syndiqués de Disneyland Resort (Californie) ont voté pour autoriser une grève avant qu'un accord ne porte le salaire minimum à 24 dollars de l'heure ; un sondage syndical interne faisait état d'importants taux d'insécurité alimentaire et de logement parmi les « cast members ». Disney a par ailleurs accepté un règlement de plusieurs centaines de millions de dollars dans une action collective pour non-respect du salaire minimum local à Anaheim. À Disneyland Paris, des grèves ont conduit en 2024 à un accord salarial et au partage d'une partie des bénéfices.",
+          "sources": [
+            {
+              "label": "Forbes - Disneyland Avoids Strike, Workers Agree To $24 Hourly Minimum Wage",
+              "url": "https://www.forbes.com/sites/suzannerowankelleher/2024/07/30/disneyland-avoids-strike-workers-agree-to-24-dollar-minimum-wage/"
+            },
+            {
+              "label": "NBC News - Thousands of Disneyland workers vote to authorize a strike",
+              "url": "https://www.nbcnews.com/news/us-news/thousands-disneyland-workers-vote-authorize-strike-rcna162175"
+            },
+            {
+              "label": "Business & Human Rights Resource Centre - Disney criticised for alleged poor working conditions",
+              "url": "https://www.business-humanrights.org/en/latest-news/usa-disney-criticised-for-alleged-poor-working-conditions-in-disneyland-resort/"
             }
           ]
         }
@@ -5048,6 +6586,67 @@ window.CAPITALISME_DATA = {
             {
               "label": "As You Sow (résolution actionnariale)",
               "url": "https://www.asyousow.org/resolutions/2025/04/11-general-mills-regenerative-agriculture-outcomes"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "groupama",
+      "name": "Groupama",
+      "country": "France",
+      "founded": null,
+      "website": null,
+      "revenue": null,
+      "description": "Groupe mutualiste français d'assurance et de banque (Gan, Amaguiz).",
+      "brands": [
+        {
+          "name": "Groupama",
+          "category": "Assurance"
+        },
+        {
+          "name": "Gan",
+          "category": "Assurance"
+        },
+        {
+          "name": "Gan Assurances",
+          "category": "Assurance"
+        },
+        {
+          "name": "Gan Patrimoine",
+          "category": "Assurance"
+        },
+        {
+          "name": "Gan Prévoyance",
+          "category": "Assurance"
+        },
+        {
+          "name": "Amaguiz",
+          "category": "Assurance"
+        },
+        {
+          "name": "Groupama Gan Vie",
+          "category": "Assurance"
+        },
+        {
+          "name": "Groupama Asset Management",
+          "category": "Assurance"
+        }
+      ],
+      "scandals": [
+        {
+          "title": "Sanction de l'ACPR sur les contrats d'assurance-vie en déshérence",
+          "severity": "modéré",
+          "tags": [
+            "pratiques commerciales",
+            "sanction réglementaire",
+            "assurance-vie"
+          ],
+          "summary": "Le régulateur du secteur (ACPR) a infligé à Groupama Gan Vie, filiale de Groupama SA, une amende de 3 millions d'euros assortie d'un blâme pour avoir insuffisamment recherché ses clients décédés. Ces défaillances ont permis à la société de conserver indûment des capitaux qui auraient dû être versés aux bénéficiaires, sur lesquels elle a prélevé des frais de gestion et perçu une marge financière.",
+          "sources": [
+            {
+              "label": "newsassurancespro.com",
+              "url": "https://www.newsassurancespro.com/sanction-groupama-gan-vie-condamne-a-une-amende-de-3m-deuros/0169288807"
             }
           ]
         }
@@ -6513,6 +8112,160 @@ window.CAPITALISME_DATA = {
             {
               "label": "Greenpeace France – La position de Greenpeace sur l'huile de palme",
               "url": "https://www.greenpeace.fr/greenpeace-huile-de-palme/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hyundai-kia",
+      "name": "Hyundai-Kia",
+      "legalName": "Hyundai Motor Group",
+      "country": "Corée du Sud",
+      "founded": null,
+      "website": null,
+      "revenue": null,
+      "description": "Premier groupe automobile sud-coréen, réunissant Hyundai, Kia et Genesis.",
+      "brands": [
+        {
+          "name": "Hyundai",
+          "category": "Automobile"
+        },
+        {
+          "name": "Kia",
+          "category": "Automobile"
+        },
+        {
+          "name": "Genesis",
+          "category": "Automobile"
+        }
+      ],
+      "scandals": [
+        {
+          "title": "Vols facilités par l'absence d'antidémarrage (« Kia Challenge »)",
+          "severity": "modéré",
+          "tags": [
+            "sécurité des produits",
+            "tromperie"
+          ],
+          "summary": "Environ 9 millions de véhicules Hyundai et Kia (années-modèles 2011-2022) ont été vendus aux États-Unis sans système antidémarrage, les rendant faciles à voler avec un simple câble USB. La viralité du « Kia Challenge » sur TikTok a entraîné des milliers de vols. Plusieurs villes américaines ont porté plainte et un règlement de 200 millions de dollars a été conclu dans le cadre d'une action collective.",
+          "sources": [
+            {
+              "label": "clubic.com",
+              "url": "https://www.clubic.com/kia/actualite-457587-hyundai-kia-4-millions-de-vehicules-vulnerables-a-un-piratage-demontre-sur-tiktok.html"
+            },
+            {
+              "label": "clubic.com",
+              "url": "https://www.clubic.com/hyundai/actualite-470574-hyundai-et-kia-ont-fabrique-des-voitures-trop-faciles-a-voler-ils-vont-le-payer-tres-cher.html"
+            }
+          ]
+        },
+        {
+          "title": "Travail d'enfants chez des sous-traitants en Alabama (2022)",
+          "severity": "modéré",
+          "tags": [
+            "droits humains",
+            "conditions de travail"
+          ],
+          "summary": "Une enquête de Reuters en 2022 a révélé l'emploi illégal d'enfants migrants, certains âgés de 12 à 15 ans, chez des fournisseurs de pièces de Hyundai et Kia en Alabama (notamment SMART et SL Alabama). Le ministère américain du Travail a poursuivi Hyundai et infligé des amendes à des sous-traitants pour violation des lois sur le travail des mineurs.",
+          "sources": [
+            {
+              "label": "Wikipédia",
+              "url": "https://en.wikipedia.org/wiki/Hyundai_Alabama_child_labor_allegations"
+            },
+            {
+              "label": "dol.gov",
+              "url": "https://www.dol.gov/newsroom/releases/WHD/WHD20221011"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "iliad-free",
+      "name": "Iliad (Free)",
+      "country": "France",
+      "founded": null,
+      "website": null,
+      "revenue": null,
+      "description": "Groupe de télécommunications français fondé par Xavier Niel, maison mère de l'opérateur Free.",
+      "brands": [
+        {
+          "name": "Free",
+          "category": ""
+        },
+        {
+          "name": "Free Mobile",
+          "category": ""
+        },
+        {
+          "name": "Free Pro",
+          "category": ""
+        },
+        {
+          "name": "Freebox",
+          "category": ""
+        },
+        {
+          "name": "Jaguar Network",
+          "category": ""
+        },
+        {
+          "name": "Scaleway",
+          "category": ""
+        },
+        {
+          "name": "Monaco Telecom",
+          "category": ""
+        },
+        {
+          "name": "Salt Mobile (Suisse)",
+          "category": ""
+        },
+        {
+          "name": "iliad (Italie)",
+          "category": ""
+        },
+        {
+          "name": "Eir (Irlande, participation)",
+          "category": ""
+        }
+      ],
+      "scandals": [
+        {
+          "title": "Piratage massif de 2024 et sanction CNIL de 42 millions d'euros",
+          "severity": "modéré",
+          "tags": [
+            "données personnelles",
+            "conditions de travail"
+          ],
+          "summary": "Entre le 8 et le 21 octobre 2024, les données personnelles d'environ 19,2 millions d'abonnés Free ont été compromises, incluant plus de 5 millions d'IBAN, après l'intrusion d'un attaquant dans un outil de gestion. Un suspect de 17 ans a été interpellé en janvier 2025 et mis en examen. Le 13 janvier 2026, la CNIL a sanctionné le groupe Iliad (Free et Free Mobile) d'une amende de 42 millions d'euros pour manquement à la sécurité des données. À la suite de la fuite, Free a supprimé le télétravail dans ses centres d'appels, déclenchant une grève des salariés.",
+          "sources": [
+            {
+              "label": "journaldugeek.com",
+              "url": "https://www.journaldugeek.com/2025/12/21/un-an-apres-le-piratage-massif-la-sanction-pourrait-etre-tres-salee-pour-free/"
+            },
+            {
+              "label": "securite.developpez.com",
+              "url": "https://securite.developpez.com/actu/365636/Apres-la-fuite-de-donnees-Free-prend-une-decision-radicale-pour-des-raisons-de-cybersecurite-et-met-fin-au-teletravail-pour-les-salaries-de-ses-centres-d-appels-declenchant-une-greve-des-employes/"
+            }
+          ]
+        },
+        {
+          "title": "Pratiques managériales dans les centres d'appels (« système Free »)",
+          "severity": "modéré",
+          "tags": [
+            "conditions de travail"
+          ],
+          "summary": "En mai 2016, une enquête de Politis a révélé des pratiques managériales contestées dans certains centres d'appels du groupe Free : fichage de salariés, licenciements jugés montés de toutes pièces et répression syndicale. Plusieurs filiales ont été condamnées pour licenciement abusif, notamment par les prud'hommes de Paris le 12 avril 2016. L'enquête a aussi mis au jour une sélection des salariés sondés pour obtenir un label « entreprise où il fait bon travailler ». Xavier Niel a reconnu la dureté des conditions de travail, décrivant ce métier comme « le pire des jobs ».",
+          "sources": [
+            {
+              "label": "politis.fr",
+              "url": "https://www.politis.fr/articles/2016/06/comment-free-a-obtenu-le-label-des-entreprises-ou-il-fait-bon-travailler-34931/"
+            },
+            {
+              "label": "phonandroid.com",
+              "url": "https://www.phonandroid.com/xavier-niel-explique-polemique-systeme-free-interview.html"
             }
           ]
         }
@@ -8003,6 +9756,110 @@ window.CAPITALISME_DATA = {
             {
               "label": "ASA (régulateur britannique)",
               "url": "https://www.asa.org.uk/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "la-banque-postale",
+      "name": "La Banque Postale",
+      "country": "France",
+      "founded": "2006 (issue des services financiers de La Poste)",
+      "website": "https://www.labanquepostale.com",
+      "revenue": "Produit net bancaire de 7,6 milliards d'euros en 2024 (+4,1%)",
+      "description": "Banque publique, filiale du groupe La Poste (lui-même détenu par la Caisse des dépôts et l'État). Banque universelle avec une forte mission d'accessibilité bancaire et de service public, présente dans la banque de détail, l'assurance (via CNP Assurances) et la gestion d'actifs.",
+      "brands": [
+        {
+          "name": "La Banque Postale",
+          "aliases": [
+            "LBP"
+          ],
+          "category": "Banque de détail",
+          "note": "Banque au quotidien, distribuée notamment via le réseau des bureaux de poste."
+        },
+        {
+          "name": "CNP Assurances",
+          "category": "Assurance",
+          "note": "Grand assureur (vie, prévoyance), filiale du groupe ; intégrée à 100% au pôle assurance."
+        },
+        {
+          "name": "Louvre Banque Privée",
+          "aliases": [
+            "BPE"
+          ],
+          "category": "Banque privée",
+          "note": "Marque de gestion privée et patrimoniale du groupe."
+        },
+        {
+          "name": "Ma French Bank",
+          "category": "Banque mobile (fermée)",
+          "note": "Ancienne néobanque mobile ; cessation d'activité engagée (fermeture)."
+        },
+        {
+          "name": "La Banque Postale Asset Management",
+          "aliases": [
+            "LBP AM"
+          ],
+          "category": "Gestion d'actifs",
+          "note": "Filiale de gestion d'actifs du groupe."
+        },
+        {
+          "name": "La Banque Postale Assurances IARD",
+          "category": "Assurance dommages",
+          "note": "Assurances habitation, auto et dommages."
+        },
+        {
+          "name": "La Banque Postale Consumer Finance",
+          "aliases": [
+            "Djust / partenariats conso"
+          ],
+          "category": "Crédit à la consommation",
+          "note": "Activités de crédit à la consommation du groupe."
+        },
+        {
+          "name": "La Banque Postale Leasing & Factoring",
+          "category": "Financement / affacturage",
+          "note": "Solutions de financement locatif et d'affacturage."
+        }
+      ],
+      "scandals": [
+        {
+          "title": "Sanction ACPR de 50 millions d'euros pour manquements à la lutte anti-blanchiment",
+          "year": 2018,
+          "period": "Contrôle en 2017, sanction en décembre 2018, confirmée par le Conseil d'État",
+          "severity": "modéré",
+          "tags": [
+            "blanchiment",
+            "conformité",
+            "financement du terrorisme"
+          ],
+          "summary": "Par une décision du 21 décembre 2018, la commission des sanctions de l'ACPR a infligé à La Banque Postale un blâme et une amende de 50 millions d'euros pour des manquements au dispositif de gel des avoirs : le système de Mandats Cash permettait des transferts d'espèces sans contrôle préalable, en violation des obligations LCB-FT. La sanction a été confirmée par le Conseil d'État.",
+          "sources": [
+            {
+              "label": "Actu-Juridique - La sanction de l'ACPR confirmée par le Conseil d'État",
+              "url": "https://www.actu-juridique.fr/affaires/lcbft-la-sanction-de-lacpr-a-lencontre-de-la-banque-postale-confirmee-par-le-conseil-detat/"
+            },
+            {
+              "label": "La Base Lextenso - Les mandats cash de La Banque Postale à l'amende",
+              "url": "https://www.labase-lextenso.fr/gazette-du-palais/GPL342f3"
+            }
+          ]
+        },
+        {
+          "title": "Financement des énergies fossiles via CNP Assurances et activités du groupe",
+          "year": 2024,
+          "period": "Années 2020",
+          "severity": "modéré",
+          "tags": [
+            "environnement",
+            "climat"
+          ],
+          "summary": "Bien que La Banque Postale ait adopté une politique de sortie des énergies fossiles parmi les plus volontaristes des banques françaises, sa filiale d'assurance CNP Assurances et les portefeuilles du groupe ont fait l'objet de critiques d'ONG sur la persistance d'expositions au secteur fossile, dans le cadre du débat plus large sur l'alignement climatique du secteur financier français.",
+          "sources": [
+            {
+              "label": "Oxfam France - Comment les banques françaises financent les énergies fossiles",
+              "url": "https://www.oxfamfrance.org/climat-et-energie/comment-les-banques-francaises-financent-les-energies-fossiles/"
             }
           ]
         }
@@ -9506,6 +11363,82 @@ window.CAPITALISME_DATA = {
       ]
     },
     {
+      "id": "mercedes-benz",
+      "name": "Mercedes-Benz",
+      "legalName": "Mercedes-Benz Group",
+      "country": "Allemagne",
+      "founded": null,
+      "website": null,
+      "revenue": null,
+      "description": "Constructeur automobile premium allemand basé à Stuttgart (ex-Daimler).",
+      "brands": [
+        {
+          "name": "Mercedes-Benz",
+          "category": "Automobile"
+        },
+        {
+          "name": "Mercedes-AMG",
+          "category": "Automobile"
+        },
+        {
+          "name": "Mercedes-Maybach",
+          "category": "Automobile"
+        }
+      ],
+      "scandals": [
+        {
+          "title": "Dieselgate Mercedes : logiciels truqueurs (amende 2019)",
+          "severity": "modéré",
+          "tags": [
+            "environnement",
+            "tromperie",
+            "santé"
+          ],
+          "summary": "Mercedes-Benz a été accusée d'avoir utilisé plusieurs dispositifs frauduleux pour manipuler les émissions d'oxyde d'azote (NOx) de véhicules diesel produits entre 2009 et 2019. Le constructeur a dû rappeler des centaines de milliers de véhicules (774 000 en Europe) et a accepté en 2019 une amende de 870 millions d'euros en Allemagne.",
+          "sources": [
+            {
+              "label": "largus.fr",
+              "url": "https://www.largus.fr/actualite-automobile/dieselgate-mercedes-accuse-davoir-installe-huit-logiciels-truqueurs-10765402.html"
+            },
+            {
+              "label": "fr.motor1.com",
+              "url": "https://fr.motor1.com/news/246222/dieselgate-mercedes-benz-rappel-774000-voitures-europe/"
+            }
+          ]
+        },
+        {
+          "title": "Entente sur les technologies antipollution diesel (cartel UE)",
+          "severity": "modéré",
+          "tags": [
+            "environnement",
+            "tromperie"
+          ],
+          "summary": "Daimler (devenu groupe Mercedes-Benz) a fait partie du cartel des technologies de dépollution diesel sanctionné par la Commission européenne en 2021. L'entreprise a toutefois été dispensée d'amende pour avoir révélé l'existence de l'entente.",
+          "sources": [
+            {
+              "label": "usinenouvelle.com",
+              "url": "https://www.usinenouvelle.com/article/pourquoi-l-europe-inflige-875-millions-d-euros-d-amende-a-bmw-et-volkswagen.N1120689"
+            }
+          ]
+        },
+        {
+          "title": "Action collective européenne sur les émissions",
+          "severity": "modéré",
+          "tags": [
+            "tromperie",
+            "environnement"
+          ],
+          "summary": "Mercedes-Benz fait l'objet d'actions collectives en Europe, menées notamment par la Fondation Diesel Emissions Justice, au nom de propriétaires de véhicules diesel s'estimant trompés sur les niveaux réels d'émissions.",
+          "sources": [
+            {
+              "label": "europe1.fr",
+              "url": "https://www.europe1.fr/economie/information-europe-1-dieselgate-mercedes-assigne-par-une-action-collective-europeenne-3976751"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "meta",
       "name": "Meta",
       "legalName": "Meta Platforms, Inc.",
@@ -10334,6 +12267,108 @@ window.CAPITALISME_DATA = {
       ]
     },
     {
+      "id": "netflix",
+      "name": "Netflix",
+      "country": "États-Unis",
+      "founded": 1997,
+      "website": "https://www.netflix.com",
+      "revenue": "Chiffre d'affaires d'environ 39 milliards de dollars en 2024",
+      "description": "Service de streaming par abonnement et studio de production américain fondé en 1997 par Reed Hastings et Marc Randolph, à l'origine sous forme de location de DVD par correspondance. Devenu le premier service de vidéo à la demande au monde, il compte plus de 300 millions d'abonnés et produit ses propres films et séries (Netflix Originals). Le groupe est dirigé par Ted Sarandos et Greg Peters (co-PDG), Reed Hastings étant président exécutif du conseil d'administration.",
+      "brands": [
+        {
+          "name": "Netflix",
+          "aliases": [
+            "netflix",
+            "net flix"
+          ],
+          "category": "Service de streaming",
+          "note": "Service de vidéo à la demande par abonnement, marque principale du groupe."
+        },
+        {
+          "name": "Netflix Originals",
+          "aliases": [
+            "netflix originals",
+            "netflix original",
+            "originals"
+          ],
+          "category": "Production / catalogue",
+          "note": "Films et séries produits ou financés directement par Netflix."
+        },
+        {
+          "name": "Netflix Games",
+          "aliases": [
+            "netflix games",
+            "netflix gaming"
+          ],
+          "category": "Jeux vidéo",
+          "note": "Offre de jeux mobiles incluse dans l'abonnement, lancée en 2021."
+        }
+      ],
+      "scandals": [
+        {
+          "title": "Polémique autour du film « Mignonnes » (Cuties)",
+          "year": 2020,
+          "period": "2020",
+          "severity": "modéré",
+          "tags": [
+            "protection de l'enfance",
+            "communication",
+            "liberté d'expression"
+          ],
+          "summary": "En 2020, le marketing international du film français « Mignonnes » (Cuties) de Maïmouna Doucouré, diffusé sur Netflix, a déclenché une vive polémique : l'affiche et le résumé promotionnels ont été jugés sexualisant des préadolescentes. Une pétition réclamant le retrait du film a recueilli des centaines de milliers de signatures et le mot-clé #CancelNetflix a circulé largement. Netflix a présenté des excuses pour son « matériel promotionnel inapproprié » et l'a modifié, tout en maintenant le film, primé à Sundance.",
+          "sources": [
+            {
+              "label": "AlloCiné - Mignonnes : Netflix s'excuse après la diffusion d'une affiche inappropriée",
+              "url": "https://www.allocine.fr/article/fichearticle_gen_carticle=18692345.html"
+            },
+            {
+              "label": "Netflix-News - Mignonnes (Cuties) : une pétition réclame le retrait du film",
+              "url": "https://www.netflix-news.com/articles/programmes/films/212109-mignonnes-cuties-une-petition-reclame-le-retrait-du-film-francais-sur-netflix-20-08-2020/"
+            }
+          ]
+        },
+        {
+          "title": "Fin du partage de comptes hors foyer",
+          "year": 2023,
+          "period": "2023",
+          "severity": "modéré",
+          "tags": [
+            "consommateurs",
+            "pratiques commerciales",
+            "prix"
+          ],
+          "summary": "À partir de mai 2023, Netflix a généralisé la fin du partage de compte entre personnes de foyers différents, jusque-là toléré pour environ 100 millions de foyers. Le service a imposé de payer un supplément pour ajouter un « membre supplémentaire » hors du domicile (à partir d'environ 6 € par mois en France). La mesure a suscité des critiques de la part d'associations de consommateurs et un mécontentement des abonnés, mais s'est traduite à terme par une hausse du nombre d'abonnés et des revenus.",
+          "sources": [
+            {
+              "label": "UFC-Que Choisir - Netflix : le partage de compte bientôt payant",
+              "url": "https://www.quechoisir.org/actualite-netflix-le-partage-de-compte-bientot-payant-n105474/"
+            },
+            {
+              "label": "Tom's Guide - Fin du partage de compte Netflix : les nouvelles règles",
+              "url": "https://www.tomsguide.fr/partage-de-compte-netflix/"
+            }
+          ]
+        },
+        {
+          "title": "Contrôle fiscal en France et montage via les Pays-Bas",
+          "year": 2022,
+          "period": "2019-2022",
+          "severity": "modéré",
+          "tags": [
+            "fiscalité",
+            "optimisation fiscale"
+          ],
+          "summary": "La filiale française de Netflix a fait l'objet, à partir de 2022, d'un contrôle fiscal. Le groupe est soupçonné d'avoir minimisé son imposition en France en déclarant aux Pays-Bas le chiffre d'affaires réalisé auprès de ses abonnés français : Netflix Services France, qui revendiquait jusqu'à sept millions d'abonnés sur 2019-2020, n'aurait déclaré qu'environ 981 000 euros d'impôt sur les bénéfices. Après l'abandon de ce montage, le chiffre d'affaires déclaré en France est passé de 47,1 millions d'euros en 2020 à plus de 1,2 milliard d'euros.",
+          "sources": [
+            {
+              "label": "Le JDD - La filiale française de Netflix visée par un contrôle fiscal",
+              "url": "https://www.lejdd.fr/economie/la-filiale-francaise-de-netflix-visee-par-un-controle-fiscal-138008"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "nike",
       "name": "Nike",
       "legalName": "NIKE, Inc.",
@@ -10440,6 +12475,114 @@ window.CAPITALISME_DATA = {
       ]
     },
     {
+      "id": "orange",
+      "name": "Orange",
+      "country": "France",
+      "founded": null,
+      "website": null,
+      "revenue": null,
+      "description": "Principal opérateur de télécommunications français (ex-France Télécom), présent en Europe et en Afrique ; l'État français en est un actionnaire de référence.",
+      "brands": [
+        {
+          "name": "Orange",
+          "category": ""
+        },
+        {
+          "name": "Sosh",
+          "category": ""
+        },
+        {
+          "name": "Orange Business",
+          "category": ""
+        },
+        {
+          "name": "Orange Cyberdefense",
+          "category": ""
+        },
+        {
+          "name": "Orange Caraïbe",
+          "category": ""
+        },
+        {
+          "name": "Orange Belgium",
+          "category": ""
+        },
+        {
+          "name": "Orange Polska",
+          "category": ""
+        },
+        {
+          "name": "MásOrange (Espagne)",
+          "category": ""
+        },
+        {
+          "name": "Orange Studio",
+          "category": ""
+        },
+        {
+          "name": "Wholesale (anciennement Orange International Carriers)",
+          "category": ""
+        }
+      ],
+      "scandals": [
+        {
+          "title": "Affaire France Télécom : crise des suicides et harcèlement moral institutionnel",
+          "severity": "modéré",
+          "tags": [
+            "conditions de travail"
+          ],
+          "summary": "Entre 2006 et 2011, la réorganisation menée sous le plan NExT (objectif de 22 000 départs sur 120 000 salariés) a provoqué une grave crise sociale, marquée par une vague de suicides en 2008-2009. Le 20 décembre 2019, France Télécom (devenue Orange) et ses ex-dirigeants ont été condamnés pour « harcèlement moral institutionnel », une qualification inédite. Le 21 janvier 2025, la Cour de cassation a rendu définitive la condamnation de l'ex-PDG Didier Lombard et de l'ex-numéro deux Pierre-Louis Wenès à un an de prison dont huit mois avec sursis et 15 000 euros d'amende. Lombard reste associé à sa phrase de 2007 sur les départs « par la fenêtre ou par la porte ».",
+          "sources": [
+            {
+              "label": "Wikipédia",
+              "url": "https://fr.wikipedia.org/wiki/Affaire_France_T%C3%A9l%C3%A9com"
+            },
+            {
+              "label": "theconversation.com",
+              "url": "https://theconversation.com/les-dirigeants-de-france-telecom-definitivement-condamnes-et-apres-248148"
+            }
+          ]
+        },
+        {
+          "title": "Sanction CNIL de 50 millions d'euros pour publicités non consenties",
+          "severity": "modéré",
+          "tags": [
+            "données personnelles"
+          ],
+          "summary": "Le 14 novembre 2024, la CNIL a infligé à Orange une amende de 50 millions d'euros pour avoir affiché, entre les courriels des utilisateurs de sa messagerie, des annonces publicitaires sous forme de faux courriels sans recueillir leur consentement (violation de l'article L. 34-5 du code des postes et des communications électroniques), et pour avoir continué à lire des cookies après le retrait du consentement des utilisateurs. Orange a contesté la décision devant le Conseil d'État ; la CNIL a clôturé l'injonction en septembre 2025 après mise en conformité.",
+          "sources": [
+            {
+              "label": "cnil.fr",
+              "url": "https://www.cnil.fr/fr/publicites-inserees-entre-les-courriels-sanction-de-50-millions-deuros-orange"
+            },
+            {
+              "label": "universfreebox.com",
+              "url": "https://www.universfreebox.com/article/592351/orange-ne-digere-toujours-pas-une-amende-de-50-millions-deuros-infligee-par-la-cnil-et-saisit-le-conseil-detat"
+            }
+          ]
+        },
+        {
+          "title": "Fermeture d'Orange Bank et désengagement des activités à valeur ajoutée",
+          "severity": "modéré",
+          "tags": [
+            "conditions de travail",
+            "fiscalité"
+          ],
+          "summary": "Après des pertes répétées, Orange a acté en 2023 la fin d'Orange Bank en France : la clientèle a été cédée à BNP Paribas (offre Hello bank!) avant la mise en extinction de l'activité. Entre 2022 et 2024, les effectifs du groupe ont reculé d'environ 20 %, accompagnant la fermeture d'Orange Bank, la cession de la branche média et l'arrêt de l'ADSL. Les syndicats (CFE-CGC) ont dénoncé un appauvrissement des métiers et une dégradation du réseau de distribution.",
+          "sources": [
+            {
+              "label": "cfecgc-orange.org",
+              "url": "https://www.cfecgc-orange.org/2023062613315/actu-numerique/orange-bank-cession-de-la-clientele-a-bnp-paribas-avant-mise-en-extinction.html"
+            },
+            {
+              "label": "infonet.fr",
+              "url": "https://infonet.fr/actualite/analyses-financieres/bilan-2024-orange-chiffres/"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "ouest-france-sipa",
       "name": "Ouest-France (SIPA)",
       "legalName": "Groupe SIPA – Ouest-France",
@@ -10489,6 +12632,99 @@ window.CAPITALISME_DATA = {
         }
       ],
       "scandals": []
+    },
+    {
+      "id": "paramount-skydance",
+      "name": "Paramount (Skydance)",
+      "legalName": "Paramount (Paramount Skydance Corporation)",
+      "country": "États-Unis",
+      "founded": null,
+      "website": null,
+      "revenue": null,
+      "description": "Groupe de médias et de divertissement américain (Paramount, CBS, MTV), issu de la fusion avec Skydance en 2025.",
+      "brands": [
+        {
+          "name": "Paramount Pictures",
+          "category": ""
+        },
+        {
+          "name": "Paramount+",
+          "category": ""
+        },
+        {
+          "name": "CBS",
+          "category": ""
+        },
+        {
+          "name": "MTV",
+          "category": ""
+        },
+        {
+          "name": "Nickelodeon",
+          "category": ""
+        },
+        {
+          "name": "Comedy Central",
+          "category": ""
+        },
+        {
+          "name": "Showtime",
+          "category": ""
+        },
+        {
+          "name": "Skydance Media",
+          "category": ""
+        }
+      ],
+      "scandals": [
+        {
+          "title": "Transaction de 16 millions de dollars avec Donald Trump (proces 60 Minutes, 2025)",
+          "severity": "modéré",
+          "tags": [
+            "liberté de la presse",
+            "indépendance éditoriale",
+            "conflit d'intérêts"
+          ],
+          "summary": "En juillet 2025, Paramount a accepte de payer 16 millions de dollars pour mettre fin a la plainte de Donald Trump l'accusant d'avoir trompeusement monte une interview de Kamala Harris diffusee dans 60 Minutes (CBS) durant la campagne 2024. Le reglement, intervenu alors que la fusion avec Skydance devait etre approuvee par l'administration Trump, a ete largement critique comme une atteinte au Premier Amendement ; des senateurs (Sanders, Warren, Wyden) ont evoque un risque de corruption.",
+          "sources": [
+            {
+              "label": "cbsnews.com",
+              "url": "https://www.cbsnews.com/news/paramount-trump-60-minutes-lawsuit-settlement/"
+            },
+            {
+              "label": "cnn.com",
+              "url": "https://www.cnn.com/2025/07/02/media/cbs-trump-60-minutes-paramount-settlement"
+            },
+            {
+              "label": "npr.org",
+              "url": "https://www.npr.org/2025/07/02/nx-s1-5290171/trump-lawsuit-paramount-cbs-60-minutes-kamala-harris"
+            }
+          ]
+        },
+        {
+          "title": "Annulation du Late Show de Stephen Colbert (2025)",
+          "severity": "modéré",
+          "tags": [
+            "liberté de la presse",
+            "indépendance éditoriale"
+          ],
+          "summary": "En juillet 2025, CBS a annonce l'arret du « Late Show with Stephen Colbert » (effectif en mai 2026), quelques jours apres que l'animateur eut qualifie de « grosse corruption » le reglement de 16 millions de dollars conclu avec Trump, dans le contexte de la fusion Paramount-Skydance en attente d'approbation. Des senateurs democrates ont reclame des explications sur d'eventuels motifs politiques ; Paramount/Skydance ont invoque des raisons financieres et nie toute implication.",
+          "sources": [
+            {
+              "label": "cnn.com",
+              "url": "https://www.cnn.com/2025/07/18/media/colbert-cbs-late-show-cancel-paramount-trump"
+            },
+            {
+              "label": "variety.com",
+              "url": "https://variety.com/2025/tv/news/skydance-colbert-late-show-anti-bribery-laws-paramount-senators-letter-1236476164/"
+            },
+            {
+              "label": "aljazeera.com",
+              "url": "https://www.aljazeera.com/economy/2025/7/18/cbs-cancels-colberts-late-show-amid-pending-paramount-skydance-merger"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "pepsico",
@@ -11856,6 +14092,83 @@ window.CAPITALISME_DATA = {
       ]
     },
     {
+      "id": "renault",
+      "name": "Renault",
+      "legalName": "Renault Group",
+      "country": "France",
+      "founded": null,
+      "website": null,
+      "revenue": null,
+      "description": "Constructeur automobile français, cœur de l'Alliance Renault-Nissan-Mitsubishi ; l'État français en est actionnaire.",
+      "brands": [
+        {
+          "name": "Renault",
+          "category": "Automobile"
+        },
+        {
+          "name": "Dacia",
+          "category": "Automobile"
+        },
+        {
+          "name": "Alpine",
+          "category": "Automobile"
+        },
+        {
+          "name": "Mobilize",
+          "category": "Automobile"
+        }
+      ],
+      "scandals": [
+        {
+          "title": "Dieselgate : Renault mis en examen pour tromperie",
+          "year": 2021,
+          "severity": "modéré",
+          "tags": [
+            "environnement",
+            "tromperie",
+            "pollution",
+            "santé"
+          ],
+          "summary": "Renault a été mis en examen en France pour tromperie dans l'enquête sur les émissions de moteurs diesel. Le constructeur est soupçonné par la Répression des fraudes (DGCCRF) d'avoir mis en place des stratégies destinées à fausser les tests d'homologation antipollution, certains véhicules dépassant largement les seuils réglementaires en conditions réelles. Le parquet de Paris a requis un procès pour tromperie aggravée. Renault conteste les accusations et nie avoir équipé ses véhicules de logiciels truqueurs.",
+          "sources": [
+            {
+              "label": "usinenouvelle.com",
+              "url": "https://www.usinenouvelle.com/article/-dieselgate-renault-mis-en-examen-pour-tromperie.N1101014"
+            },
+            {
+              "label": "francebleu.fr",
+              "url": "https://www.francebleu.fr/infos/faits-divers-justice/renault-soupconne-de-tromperie-sur-ses-moteurs-diesel-1489559219"
+            },
+            {
+              "label": "autoactu.com",
+              "url": "https://www.autoactu.com/actualites/dieselgate-rebondissement-dans-le-proces-contre-renault"
+            }
+          ]
+        },
+        {
+          "title": "Retrait de Russie et cession d'AvtoVAZ (Lada)",
+          "year": 2022,
+          "severity": "modéré",
+          "tags": [
+            "droits humains",
+            "géopolitique",
+            "gouvernance"
+          ],
+          "summary": "À la suite de l'invasion de l'Ukraine et des sanctions internationales, le groupe Renault s'est retiré du marché russe en 2022. Il a cédé sa participation majoritaire (environ 68 %) dans le constructeur AvtoVAZ, propriétaire de la marque Lada, à un institut de recherche public russe pour un rouble symbolique, avec une option de rachat sur six ans, et a transféré son usine moscovite à la ville de Moscou. L'opération a entraîné une charge d'environ 2,2 milliards d'euros. Lada ne fait donc plus partie du groupe Renault depuis 2022.",
+          "sources": [
+            {
+              "label": "fr.euronews.com",
+              "url": "https://fr.euronews.com/2022/05/16/le-groupe-renault-renonce-a-ses-actifs-en-russie-et-cede-l-entreprise-avtovaz"
+            },
+            {
+              "label": "adheo.fr",
+              "url": "https://www.adheo.fr/publications/renault-acte-la-cession-de-tous-ses-actifs-en-russie/"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "restaurant-brands-burger-king",
       "name": "Restaurant Brands (Burger King)",
       "legalName": "Restaurant Brands International Inc. (RBI)",
@@ -12862,6 +15175,435 @@ window.CAPITALISME_DATA = {
       ]
     },
     {
+      "id": "societe-generale",
+      "name": "Société Générale",
+      "country": "France",
+      "founded": "1864",
+      "website": "https://www.societegenerale.com",
+      "revenue": "Produit net bancaire de 26,8 milliards d'euros en 2024 ; résultat net de 4,2 milliards d'euros",
+      "description": "L'un des principaux groupes bancaires français, banque universelle présente dans de nombreux pays. Organisée autour de la banque de détail en France (réseau Société Générale fusionné avec le Crédit du Nord), de la banque de détail internationale et services financiers (mobilité), et de la banque de grande clientèle et solutions investisseurs.",
+      "brands": [
+        {
+          "name": "BoursoBank",
+          "aliases": [
+            "Boursorama",
+            "Boursorama Banque"
+          ],
+          "category": "Banque en ligne",
+          "note": "Banque en ligne du groupe, renommée BoursoBank en 2023 ; plus de 7 millions de clients fin 2024."
+        },
+        {
+          "name": "Crédit du Nord",
+          "category": "Banque de détail (historique)",
+          "note": "Réseau régional fusionné avec celui de Société Générale en 2023."
+        },
+        {
+          "name": "Franfinance",
+          "category": "Crédit à la consommation",
+          "note": "Filiale de crédit à la consommation et de financement de ventes."
+        },
+        {
+          "name": "Ayvens",
+          "aliases": [
+            "ALD Automotive",
+            "LeasePlan"
+          ],
+          "category": "Location longue durée / mobilité",
+          "note": "Numéro 1 mondial de la location de véhicules, né en 2023 de la fusion ALD-LeasePlan ; flotte d'environ 3,2 millions de véhicules."
+        },
+        {
+          "name": "SG Corporate & Investment Banking",
+          "aliases": [
+            "SG CIB"
+          ],
+          "category": "Banque de financement et d'investissement",
+          "note": "Activités de marché et de financement."
+        },
+        {
+          "name": "Sogecap",
+          "category": "Assurance",
+          "note": "Filiale d'assurance vie du groupe."
+        },
+        {
+          "name": "Sogessur",
+          "category": "Assurance",
+          "note": "Assurance dommages du groupe."
+        },
+        {
+          "name": "Komercni banka",
+          "aliases": [
+            "KB"
+          ],
+          "category": "Banque de détail",
+          "note": "Banque de détail en République tchèque."
+        },
+        {
+          "name": "BRD",
+          "aliases": [
+            "BRD - Groupe Société Générale"
+          ],
+          "category": "Banque de détail",
+          "note": "Réseau de banque de détail en Roumanie."
+        },
+        {
+          "name": "Société Générale Equipment Finance",
+          "aliases": [
+            "SGEF"
+          ],
+          "category": "Financement d'équipements",
+          "note": "Financement de biens d'équipement professionnels."
+        }
+      ],
+      "scandals": [
+        {
+          "title": "Affaire Kerviel : perte de 4,9 milliards d'euros",
+          "year": 2008,
+          "period": "Découverte en janvier 2008",
+          "severity": "modéré",
+          "tags": [
+            "fraude",
+            "contrôle interne",
+            "marchés financiers"
+          ],
+          "summary": "Le 24 janvier 2008, la Société Générale a annoncé une perte de 4,9 milliards d'euros résultant de positions de marché dissimulées par le trader Jérôme Kerviel, dont les positions secrètes auraient atteint environ 50 milliards d'euros, soit 1,7 fois les fonds propres de la banque à l'époque. L'affaire a mis en cause les défaillances du contrôle interne.",
+          "sources": [
+            {
+              "label": "Société Générale - Affaire Kerviel",
+              "url": "https://www.societegenerale.com/fr/actualites/toutes-les-actualites/affaire-kerviel"
+            },
+            {
+              "label": "Wikipédia - Crise financière de janvier 2008 à la Société Générale",
+              "url": "https://fr.wikipedia.org/wiki/Crise_financi%C3%A8re_de_janvier_2008_%C3%A0_la_Soci%C3%A9t%C3%A9_g%C3%A9n%C3%A9rale"
+            }
+          ]
+        },
+        {
+          "title": "Sanctions américaines : 1,34 milliard de dollars pour violation d'embargos",
+          "year": 2018,
+          "period": "Accord en novembre 2018",
+          "severity": "modéré",
+          "tags": [
+            "sanctions internationales",
+            "blanchiment",
+            "conformité"
+          ],
+          "summary": "En 2018, Société Générale a conclu des accords avec les autorités américaines totalisant environ 1,34 milliard de dollars pour des transactions ayant enfreint les embargos visant l'Iran, le Soudan et Cuba, auxquels s'ajoutent 95 millions de dollars avec le régulateur de l'État de New York pour des manquements à la lutte contre le blanchiment.",
+          "sources": [
+            {
+              "label": "TradingSat / BFM Bourse - Le chapitre des sanctions américaines enfin clos",
+              "url": "https://www.tradingsat.com/societe-generale-FR0000130809/actualites/societe-generale-le-chapitre-des-sanctions-americaines-enfin-clos-pour-la-societe-generale-836193.html"
+            }
+          ]
+        },
+        {
+          "title": "Soupçons de fraude fiscale CumCum et perquisitions",
+          "year": 2023,
+          "period": "Pratiques révélées en 2018, perquisitions en mars 2023",
+          "severity": "modéré",
+          "tags": [
+            "fiscalité",
+            "fraude fiscale"
+          ],
+          "summary": "En mars 2023, Société Générale a fait partie des cinq établissements perquisitionnés dans l'enquête sur la fraude fiscale dite CumCum (arbitrage de dividendes visant à éluder la retenue à la source des actionnaires étrangers), opération menée par le PNF avec des procureurs allemands.",
+          "sources": [
+            {
+              "label": "Actu-Juridique - Fin de partie pour la fraude CumCum",
+              "url": "https://www.actu-juridique.fr/fiscalite/fiscal-finances/fin-de-partie-pour-la-fraude-cumcum/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sony",
+      "name": "Sony",
+      "legalName": "Sony Group",
+      "country": "Japon",
+      "founded": null,
+      "website": null,
+      "revenue": null,
+      "description": "Conglomérat japonais d'électronique, de jeux vidéo (PlayStation), de cinéma (Sony Pictures) et de musique (Sony Music).",
+      "brands": [
+        {
+          "name": "PlayStation",
+          "category": ""
+        },
+        {
+          "name": "Sony Pictures (Columbia Pictures)",
+          "category": ""
+        },
+        {
+          "name": "Sony Music",
+          "category": ""
+        },
+        {
+          "name": "Sony (électronique)",
+          "category": ""
+        }
+      ],
+      "scandals": [
+        {
+          "title": "Piratage du PlayStation Network (2011)",
+          "severity": "modéré",
+          "tags": [
+            "données personnelles",
+            "cybersécurité"
+          ],
+          "summary": "Entre le 17 et le 19 avril 2011, une intrusion dans le PlayStation Network et le service Qriocity a expose les donnees personnelles de pres de 77 millions de comptes : noms, adresses, dates de naissance, adresses e-mail et mots de passe, certaines donnees de paiement etant potentiellement concernees. Sony a ferme le reseau pendant plusieurs semaines, faisant de cette affaire l'une des plus grandes fuites de donnees de l'epoque ; de nombreuses actions en justice ont suivi.",
+          "sources": [
+            {
+              "label": "Wikipédia",
+              "url": "https://fr.wikipedia.org/wiki/Piratage_du_PlayStation_Network"
+            },
+            {
+              "label": "france24.com",
+              "url": "https://www.france24.com/fr/20110505-sony-anonymous-playstation-psn-soe-jeux-video-hack-piratage-kirai"
+            }
+          ]
+        },
+        {
+          "title": "Piratage de Sony Pictures (2014)",
+          "severity": "modéré",
+          "tags": [
+            "données personnelles",
+            "cybersécurité",
+            "liberté d'expression"
+          ],
+          "summary": "Le 24 novembre 2014, le groupe « Guardians of Peace » a divulgue des donnees confidentielles de Sony Pictures Entertainment : courriels d'employes, numeros de securite sociale, salaires de dirigeants, films inedits et echanges internes embarrassants. Les pirates exigeaient le retrait du film « The Interview », satire visant Kim Jong-un. Le FBI a attribue l'attaque a la Coree du Nord, attribution mise en doute par une partie des experts.",
+          "sources": [
+            {
+              "label": "Wikipédia",
+              "url": "https://en.wikipedia.org/wiki/2014_Sony_Pictures_hack"
+            },
+            {
+              "label": "time.com",
+              "url": "https://time.com/3639275/the-interview-sony-hack-north-korea/"
+            }
+          ]
+        },
+        {
+          "title": "Scandale du rootkit des CD Sony BMG (2005)",
+          "severity": "modéré",
+          "tags": [
+            "données personnelles",
+            "cybersécurité",
+            "pratiques commerciales"
+          ],
+          "summary": "En 2005, Sony BMG a distribue environ 22 millions de CD integrant des logiciels de protection anticopie (XCP/MediaMax) qui s'installaient a la maniere d'un rootkit, modifiant le systeme d'exploitation, etaient difficiles a desinstaller, creaient des failles de securite exploitables par d'autres logiciels malveillants et transmettaient des informations sur les habitudes d'ecoute. Apres une vive polemique, des enquetes et des recours collectifs, Sony BMG a rappele une partie des CD et conclu des reglements.",
+          "sources": [
+            {
+              "label": "Wikipédia",
+              "url": "https://en.wikipedia.org/wiki/Sony_BMG_copy_protection_rootkit_scandal"
+            },
+            {
+              "label": "eff.org",
+              "url": "https://www.eff.org/cases/sony-bmg-litigation-info"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "spotify",
+      "name": "Spotify",
+      "country": "Suède",
+      "founded": null,
+      "website": null,
+      "revenue": null,
+      "description": "Principale plateforme mondiale de streaming musical, basée en Suède.",
+      "brands": [
+        {
+          "name": "Spotify",
+          "category": ""
+        }
+      ],
+      "scandals": [
+        {
+          "title": "Desinformation et controverse Joe Rogan (2022)",
+          "severity": "modéré",
+          "tags": [
+            "désinformation",
+            "modération des contenus"
+          ],
+          "summary": "En janvier 2022, Neil Young puis Joni Mitchell ont retire leur musique de Spotify pour protester contre l'hebergement du podcast « The Joe Rogan Experience », accuse de diffuser de la desinformation sur le Covid-19 (notamment une interview du Dr Robert Malone et la promotion de l'ivermectine). Des experts de sante avaient demande des mesures a Spotify, qui a finalement ajoute des avertissements sur les contenus traitant du Covid-19.",
+          "sources": [
+            {
+              "label": "franceinfo.fr",
+              "url": "https://www.franceinfo.fr/culture/musique/rock/neil-young-met-sa-menace-a-execution-et-retire-sa-musique-de-spotify-qu-il-accuse-de-desinformation-sur-le-covid_4931201.html"
+            },
+            {
+              "label": "cbsnews.com",
+              "url": "https://www.cbsnews.com/news/neil-young-spotify-return-joe-rogan-boycott-covid-19-misinformation-podcast/"
+            }
+          ]
+        },
+        {
+          "title": "Faible remuneration des artistes",
+          "severity": "modéré",
+          "tags": [
+            "rémunération",
+            "conditions de travail"
+          ],
+          "summary": "Le modele de remuneration de Spotify est regulierement conteste par les artistes et les organisations professionnelles. Selon des estimations, la plateforme verserait l'equivalent d'environ 0,003 a 0,005 dollar par ecoute, soit moins qu'Apple Music ou Amazon Music. Le systeme de « streamshare » est accuse de favoriser les gros catalogues et les intermediaires (labels, editeurs) au detriment des artistes independants ; l'Union of Musicians and Allied Workers (UMAW) milite pour une remuneration directe et plus elevee.",
+          "sources": [
+            {
+              "label": "innovations.fr",
+              "url": "https://innovations.fr/spotify-et-les-artistes-une-remuneration-toujours-contestee/"
+            },
+            {
+              "label": "clubic.com",
+              "url": "https://www.clubic.com/actualite-556845-remuneration-des-artistes-spotify-defend-bec-et-ongles-son-modele-de-paiement.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "stellantis",
+      "name": "Stellantis",
+      "country": "Pays-Bas",
+      "founded": null,
+      "website": null,
+      "revenue": null,
+      "description": "Quatrième constructeur automobile mondial, né en 2021 de la fusion de PSA (Peugeot-Citroën) et de Fiat Chrysler Automobiles.",
+      "brands": [
+        {
+          "name": "Peugeot",
+          "category": "Automobile"
+        },
+        {
+          "name": "Citroën",
+          "category": "Automobile"
+        },
+        {
+          "name": "DS Automobiles",
+          "category": "Automobile"
+        },
+        {
+          "name": "Opel",
+          "category": "Automobile"
+        },
+        {
+          "name": "Vauxhall",
+          "category": "Automobile"
+        },
+        {
+          "name": "Fiat",
+          "category": "Automobile"
+        },
+        {
+          "name": "Abarth",
+          "category": "Automobile"
+        },
+        {
+          "name": "Lancia",
+          "category": "Automobile"
+        },
+        {
+          "name": "Alfa Romeo",
+          "category": "Automobile"
+        },
+        {
+          "name": "Jeep",
+          "category": "Automobile"
+        },
+        {
+          "name": "Dodge",
+          "category": "Automobile"
+        },
+        {
+          "name": "Ram",
+          "category": "Automobile"
+        },
+        {
+          "name": "Chrysler",
+          "category": "Automobile"
+        },
+        {
+          "name": "Maserati",
+          "category": "Automobile"
+        }
+      ],
+      "scandals": [
+        {
+          "title": "Dieselgate : Peugeot et Citroën mis en examen pour tromperie",
+          "year": 2021,
+          "severity": "modéré",
+          "tags": [
+            "environnement",
+            "tromperie",
+            "pollution",
+            "santé"
+          ],
+          "summary": "Les filiales Peugeot et Citroën du groupe Stellantis ont été mises en examen pour tromperie dans l'enquête française sur les émissions de moteurs diesel Euro 5 vendus entre 2009 et 2015. Quelque 1,9 million de véhicules PSA seraient concernés par des stratégies de calibration permettant de respecter les normes d'oxydes d'azote principalement dans les conditions du test d'homologation. Le parquet de Paris a requis un procès pour tromperie aggravée ; l'amende maximale estimée par la DGCCRF atteignait plusieurs milliards d'euros.",
+          "sources": [
+            {
+              "label": "europe1.fr",
+              "url": "https://www.europe1.fr/economie/dieselgate-peugeot-mis-en-examen-en-france-4050977"
+            },
+            {
+              "label": "autoactu.com",
+              "url": "https://www.autoactu.com/actualites/dieselgate-un-deuxieme-proces-requis-pour-tromperie-cette-fois-contre-peugeot-et-citroen"
+            },
+            {
+              "label": "automobile-propre.com",
+              "url": "https://www.automobile-propre.com/breves/dieselgate-peugeot-mis-en-examen-pour-tromperie/"
+            }
+          ]
+        },
+        {
+          "title": "Moteur 1.2 PureTech : défaut de courroie de distribution et surconsommation d'huile",
+          "year": 2024,
+          "severity": "modéré",
+          "tags": [
+            "tromperie",
+            "sécurité",
+            "défaut produit"
+          ],
+          "summary": "Le moteur essence trois cylindres 1.2 PureTech, équipant de nombreux modèles Citroën, DS, Opel et Peugeot, présente une courroie de distribution qui se dégrade prématurément en libérant des résidus dans l'huile, pouvant entraîner la casse du moteur, ainsi que des problèmes de surconsommation d'huile. Face aux plaintes et à une action collective lancée en janvier 2024, Stellantis a étendu en mars 2024 la garantie à dix ans ou 175 000 km et ouvert une plateforme de réclamation. Début 2025, un rappel a visé environ 68 000 véhicules en France pour un défaut des buses de refroidissement par jet d'huile.",
+          "sources": [
+            {
+              "label": "largus.fr",
+              "url": "https://www.largus.fr/actualite-automobile/moteur-1-2-puretech-la-liste-des-citroen-ds-opel-et-peugeot-concernes-par-le-probleme-de-courroie-30035006.html"
+            },
+            {
+              "label": "quechoisir.org",
+              "url": "https://www.quechoisir.org/actualite-moteurs-puretech-stellantis-prend-a-minima-ses-responsabilites-n148604/"
+            },
+            {
+              "label": "bonjour.leocare.eu",
+              "url": "https://bonjour.leocare.eu/fr/blog/rappel-moteur-puretech/"
+            }
+          ]
+        },
+        {
+          "title": "Rappel des airbags Takata et ordre d'immobilisation (stop-drive)",
+          "year": 2024,
+          "severity": "modéré",
+          "tags": [
+            "sécurité",
+            "santé",
+            "rappel"
+          ],
+          "summary": "Stellantis a lancé des rappels massifs concernant des gonfleurs d'airbags fabriqués par Takata, susceptibles de se dégrader avec le temps et de projeter des fragments métalliques dans l'habitacle en cas de choc. Après un accident mortel impliquant une Citroën C3 en juin 2024, un ordre d'immobilisation (stop-drive) a été émis pour des dizaines de milliers de Citroën C3 et DS3 en France, puis étendu à d'autres modèles (C4, DS4, DS5). Le rappel couvre plusieurs marques du groupe et plusieurs centaines de milliers de véhicules.",
+          "sources": [
+            {
+              "label": "media.stellantis.com",
+              "url": "https://www.media.stellantis.com/me-en/corporate-communications/press/stellantis-issues-safety-recall-reminder-takata-airbags"
+            },
+            {
+              "label": "insurancejournal.com",
+              "url": "https://www.insurancejournal.com/news/international/2024/06/10/778730.htm"
+            },
+            {
+              "label": "en.passionnement-citroen.com",
+              "url": "https://en.passionnement-citroen.com/post/takata-airbags-when-the-scandal-hits-citroen-harder-than-others"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "suntory-orangina-schweppes",
       "name": "Suntory (Orangina Schweppes)",
       "legalName": "Suntory (Orangina Schweppes / Suntory Beverage & Food France)",
@@ -13053,6 +15795,106 @@ window.CAPITALISME_DATA = {
             {
               "label": "France 24",
               "url": "https://www.france24.com/fr/20190910-etude-sodas-danger-light-sucres-maladie-circ-sante"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tesla",
+      "name": "Tesla",
+      "country": "États-Unis",
+      "founded": null,
+      "website": null,
+      "revenue": null,
+      "description": "Constructeur de véhicules électriques et de solutions énergétiques dirigé par Elon Musk, basé au Texas.",
+      "brands": [
+        {
+          "name": "Tesla",
+          "category": "Automobile"
+        },
+        {
+          "name": "Powerwall",
+          "category": "Automobile"
+        },
+        {
+          "name": "Supercharger",
+          "category": "Automobile"
+        }
+      ],
+      "scandals": [
+        {
+          "title": "Enquêtes sur l'Autopilot et le « Full Self-Driving »",
+          "severity": "modéré",
+          "tags": [
+            "sécurité des produits",
+            "santé"
+          ],
+          "summary": "La NHTSA américaine a ouvert plusieurs enquêtes sur les systèmes d'aide à la conduite de Tesla. En octobre 2024, une enquête visant environ 2,4 millions de véhicules a été ouverte après des accidents (dont un mortel) impliquant le FSD en visibilité réduite ; elle a été élevée en analyse technique en 2026. L'agence a recensé des dizaines de décès liés à des collisions où ces systèmes étaient activés.",
+          "sources": [
+            {
+              "label": "cbsnews.com",
+              "url": "https://www.cbsnews.com/news/tesla-fsd-nhtsa-investigation-traffic-violations/"
+            },
+            {
+              "label": "cnbc.com",
+              "url": "https://www.cnbc.com/2024/10/18/tesla-faces-nhtsa-investigation-of-full-self-driving-after-fatal-collision.html"
+            }
+          ]
+        },
+        {
+          "title": "Discrimination raciale et harcèlement à l'usine de Fremont",
+          "severity": "modéré",
+          "tags": [
+            "droits humains",
+            "conditions de travail"
+          ],
+          "summary": "Des agences américaines (EEOC, département californien des droits civiques) ont poursuivi Tesla pour harcèlement racial systématique visant des employés noirs à l'usine de Fremont (insultes racistes, graffitis, discrimination dans les affectations et les promotions). Plus de 14 000 salariés noirs étaient concernés ; Tesla a réglé en 2024 une affaire ayant duré près d'une décennie.",
+          "sources": [
+            {
+              "label": "hrdive.com",
+              "url": "https://www.hrdive.com/news/tesla-sued-racial-harassment-retaliation-fremont-california-eeoc/695214/"
+            },
+            {
+              "label": "kqed.org",
+              "url": "https://www.kqed.org/news/12064374/tesla-dodges-class-action-case-now-faces-hundreds-of-individual-race-harassment-claims"
+            }
+          ]
+        },
+        {
+          "title": "Pratiques antisyndicales (décisions de la NLRB)",
+          "severity": "modéré",
+          "tags": [
+            "conditions de travail",
+            "droits humains"
+          ],
+          "summary": "Le Conseil national des relations de travail (NLRB) a statué à plusieurs reprises contre Tesla : en 2022 pour avoir interdit aux salariés de porter des t-shirts pro-syndicaux, et précédemment pour le licenciement d'un militant syndical et un tweet jugé menaçant d'Elon Musk laissant entendre que la syndicalisation entraînerait la perte de stock-options.",
+          "sources": [
+            {
+              "label": "hrdive.com",
+              "url": "https://www.hrdive.com/news/tesla-sued-racial-harassment-retaliation-fremont-california-eeoc/695214/"
+            },
+            {
+              "label": "guideautoweb.com",
+              "url": "https://www.guideautoweb.com/articles/64881/elon-musk-invite-le-syndicat-de-l-automobile-a-organiser-un-vote-chez-tesla/"
+            }
+          ]
+        },
+        {
+          "title": "Controverse sur la rémunération d'Elon Musk (Delaware)",
+          "severity": "modéré",
+          "tags": [
+            "gouvernance"
+          ],
+          "summary": "Le plan de rémunération d'Elon Musk de 2018 (environ 56 milliards de dollars) a été annulé en 2024 par la Cour du Chancery du Delaware, qui l'a jugé inéquitable et entaché de l'influence excessive de Musk sur le conseil d'administration, avant d'être finalement rétabli par la Cour suprême du Delaware en décembre 2025.",
+          "sources": [
+            {
+              "label": "cnbc.com",
+              "url": "https://www.cnbc.com/2025/12/19/musk-tesla-pay-delaware-supreme-court.html"
+            },
+            {
+              "label": "npr.org",
+              "url": "https://www.npr.org/2025/10/15/nx-s1-5567930/elon-musk-tesla-compensation-case-appeal"
             }
           ]
         }
@@ -13254,6 +16096,92 @@ window.CAPITALISME_DATA = {
             {
               "label": "Global Energy Monitor — Arctic LNG 2 Terminal",
               "url": "https://www.gem.wiki/Arctic_LNG_2_Terminal"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "toyota",
+      "name": "Toyota",
+      "country": "Japon",
+      "founded": null,
+      "website": null,
+      "revenue": null,
+      "description": "Premier constructeur automobile mondial, basé au Japon.",
+      "brands": [
+        {
+          "name": "Toyota",
+          "category": "Automobile"
+        },
+        {
+          "name": "Lexus",
+          "category": "Automobile"
+        },
+        {
+          "name": "Daihatsu",
+          "category": "Automobile"
+        },
+        {
+          "name": "Hino",
+          "category": "Automobile"
+        }
+      ],
+      "scandals": [
+        {
+          "title": "Falsification des tests de sécurité chez Daihatsu (2023)",
+          "severity": "modéré",
+          "tags": [
+            "tromperie",
+            "sécurité des produits"
+          ],
+          "summary": "Sa filiale Daihatsu a reconnu en 2023 avoir truqué des essais de sécurité (dont des crash-tests de collision latérale) sur 64 modèles, avec 174 irrégularités identifiées, certaines remontant à 1989. Daihatsu a suspendu toutes ses expéditions et les autorités japonaises ont retiré la certification de plusieurs modèles.",
+          "sources": [
+            {
+              "label": "largus.fr",
+              "url": "https://www.largus.fr/actualite-automobile/quel-est-ce-scandale-d-ampleur-chez-daihatsu-qui-eclabousse-toyota-30031188.html"
+            },
+            {
+              "label": "autoactu.com",
+              "url": "https://www.autoactu.com/actualites/toyota-et-quatre-autres-fabricants-epingles-par-un-scandale-de-tests-frauduleux-au-japon"
+            }
+          ]
+        },
+        {
+          "title": "Fraude aux émissions chez Hino Motors (2022)",
+          "severity": "modéré",
+          "tags": [
+            "environnement",
+            "tromperie"
+          ],
+          "summary": "Hino Motors, filiale de Toyota (détenue à 50,1 %), a reconnu en 2022 avoir falsifié des données d'émissions et de consommation de carburant sur ses moteurs, certaines manipulations remontant à 2003. Aux États-Unis, Hino a plaidé coupable et accepté de payer plus de 1,6 milliard de dollars (dont une amende pénale de 521,76 millions) pour résoudre l'affaire.",
+          "sources": [
+            {
+              "label": "justice.gov",
+              "url": "https://www.justice.gov/archives/opa/pr/hino-motors-toyota-subsidiary-agrees-plead-guilty-and-pay-over-16b-resolve-emissions-fraud"
+            },
+            {
+              "label": "epa.gov",
+              "url": "https://www.epa.gov/newsreleases/court-sentences-hino-motors-ltd-toyota-subsidiary-and-imposes-over-16b-penalties"
+            }
+          ]
+        },
+        {
+          "title": "Rappels pour accélération involontaire (2009-2010)",
+          "severity": "modéré",
+          "tags": [
+            "sécurité des produits",
+            "santé"
+          ],
+          "summary": "À la suite d'accidents, dont la mort de la famille Saylor dans une Lexus en 2009, Toyota a rappelé plusieurs millions de véhicules Toyota et Lexus aux États-Unis pour des problèmes d'accélération involontaire liés aux tapis de sol puis aux pédales d'accélérateur susceptibles de rester coincées.",
+          "sources": [
+            {
+              "label": "islean-consulting.fr",
+              "url": "https://islean-consulting.fr/fr/excellence-operationnelle/toyota-rappel-de-vehicules-retour-sur-un-souffle-mediatique/"
+            },
+            {
+              "label": "caradisiac.com",
+              "url": "https://www.caradisiac.com/Pedale-d-accelerateur-coincee-tous-les-modeles-Toyota-concernes-en-France-40696.htm"
             }
           ]
         }
@@ -13491,6 +16419,360 @@ window.CAPITALISME_DATA = {
             {
               "label": "Forbes – Critics slam Unilever rebrand of Fair & Lovely (2020)",
               "url": "https://www.forbes.com/sites/jemimamcevoy/2020/07/02/critics-slam-unilever-rebrand-of-fair--lovely-skin-lightener-as-glow--lovely/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vodafone",
+      "name": "Vodafone",
+      "country": "Royaume-Uni",
+      "founded": null,
+      "website": null,
+      "revenue": null,
+      "description": "L'un des principaux groupes mondiaux de télécommunications mobiles, basé au Royaume-Uni.",
+      "brands": [
+        {
+          "name": "Vodafone",
+          "category": ""
+        },
+        {
+          "name": "VOXI",
+          "category": ""
+        },
+        {
+          "name": "Vodafone Business",
+          "category": ""
+        },
+        {
+          "name": "Vodafone Germany",
+          "category": ""
+        },
+        {
+          "name": "Vodafone UK",
+          "category": ""
+        },
+        {
+          "name": "Vodacom (Afrique)",
+          "category": ""
+        },
+        {
+          "name": "Vodafone Idea (Inde, participation)",
+          "category": ""
+        }
+      ],
+      "scandals": [
+        {
+          "title": "Litige fiscal en Inde (taxation rétroactive)",
+          "severity": "modéré",
+          "tags": [
+            "fiscalité"
+          ],
+          "summary": "À la suite de l'acquisition d'actifs indiens (rachat de Hutchison Essar en 2007), la filiale britannique de Vodafone a fait l'objet d'une taxation rétroactive de la part du fisc indien, qui lui a réclamé plus de 2,2 milliards de dollars. L'affaire est devenue un cas emblématique des conflits entre multinationales des télécoms et autorités fiscales sur la taxation des plus-values transfrontalières.",
+          "sources": [
+            {
+              "label": "larevuedesmedias.ina.fr",
+              "url": "https://larevuedesmedias.ina.fr/vodafone-persiste-et-signe-en-inde"
+            },
+            {
+              "label": "Wikipédia",
+              "url": "https://en.wikipedia.org/wiki/Vodafone"
+            }
+          ]
+        },
+        {
+          "title": "Optimisation fiscale au Royaume-Uni et montages offshore",
+          "severity": "modéré",
+          "tags": [
+            "fiscalité"
+          ],
+          "summary": "En juin 2012, Vodafone a été au centre d'une polémique pour avoir échappé à l'impôt sur les sociétés au Royaume-Uni en 2011, l'attention se portant sur ses filiales au Luxembourg. Il a été reproché à l'opérateur d'avoir, entre 2002 et 2007, fait remonter des revenus de droits via une filiale irlandaise (Vodafone Ireland Marketing Ltd), avec plus d'un milliard d'euros de dividendes transférés au Luxembourg pour des raisons fiscales.",
+          "sources": [
+            {
+              "label": "Wikipédia",
+              "url": "https://en.wikipedia.org/wiki/Vodafone"
+            },
+            {
+              "label": "paperjam.lu",
+              "url": "https://paperjam.lu/article/news-nouvelle-affaire-fiscale-pour-vodafone"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "volkswagen",
+      "name": "Volkswagen",
+      "legalName": "Volkswagen Group",
+      "country": "Allemagne",
+      "founded": null,
+      "website": null,
+      "revenue": null,
+      "description": "Premier constructeur automobile européen, basé à Wolfsburg, réunissant une douzaine de marques.",
+      "brands": [
+        {
+          "name": "Volkswagen",
+          "category": "Automobile"
+        },
+        {
+          "name": "Audi",
+          "category": "Automobile"
+        },
+        {
+          "name": "Porsche",
+          "category": "Automobile"
+        },
+        {
+          "name": "Škoda",
+          "category": "Automobile"
+        },
+        {
+          "name": "SEAT",
+          "category": "Automobile"
+        },
+        {
+          "name": "Cupra",
+          "category": "Automobile"
+        },
+        {
+          "name": "Lamborghini",
+          "category": "Automobile"
+        },
+        {
+          "name": "Bentley",
+          "category": "Automobile"
+        },
+        {
+          "name": "Ducati",
+          "category": "Automobile"
+        },
+        {
+          "name": "MAN",
+          "category": "Automobile"
+        },
+        {
+          "name": "Scania",
+          "category": "Automobile"
+        }
+      ],
+      "scandals": [
+        {
+          "title": "Dieselgate : logiciels truqueurs sur les moteurs diesel",
+          "year": 2015,
+          "severity": "modéré",
+          "tags": [
+            "environnement",
+            "tromperie",
+            "pollution",
+            "santé"
+          ],
+          "summary": "Révélé en septembre 2015 par l'agence américaine de protection de l'environnement (EPA), le scandale dit dieselgate a montré que le groupe Volkswagen avait équipé des moteurs diesel d'un logiciel truqueur détectant les conditions de test d'homologation pour réduire frauduleusement les émissions d'oxydes d'azote (NOx). Plus de 11 millions de véhicules des marques Volkswagen, Audi, SEAT, Škoda et Porsche étaient concernés dans le monde. L'affaire a entraîné la démission du PDG Martin Winterkorn et a coûté au groupe plus de 30 milliards d'euros en amendes, frais juridiques et dédommagements, surtout aux États-Unis.",
+          "sources": [
+            {
+              "label": "Wikipédia",
+              "url": "https://fr.wikipedia.org/wiki/Affaire_Volkswagen"
+            },
+            {
+              "label": "quechoisir.org",
+              "url": "https://www.quechoisir.org/actualite-affaire-volkswagen-recours-individuel-possible-dans-le-scandale-du-dieselgate-n93000/"
+            }
+          ]
+        },
+        {
+          "title": "Entente sur les systèmes de dépollution (cartel AdBlue)",
+          "year": 2021,
+          "severity": "modéré",
+          "tags": [
+            "environnement",
+            "pollution",
+            "concurrence"
+          ],
+          "summary": "En juillet 2021, la Commission européenne a infligé une amende totale de 875 millions d'euros à BMW et au groupe Volkswagen (Volkswagen, Audi, Porsche) pour une entente illicite portant sur les systèmes de dépollution des moteurs diesel entre 2009 et 2014. Les constructeurs s'étaient entendus sur la taille des réservoirs et la consommation d'AdBlue, limitant le développement technique pour réduire davantage les émissions. Le groupe Volkswagen a été condamné à environ 502 millions d'euros ; c'est la première fois que la Commission a sanctionné une collusion sur le développement technique.",
+          "sources": [
+            {
+              "label": "ec.europa.eu",
+              "url": "https://ec.europa.eu/commission/presscorner/detail/fr/ip_21_3581"
+            },
+            {
+              "label": "fr.euronews.com",
+              "url": "https://fr.euronews.com/my-europe/2021/07/08/une-amende-de-875-millions-d-euros-pour-volkswagen-et-bmw"
+            }
+          ]
+        },
+        {
+          "title": "Usine au Xinjiang et soupçons de travail forcé ouïghour",
+          "year": 2023,
+          "severity": "modéré",
+          "tags": [
+            "droits humains",
+            "travail forcé"
+          ],
+          "summary": "La présence d'une usine de la coentreprise de Volkswagen à Urumqi, au Xinjiang, a été vivement critiquée en raison du recours présumé au travail forcé ouïghour dans cette région. Un audit commandé par Volkswagen en 2023 a conclu à l'absence d'indication de travail forcé, mais a été fortement critiqué par des ONG et des experts (Human Rights Watch, Adrian Zenz) pour ne pas respecter les standards internationaux, l'évaluation reposant sur des documents plutôt que sur des entretiens avec les travailleurs. La coentreprise a finalement annoncé fin 2024 la cession de l'usine.",
+          "sources": [
+            {
+              "label": "hrw.org",
+              "url": "https://www.hrw.org/news/2024/05/27/volkswagen-address-uyghur-forced-labor"
+            },
+            {
+              "label": "hrw.org",
+              "url": "https://www.hrw.org/news/2024/12/02/volkswagens-china-joint-venture-exit-xinjiang"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "warner-bros-discovery",
+      "name": "Warner Bros. Discovery",
+      "country": "États-Unis",
+      "founded": 2022,
+      "website": "https://www.wbd.com",
+      "revenue": "Chiffre d'affaires d'environ 39 milliards de dollars en 2024",
+      "description": "Conglomérat américain de médias et de divertissement né en avril 2022 de la fusion de WarnerMedia (alors détenu par AT&T) et de Discovery, Inc. Il regroupe studios de cinéma et de télévision, chaînes (HBO, CNN, Discovery, TNT, Cartoon Network…), le service de streaming HBO Max et des activités sportives. Dirigé par David Zaslav, le groupe a annoncé en 2025 son projet de scission en deux sociétés cotées distinctes, « Warner Bros. » (streaming et studios) et « Discovery Global » (réseaux mondiaux), prévue d'ici mi-2026.",
+      "brands": [
+        {
+          "name": "HBO Max",
+          "aliases": [
+            "hbo max",
+            "hbomax",
+            "max",
+            "hbo"
+          ],
+          "category": "Service de streaming",
+          "note": "Service de streaming du groupe (renommé Max puis revenu à HBO Max), incluant les contenus HBO."
+        },
+        {
+          "name": "Warner Bros.",
+          "aliases": [
+            "warner bros",
+            "warner brothers",
+            "warner bros pictures",
+            "warner"
+          ],
+          "category": "Studio de cinéma et télévision",
+          "note": "Studio historique de cinéma et de télévision fondé en 1923."
+        },
+        {
+          "name": "DC",
+          "aliases": [
+            "dc",
+            "dc studios",
+            "dc comics"
+          ],
+          "category": "Franchise / studio",
+          "note": "Univers de super-héros (Batman, Superman) et DC Studios."
+        },
+        {
+          "name": "CNN",
+          "aliases": [
+            "cnn"
+          ],
+          "category": "Chaîne d'information",
+          "note": "Chaîne d'information en continu américaine."
+        },
+        {
+          "name": "Discovery Channel",
+          "aliases": [
+            "discovery",
+            "discovery channel"
+          ],
+          "category": "Chaîne documentaire",
+          "note": "Chaîne documentaire phare apportée par Discovery, Inc. lors de la fusion."
+        },
+        {
+          "name": "Cartoon Network",
+          "aliases": [
+            "cartoon network"
+          ],
+          "category": "Chaîne jeunesse",
+          "note": "Chaîne d'animation pour la jeunesse."
+        },
+        {
+          "name": "TNT",
+          "aliases": [
+            "tnt",
+            "tnt sports"
+          ],
+          "category": "Chaîne de divertissement / sport",
+          "note": "Chaîne de divertissement et de sport aux États-Unis (TNT Sports)."
+        },
+        {
+          "name": "Eurosport",
+          "aliases": [
+            "eurosport",
+            "eurosport 1",
+            "eurosport 2"
+          ],
+          "category": "Chaîne de sport",
+          "note": "Réseau de chaînes sportives en Europe, contrôlé par le groupe (issu de Discovery) ; rattaché au pôle Global Networks / Discovery Global dans le cadre de la scission annoncée."
+        }
+      ],
+      "scandals": [
+        {
+          "title": "Fusion de 2022, dette et plans d'économies",
+          "year": 2022,
+          "period": "2022-2025",
+          "severity": "élevé",
+          "tags": [
+            "finance",
+            "endettement",
+            "restructuration"
+          ],
+          "summary": "Née en avril 2022 de la fusion de WarnerMedia et Discovery, l'entreprise a hérité d'un endettement considérable (plusieurs dizaines de milliards de dollars) et s'est engagée dans un vaste plan d'économies visant plusieurs milliards de dollars de coûts. Cette stratégie de désendettement, conduite par le PDG David Zaslav, s'est accompagnée de pertes financières et de critiques sur la gestion du groupe, qui a finalement annoncé en 2025 sa scission en deux sociétés distinctes (« Warner Bros. » et « Discovery Global »).",
+          "sources": [
+            {
+              "label": "Boxoffice Pro - Warner Bros Discovery, entre pertes financières et projets de grands films",
+              "url": "https://www.boxofficepro.fr/warner-bros-discovery-entre-pertes-financieres-et-projets-de-grands-films/"
+            },
+            {
+              "label": "CNBC - Warner Bros. Discovery to split into two public companies by next year",
+              "url": "https://www.cnbc.com/2025/06/09/warner-bros-discovery-to-split-into-two-public-companies-by-next-year.html"
+            }
+          ]
+        },
+        {
+          "title": "Annulation et retrait de films et de contenus (Batgirl, Coyote vs. Acme)",
+          "year": 2022,
+          "period": "2022-2024",
+          "severity": "modéré",
+          "tags": [
+            "création",
+            "fiscalité",
+            "conditions de travail",
+            "culture"
+          ],
+          "summary": "Dans le cadre de son plan d'économies, le groupe a annulé ou « mis au placard » des films déjà tournés ou en cours, comme « Batgirl » (2022) et « Coyote vs. Acme » (2023), et retiré des contenus du catalogue de HBO Max. Ces décisions, présentées comme permettant des amortissements ou déductions fiscales (write-offs), ont suscité de fortes critiques d'artistes et de fans sur le gâchis créatif ; le groupe a contesté la motivation purement fiscale. Après une polémique publique, les droits de « Coyote vs. Acme » ont finalement été cédés en 2025 pour une sortie ultérieure.",
+          "sources": [
+            {
+              "label": "NPR - Warner Bros. shelved 'Coyote vs. Acme'. Here's why some finished films are mothballed",
+              "url": "https://www.npr.org/2024/03/07/1236257122/coyote-acme-warner-bros-movie-studios-mothball-films"
+            },
+            {
+              "label": "Wikipedia - Coyote vs. Acme",
+              "url": "https://en.wikipedia.org/wiki/Coyote_vs._Acme"
+            }
+          ]
+        },
+        {
+          "title": "Plans sociaux et licenciements (CNN, division cinéma)",
+          "year": 2025,
+          "period": "2022-2025",
+          "severity": "modéré",
+          "tags": [
+            "conditions de travail",
+            "plan social",
+            "emploi"
+          ],
+          "summary": "Depuis la fusion, le groupe a procédé à des vagues successives de suppressions de postes pour réduire ses coûts. Des centaines d'emplois ont été supprimés à CNN (avec notamment la fin de certains programmes), et en 2025 le groupe a engagé un nouveau plan visant à supprimer une part importante des effectifs de sa division cinématographique (Warner Bros.), de l'ordre de 10 % selon des sources de presse.",
+          "sources": [
+            {
+              "label": "Boursorama - Warner Bros Discovery va licencier 10 % de son groupe cinématographique",
+              "url": "https://www.boursorama.com/bourse/actualites/warner-bros-discovery-va-licencier-10-de-son-groupe-cinematographique-selon-une-source-3d2d43965218760373c184a9eb8942db"
+            },
+            {
+              "label": "Zonebourse - Warner Bros Discovery met fin au streaming en direct sur HLN au milieu des licenciements à CNN",
+              "url": "https://www.zonebourse.com/cours/action/WARNER-BROS-DISCOVERY-I-136094563/actualite/Warner-Bros-Discovery-met-fin-au-streaming-en-direct-sur-HLN-au-milieu-des-licenciements-a-CNN-42456402/"
             }
           ]
         }

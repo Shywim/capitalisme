@@ -90,6 +90,16 @@ const DISPLAY_NAMES = {
   "Groupe La Dépêche du Midi": "Groupe La Dépêche (Baylet)",
   "CMI France (Czech Media Invest / Daniel Křetínský)": "CMI France (Křetínský)",
   "Bayard (Bayard Presse)": "Bayard",
+  // Lot 4 — banques/assurances, télécoms, automobile, divertissement
+  "Crédit Mutuel Alliance Fédérale": "Crédit Mutuel",
+  "Covéa (MAAF, MMA, GMF)": "Covéa",
+  "Aéma Groupe (Macif, Abeille Assurances)": "Aéma (Macif)",
+  "Altice France (SFR)": "Altice (SFR)",
+  "Deutsche Telekom (T-Mobile)": "Deutsche Telekom",
+  "Hyundai Motor Group": "Hyundai-Kia",
+  "The Walt Disney Company": "Disney",
+  "Comcast (NBCUniversal)": "Comcast (NBCUniversal)",
+  "Paramount (Paramount Skydance Corporation)": "Paramount (Skydance)",
 };
 
 // Corrections factuelles post-recherche (clé = nom d'affichage du groupe).
@@ -107,6 +117,9 @@ const BRAND_REMOVALS = {
   "McDonald's": ["Ronald McDonald", "CosMc's", "McNified"],
   // Marques NON détenues par BAT en Europe (Camel = JTI hors USA ; Newport = USA via Reynolds).
   "British American Tobacco": ["Camel", "Newport"],
+  // Médias cédés/indépendants, plus détenus par Altice : BFM/RMC → CMA CGM (2024),
+  // Libération → fonds de dotation, L'Express → A. Weill, Teads → Outbrain (2024).
+  "Altice (SFR)": ["BFM TV", "RMC", "RMC Découverte", "RMC Story", "Libération", "L'Express", "Teads (régie publicitaire)", "Teads"],
 };
 
 // Note de rattachement (filiale d'un autre groupe), affichée en évidence.
