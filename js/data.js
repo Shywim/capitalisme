@@ -1539,6 +1539,133 @@ window.CAPITALISME_DATA = {
       ]
     },
     {
+      "id": "bayard",
+      "name": "Bayard",
+      "legalName": "Bayard (Bayard Presse)",
+      "country": "France",
+      "founded": 1873,
+      "website": "https://www.bayard.com",
+      "revenue": null,
+      "description": "Groupe de presse et d'édition français fondé en 1873 sous le nom de Maison de la Bonne Presse par la congrégation catholique des Augustins de l'Assomption (Assomptionnistes), aujourd'hui encore propriétaire à 100 % du groupe. Bayard est présent dans l'actualité (La Croix, Le Pèlerin), la presse senior (Notre Temps), la presse jeunesse (Pomme d'Api, Astrapi, Okapi, J'aime lire, Phosphore) et la presse religieuse, dans plusieurs pays.",
+      "brands": [
+        {
+          "name": "La Croix",
+          "aliases": [
+            "la-croix",
+            "lacroix"
+          ],
+          "category": "Quotidien national",
+          "note": "Quotidien catholique lancé comme journal quotidien en 1883"
+        },
+        {
+          "name": "Le Pèlerin",
+          "aliases": [
+            "le-pelerin",
+            "pelerin",
+            "lepelerin"
+          ],
+          "category": "Hebdomadaire",
+          "note": "Hebdomadaire fondé en 1873"
+        },
+        {
+          "name": "Notre Temps",
+          "aliases": [
+            "notre-temps",
+            "notretemps"
+          ],
+          "category": "Magazine",
+          "note": "Mensuel de la presse senior"
+        },
+        {
+          "name": "Pomme d'Api",
+          "aliases": [
+            "pomme-d-api",
+            "pomme-dapi",
+            "pommedapi"
+          ],
+          "category": "Presse jeunesse",
+          "note": "Magazine pour les 3-7 ans"
+        },
+        {
+          "name": "Astrapi",
+          "aliases": [
+            "astrapi"
+          ],
+          "category": "Presse jeunesse",
+          "note": "Magazine pour les 7-11 ans"
+        },
+        {
+          "name": "Phosphore",
+          "aliases": [
+            "phosphore"
+          ],
+          "category": "Presse jeunesse",
+          "note": "Magazine pour adolescents"
+        },
+        {
+          "name": "Okapi",
+          "aliases": [
+            "okapi"
+          ],
+          "category": "Presse jeunesse",
+          "note": "Magazine pour les 10-15 ans"
+        },
+        {
+          "name": "J'aime lire",
+          "aliases": [
+            "j-aime-lire",
+            "jaime-lire",
+            "jaimelire"
+          ],
+          "category": "Presse jeunesse",
+          "note": "Magazine de lecture pour les 7-11 ans"
+        }
+      ],
+      "scandals": [
+        {
+          "title": "Renoncement au recrutement d'Alban du Rostu et retrait de l'ESJ Paris",
+          "year": 2025,
+          "period": "2025",
+          "severity": "modéré",
+          "tags": [
+            "médias",
+            "indépendance éditoriale",
+            "gouvernance",
+            "ligne éditoriale"
+          ],
+          "summary": "En 2025, le directoire de Bayard renonce à l'embauche d'Alban du Rostu — ancien collaborateur de Pierre-Édouard Stérin — comme directeur de la stratégie et du développement, et annonce quitter le tour de table de l'École supérieure de journalisme (ESJ) Paris en revendant sa participation. Cette double décision fait suite à la mobilisation de l'intersyndicale (CFDT, CFTC, CFE-CGC, CGT, SNJ), qui s'opposait à ce qu'elle décrivait comme une immixtion de l'extrême droite et défendait « les valeurs socles de Bayard ».",
+          "sources": [
+            {
+              "label": "The Media Leader FR – ESJ Paris, nomination d'Alban du Rostu : Bayard recule",
+              "url": "https://fr.themedialeader.com/esj-paris-nomination-dalban-du-rostu-bayard-recule/"
+            },
+            {
+              "label": "Livres Hebdo – Bayard renonce à l'embauche d'Alban du Rostu",
+              "url": "https://www.livreshebdo.fr/article/bayard-renonce-lembauche-dalban-du-rostu"
+            }
+          ]
+        },
+        {
+          "title": "Plan social « CAP 2029 » : jusqu'à 59 postes supprimés",
+          "year": 2025,
+          "period": "2025",
+          "severity": "modéré",
+          "tags": [
+            "médias",
+            "plan social",
+            "emploi"
+          ],
+          "summary": "Fin 2025, Bayard (La Croix, Le Pèlerin, Notre Temps…) annonce, dans le cadre d'un plan stratégique à horizon 2029 (« CAP 2029 ») destiné à « diversifier et renforcer » son modèle, la suppression de jusqu'à 59 postes, soit environ 5 % de ses effectifs en France, invoquant un marché de la presse et de l'édition chahuté.",
+          "sources": [
+            {
+              "label": "Puremédias – Plan social chez Bayard : jusqu'à 59 postes supprimés",
+              "url": "https://www.ozap.com/actu/plan-social-chez-bayard-la-croix-jusqua-59-postes-supprimes-soit-5-des-effectifs-du-groupe-en-france/654606"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "bayer-monsanto",
       "name": "Bayer (Monsanto)",
       "legalName": "Bayer AG (Monsanto)",
@@ -2113,6 +2240,34 @@ window.CAPITALISME_DATA = {
           ],
           "category": "Médias",
           "note": "Groupe mondial de publicité et de communication, scindé de Vivendi fin 2024 (coté à Amsterdam) et contrôlé par la famille Bolloré."
+        },
+        {
+          "name": "CStar",
+          "category": "Télévision"
+        },
+        {
+          "name": "Le Journal du Dimanche (JDD)",
+          "category": "Hebdomadaire"
+        },
+        {
+          "name": "Gala",
+          "category": "Magazine"
+        },
+        {
+          "name": "Voici",
+          "category": "Magazine"
+        },
+        {
+          "name": "Télé-Loisirs",
+          "category": "Magazine"
+        },
+        {
+          "name": "Cuisine Actuelle",
+          "category": "Magazine"
+        },
+        {
+          "name": "Ça m'intéresse",
+          "category": "Magazine"
         }
       ],
       "scandals": [
@@ -2979,6 +3134,317 @@ window.CAPITALISME_DATA = {
             {
               "label": "Foodwatch – Procès de la viande de cheval",
               "url": "https://www.foodwatch.org/fr/actualites/2019/proces-de-la-viande-de-cheval-les-sanctions-tombent-mais-rien-na-change-sur-le-fond-un-autre-scandale-est-possible"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cma-cgm-saade",
+      "name": "CMA CGM (Saadé)",
+      "legalName": "CMA CGM (pôle médias)",
+      "country": "France",
+      "founded": "2022",
+      "website": "https://www.cmacgm-group.com",
+      "revenue": "CMA CGM (groupe armateur) : 54,5 milliards de dollars de chiffre d'affaires en 2025. Le pôle médias est porté par la filiale CMA Média (immatriculée fin 2022) ; en 2025, le segment « autres activités » du groupe, qui inclut les médias, a progressé de 48,4 % à 4,3 milliards de dollars (EBITDA d'environ 958 millions).",
+      "description": "Pôle médias constitué depuis 2022 par l'armateur de porte-conteneurs CMA CGM, dirigé par le milliardaire Rodolphe Saadé, autour de la filiale CMA Média (Marseille). Le groupe a d'abord racheté La Provence et Corse-Matin, puis La Tribune et sa déclinaison dominicale La Tribune Dimanche (2023), avant de finaliser en juillet 2024 le rachat d'Altice Média (BFM TV, RMC, BFM Business, déclinaisons régionales BFM) pour 1,55 milliard d'euros. Il a ensuite finalisé l'acquisition du média vidéo Brut (septembre 2025) et engagé en 2026 le rachat de RMC Sport. CMA CGM détient par ailleurs une participation minoritaire (autour de 10-11 %) dans le groupe M6 (Métropole Télévision), via le projet de cession de RTL Group. L'ensemble en fait l'un des principaux conglomérats médiatiques français, soulevant des questions récurrentes sur le pluralisme et l'indépendance éditoriale.",
+      "brands": [
+        {
+          "name": "BFM TV",
+          "aliases": [
+            "BFMTV"
+          ],
+          "category": "Télévision / chaîne info",
+          "note": "Première chaîne d'information en continu en France. Issue d'Altice Média, dont le rachat par CMA CGM a été finalisé le 2 juillet 2024 pour 1,55 milliard d'euros."
+        },
+        {
+          "name": "BFM Business",
+          "category": "Télévision / chaîne info",
+          "note": "Chaîne d'information économique du pôle BFM, intégrée au périmètre Altice Média repris en 2024."
+        },
+        {
+          "name": "BFM régionales",
+          "aliases": [
+            "BFM Marseille Provence",
+            "BFM Lyon",
+            "BFM Paris Île-de-France",
+            "déclinaisons régionales BFM"
+          ],
+          "category": "Télévision / chaîne info",
+          "note": "Réseau de chaînes locales/régionales BFM intégré au rachat d'Altice Média en 2024. Statut des correspondants régionaux objet de tensions sociales sous la nouvelle propriété."
+        },
+        {
+          "name": "RMC",
+          "aliases": [
+            "RMC-BFM"
+          ],
+          "category": "Radio",
+          "note": "Radio généraliste (info, sport, talk) issue d'Altice Média, passée sous contrôle de CMA CGM le 2 juillet 2024."
+        },
+        {
+          "name": "RMC Sport",
+          "category": "Télévision / chaîne info",
+          "note": "Bouquet de chaînes sportives payantes resté chez Altice/SFR lors du rachat de 2024. CMA Média a annoncé le 4 juin 2026 être en cours de finalisation de son rachat pour compléter le portefeuille RMC-BFM."
+        },
+        {
+          "name": "La Provence",
+          "category": "Quotidien régional",
+          "note": "Quotidien régional de Marseille et des Bouches-du-Rhône, contrôlé par CMA CGM depuis 2022. Au cœur d'une controverse en mars 2024 (mise à pied du directeur de la rédaction)."
+        },
+        {
+          "name": "Corse-Matin",
+          "aliases": [
+            "Corse Matin"
+          ],
+          "category": "Quotidien régional",
+          "note": "Quotidien régional corse, contrôlé par CMA CGM dans le cadre du même ensemble que La Provence."
+        },
+        {
+          "name": "La Tribune",
+          "category": "Quotidien national",
+          "note": "Quotidien économique national. Acquisition de 100 % du capital finalisée par CMA CGM le 27 juillet 2023."
+        },
+        {
+          "name": "La Tribune Dimanche",
+          "category": "Quotidien national",
+          "note": "Hebdomadaire dominical lancé en octobre 2023, déclinaison de La Tribune, propriété de CMA CGM."
+        },
+        {
+          "name": "Brut",
+          "aliases": [
+            "Brut."
+          ],
+          "category": "Télévision / chaîne info",
+          "note": "Média vidéo en ligne destiné à un public jeune. CMA CGM, déjà actionnaire, a finalisé l'acquisition de Brut le 12 septembre 2025 et l'a intégré à CMA Média ; lancement d'une chaîne Brut gratuite."
+        },
+        {
+          "name": "Groupe M6 (participation)",
+          "aliases": [
+            "Métropole Télévision",
+            "M6"
+          ],
+          "category": "Télévision / chaîne info",
+          "note": "Participation minoritaire de CMA CGM dans le groupe M6 (montée d'environ 8 % fin 2022 à 10,25 % en avril 2023, autour de 11 % ensuite). RTL Group reste actionnaire de contrôle (≈48 %) ; un éventuel rachat de M6 par CMA CGM resterait soumis aux contraintes réglementaires françaises sur la concentration."
+        }
+      ],
+      "scandals": [
+        {
+          "title": "Mise à pied du directeur de la rédaction de La Provence après une Une déplaisant à l'actionnaire",
+          "year": 2024,
+          "period": "Mars 2024",
+          "severity": "modéré",
+          "tags": [
+            "indépendance éditoriale",
+            "ingérence actionnaire",
+            "presse régionale",
+            "grève"
+          ],
+          "summary": "En mars 2024, Rodolphe Saadé a pesé dans la mise à pied de sept jours d'Aurélien Viers, directeur de la rédaction de La Provence, après une Une mettant en avant la déception d'habitants de La Castellane lors d'une visite d'Emmanuel Macron à Marseille. La sanction, jugée brutale et injustifiée par les rédactions, a inquiété les journalistes (y compris ceux de La Tribune, également propriété de Saadé) et illustré les craintes d'ingérence du propriétaire dans la ligne éditoriale.",
+          "sources": [
+            {
+              "label": "France Info – Suspension du directeur de la rédaction de La Provence : « Cela nous inquiète »",
+              "url": "https://www.franceinfo.fr/economie/medias/suspension-du-directeur-de-la-redaction-de-la-provence-cela-nous-inquiete-explique-un-journaliste-de-la-tribune-egalement-propriete-de-rodolphe-saade_6442318.html"
+            },
+            {
+              "label": "Puremédias / Ozap – Rodolphe Saadé met à pied le directeur de la rédaction de La Provence",
+              "url": "https://www.ozap.com/actu/-la-provence-rodolphe-saade-met-a-pied-le-directeur-de-la-redaction-apres-la-publication-d-une-une-qui-aurait-deplu-a-l-actionnaire/643058"
+            }
+          ]
+        },
+        {
+          "title": "Inquiétudes sur l'indépendance éditoriale après le rachat par un armateur",
+          "year": 2024,
+          "period": "2024-2026",
+          "severity": "modéré",
+          "tags": [
+            "indépendance éditoriale",
+            "concentration des médias",
+            "sociétés de journalistes",
+            "charte d'indépendance"
+          ],
+          "summary": "Dès l'annonce du rachat d'Altice Média, les salariés se sont inquiétés de leur indépendance vis-à-vis d'un actionnaire dont le cœur de métier (transport maritime, logistique) est très exposé aux décisions publiques et aux marchés. Les sociétés de journalistes ont publié un communiqué « Les médias du groupe CMA CGM ne sont pas des relais d'influence » et négocient une charte d'indépendance ; les discussions ont notamment achoppé sur un droit d'agrément des rédactions sur le directeur de la rédaction. Auditionné à l'Assemblée nationale, Rodolphe Saadé a assuré ne pas s'immiscer dans la ligne éditoriale.",
+          "sources": [
+            {
+              "label": "Mediacités – « Madame la ministre, il est urgent de garantir l'indépendance des rédactions »",
+              "url": "https://www.mediacites.fr/tribune/national/2024/03/26/madame-la-ministre-il-est-urgent-de-garantir-lindependance-des-redactions/"
+            },
+            {
+              "label": "The Media Leader FR – Rodolphe Saadé affirme respecter l'indépendance éditoriale des médias qu'il détient",
+              "url": "https://fr.themedialeader.com/rodolphe-saade-affirme-respecter-lindependance-editoriale-des-medias-quil-detient/"
+            }
+          ]
+        },
+        {
+          "title": "Conflit d'intérêts et demande de transparence du comité d'éthique de RMC-BFM",
+          "year": 2025,
+          "period": "2025",
+          "severity": "modéré",
+          "tags": [
+            "conflit d'intérêts",
+            "transparence",
+            "comité d'éthique",
+            "Perplexity"
+          ],
+          "summary": "Le comité d'éthique de RMC-BFM a demandé davantage de transparence à CMA CGM, soulignant notamment que le groupe est aussi actionnaire de la start-up d'IA Perplexity, source de conflit d'intérêts potentiel. Le comité a estimé nécessaire de permettre aux rédactions et aux journalistes de déterminer, au cas par cas, s'il faut informer le public des liens entre les sujets traités et les intérêts du groupe CMA CGM.",
+          "sources": [
+            {
+              "label": "L'Informé – Le comité d'éthique de RMC BFM demande plus de transparence à CMA CGM",
+              "url": "https://www.linforme.com/medias-culture/article/le-comite-d-ethique-de-rmc-bfm-demande-plus-de-transparence-a-cma-cgm_3189.html"
+            }
+          ]
+        },
+        {
+          "title": "Concentration médiatique et débat sur le pluralisme",
+          "year": 2025,
+          "period": "2022-2026",
+          "severity": "modéré",
+          "tags": [
+            "concentration",
+            "pluralisme",
+            "réglementation des médias"
+          ],
+          "summary": "La constitution rapide d'un conglomérat regroupant chaîne info de référence (BFM TV), radio (RMC), presse nationale (La Tribune) et régionale (La Provence, Corse-Matin), média social (Brut) et une participation dans M6 a soulevé des interrogations sur le pluralisme et la concentration. Le rachat de Brut a porté le pôle à plus de 1 600 journalistes, et un éventuel rapprochement avec M6/TF1 se heurte aux règles françaises anti-concentration, le groupe plaidant pour un assouplissement réglementaire.",
+          "sources": [
+            {
+              "label": "Commons Média – CMA CGM finalise le rachat de Brut et crée un pôle de plus de 1 600 journalistes",
+              "url": "https://commons-media.fr/economie/cma-cgm-finalise-le-rachat-de-brut-et-integre-le-media-a-cma-media-pour-creer-un-pole-presse-et-audiovisuel-de-plus-de-1600-journalistes-soulevant-des-questions-sur-le-pluralisme-et-lindependance/"
+            },
+            {
+              "label": "The Media Leader FR – Rachat de M6 : CMA CGM et TF1 freinés par la réglementation",
+              "url": "https://fr.themedialeader.com/rachat-de-m6-cma-cgm-et-tf1-freines-par-la-reglementation/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cmi-france-kretinsky",
+      "name": "CMI France (Křetínský)",
+      "legalName": "CMI France (Czech Media Invest / Daniel Křetínský)",
+      "country": "France",
+      "founded": 2017,
+      "website": "https://www.cmifrance.com",
+      "revenue": null,
+      "description": "Filiale française du groupe Czech Media Invest (CMI), dont l'actionnaire principal est l'homme d'affaires et milliardaire tchèque Daniel Křetínský. CMI France a repris en 2018-2019 une partie des titres de presse magazine de Lagardère / Hachette Filipacchi. Le groupe édite notamment Elle (et ses déclinaisons), Marianne, Version Femina, Public et l'hebdomadaire Franc-Tireur, et exploite la chaîne de télévision TNT T18. En 2025, dans un contexte de difficultés économiques, CMI France a engagé un recentrage : cession de France Dimanche et Ici Paris à Prisma Media et entrée en négociation exclusive avec Bauer Media pour la cession de Télé 7 Jours.",
+      "brands": [
+        {
+          "name": "Elle",
+          "aliases": [
+            "elle",
+            "magazine-elle"
+          ],
+          "category": "Magazine",
+          "note": "Titre phare, avec de nombreuses déclinaisons (Elle Décoration, Elle à Table, Elle Girl…). Ancien titre Hachette Filipacchi / Lagardère"
+        },
+        {
+          "name": "Marianne",
+          "aliases": [
+            "marianne",
+            "marianne-hebdo"
+          ],
+          "category": "Hebdomadaire",
+          "note": "Hebdomadaire d'actualité, sous contrôle de CMI / Daniel Křetínský depuis 2018"
+        },
+        {
+          "name": "Franc-Tireur",
+          "aliases": [
+            "franc-tireur",
+            "franc-tireur-hebdo",
+            "franctireur"
+          ],
+          "category": "Hebdomadaire",
+          "note": "Hebdomadaire politique lancé en novembre 2021 par CMI, à l'initiative notamment de Caroline Fourest et Denis Olivennes"
+        },
+        {
+          "name": "Version Femina",
+          "aliases": [
+            "version-femina",
+            "versionfemina"
+          ],
+          "category": "Magazine",
+          "note": "Supplément féminin hebdomadaire distribué avec la presse quotidienne régionale"
+        },
+        {
+          "name": "Public",
+          "aliases": [
+            "public",
+            "public-magazine"
+          ],
+          "category": "Hebdomadaire",
+          "note": "Hebdomadaire people"
+        },
+        {
+          "name": "Télé 7 Jours",
+          "aliases": [
+            "tele-7-jours",
+            "tele7jours",
+            "t7j"
+          ],
+          "category": "Magazine",
+          "note": "Magazine de programmes TV. En 2025, CMI France est entré en négociation exclusive avec Bauer Media en vue de sa cession"
+        },
+        {
+          "name": "France Dimanche",
+          "aliases": [
+            "france-dimanche",
+            "francedimanche"
+          ],
+          "category": "Hebdomadaire",
+          "note": "Titre historiquement détenu par CMI France ; cédé en 2025 à Prisma Media dans le cadre du recentrage du groupe"
+        },
+        {
+          "name": "Ici Paris",
+          "aliases": [
+            "ici-paris",
+            "iciparis"
+          ],
+          "category": "Hebdomadaire",
+          "note": "Titre people historiquement détenu par CMI France ; cédé en 2025 à Prisma Media"
+        }
+      ],
+      "scandals": [
+        {
+          "title": "Plan social et motion de défiance des salariés (2025)",
+          "year": 2025,
+          "period": "2025",
+          "severity": "élevé",
+          "tags": [
+            "médias",
+            "plan social",
+            "emploi",
+            "gouvernance"
+          ],
+          "summary": "En 2025, CMI France (Elle, Marianne, Télé 7 Jours, chaîne T18) annonce un plan social visant la suppression de jusqu'à 87 postes, dans un contexte de difficultés économiques et de cessions de titres (France Dimanche et Ici Paris à Prisma Media, négociation exclusive avec Bauer Media pour Télé 7 Jours). Les salariés du groupe contrôlé par Daniel Křetínský votent une motion de défiance contre la direction, dénonçant « une situation d'incertitude permanente ».",
+          "sources": [
+            {
+              "label": "Puremédias – CMI France : 87 postes menacés (plan social)",
+              "url": "https://www.ozap.com/actu/cmi-france-elle-marianne-le-groupe-medias-du-milliardaire-tcheque-daniel-kretinsky-annonce-un-plan-social-87-postes-menaces/652845"
+            },
+            {
+              "label": "Puremédias – Motion de défiance des salariés de CMI France",
+              "url": "https://www.ozap.com/actu/une-situation-dincertitude-permanente-les-salaries-de-cmi-france-t18-tele-7-jours-elle-votent-une-motion-de-defiance-contre-la-direction-du-groupe-detenu-par-le-milliardaire-daniel-kretinsky/651545"
+            }
+          ]
+        },
+        {
+          "title": "Concentration et démantèlement progressif du pôle presse magazine",
+          "year": 2025,
+          "period": "depuis 2018",
+          "severity": "modéré",
+          "tags": [
+            "médias",
+            "concentration",
+            "cessions"
+          ],
+          "summary": "Après le rachat à Lagardère / Hachette Filipacchi d'un large portefeuille de magazines (2018-2019), le groupe de Daniel Křetínský a engagé en 2025 un recentrage avec la cession de plusieurs titres historiques : France Dimanche et Ici Paris à Prisma Media, et l'entrée en négociation exclusive avec Bauer Media pour Télé 7 Jours. Ces mouvements ont nourri les inquiétudes sur l'avenir des titres et de leurs rédactions, ainsi que les débats sur la concentration de la presse magazine française entre quelques acteurs.",
+          "sources": [
+            {
+              "label": "Puremédias – Křetínský (CMI) se sépare de Télé 7 Jours, négociation avec Bauer Media",
+              "url": "https://www.ozap.com/actu/daniel-kretinsky-cmi-se-separe-du-magazine-tele-7-jours-et-entre-en-negociation-exclusive-avec-le-groupe-bauer-media-maxi/650994"
+            },
+            {
+              "label": "CCFI – CMI France prêt à se séparer d'Ici Paris et France Dimanche",
+              "url": "https://www.ccfi.asso.fr/cmi-france-pret-a-se-separer-des-titres-ici-paris-et-france-dimanche/"
             }
           ]
         }
@@ -3978,6 +4444,88 @@ window.CAPITALISME_DATA = {
       ]
     },
     {
+      "id": "ebra-credit-mutuel",
+      "name": "EBRA (Crédit Mutuel)",
+      "legalName": "Groupe EBRA",
+      "country": "France",
+      "founded": null,
+      "website": null,
+      "revenue": null,
+      "description": "Groupe de presse quotidienne régionale (Est, Bourgogne, Rhône-Alpes, Alsace), premier éditeur de PQR en France. Propriété à 100 % du Crédit Mutuel Alliance Fédérale, qui en est devenu l'actionnaire unique fin 2009 (la banque mutualiste détenait initialement 49 %, montant ensuite à 100 % via le rachat des parts du groupe Est Républicain). Environ 3 200 salariés et 1 400 journalistes, neuf quotidiens couvrant 23 départements.",
+      "brands": [
+        {
+          "name": "L'Est Républicain",
+          "aliases": [
+            "Est Républicain",
+            "L'Est républicain"
+          ],
+          "category": "Quotidien régional"
+        },
+        {
+          "name": "Le Dauphiné Libéré",
+          "aliases": [
+            "Dauphiné Libéré",
+            "Le Dauphiné libéré"
+          ],
+          "category": "Quotidien régional"
+        },
+        {
+          "name": "Le Progrès",
+          "aliases": [
+            "Le Progrès de Lyon"
+          ],
+          "category": "Quotidien régional"
+        },
+        {
+          "name": "Dernières Nouvelles d'Alsace",
+          "aliases": [
+            "DNA",
+            "Dernieres Nouvelles d'Alsace"
+          ],
+          "category": "Quotidien régional"
+        },
+        {
+          "name": "L'Alsace",
+          "aliases": [
+            "L'Alsace (Mulhouse)"
+          ],
+          "category": "Quotidien régional"
+        },
+        {
+          "name": "Vosges Matin",
+          "aliases": [
+            "Vosges-Matin"
+          ],
+          "category": "Quotidien régional"
+        },
+        {
+          "name": "Le Bien Public",
+          "aliases": [
+            "Le Bien public",
+            "Le Bien Public (Dijon)"
+          ],
+          "category": "Quotidien régional"
+        },
+        {
+          "name": "Le Journal de Saône-et-Loire",
+          "aliases": [
+            "Journal de Saône-et-Loire",
+            "JSL"
+          ],
+          "category": "Quotidien régional"
+        },
+        {
+          "name": "Le Républicain Lorrain",
+          "aliases": [
+            "Républicain Lorrain",
+            "Le Républicain lorrain"
+          ],
+          "category": "Quotidien régional"
+        }
+      ],
+      "scandals": []
+    },
+    {
       "id": "ferrero",
       "name": "Ferrero",
       "country": "Luxembourg / Italie",
@@ -4506,6 +5054,91 @@ window.CAPITALISME_DATA = {
       ]
     },
     {
+      "id": "groupe-amaury-l-equipe",
+      "name": "Groupe Amaury (L'Équipe)",
+      "legalName": "Éditions Philippe Amaury (EPA)",
+      "country": "France",
+      "founded": 1968,
+      "website": "https://www.lequipe.fr",
+      "revenue": null,
+      "description": "Groupe de presse familial français fondé par Philippe Amaury (1940-2006), aujourd'hui contrôlé par sa veuve Marie-Odile Amaury et dirigé par leur fille Aurore Amaury. Recentré sur le sport après la cession du Parisien à LVMH en 2015, le groupe détient également Amaury Sport Organisation (ASO), organisateur du Tour de France.",
+      "brands": [
+        {
+          "name": "L'Équipe",
+          "aliases": [
+            "l-equipe",
+            "lequipe",
+            "equipe"
+          ],
+          "category": "Presse sportive",
+          "note": "Quotidien sportif, édité avec la SNC L'Équipe"
+        },
+        {
+          "name": "France Football",
+          "aliases": [
+            "france-football",
+            "francefootball"
+          ],
+          "category": "Presse sportive"
+        },
+        {
+          "name": "Vélo Magazine",
+          "aliases": [
+            "velo-magazine",
+            "velo-mag",
+            "velomagazine"
+          ],
+          "category": "Presse sportive"
+        }
+      ],
+      "scandals": [
+        {
+          "title": "Conflit d'intérêts entre L'Équipe et l'organisation du Tour de France (ASO)",
+          "year": 2015,
+          "severity": "modéré",
+          "tags": [
+            "médias",
+            "conflit d'intérêts",
+            "indépendance éditoriale",
+            "presse sportive"
+          ],
+          "summary": "Le groupe Amaury détient à la fois L'Équipe, premier prescripteur d'opinion sur le cyclisme en France, et Amaury Sport Organisation (ASO), organisateur du Tour de France, principale source de profits du groupe. Des critiques (dont Acrimed) ont relevé que ce même propriétaire façonne à la fois l'épreuve et le récit médiatique qui l'entoure, réduisant l'espace pour une couverture critique, notamment sur le dopage.",
+          "sources": [
+            {
+              "label": "Acrimed – L'Équipe se dope à la discrétion sur le dopage",
+              "url": "https://www.acrimed.org/Tour-de-France-L-Equipe-se-dope-a-la-discretion-sur-le-dopage"
+            },
+            {
+              "label": "École de Guerre Économique – Conflit latent autour du Tour de France",
+              "url": "https://www.ege.fr/infoguerre/conflit-latent-autour-de-lenjeu-economique-du-tour-de-france"
+            }
+          ]
+        },
+        {
+          "title": "Tensions sur les enquêtes dopage de la rédaction",
+          "year": 2013,
+          "severity": "modéré",
+          "tags": [
+            "médias",
+            "indépendance éditoriale",
+            "pressions éditoriales",
+            "presse sportive"
+          ],
+          "summary": "Selon plusieurs analyses, Marie-Odile Amaury, actionnaire principale du groupe, aurait remis en cause le travail d'investigation de la rédaction de L'Équipe sur les affaires de dopage dans le cyclisme professionnel, posant la question de la capacité de la rédaction à maintenir son indépendance vis-à-vis des intérêts de l'organisateur d'épreuves du groupe.",
+          "sources": [
+            {
+              "label": "École de Guerre Économique – Conflit latent autour du Tour de France",
+              "url": "https://www.ege.fr/infoguerre/conflit-latent-autour-de-lenjeu-economique-du-tour-de-france"
+            },
+            {
+              "label": "Cairn.info – La fabrication du Tour de France",
+              "url": "https://www.cairn.info/revue-terrains-et-travaux-2007-1-page-96.htm"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "groupe-bel",
       "name": "Groupe Bel",
       "legalName": "Groupe Bel (Bel SA)",
@@ -4716,6 +5349,370 @@ window.CAPITALISME_DATA = {
           ]
         }
       ]
+    },
+    {
+      "id": "groupe-figaro-dassault",
+      "name": "Groupe Figaro (Dassault)",
+      "legalName": "Groupe Figaro (Dassault Médias)",
+      "country": "France",
+      "founded": 1826,
+      "website": "https://www.lefigaro.fr",
+      "revenue": "≈ 520 millions € (2016)",
+      "description": "Groupe de presse français rassemblant les médias issus de la Socpresse, racheté par Serge Dassault en 2004 et rebaptisé Groupe Figaro en 2011. Il est détenu via Dassault Médias par le groupe industriel Dassault (famille Dassault, héritière de Marcel Dassault).",
+      "brands": [
+        {
+          "name": "Le Figaro",
+          "aliases": [
+            "figaro",
+            "le-figaro",
+            "lefigaro"
+          ],
+          "category": "Quotidien national",
+          "note": "Fondé en 1826, plus ancien quotidien français encore publié"
+        },
+        {
+          "name": "Le Figaro Magazine",
+          "aliases": [
+            "figaro-magazine",
+            "fig-mag"
+          ],
+          "category": "Magazine"
+        },
+        {
+          "name": "Madame Figaro",
+          "aliases": [
+            "madame-figaro",
+            "madame"
+          ],
+          "category": "Magazine"
+        },
+        {
+          "name": "TV Magazine",
+          "aliases": [
+            "tv-magazine",
+            "tvmag"
+          ],
+          "category": "Magazine"
+        },
+        {
+          "name": "Le Figaro Histoire",
+          "aliases": [
+            "figaro-histoire"
+          ],
+          "category": "Magazine"
+        },
+        {
+          "name": "Le Particulier",
+          "aliases": [
+            "le-particulier",
+            "particulier"
+          ],
+          "category": "Magazine",
+          "note": "Édité par Particulier et Finances Éditions"
+        },
+        {
+          "name": "Mieux Vivre Votre Argent",
+          "aliases": [
+            "mieux-vivre",
+            "mieux-vivre-votre-argent"
+          ],
+          "category": "Magazine"
+        },
+        {
+          "name": "Figaro Live",
+          "aliases": [
+            "figaro-live",
+            "figarolive"
+          ],
+          "category": "Magazine",
+          "note": "Plateforme vidéo / web du groupe"
+        }
+      ],
+      "scandals": [
+        {
+          "title": "Conflit d'intérêts : un marchand d'armes propriétaire d'un grand quotidien",
+          "year": 2004,
+          "period": "depuis 2004",
+          "severity": "élevé",
+          "tags": [
+            "médias",
+            "conflit d'intérêts",
+            "indépendance éditoriale",
+            "concentration"
+          ],
+          "summary": "En 2004, Serge Dassault, industriel de l'armement (avions militaires Rafale, dont les ventes dépendent largement de commandes d'États), prend le contrôle du groupe Socpresse, propriétaire du Figaro. Des observateurs et des syndicats ont dénoncé un conflit d'intérêts structurel entre les intérêts du groupe Dassault marchand d'armes et la liberté d'informer de son quotidien, notamment sur les questions internationales et de défense.",
+          "sources": [
+            {
+              "label": "Le JDD – Les 5 vies de Serge Dassault",
+              "url": "https://www.lejdd.fr/Politique/les-5-vies-de-serge-dassault-industriel-patron-de-presse-actionnaire-de-foot-homme-politique-justiciable-3665282"
+            },
+            {
+              "label": "Lutte Ouvrière – Dassault s'achète Le Figaro",
+              "url": "https://www.lutte-ouvriere.org/journal/article/2004-03-18-dassault-sachete-le-figaro-la-presse-aux-mains-des-industriels-et-des-banquiers_8288.html"
+            }
+          ]
+        },
+        {
+          "title": "Pressions de Serge Dassault sur la rédaction",
+          "year": 2008,
+          "severity": "modéré",
+          "tags": [
+            "médias",
+            "indépendance éditoriale",
+            "pressions éditoriales"
+          ],
+          "summary": "En octobre 2008, une enquête du Monde fait état de pressions exercées par Serge Dassault sur les journalistes du Figaro, en particulier sur des sujets politiques et internationaux. Serge Dassault avait par ailleurs déclaré qu'un journal devait diffuser des « idées saines », jugeant que « les idées de gauche ne sont pas des idées saines », ce qui a alimenté les débats sur l'indépendance éditoriale du titre.",
+          "sources": [
+            {
+              "label": "Acrimed – Dassault et la direction du groupe Le Figaro",
+              "url": "https://www.acrimed.org/La-derniere-idee-saine-de-Dassault-virer-le-directeur-general-du-groupe-Le"
+            },
+            {
+              "label": "Wikipedia – Le Figaro",
+              "url": "https://en.wikipedia.org/wiki/Le_Figaro"
+            }
+          ]
+        },
+        {
+          "title": "Fronde de la rédaction lors des législatives de 2024",
+          "year": 2024,
+          "severity": "modéré",
+          "tags": [
+            "médias",
+            "indépendance éditoriale",
+            "ligne éditoriale"
+          ],
+          "summary": "Lors des élections législatives de juin-juillet 2024, 184 journalistes du groupe Figaro signent un texte se désolidarisant de la ligne du directeur des rédactions Alexis Brézet, opposé à un « front républicain » contre le Rassemblement national. Ils estiment qu'un éditorial présentait le vote RN comme préférable au Nouveau Front populaire, une partie d'entre eux évoquant la crainte de représailles internes.",
+          "sources": [
+            {
+              "label": "Stratégies – La rédaction du Figaro se divise",
+              "url": "https://www.strategies.fr/actualites/medias/LQ3425511C/la-redaction-du-figaro-se-divise-avant-le-deuxieme-tour-des-legislatives.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "groupe-la-depeche-baylet",
+      "name": "Groupe La Dépêche (Baylet)",
+      "legalName": "Groupe La Dépêche du Midi",
+      "country": "France",
+      "founded": null,
+      "website": null,
+      "revenue": null,
+      "description": "Groupe de presse quotidienne régionale du Sud-Ouest / Occitanie, contrôlé par la famille Baylet via la holding Occitane de communication (environ 96 % du capital de la SA Groupe La Dépêche du Midi). Devenu en 2015, avec le rachat des Journaux du Midi (Midi Libre, L'Indépendant, Centre Presse) au groupe Sud Ouest, l'un des plus gros éditeurs de PQR de France. Jean-Michel Baylet en est le PDG ; ses fils Jean-Nicolas et Jean-Benoît occupent des fonctions de direction. La famille Baylet est historiquement liée au Parti radical de gauche (PRG) et au pouvoir politique local et national.",
+      "brands": [
+        {
+          "name": "La Dépêche du Midi",
+          "aliases": [
+            "La Dépêche",
+            "Dépêche du Midi"
+          ],
+          "category": "Quotidien régional"
+        },
+        {
+          "name": "Midi Libre",
+          "aliases": [
+            "Midi-Libre"
+          ],
+          "category": "Quotidien régional"
+        },
+        {
+          "name": "L'Indépendant",
+          "aliases": [
+            "L'Indépendant (Perpignan)",
+            "L'Independant"
+          ],
+          "category": "Quotidien régional"
+        },
+        {
+          "name": "Centre Presse Aveyron",
+          "aliases": [
+            "Centre Presse",
+            "Centre Presse (Aveyron)"
+          ],
+          "category": "Quotidien régional"
+        }
+      ],
+      "scandals": []
+    },
+    {
+      "id": "groupe-le-monde",
+      "name": "Groupe Le Monde",
+      "country": "France",
+      "founded": 1944,
+      "website": "https://www.lemonde.fr",
+      "revenue": "Société éditrice du Monde : environ 182,7 millions d'euros de chiffre d'affaires au 31 décembre 2024",
+      "description": "Groupe de presse français éditant le quotidien Le Monde (fondé en 1944) et plusieurs titres. Son actionnaire de contrôle est la holding Le Monde Libre (LML), associant l'homme d'affaires Xavier Niel (devenu actionnaire dominant après le désengagement de Daniel Křetínský et le retrait progressif de Matthieu Pigasse), tandis qu'un pôle d'indépendance (sociétés des journalistes et du personnel, Société des lecteurs) détient une part minoritaire du capital ; Xavier Niel a engagé ses participations dans le Fonds pour l'indépendance de la presse créé en 2021.",
+      "brands": [
+        {
+          "name": "Le Monde",
+          "aliases": [
+            "lemonde",
+            "le-monde",
+            "le monde"
+          ],
+          "category": "Quotidien national",
+          "note": "Fondé en 1944, titre de référence du groupe."
+        },
+        {
+          "name": "L'Obs",
+          "aliases": [
+            "lobs",
+            "l-obs",
+            "le nouvel observateur",
+            "nouvel obs"
+          ],
+          "category": "Hebdomadaire",
+          "note": "Fondé en 1964 (ex-Le Nouvel Observateur), rejoint le groupe en 2014."
+        },
+        {
+          "name": "Télérama",
+          "aliases": [
+            "telerama",
+            "tele-rama"
+          ],
+          "category": "Magazine",
+          "note": "Magazine culturel et de programmes, fondé en 1947."
+        },
+        {
+          "name": "Courrier International",
+          "aliases": [
+            "courrier-international",
+            "courrier international",
+            "courrierinternational"
+          ],
+          "category": "Hebdomadaire",
+          "note": "Revue de presse internationale, fondée en 1990."
+        },
+        {
+          "name": "Le HuffPost",
+          "aliases": [
+            "huffpost",
+            "huffpost france",
+            "huffington post",
+            "le huffpost"
+          ],
+          "category": "Pure player / en ligne",
+          "note": "Site d'actualité lancé en France en 2012."
+        },
+        {
+          "name": "La Vie",
+          "aliases": [
+            "la-vie",
+            "la vie",
+            "la vie catholique"
+          ],
+          "category": "Hebdomadaire",
+          "note": "Hebdomadaire chrétien fondé en 1945."
+        },
+        {
+          "name": "Le Monde diplomatique",
+          "aliases": [
+            "le-monde-diplomatique",
+            "le monde diplomatique",
+            "monde diplomatique",
+            "diplo"
+          ],
+          "category": "Magazine",
+          "note": "Mensuel fondé en 1954, détenu à 51% par Le Monde mais doté d'une indépendance statutaire et éditoriale : les Amis du Monde diplomatique (lecteurs) et l'association Günter Holzmann (rédaction) détiennent ensemble 49% du capital."
+        }
+      ],
+      "scandals": [
+        {
+          "title": "Concentration des médias et entrée de milliardaires au capital",
+          "year": 2022,
+          "period": "2010-2022",
+          "severity": "modéré",
+          "tags": [
+            "médias",
+            "concentration",
+            "indépendance éditoriale",
+            "actionnariat milliardaire"
+          ],
+          "summary": "Le contrôle du groupe Le Monde par des hommes d'affaires (Xavier Niel, et auparavant Matthieu Pigasse et Daniel Křetínský) a alimenté un débat public sur la concentration de la presse française entre quelques milliardaires. Une commission d'enquête sénatoriale sur la concentration des médias a été lancée fin 2022. En réponse aux inquiétudes sur l'indépendance, Xavier Niel a transféré en 2021 ses participations de presse au Fonds pour l'indépendance de la presse, et le groupe dispose d'un pôle d'indépendance et d'un droit d'agrément des journalistes sur l'actionnaire de référence.",
+          "sources": [
+            {
+              "label": "Sénat - Rapport de la commission d'enquête sur la concentration des médias",
+              "url": "https://www.senat.fr/rap/r21-593-1/r21-593-115.html"
+            },
+            {
+              "label": "Politis - Une concentration dans les médias toujours plus forte",
+              "url": "https://www.politis.fr/articles/2021/12/menace-sur-le-pluralisme-une-concentration-dans-les-medias-toujours-plus-forte-43905/"
+            },
+            {
+              "label": "Heinrich Böll Stiftung - Liberté des médias en France (2024)",
+              "url": "https://fr.boell.org/fr/2024/04/25/liberte-des-medias-en-france-peril-sur-linformation-entre-crise-concentration-et-dependance"
+            }
+          ]
+        },
+        {
+          "title": "Désengagement de Daniel Křetínský et recomposition de l'actionnariat",
+          "year": 2024,
+          "period": "2018-2024",
+          "severity": "faible",
+          "tags": [
+            "médias",
+            "actionnariat",
+            "indépendance éditoriale"
+          ],
+          "summary": "Entré au capital fin 2018 en rachetant une partie des parts de Matthieu Pigasse, l'industriel tchèque Daniel Křetínský s'est ensuite désengagé, laissant Xavier Niel comme actionnaire dominant ; Matthieu Pigasse a lui aussi cédé l'essentiel de ses parts à Xavier Niel. Ces mouvements ont relancé les interrogations sur l'évolution de la gouvernance et la pérennité des garanties d'indépendance, le groupe rappelant que les pactes prévoient des dispositifs de protection éditoriale.",
+          "sources": [
+            {
+              "label": "CB News - Daniel Křetínský se désengage, Xavier Niel seul maître à bord",
+              "url": "https://www.cbnews.fr/medias/image-monde-daniel-kretinsky-se-desengage-xavier-niel-seul-maitre-bord-79038"
+            },
+            {
+              "label": "The Media Leader FR - Pigasse cède l'essentiel de ses parts à Niel",
+              "url": "https://fr.themedialeader.com/le-monde-pigasse-cede-lessentiel-de-ses-parts-a-niel-sans-impact-sur-le-controle/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "groupe-sud-ouest",
+      "name": "Groupe Sud Ouest",
+      "country": "France",
+      "founded": null,
+      "website": null,
+      "revenue": null,
+      "description": "Groupe de presse quotidienne régionale basé à Bordeaux, l'un des principaux éditeurs de PQR français (Sud-Ouest de la France : Gironde, Charentes, Dordogne, Lot-et-Garonne, Landes, Pyrénées-Atlantiques). Capital détenu majoritairement (environ 80 %) par la famille Lemoîne et ses alliés via la Société civile bordelaise de gestion (Socibog), le reste étant réparti entre les journalistes et le personnel. Le groupe a contrôlé les Journaux du Midi de 2007 à 2015, avant de les céder au groupe La Dépêche.",
+      "brands": [
+        {
+          "name": "Sud Ouest",
+          "aliases": [
+            "Sud-Ouest",
+            "Sud-Ouest (journal)"
+          ],
+          "category": "Quotidien régional"
+        },
+        {
+          "name": "Charente Libre",
+          "aliases": [
+            "La Charente Libre",
+            "Charente libre"
+          ],
+          "category": "Quotidien régional"
+        },
+        {
+          "name": "La République des Pyrénées",
+          "aliases": [
+            "République des Pyrénées",
+            "La Rep des Pyrénées"
+          ],
+          "category": "Quotidien régional"
+        },
+        {
+          "name": "Dordogne Libre",
+          "aliases": [
+            "La Dordogne Libre",
+            "Dordogne libre"
+          ],
+          "category": "Quotidien régional"
+        }
+      ],
+      "scandals": []
     },
     {
       "id": "h-et-m",
@@ -7189,6 +8186,80 @@ window.CAPITALISME_DATA = {
       ]
     },
     {
+      "id": "le-canard-enchaine",
+      "name": "Le Canard enchaîné",
+      "country": "France",
+      "founded": 1915,
+      "website": "https://www.lecanardenchaine.fr",
+      "revenue": null,
+      "description": "Hebdomadaire satirique et d'investigation français fondé en 1915 par Maurice et Jeanne Maréchal, sabordé sous l'Occupation en 1940 puis reparu le 6 septembre 1944. Sans publicité, il est détenu par ses propres salariés et journalistes ; les parts sont redistribuées entre collègues lorsqu'un membre quitte le journal, ce qui bloque toute prise de contrôle extérieure et garantit son indépendance financière et éditoriale.",
+      "brands": [
+        {
+          "name": "Le Canard enchaîné",
+          "aliases": [
+            "le-canard-enchaine",
+            "canard enchaine",
+            "le canard",
+            "lecanardenchaine"
+          ],
+          "category": "Hebdomadaire",
+          "note": "Hebdomadaire satirique et d'investigation, sans publicité."
+        }
+      ],
+      "scandals": [
+        {
+          "title": "Révélations du « Penelopegate » (affaire Fillon)",
+          "year": 2017,
+          "period": "2017-2022",
+          "severity": "élevé",
+          "tags": [
+            "médias",
+            "enquête",
+            "investigation",
+            "vie politique"
+          ],
+          "summary": "Le 25 janvier 2017, Le Canard enchaîné a révélé que Penelope Fillon, épouse du candidat à la présidentielle François Fillon, avait été rémunérée comme attachée parlementaire pour des fonctions dont la réalité a été mise en doute, ainsi qu'un emploi à la Revue des deux mondes. Ces révélations ont fait dérailler la campagne de François Fillon. À l'issue de la procédure judiciaire, François Fillon a été condamné en 2020, peine partiellement réduite en appel en 2022 ; sa plainte contre le journal a été classée sans suite.",
+          "sources": [
+            {
+              "label": "Franceinfo - Penelopegate, l'enquête du Canard enchaîné",
+              "url": "https://www.franceinfo.fr/politique/francois-fillon/affaires-fillon/video-penelopegate-l-enquete-du-canard-enchaine-qui-fait-derailler-la-campagne-de-francois-fillon-pour-la-presidentielle-de-2017_4836171.html"
+            },
+            {
+              "label": "JDD - Plainte de François Fillon contre Le Canard enchaîné classée sans suite",
+              "url": "https://www.lejdd.fr/Politique/plainte-de-francois-fillon-contre-le-canard-enchaine-lenquete-classee-sans-suite-3519146"
+            }
+          ]
+        },
+        {
+          "title": "Crise interne et affaire de l'emploi présumé fictif",
+          "year": 2022,
+          "period": "2021-2025",
+          "severity": "modéré",
+          "tags": [
+            "médias",
+            "gouvernance",
+            "conflit social",
+            "lanceur d'alerte"
+          ],
+          "summary": "À partir de 2021-2022, une crise interne a opposé une partie de la rédaction à la direction. Le journaliste Christophe Nobili a dénoncé qu'une proche d'un ancien administrateur (André Escaro) aurait été rémunérée pendant environ 25 ans sans travail effectif, déposant une plainte ayant donné lieu à une enquête pour abus de biens sociaux. Reconnu lanceur d'alerte et délégué syndical, Christophe Nobili a fait l'objet d'une procédure de licenciement refusée à deux reprises par l'inspection du travail en 2023 ; en février 2025, le conseil de prud'hommes de Paris a condamné des dirigeants pour discrimination syndicale à son encontre.",
+          "sources": [
+            {
+              "label": "Stratégies - Le Canard enchaîné en crise",
+              "url": "https://www.strategies.fr/actualites/medias/LQ2759440C/le-canard-enchaine-en-crise.html"
+            },
+            {
+              "label": "Wikipédia - Christophe Nobili",
+              "url": "https://fr.wikipedia.org/wiki/Christophe_Nobili"
+            },
+            {
+              "label": "CB News - La crise se poursuit au sein du Canard enchaîné",
+              "url": "https://www.cbnews.fr/medias/image-crise-se-poursuit-au-sein-du-canard-enchaine-75723"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "les-mousquetaires-intermarche",
       "name": "Les Mousquetaires (Intermarché)",
       "legalName": "ITM Entreprises (Groupement Les Mousquetaires)",
@@ -7471,6 +8542,73 @@ window.CAPITALISME_DATA = {
       ]
     },
     {
+      "id": "liberation",
+      "name": "Libération",
+      "country": "France",
+      "founded": "1973",
+      "website": "https://www.liberation.fr",
+      "revenue": "Chiffre d'affaires d'environ 30 millions d'euros, pour des pertes annuelles estimées autour de 10 millions d'euros (2026). L'équilibre financier, espéré initialement pour 2023, est désormais repoussé à l'horizon 2028.",
+      "description": "Quotidien national de gauche fondé en 1973 (notamment autour de Jean-Paul Sartre et Serge July). Racheté en 2014 par le groupe Altice de Patrick Drahi (via SFR Médias), il a été transféré en 2020 à une structure à but non lucratif : le Fonds de dotation pour une presse indépendante (FDPI), présenté comme devant garantir l'indépendance éditoriale, économique et financière du titre. Le journal est détenu via une holding, Presse Indépendante SAS, elle-même contrôlée par le FDPI. Le quotidien, structurellement déficitaire, est maintenu à flot par des prêts du milliardaire tchèque Daniel Kretinsky (près de 60 millions d'euros injectés entre 2022 et 2026). Le conseil d'administration du fonds comprend un représentant de Daniel Kretinsky et deux de Patrick Drahi, l'ancien propriétaire.",
+      "brands": [
+        {
+          "name": "Libération",
+          "aliases": [
+            "Libé"
+          ],
+          "category": "Quotidien national",
+          "note": "Quotidien national généraliste de sensibilité de gauche, détenu depuis 2020 par le Fonds de dotation pour une presse indépendante (FDPI), via la holding Presse Indépendante SAS."
+        }
+      ],
+      "scandals": [
+        {
+          "title": "Un fonds de dotation qui ne garantit pas, en soi, l'indépendance (critiques de gouvernance)",
+          "year": 2021,
+          "period": "2020-2021",
+          "severity": "modéré",
+          "tags": [
+            "indépendance",
+            "gouvernance",
+            "fonds de dotation",
+            "optimisation fiscale"
+          ],
+          "summary": "Le transfert de Libération à un fonds de dotation en 2020 a été présenté comme une garantie d'indépendance, mais des experts comme l'économiste Julia Cagé ont souligné que le modèle ne protège pas en soi l'indépendance : un fonds de dotation peut désigner les dirigeants, modifier les statuts et, le cas échéant, décider de vendre le média, sans gouvernance démocratique garantie. SFR/Altice a par ailleurs bénéficié d'une réduction d'impôts importante en donnant ses actions au fonds.",
+          "sources": [
+            {
+              "label": "INA – La revue des médias : « Le fonds de dotation ne garantit pas l'indépendance en soi »",
+              "url": "https://larevuedesmedias.ina.fr/liberation-drahi-fonds-dotation"
+            },
+            {
+              "label": "Telos – Indépendance des médias : le défi juridique et financier (J. Cagé)",
+              "url": "https://www.telos-eu.com/fr/economie/independance-des-medias-le-defi-juridique-et-finan.html"
+            }
+          ]
+        },
+        {
+          "title": "Dépendance financière aux prêts de Daniel Kretinsky",
+          "year": 2026,
+          "period": "2022-2026",
+          "severity": "modéré",
+          "tags": [
+            "situation financière",
+            "endettement",
+            "indépendance",
+            "milliardaire"
+          ],
+          "summary": "Malgré son statut non lucratif, Libération reste structurellement déficitaire et dépend de prêts répétés du milliardaire tchèque Daniel Kretinsky : un nouvel apport d'environ 17 millions d'euros en mars 2026 a porté l'endettement total à près de 60 millions d'euros (quatrième soutien depuis 2022). Ces prêts, sous forme d'obligations à un taux d'environ Euribor 3 mois + 3 %, interrogent sur l'indépendance réelle du titre vis-à-vis de son principal créancier, alors que le journal renégocie sa dette.",
+          "sources": [
+            {
+              "label": "L'Informé – Toujours dans le rouge, Libération renégocie sa dette envers Kretinsky",
+              "url": "https://www.linforme.com/medias-culture/article/toujours-dans-le-rouge-liberation-renegocie-sa-dette-envers-kretinksy_3244.html"
+            },
+            {
+              "label": "Europe 1 – « Libération » recherche 15 millions d'euros pour passer le cap de la rentabilité en 2026",
+              "url": "https://www.europe1.fr/medias-tele/liberation-recherche-15-millions-deuros-pour-passer-le-cap-de-la-rentabilite-en-2026-4122285"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "lvmh",
       "name": "LVMH",
       "legalName": "LVMH Moët Hennessy Louis Vuitton SE",
@@ -7625,6 +8763,48 @@ window.CAPITALISME_DATA = {
           "name": "Chaumet",
           "category": "Joaillerie",
           "note": "Joaillier parisien."
+        },
+        {
+          "name": "Les Échos",
+          "aliases": [
+            "les-echos",
+            "echos"
+          ],
+          "category": "Quotidien national",
+          "note": "Quotidien économique racheté par LVMH en 2007"
+        },
+        {
+          "name": "Le Parisien",
+          "aliases": [
+            "le-parisien",
+            "parisien"
+          ],
+          "category": "Quotidien national",
+          "note": "Racheté au groupe Amaury en 2015"
+        },
+        {
+          "name": "Aujourd'hui en France",
+          "aliases": [
+            "aujourd-hui-en-france",
+            "aujourdhui-en-france"
+          ],
+          "category": "Quotidien national",
+          "note": "Édition nationale du Parisien"
+        },
+        {
+          "name": "Radio Classique",
+          "aliases": [
+            "radio-classique"
+          ],
+          "category": "Magazine",
+          "note": "Station de radio acquise par Bernard Arnault en 1999"
+        },
+        {
+          "name": "Connaissance des Arts",
+          "aliases": [
+            "connaissance-des-arts"
+          ],
+          "category": "Magazine"
         }
       ],
       "scandals": [
@@ -7689,6 +8869,70 @@ window.CAPITALISME_DATA = {
             {
               "label": "Business & Human Rights Resource Centre – Enquête sur Armani et Dior pour exploitation présumée",
               "url": "https://www.business-humanrights.org/fr/derni%C3%A8res-actualit%C3%A9s/italie-un-enqu%C3%AAte-ouverte-sur-armani-et-dior-pour-exploitation-pr%C3%A9sum%C3%A9e-des-travailleurs-employ%C3%A9s-par-des-sous-traitants-chinois/"
+            }
+          ]
+        },
+        {
+          "title": "Éviction du directeur de la rédaction des Échos par l'actionnaire",
+          "year": 2023,
+          "severity": "modéré",
+          "tags": [
+            "médias",
+            "indépendance éditoriale",
+            "pressions éditoriales"
+          ],
+          "summary": "En mars 2023, Nicolas Barré est brutalement écarté de la direction de la rédaction des Échos. La Société des journalistes dénonce une « éviction brutale par l'actionnaire » LVMH et exprime des craintes pour l'indépendance de la rédaction. En septembre 2023, la rédaction s'oppose à une large majorité à la nomination de François Vidal, candidat soutenu par le conseil de surveillance.",
+          "sources": [
+            {
+              "label": "Wikipedia – Nicolas Barré (journaliste)",
+              "url": "https://fr.wikipedia.org/wiki/Nicolas_Barr%C3%A9_(journaliste)"
+            },
+            {
+              "label": "Stratégies – Nicolas Barré rejoint Politico",
+              "url": "https://www.strategies.fr/actualites/medias/LQ3974820C/lancien-directeur-de-la-redaction-des-echos-nicolas-barre-rejoint-politico.html"
+            }
+          ]
+        },
+        {
+          "title": "Refus de charte d'indépendance et liste noire de journalistes",
+          "year": 2022,
+          "severity": "modéré",
+          "tags": [
+            "médias",
+            "indépendance éditoriale",
+            "concentration"
+          ],
+          "summary": "Les journalistes, syndicats et comités sociaux des titres détenus par LVMH ont déploré que Bernard Arnault n'ait pas donné suite à leurs demandes de signature de chartes d'indépendance éditoriale. Le groupe a par ailleurs restreint ses échanges « off » avec certains médias d'investigation, qualifiés de « sites qui utilisent l'intérêt du public pour le luxe à des fins sensationnalistes », suscitant une mobilisation de plus de quarante rédactions et sociétés de journalistes.",
+          "sources": [
+            {
+              "label": "Bloomberg – Arnault's Les Echos editor exits",
+              "url": "https://www.bloomberg.com/news/articles/2023-03-23/arnault-s-les-echos-editor-exits-raising-independence-worries"
+            },
+            {
+              "label": "NSS Magazine – LVMH media blacklist",
+              "url": "https://www.nssmag.com/en/lifestyle/38225/lvmh-arnault-media-blacklist-journalists-answer"
+            }
+          ]
+        },
+        {
+          "title": "Concentration des médias entre quelques industriels",
+          "year": 2015,
+          "period": "depuis 2015",
+          "severity": "modéré",
+          "tags": [
+            "médias",
+            "concentration",
+            "conflit d'intérêts"
+          ],
+          "summary": "L'acquisition par LVMH du quotidien Le Parisien-Aujourd'hui en France en 2015, ajoutée aux Échos (2007), à Radio Classique (1999) et à d'autres titres économiques, a nourri les critiques sur la concentration croissante de la presse française entre quelques grands groupes industriels. Cette concentration a fait l'objet d'auditions et de travaux parlementaires sur l'indépendance des médias.",
+          "sources": [
+            {
+              "label": "Wikipédia – Groupe Les Échos-Le Parisien",
+              "url": "https://fr.wikipedia.org/wiki/Groupe_Les_%C3%89chos-Le_Parisien"
+            },
+            {
+              "label": "L'écho du mardi – Quand LVMH étend son empire",
+              "url": "https://www.echodumardi.com/actualite/concentration-des-medias-quand-lvmh-etend-son-empire/"
             }
           ]
         }
@@ -8164,6 +9408,98 @@ window.CAPITALISME_DATA = {
             {
               "label": "The Washington Post - Happy Meal et obésité infantile",
               "url": "https://www.washingtonpost.com/news/voraciously/wp/2019/11/06/the-happy-meal-a-triumph-of-marketing-blamed-for-childhood-obesity-is-turning-40/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mediapart",
+      "name": "Mediapart",
+      "country": "France",
+      "founded": 2008,
+      "website": "https://www.mediapart.fr",
+      "revenue": null,
+      "description": "Journal numérique d'information et d'enquête sur abonnement, lancé en 2008 par Edwy Plenel et ses cofondateurs. Depuis 2019, son capital est sanctuarisé : il est détenu par la Société pour la protection de l'indépendance de Mediapart (SPIM), elle-même contrôlée à 100% par le Fonds pour une presse libre (FPL), un fonds de dotation à but non lucratif, rendant le titre selon ses dirigeants « incessible, inachetable, inspéculable ».",
+      "brands": [
+        {
+          "name": "Mediapart",
+          "aliases": [
+            "mediapart",
+            "media-part",
+            "média part"
+          ],
+          "category": "Pure player / en ligne",
+          "note": "Site d'information par abonnement, sans publicité."
+        }
+      ],
+      "scandals": [
+        {
+          "title": "Tentative de perquisition dans les locaux de Mediapart (affaire Benalla)",
+          "year": 2019,
+          "severity": "élevé",
+          "tags": [
+            "liberté de la presse",
+            "protection des sources",
+            "indépendance éditoriale"
+          ],
+          "summary": "En février 2019, après la publication d'enregistrements impliquant Alexandre Benalla et Vincent Crase, le parquet de Paris a tenté une perquisition au siège de Mediapart, que la rédaction a refusée en l'absence de mandat d'un juge des libertés et de la détention. Edwy Plenel a dénoncé une « manœuvre liberticide ». En juillet 2023, le tribunal de Nanterre a condamné l'État, jugeant cette démarche « ni nécessaire ni proportionnée » et constitutive d'une ingérence dans la liberté d'expression.",
+          "sources": [
+            {
+              "label": "Franceinfo - L'État condamné pour une tentative de perquisition chez Mediapart",
+              "url": "https://www.franceinfo.fr/politique/emmanuel-macron/agression-d-un-manifestant-par-un-collaborateur-de-l-elysee/affaire-benalla-l-etat-condamne-pour-une-tentative-de-perquisition-dans-les-locaux-de-mediapart_5242642.html"
+            },
+            {
+              "label": "La Péniche - Perquisition chez Mediapart et protection des sources",
+              "url": "https://www.lapeniche.net/affaire-benalla-perquisition-chez-mediapart-retour-sur-le-principe-de-protection-des-sources-journalistiques/"
+            }
+          ]
+        },
+        {
+          "title": "Affaire Sarkozy-Kadhafi et controverse sur l'authenticité du document",
+          "year": 2012,
+          "period": "2012-2025",
+          "severity": "modéré",
+          "tags": [
+            "médias",
+            "enquête",
+            "procès",
+            "liberté de la presse"
+          ],
+          "summary": "En 2012, Mediapart a publié des documents évoquant un possible financement libyen de la campagne présidentielle de Nicolas Sarkozy en 2007, dont une note attribuée à Moussa Koussa. Nicolas Sarkozy a contesté l'authenticité de cette note et engagé une procédure pour faux ; un non-lieu a été prononcé en 2016 sur ce volet. L'affaire de financement libyen a abouti en 2025 à une condamnation de Nicolas Sarkozy, le tribunal écartant toutefois cette note des éléments à charge en estimant qu'elle était probablement un faux.",
+          "sources": [
+            {
+              "label": "Wikipédia - Affaire Sarkozy-Kadhafi",
+              "url": "https://fr.wikipedia.org/wiki/Affaire_Sarkozy-Kadhafi"
+            },
+            {
+              "label": "Franceinfo - Histoire du document de Mediapart à l'origine de l'affaire",
+              "url": "https://www.franceinfo.fr/politique/affaire/financement-de-la-campagne-de-sarkozy/condamnation-de-nicolas-sarkozy-on-vous-retrace-l-histoire-du-document-de-mediapart-a-l-origine-de-l-affaire-que-l-ex-president-accuse-d-etre-faux_7522807.html"
+            }
+          ]
+        },
+        {
+          "title": "Création du Fonds pour une presse libre et débats sur le modèle",
+          "year": 2019,
+          "severity": "faible",
+          "tags": [
+            "médias",
+            "indépendance éditoriale",
+            "gouvernance"
+          ],
+          "summary": "En 2019, Mediapart a transféré son capital à la SPIM, contrôlée par le Fonds pour une presse libre, pour sanctuariser son indépendance ; le capital était alors estimé à environ 16,3 millions d'euros. Ce montage, présenté comme un modèle de protection contre les rachats spéculatifs, a fait l'objet d'analyses critiques de certains observateurs (notamment l'OJIM) s'interrogeant sur la gouvernance et le financement du dispositif.",
+          "sources": [
+            {
+              "label": "Wikipédia - Fonds pour une presse libre",
+              "url": "https://fr.wikipedia.org/wiki/Fonds_pour_une_presse_libre"
+            },
+            {
+              "label": "L'Œil de la Maison des journalistes - Mediapart pérennise son indépendance",
+              "url": "https://www.oeil-maisondesjournalistes.fr/2019/07/24/mediapart-fonds-dotation-independance-journal-edwy-plennel/"
+            },
+            {
+              "label": "OJIM - Les zones d'ombre du modèle Mediapart",
+              "url": "https://www.ojim.fr/fonds-pour-une-presse-libre-derriere-les-appels-aux-dons-les-zones-dombre-du-modele-mediapart/"
             }
           ]
         }
@@ -9102,6 +10438,57 @@ window.CAPITALISME_DATA = {
           ]
         }
       ]
+    },
+    {
+      "id": "ouest-france-sipa",
+      "name": "Ouest-France (SIPA)",
+      "legalName": "Groupe SIPA – Ouest-France",
+      "country": "France",
+      "founded": null,
+      "website": null,
+      "revenue": null,
+      "description": "Premier groupe de presse quotidienne régionale en diffusion et premier quotidien français (Ouest-France), basé à Rennes. Sa particularité capitalistique : le groupe est contrôlé, via la holding non lucrative, par une association loi de 1901, l'Association pour le soutien des principes de la démocratie humaniste (ASPDH, fondée en 1990 par François-Régis Hutin), conçue pour mettre le titre à l'abri de tout rachat ; elle ne distribue pas de dividendes. Le groupe a longtemps détenu une participation dans le quotidien gratuit 20 Minutes (reprise de la part de Sofiouest en 2019), cédée fin 2025 / début 2026 à son coactionnaire belge Rossel.",
+      "brands": [
+        {
+          "name": "Ouest-France",
+          "aliases": [
+            "Ouest France"
+          ],
+          "category": "Quotidien régional"
+        },
+        {
+          "name": "Le Courrier de l'Ouest",
+          "aliases": [
+            "Courrier de l'Ouest"
+          ],
+          "category": "Quotidien régional"
+        },
+        {
+          "name": "Le Maine Libre",
+          "aliases": [
+            "Maine Libre",
+            "Le Maine libre"
+          ],
+          "category": "Quotidien régional"
+        },
+        {
+          "name": "Presse Océan",
+          "aliases": [
+            "Presse-Océan",
+            "Presse Ocean"
+          ],
+          "category": "Quotidien régional"
+        },
+        {
+          "name": "20 Minutes",
+          "aliases": [
+            "20 minutes",
+            "Vingt Minutes"
+          ],
+          "category": "Gratuit"
+        }
+      ],
+      "scandals": []
     },
     {
       "id": "pepsico",
@@ -10662,6 +12049,157 @@ window.CAPITALISME_DATA = {
             {
               "label": "Entrepreneur - Burger King Is Being Sued Over Whopper Size",
               "url": "https://www.entrepreneur.com/business-news/burger-king-sued-over-deceptive-whopper-size-advertising/458253"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "reworld-media",
+      "name": "Reworld Media",
+      "country": "France",
+      "founded": 2012,
+      "website": "https://www.reworldmedia.com",
+      "revenue": null,
+      "description": "Groupe de médias français créé en 2012 par Pascal Chevalier. Après le rachat de Mondadori France en 2019 (Closer, Grazia, Science & Vie, Biba, Modes & Travaux…), Reworld Media est devenu le premier groupe de presse français en nombre de titres détenus (plus de quarante magazines). Son modèle, fondé sur un fort volume de contenu et le brand content (contenus de marque pour les annonceurs), est régulièrement critiqué par les journalistes.",
+      "brands": [
+        {
+          "name": "Science & Vie",
+          "aliases": [
+            "science-et-vie",
+            "science-vie",
+            "sciencevie"
+          ],
+          "category": "Magazine",
+          "note": "Mensuel de vulgarisation scientifique, avec déclinaisons (Science & Vie Junior, Les Cahiers de Science & Vie). Issu du rachat de Mondadori France (2019)"
+        },
+        {
+          "name": "Auto Plus",
+          "aliases": [
+            "auto-plus",
+            "autoplus"
+          ],
+          "category": "Magazine",
+          "note": "Hebdomadaire automobile"
+        },
+        {
+          "name": "Closer",
+          "aliases": [
+            "closer",
+            "closer-magazine"
+          ],
+          "category": "Hebdomadaire",
+          "note": "Hebdomadaire people, issu du rachat de Mondadori France (2019)"
+        },
+        {
+          "name": "Grazia",
+          "aliases": [
+            "grazia",
+            "grazia-france"
+          ],
+          "category": "Magazine",
+          "note": "Magazine féminin/mode ; Reworld a annoncé le retour d'une version papier en 2025"
+        },
+        {
+          "name": "Marie France",
+          "aliases": [
+            "marie-france",
+            "mariefrance"
+          ],
+          "category": "Magazine",
+          "note": "Magazine féminin"
+        },
+        {
+          "name": "Télé Magazine",
+          "aliases": [
+            "tele-magazine",
+            "telemagazine",
+            "tele-mag"
+          ],
+          "category": "Magazine",
+          "note": "Magazine de programmes TV (gamme avec Télé Star, Télé Poche…)"
+        },
+        {
+          "name": "Gourmand",
+          "aliases": [
+            "gourmand"
+          ],
+          "category": "Magazine",
+          "note": "Magazine de cuisine"
+        },
+        {
+          "name": "Top Santé",
+          "aliases": [
+            "top-sante",
+            "topsante"
+          ],
+          "category": "Magazine",
+          "note": "Magazine de santé / bien-être"
+        },
+        {
+          "name": "Be",
+          "aliases": [
+            "be",
+            "be-magazine"
+          ],
+          "category": "Magazine",
+          "note": "Marque féminine"
+        },
+        {
+          "name": "Modes & Travaux",
+          "aliases": [
+            "modes-et-travaux",
+            "modes-travaux",
+            "modesettravaux"
+          ],
+          "category": "Magazine",
+          "note": "Magazine féminin / loisirs créatifs, issu du rachat de Mondadori France (2019)"
+        }
+      ],
+      "scandals": [
+        {
+          "title": "Démission collective de la rédaction de Science & Vie",
+          "year": 2021,
+          "period": "2021",
+          "severity": "élevé",
+          "tags": [
+            "médias",
+            "indépendance éditoriale",
+            "emploi",
+            "qualité éditoriale"
+          ],
+          "summary": "Le 30 mars 2021, neuf journalistes de Science & Vie (la quasi-totalité des rédacteurs titulaires et plusieurs pigistes) annoncent leur démission après des désaccords avec Reworld Media, propriétaire du titre depuis l'été 2019. Ils dénoncent le manque d'effectifs, la gestion du site internet par des « chargés de contenus » non journalistes, et la nomination de responsables sans expertise scientifique. La rédaction avait mené une grève de trois jours et voté une motion de défiance, demandant la garantie de l'indépendance éditoriale du titre.",
+          "sources": [
+            {
+              "label": "Franceinfo – Les journalistes de Science et Vie démissionnent",
+              "url": "https://www.franceinfo.fr/sciences/espace/la-quasi-totalite-des-redacteurs-du-magazine-sciences-et-vie-demissionne-apres-un-desaccord-avec-reworld-media-son-proprietaire_4352921.html"
+            },
+            {
+              "label": "SNJ-CGT – Départ collectif à Science & Vie",
+              "url": "https://snjcgt.fr/2021/03/31/depart-collectif-a-science-vie/"
+            }
+          ]
+        },
+        {
+          "title": "Modèle « brand content » et critiques sur l'ubérisation du journalisme",
+          "year": 2019,
+          "period": "depuis 2019",
+          "severity": "modéré",
+          "tags": [
+            "médias",
+            "indépendance éditoriale",
+            "publicité",
+            "contenus de marque"
+          ],
+          "summary": "Le modèle de Reworld Media, fondé sur un fort volume de contenu et le brand content (contenus produits pour les annonceurs), est critiqué par de nombreux journalistes qui estiment que l'activité s'apparente davantage à de la publicité qu'au journalisme. Après les acquisitions de titres, des journalistes titulaires ont quitté massivement les rédactions, remplacés par des pigistes — une politique d'externalisation décrite par ses critiques comme une « ubérisation » du journalisme.",
+          "sources": [
+            {
+              "label": "Acrimed – Reworld Media, un groupe de presse contre le journalisme",
+              "url": "https://www.acrimed.org/Reworld-Media-un-groupe-de-presse-contre-le"
+            },
+            {
+              "label": "Wikipedia – Reworld Media",
+              "url": "https://en.wikipedia.org/wiki/Reworld_Media"
             }
           ]
         }
