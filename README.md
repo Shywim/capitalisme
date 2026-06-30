@@ -22,6 +22,11 @@ gratuitement (GitHub Pages, Netlify, etc.).
 - ⚠️ **Controverses sourcées** : titre, date, niveau de gravité, thèmes (tags), résumé
   factuel et **liens vers les sources**.
 - 🗂️ **Exploration** de tous les groupes depuis l'accueil.
+- 🧭 **Filtres par type de controverse** (santé, environnement, droits humains…) : vue
+  thématique regroupant toutes les controverses d'un ou plusieurs thèmes.
+- 🔗 **URL partageables** : l'adresse se met à jour à chaque vue et un bouton
+  « Copier le lien » permet de partager une fiche précise. Formats :
+  `#groupe=<id>`, `#q=<recherche>`, `#theme=<id1>,<id2>`, `#controverses`.
 - 📱 **Responsive** + thème sombre automatique + accessible (ARIA, navigation clavier).
 
 ---
