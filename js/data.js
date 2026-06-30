@@ -256,6 +256,591 @@ window.CAPITALISME_DATA = {
       ]
     },
     {
+      "id": "adidas",
+      "name": "Adidas",
+      "legalName": "Adidas AG",
+      "country": "Allemagne",
+      "founded": 1949,
+      "website": "https://www.adidas-group.com",
+      "revenue": "Environ 23,7 milliards d'euros en 2024",
+      "description": "Adidas AG est un équipementier sportif allemand, dont le siège est à Herzogenaurach. C'est l'un des deux plus grands fabricants mondiaux d'articles de sport, derrière l'américain Nike.",
+      "brands": [
+        {
+          "name": "Adidas",
+          "aliases": [
+            "Addidas",
+            "Adidas Originals"
+          ],
+          "category": "Articles de sport",
+          "note": "Marque principale du groupe (chaussures, vêtements, équipements)."
+        },
+        {
+          "name": "Adidas Originals",
+          "aliases": [
+            "Originals"
+          ],
+          "category": "Mode / Lifestyle",
+          "note": "Ligne lifestyle reprenant l'héritage de la marque."
+        },
+        {
+          "name": "Adidas Performance",
+          "category": "Articles de sport",
+          "note": "Gamme dédiée à la performance sportive."
+        },
+        {
+          "name": "Adidas Terrex",
+          "aliases": [
+            "Terrex"
+          ],
+          "category": "Plein air / Outdoor",
+          "note": "Ligne outdoor (randonnée, escalade, trail)."
+        },
+        {
+          "name": "Adidas by Stella McCartney",
+          "aliases": [
+            "Stella McCartney Adidas"
+          ],
+          "category": "Mode / Sport",
+          "note": "Collaboration de longue date avec la créatrice Stella McCartney."
+        },
+        {
+          "name": "Y-3",
+          "aliases": [
+            "Yohji Yamamoto Y-3"
+          ],
+          "category": "Mode / Sport",
+          "note": "Ligne créée avec le styliste Yohji Yamamoto."
+        },
+        {
+          "name": "Five Ten",
+          "aliases": [
+            "5.10",
+            "FiveTen"
+          ],
+          "category": "Plein air / Escalade",
+          "note": "Chaussures d'escalade et de VTT, marque rachetée en 2011."
+        },
+        {
+          "name": "TaylorMade",
+          "aliases": [
+            "Taylor Made"
+          ],
+          "category": "Golf",
+          "note": "Marque d'équipements de golf."
+        },
+        {
+          "name": "Maxfli",
+          "category": "Golf",
+          "note": "Marque de balles et accessoires de golf."
+        },
+        {
+          "name": "Adipure",
+          "category": "Articles de sport",
+          "note": "Ligne de chaussures du groupe."
+        }
+      ],
+      "scandals": [
+        {
+          "title": "Rupture du partenariat avec Ye (Kanye West) et fin de la ligne Yeezy",
+          "year": 2022,
+          "severity": "élevé",
+          "tags": [
+            "réputation",
+            "droits humains",
+            "gouvernance"
+          ],
+          "summary": "En octobre 2022, Adidas a mis fin à son partenariat avec le rappeur Ye (anciennement Kanye West) à la suite de propos antisémites répétés de ce dernier. La marque Yeezy représentait alors une part importante des ventes, et le groupe a annoncé s'attendre à une perte d'environ 700 millions d'euros en 2023. Adidas a indiqué condamner l'antisémitisme et tout discours de haine.",
+          "sources": [
+            {
+              "label": "The Times of Israël (fr) – Adidas annonce 700 millions € de pertes après sa rupture avec Kanye West",
+              "url": "https://fr.timesofisrael.com/adidas-annonce-700-millions-e-de-pertes-apres-sa-rupture-avec-kanye-west/"
+            },
+            {
+              "label": "La Presse – Adidas encaisse le coup après sa rupture avec Kanye West",
+              "url": "https://www.lapresse.ca/affaires/entreprises/2022-11-09/adidas-encaisse-le-coup-apres-sa-rupture-avec-kanye-west.php"
+            }
+          ]
+        },
+        {
+          "title": "Recours d'actionnaires sur la communication relative à Ye",
+          "year": 2024,
+          "period": "2023-2025",
+          "severity": "modéré",
+          "tags": [
+            "gouvernance",
+            "information financière"
+          ],
+          "summary": "Des actionnaires américains ont engagé une action collective reprochant à Adidas d'avoir dissimulé des risques liés au comportement de Ye avant la rupture de 2022, faisant valoir des pertes après la chute du cours de l'action. La cour de district a rejeté l'action en août 2024, estimant que les informations sur les risques publiées par le groupe étaient conformes aux usages du secteur, rejet confirmé en appel.",
+          "sources": [
+            {
+              "label": "FashionNetwork – Adidas l'emporte en appel dans l'affaire liée à la rupture de son partenariat avec Ye",
+              "url": "https://fr.fashionnetwork.com/news/Adidas-l-emporte-en-appel-dans-l-affaire-liee-a-la-rupture-de-son-partenariat-avec-ye,1788799.html"
+            },
+            {
+              "label": "The Fashion Law – Adidas Beats Appeal in Lawsuit Over Yeezy Partnership Collapse",
+              "url": "https://www.thefashionlaw.com/adidas-beats-appeal-in-lawsuit-over-yeezy-partnership-collapse/"
+            }
+          ]
+        },
+        {
+          "title": "Conditions de travail dans la chaîne de sous-traitance en Asie",
+          "year": 2014,
+          "period": "années 2010",
+          "severity": "modéré",
+          "tags": [
+            "conditions de travail",
+            "droits humains"
+          ],
+          "summary": "Comme d'autres équipementiers, Adidas a été critiqué par des ONG (Éthique sur l'étiquette, Observatoire des multinationales) pour les bas salaires et les conditions de travail chez certains sous-traitants en Asie, notamment au Cambodge où des grèves d'ouvriers du textile en janvier 2014 ont été durement réprimées. Adidas a répondu que le salaire moyen dans ses usines au Cambodge dépassait le salaire minimum légal et publie une liste de ses fournisseurs.",
+          "sources": [
+            {
+              "label": "Observatoire des multinationales – Euro 2016 : Nike et Adidas et la « responsabilité sociale »",
+              "url": "https://multinationales.org/fr/a-chaud/actualites/euro-2016-quand-nike-et-adidas-fuient-leur-responsabilite-sociale-pour-payer"
+            },
+            {
+              "label": "France 24 webdoc – Cambodge : la révolte des petites mains",
+              "url": "https://webdoc.france24.com/cambodge/textile/"
+            }
+          ]
+        },
+        {
+          "title": "Parrainage de la Coupe du monde 2022 au Qatar",
+          "year": 2022,
+          "severity": "modéré",
+          "tags": [
+            "droits humains",
+            "parrainage sportif"
+          ],
+          "summary": "En tant que sponsor officiel de la Coupe du monde 2022, Adidas a été appelé par Amnesty International, Human Rights Watch et FairSquare à soutenir l'indemnisation des travailleurs migrants ayant œuvré sur les chantiers au Qatar. Adidas a publiquement déclaré soutenir la FIFA pour traiter les questions de droits des travailleurs et indiqué s'être engagé sur place pour l'amélioration des conditions.",
+          "sources": [
+            {
+              "label": "Human Rights Watch – Les sponsors devraient soutenir les réparations pour les travailleurs migrants",
+              "url": "https://www.hrw.org/fr/news/2022/09/20/coupe-du-monde-de-la-fifa-les-sponsors-devraient-soutenir-les-reparations-pour-les"
+            },
+            {
+              "label": "Amnesty International – Les sponsors appelés à soutenir les indemnisations",
+              "url": "https://www.amnesty.ch/fr/themes/economie-et-droits-humains/sport-et-droits-humains/docs/2022/les-sponsors-appeles-a-soutenir-les-indemnisations"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "alphabet-google",
+      "name": "Alphabet (Google)",
+      "legalName": "Alphabet Inc.",
+      "country": "États-Unis",
+      "founded": 1998,
+      "website": "https://abc.xyz",
+      "revenue": "Chiffre d'affaires d'environ 350 milliards de dollars en 2024",
+      "description": "Alphabet est la société mère de Google, créée en 2015 pour regrouper les activités du moteur de recherche et ses filiales. Le groupe est l'un des principaux acteurs mondiaux de la publicité en ligne, des logiciels, du matériel électronique et de l'intelligence artificielle.",
+      "brands": [
+        {
+          "name": "Google Search",
+          "aliases": [
+            "Google",
+            "Google Recherche",
+            "gogle"
+          ],
+          "category": "Moteur de recherche",
+          "note": "Service historique du groupe."
+        },
+        {
+          "name": "YouTube",
+          "aliases": [
+            "You Tube",
+            "youtub"
+          ],
+          "category": "Vidéo en ligne",
+          "note": "Racheté par Google en 2006."
+        },
+        {
+          "name": "Android",
+          "aliases": [
+            "androïd"
+          ],
+          "category": "Système d'exploitation mobile"
+        },
+        {
+          "name": "Google Chrome",
+          "aliases": [
+            "Chrome",
+            "navigateur Google"
+          ],
+          "category": "Navigateur web"
+        },
+        {
+          "name": "Gmail",
+          "aliases": [
+            "G-mail",
+            "messagerie Google"
+          ],
+          "category": "Messagerie électronique"
+        },
+        {
+          "name": "Google Maps",
+          "aliases": [
+            "Maps",
+            "Google Map"
+          ],
+          "category": "Cartographie et navigation"
+        },
+        {
+          "name": "Waze",
+          "aliases": [
+            "Waize"
+          ],
+          "category": "Navigation GPS",
+          "note": "Acquis en 2013."
+        },
+        {
+          "name": "Google Play",
+          "aliases": [
+            "Play Store",
+            "Google Play Store"
+          ],
+          "category": "Magasin d'applications"
+        },
+        {
+          "name": "Google Drive",
+          "aliases": [
+            "Drive",
+            "Google Docs"
+          ],
+          "category": "Stockage et bureautique en ligne"
+        },
+        {
+          "name": "Google Photos",
+          "aliases": [
+            "Photos Google"
+          ],
+          "category": "Photographie en ligne"
+        },
+        {
+          "name": "Google Cloud",
+          "aliases": [
+            "GCP",
+            "Google Cloud Platform"
+          ],
+          "category": "Informatique en nuage"
+        },
+        {
+          "name": "Google Pixel",
+          "aliases": [
+            "Pixel",
+            "smartphone Pixel"
+          ],
+          "category": "Matériel électronique",
+          "note": "Gamme de smartphones du groupe."
+        },
+        {
+          "name": "Nest",
+          "aliases": [
+            "Google Nest"
+          ],
+          "category": "Maison connectée",
+          "note": "Thermostats, caméras et enceintes."
+        },
+        {
+          "name": "Fitbit",
+          "aliases": [
+            "Fit bit"
+          ],
+          "category": "Objets connectés santé",
+          "note": "Acquis en 2021."
+        },
+        {
+          "name": "Google Gemini",
+          "aliases": [
+            "Gemini",
+            "Bard"
+          ],
+          "category": "Intelligence artificielle",
+          "note": "Anciennement Bard."
+        },
+        {
+          "name": "Waymo",
+          "aliases": [
+            "Waymo"
+          ],
+          "category": "Véhicules autonomes"
+        },
+        {
+          "name": "DeepMind",
+          "aliases": [
+            "Deep Mind",
+            "Google DeepMind"
+          ],
+          "category": "Recherche en intelligence artificielle"
+        }
+      ],
+      "scandals": [
+        {
+          "title": "Amende antitrust de l'UE pour Android",
+          "year": 2018,
+          "period": "2018-2022",
+          "severity": "élevé",
+          "tags": [
+            "concurrence"
+          ],
+          "summary": "En juillet 2018, la Commission européenne a infligé à Google une amende de 4,34 milliards d'euros, estimant que la société imposait depuis 2011 des restrictions illégales aux fabricants d'appareils Android et aux opérateurs mobiles pour conforter la position dominante de son moteur de recherche. En septembre 2022, le Tribunal de l'UE a confirmé l'essentiel de la décision tout en ramenant l'amende à 4,125 milliards d'euros. Google a contesté l'analyse de la Commission et a fait évoluer ses pratiques en Europe.",
+          "sources": [
+            {
+              "label": "Commission européenne – communiqué (2018)",
+              "url": "https://ec.europa.eu/commission/presscorner/detail/fr/IP_18_4581"
+            },
+            {
+              "label": "Euronews – validation par la justice européenne (2022)",
+              "url": "https://fr.euronews.com/2022/09/14/la-justice-europeenne-valide-lamende-record-infligee-a-google"
+            }
+          ]
+        },
+        {
+          "title": "Amende de la CNIL sur les cookies",
+          "year": 2021,
+          "severity": "modéré",
+          "tags": [
+            "données personnelles"
+          ],
+          "summary": "Le 31 décembre 2021, la CNIL a sanctionné Google LLC (90 millions d'euros) et Google Ireland Limited (60 millions d'euros), soit 150 millions d'euros au total, reprochant aux sites google.fr et youtube.com de ne pas permettre de refuser les cookies aussi facilement que de les accepter. La CNIL a enjoint au groupe de modifier le recueil du consentement sous trois mois. Google a ensuite mis en place un bouton de refus des cookies.",
+          "sources": [
+            {
+              "label": "CNIL – communiqué officiel",
+              "url": "https://www.cnil.fr/fr/cookies-la-cnil-sanctionne-google-hauteur-de-150-millions-deuros-et-facebook-hauteur-de-60-millions"
+            }
+          ]
+        },
+        {
+          "title": "Amende antitrust de l'UE sur les technologies publicitaires",
+          "year": 2025,
+          "severity": "élevé",
+          "tags": [
+            "concurrence"
+          ],
+          "summary": "Le 5 septembre 2025, la Commission européenne a infligé à Google une amende de 2,95 milliards d'euros pour pratiques abusives dans le secteur des technologies publicitaires en ligne (« ad tech »), estimant que le groupe avait favorisé ses propres services d'intermédiation publicitaire au détriment des concurrents. La Commission a demandé à Google de mettre fin à ces pratiques. Google a annoncé son intention de faire appel.",
+          "sources": [
+            {
+              "label": "Commission européenne – Représentation en France",
+              "url": "https://france.representation.ec.europa.eu/informations/la-commission-inflige-google-une-amende-dun-montant-de-295-milliards-deuros-pour-pratiques-abusives-2025-09-05_fr"
+            }
+          ]
+        },
+        {
+          "title": "Amende confirmée dans l'affaire Google Shopping",
+          "year": 2017,
+          "period": "2017-2024",
+          "severity": "élevé",
+          "tags": [
+            "concurrence"
+          ],
+          "summary": "En 2017, la Commission européenne avait infligé à Google une amende de 2,42 milliards d'euros pour avoir favorisé son comparateur de prix « Google Shopping » dans ses résultats de recherche. En septembre 2024, la Cour de justice de l'Union européenne a rejeté le pourvoi de Google et confirmé définitivement cette amende. Google avait adapté l'affichage de son comparateur en réponse à la décision initiale.",
+          "sources": [
+            {
+              "label": "Touteleurope.eu – confirmation par la CJUE (2024)",
+              "url": "https://www.touteleurope.eu/economie-et-social/la-justice-europeenne-confirme-une-amende-de-24-milliards-d-euros-contre-google-pour-pratiques-anticoncurrentielles/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "amazon",
+      "name": "Amazon",
+      "legalName": "Amazon.com, Inc.",
+      "country": "États-Unis",
+      "founded": 1994,
+      "website": "https://www.amazon.com",
+      "revenue": "Chiffre d'affaires d'environ 638 milliards de dollars en 2024",
+      "description": "Amazon est un groupe américain de commerce en ligne, d'informatique en nuage, de divertissement et d'objets connectés, fondé par Jeff Bezos en 1994. Sa division Amazon Web Services (AWS) est l'un des principaux fournisseurs mondiaux de services cloud.",
+      "brands": [
+        {
+          "name": "Amazon.fr",
+          "aliases": [
+            "Amazon",
+            "Amazone",
+            "amazon.com"
+          ],
+          "category": "Commerce en ligne",
+          "note": "Place de marché grand public."
+        },
+        {
+          "name": "Amazon Prime",
+          "aliases": [
+            "Prime"
+          ],
+          "category": "Abonnement",
+          "note": "Livraison et avantages associés."
+        },
+        {
+          "name": "Prime Video",
+          "aliases": [
+            "Amazon Prime Video",
+            "Prime Vidéo"
+          ],
+          "category": "Vidéo à la demande"
+        },
+        {
+          "name": "Amazon Web Services",
+          "aliases": [
+            "AWS"
+          ],
+          "category": "Informatique en nuage"
+        },
+        {
+          "name": "Audible",
+          "aliases": [
+            "Audibles"
+          ],
+          "category": "Livres audio",
+          "note": "Acquis en 2008."
+        },
+        {
+          "name": "Twitch",
+          "aliases": [
+            "Twich",
+            "Twitch.tv"
+          ],
+          "category": "Diffusion vidéo en direct",
+          "note": "Acquis en 2014."
+        },
+        {
+          "name": "Kindle",
+          "aliases": [
+            "Amazon Kindle",
+            "liseuse Kindle"
+          ],
+          "category": "Liseuses et livres numériques"
+        },
+        {
+          "name": "Alexa",
+          "aliases": [
+            "Amazon Alexa"
+          ],
+          "category": "Assistant vocal"
+        },
+        {
+          "name": "Echo",
+          "aliases": [
+            "Amazon Echo",
+            "enceinte Echo"
+          ],
+          "category": "Enceintes connectées"
+        },
+        {
+          "name": "Fire TV",
+          "aliases": [
+            "Amazon Fire TV",
+            "Fire Stick"
+          ],
+          "category": "Lecteur multimédia"
+        },
+        {
+          "name": "Ring",
+          "aliases": [
+            "Ring sonnette"
+          ],
+          "category": "Sécurité et maison connectée",
+          "note": "Acquis en 2018."
+        },
+        {
+          "name": "Whole Foods Market",
+          "aliases": [
+            "Whole Foods"
+          ],
+          "category": "Distribution alimentaire",
+          "note": "Acquis en 2017 (présent surtout aux États-Unis/Royaume-Uni)."
+        },
+        {
+          "name": "MGM",
+          "aliases": [
+            "MGM Studios",
+            "Metro-Goldwyn-Mayer",
+            "MGM+"
+          ],
+          "category": "Production cinématographique",
+          "note": "Acquis en 2022."
+        },
+        {
+          "name": "Kindle Direct Publishing",
+          "aliases": [
+            "KDP"
+          ],
+          "category": "Édition numérique"
+        },
+        {
+          "name": "Amazon Music",
+          "aliases": [
+            "Amazon Musique"
+          ],
+          "category": "Musique en streaming"
+        }
+      ],
+      "scandals": [
+        {
+          "title": "Surveillance des salariés sanctionnée par la CNIL",
+          "year": 2024,
+          "period": "2024-2025",
+          "severity": "modéré",
+          "tags": [
+            "données personnelles",
+            "conditions de travail"
+          ],
+          "summary": "En janvier 2024, la CNIL a infligé à Amazon France Logistique une amende de 32 millions d'euros, estimant que le système de scanners suivant en continu l'activité des salariés des entrepôts était excessivement intrusif et contraire au RGPD, de même que l'usage de la vidéosurveillance. Amazon a contesté la décision. En décembre 2025, le Conseil d'État a réduit l'amende à environ 15 millions d'euros.",
+          "sources": [
+            {
+              "label": "Comité européen de la protection des données (EDPB)",
+              "url": "https://www.edpb.europa.eu/news/national-news/2024/employee-monitoring-french-sa-fined-amazon-france-logistique-eu32-million_en"
+            },
+            {
+              "label": "L'Usine Digitale – réduction par le Conseil d'État",
+              "url": "https://www.usine-digitale.fr/cybersecurite/data-protection/cnil/surveillance-au-travail-le-conseil-detat-desavoue-la-cnil-et-reduit-de-moitie-lamende-infligee-a-amazon.QNXQPNDTJ5FHVGCABLZXUYY3FA.html"
+            }
+          ]
+        },
+        {
+          "title": "Avantages fiscaux au Luxembourg",
+          "year": 2017,
+          "period": "2017-2023",
+          "severity": "modéré",
+          "tags": [
+            "fiscalité",
+            "concurrence"
+          ],
+          "summary": "En octobre 2017, la Commission européenne a estimé que le Luxembourg avait accordé à Amazon des avantages fiscaux indus d'environ 250 millions d'euros, constitutifs d'une aide d'État illégale. Amazon et le Luxembourg ont contesté la décision : en 2021 le Tribunal de l'UE puis, en décembre 2023, la Cour de justice de l'UE ont annulé la décision, estimant que la Commission n'avait pas démontré l'existence d'un avantage indu. Amazon a affirmé respecter les règles fiscales en vigueur.",
+          "sources": [
+            {
+              "label": "Commission européenne – communiqué (2017)",
+              "url": "https://ec.europa.eu/commission/presscorner/detail/en/IP_17_3701"
+            },
+            {
+              "label": "Euronews – arrêt de la justice européenne (2023)",
+              "url": "https://www.euronews.com/business/2023/12/14/judges-uphold-amazons-sweetheart-luxembourg-tax-deal"
+            }
+          ]
+        },
+        {
+          "title": "Conditions de travail et fermeture des entrepôts français (Covid-19)",
+          "year": 2020,
+          "severity": "modéré",
+          "tags": [
+            "conditions de travail",
+            "santé"
+          ],
+          "summary": "En avril 2020, à la suite d'une action du syndicat SUD, le tribunal judiciaire de Nanterre a jugé qu'Amazon n'avait pas suffisamment évalué les risques liés au Covid-19 pour ses salariés et a restreint son activité aux produits essentiels sous astreinte. Amazon a alors fermé temporairement ses entrepôts français pendant environ un mois. Les conditions de travail dans les entrepôts du groupe ont fait l'objet de grèves récurrentes en France et en Europe.",
+          "sources": [
+            {
+              "label": "Business & Human Rights Resource Centre – grèves en Europe",
+              "url": "https://www.business-humanrights.org/en/latest-news/amazon-workers-in-france-italy-spain-poland-strike-over-labour-conditions-during-covid-19-pandemic/"
+            },
+            {
+              "label": "Quartz – fermeture des entrepôts en France (2020)",
+              "url": "https://qz.com/1839177/why-amazon-is-shut-down-in-france"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "andros",
       "name": "Andros",
       "legalName": "Andros (Groupe Andros)",
@@ -385,6 +970,188 @@ window.CAPITALISME_DATA = {
             {
               "label": "Jury de déontologie publicitaire — avis Andros (plainte partiellement fondée)",
               "url": "https://www.jdp-pub.org/avis/andros-internet-plainte-partiellement-fondee/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "apple",
+      "name": "Apple",
+      "legalName": "Apple Inc.",
+      "country": "États-Unis",
+      "founded": 1976,
+      "website": "https://www.apple.com",
+      "revenue": "416,2 milliards de dollars de chiffre d'affaires sur l'exercice fiscal 2025 (clos le 27 septembre 2025), pour un bénéfice net de 112 milliards de dollars",
+      "description": "Apple est une entreprise technologique américaine basée à Cupertino (Californie), conceptrice d'appareils électroniques grand public, de logiciels et de services en ligne. C'est l'une des plus grandes capitalisations boursières mondiales.",
+      "brands": [
+        {
+          "name": "iPhone",
+          "category": "Smartphone"
+        },
+        {
+          "name": "iPad",
+          "category": "Tablette"
+        },
+        {
+          "name": "Mac",
+          "aliases": [
+            "MacBook",
+            "iMac",
+            "Mac mini"
+          ],
+          "category": "Ordinateur"
+        },
+        {
+          "name": "Apple Watch",
+          "category": "Montre connectée"
+        },
+        {
+          "name": "AirPods",
+          "category": "Écouteurs sans fil"
+        },
+        {
+          "name": "Apple TV",
+          "aliases": [
+            "Apple TV+"
+          ],
+          "category": "Boîtier multimédia et service de streaming"
+        },
+        {
+          "name": "iCloud",
+          "category": "Stockage et services cloud"
+        },
+        {
+          "name": "Apple Music",
+          "category": "Streaming musical"
+        },
+        {
+          "name": "App Store",
+          "category": "Magasin d'applications"
+        },
+        {
+          "name": "Apple Pay",
+          "category": "Paiement mobile"
+        },
+        {
+          "name": "iOS",
+          "aliases": [
+            "iPadOS",
+            "macOS",
+            "watchOS"
+          ],
+          "category": "Système d'exploitation"
+        },
+        {
+          "name": "Beats",
+          "aliases": [
+            "Beats by Dre"
+          ],
+          "category": "Audio (casques et écouteurs)"
+        },
+        {
+          "name": "Siri",
+          "category": "Assistant vocal"
+        },
+        {
+          "name": "AirTag",
+          "category": "Traceur d'objets"
+        },
+        {
+          "name": "Vision Pro",
+          "aliases": [
+            "Apple Vision Pro"
+          ],
+          "category": "Casque de réalité mixte"
+        },
+        {
+          "name": "HomePod",
+          "category": "Enceinte connectée"
+        }
+      ],
+      "scandals": [
+        {
+          "title": "Bridage des anciens iPhone (« Batterygate »)",
+          "year": 2017,
+          "period": "2017-2020",
+          "severity": "modéré",
+          "tags": [
+            "pratiques commerciales",
+            "obsolescence",
+            "information du consommateur"
+          ],
+          "summary": "En décembre 2017, Apple a reconnu qu'une mise à jour d'iOS ralentissait volontairement les performances d'anciens iPhone (6, 6s, 7, SE) afin d'éviter des extinctions liées au vieillissement de la batterie, sans en avoir informé les utilisateurs. En France, la DGCCRF a infligé en 2020 une amende de 25 millions d'euros pour pratique commerciale trompeuse par omission, et Apple a accepté aux États-Unis un règlement de 500 millions de dollars d'une action collective.",
+          "sources": [
+            {
+              "label": "Clubic – Apple condamnée pour le bridage des iPhone 6",
+              "url": "https://www.clubic.com/pro/entreprises/apple/actualite-481276-condamnee-pour-avoir-ralenti-ses-iphone-6-en-douce-apple-va-enfin-payer-son-amende.html"
+            },
+            {
+              "label": "Developpez.com – Règlement de 113 millions de dollars (États fédérés)",
+              "url": "https://www.developpez.com/actu/310582/Apple-accepte-de-payer-113-millions-de-dollars-pour-regler-l-affaire-Batterygate-concernant-le-ralentissement-intentionnel-des-performances-des-anciens-iPhone/"
+            }
+          ]
+        },
+        {
+          "title": "Avantages fiscaux en Irlande (aide d'État illégale)",
+          "year": 2024,
+          "period": "2016-2024",
+          "severity": "élevé",
+          "tags": [
+            "fiscalité",
+            "aides d'État",
+            "concurrence"
+          ],
+          "summary": "En 2016, la Commission européenne a estimé que des accords fiscaux conclus par l'Irlande avec Apple constituaient une aide d'État illégale. Le 10 septembre 2024, la Cour de justice de l'Union européenne a tranché définitivement (affaire C-465/20 P) en confirmant cette analyse, obligeant l'Irlande à récupérer environ 13 milliards d'euros d'arriérés fiscaux auprès d'Apple.",
+          "sources": [
+            {
+              "label": "economie.gouv.fr (DAJ) – La CJUE condamne Apple au remboursement de 13 milliards d'euros",
+              "url": "https://www.economie.gouv.fr/daj/lettre-de-la-daj-aide-detat-illegale-la-cour-de-justice-de-lunion-europeenne-condamne-apple-au"
+            },
+            {
+              "label": "Euractiv FR – La CJUE condamne Apple à payer 13 milliards d'euros",
+              "url": "https://www.euractiv.fr/section/economie/news/la-cour-de-justice-de-lue-condamne-apple-a-payer-treize-milliards-deuros-darriers-fiscaux/"
+            }
+          ]
+        },
+        {
+          "title": "Amende européenne pour les pratiques anti-orientation de l'App Store (DMA)",
+          "year": 2025,
+          "severity": "élevé",
+          "tags": [
+            "concurrence",
+            "régulation numérique"
+          ],
+          "summary": "Le 23 avril 2025, la Commission européenne a infligé à Apple une amende de 500 millions d'euros pour non-respect du Digital Markets Act, lui reprochant d'empêcher les développeurs d'orienter les utilisateurs de l'App Store vers des offres et moyens de paiement alternatifs moins chers. Il s'agissait de l'une des premières sanctions prononcées dans le cadre du DMA. Apple a annoncé faire appel.",
+          "sources": [
+            {
+              "label": "AppSystem – Amende de 500 millions d'euros pour l'App Store",
+              "url": "https://www.appsystem.fr/243170/lue-inflige-une-amende-de-500-millions-deuros-a-apple-pour-ses-politiques-de-lapp-store/"
+            },
+            {
+              "label": "Hunton – European Commission Fines Apple and Meta for Non-compliance with the DMA",
+              "url": "https://www.hunton.com/privacy-and-information-security-law/european-commission-fines-apple-and-meta-for-non-compliance-with-the-dma"
+            }
+          ]
+        },
+        {
+          "title": "Conditions de travail chez le sous-traitant Foxconn",
+          "year": 2010,
+          "period": "années 2010",
+          "severity": "modéré",
+          "tags": [
+            "conditions de travail",
+            "sous-traitance"
+          ],
+          "summary": "Le principal assembleur des produits Apple, le taïwanais Foxconn, a fait l'objet de critiques répétées sur les conditions de travail dans ses usines chinoises, notamment après une série de suicides d'employés sur le site de Shenzhen en 2010 (filets anti-suicide installés). Plusieurs reportages, dont une enquête de France 2 (« Envoyé spécial »), ont documenté de longues journées de travail et un encadrement très strict ; Apple a depuis renforcé ses audits de fournisseurs.",
+          "sources": [
+            {
+              "label": "RTBF – Témoignage d'une travailleuse chez Foxconn",
+              "url": "https://www.rtbf.be/info/economie/detail_une-survivante-temoignage-d-une-jeune-travailleuse-chinoise-chez-foxconn?id=8063662"
+            },
+            {
+              "label": "Cairn.info – Suicides et révoltes dans une usine mondialisée (Foxconn)",
+              "url": "https://shs.cairn.info/revue-travailler-2014-1-page-119?lang=fr"
             }
           ]
         }
@@ -1437,6 +2204,787 @@ window.CAPITALISME_DATA = {
       ]
     },
     {
+      "id": "british-american-tobacco",
+      "name": "British American Tobacco",
+      "legalName": "British American Tobacco p.l.c.",
+      "country": "Royaume-Uni (Londres)",
+      "founded": 1902,
+      "website": "https://www.bat.com",
+      "revenue": "Chiffre d'affaires d'environ 25,9 milliards de livres sterling en 2024.",
+      "description": "British American Tobacco (BAT) est un groupe britannique du tabac et de la nicotine fondé en 1902, présent dans environ 180 pays. Outre les cigarettes traditionnelles, il développe des produits dits de « nouvelle génération » (vape, tabac chauffé, sachets de nicotine). BAT possède aussi sa filiale américaine Reynolds American (R.J. Reynolds), dont il a pris le contrôle total en 2017.",
+      "brands": [
+        {
+          "name": "Lucky Strike",
+          "aliases": [
+            "Lucky",
+            "Luckies"
+          ],
+          "category": "Cigarettes",
+          "note": "Marque mondiale historique de BAT."
+        },
+        {
+          "name": "Dunhill",
+          "aliases": [
+            "Dunhill cigarettes"
+          ],
+          "category": "Cigarettes",
+          "note": "Marque premium, l'une des marques mondiales prioritaires de BAT."
+        },
+        {
+          "name": "Pall Mall",
+          "aliases": [
+            "Pall Mall cigarettes"
+          ],
+          "category": "Cigarettes",
+          "note": "L'une des marques de cigarettes les plus vendues du groupe."
+        },
+        {
+          "name": "Rothmans",
+          "aliases": [
+            "Rothmans of Pall Mall"
+          ],
+          "category": "Cigarettes",
+          "note": "Marque mondiale détenue par BAT."
+        },
+        {
+          "name": "Kent",
+          "category": "Cigarettes",
+          "note": "Marque internationale du portefeuille BAT."
+        },
+        {
+          "name": "Vogue",
+          "category": "Cigarettes",
+          "note": "Marque internationale commercialisée par BAT."
+        },
+        {
+          "name": "Vuse",
+          "aliases": [
+            "Vype",
+            "Vuse Go"
+          ],
+          "category": "Vape",
+          "note": "Principale marque de cigarettes électroniques de BAT (anciennement Vype)."
+        },
+        {
+          "name": "Glo",
+          "aliases": [
+            "glo"
+          ],
+          "category": "Tabac chauffé",
+          "note": "Dispositif de tabac chauffé de BAT, concurrent de l'IQOS de Philip Morris."
+        },
+        {
+          "name": "Velo",
+          "aliases": [
+            "VELO"
+          ],
+          "category": "Sachets de nicotine",
+          "note": "Sachets de nicotine sans tabac, marque de « nouvelle génération » de BAT."
+        }
+      ],
+      "scandals": [
+        {
+          "title": "Règlement record avec les autorités américaines pour violation des sanctions contre la Corée du Nord",
+          "year": 2023,
+          "period": "Faits de 2007 à 2017 ; règlement annoncé le 25 avril 2023",
+          "severity": "élevé",
+          "tags": [
+            "droits humains",
+            "lobbying"
+          ],
+          "summary": "Le 25 avril 2023, BAT a annoncé un accord avec le département de la Justice américain (DOJ) et l'OFAC du Trésor pour un montant total d'environ 635 millions de dollars (635 241 338 USD) afin de résoudre des accusations liées à ses activités avec la Corée du Nord entre 2007 et 2017. Une filiale singapourienne de BAT a plaidé coupable de conspiration en vue de fraude bancaire et de violation des sanctions, tandis que BAT a conclu un accord de poursuite différée. Selon le DOJ, le dispositif utilisait des sociétés-écrans pour faire transiter des centaines de millions de dollars via des banques américaines. Il s'agit de la plus importante pénalité jamais infligée par les autorités américaines dans une affaire de sanctions liées à la Corée du Nord.",
+          "sources": [
+            {
+              "label": "Communiqué officiel de BAT (25 avril 2023)",
+              "url": "https://www.bat.com/media/press-releases/_2023/april/apr-25---bat-reaches-agreement-with-u-s--department-of-justice--"
+            },
+            {
+              "label": "U.S. Department of the Treasury — communiqué OFAC",
+              "url": "https://home.treasury.gov/news/press-releases/jy1441"
+            }
+          ]
+        },
+        {
+          "title": "Allégations de corruption et d'espionnage en Afrique (enquête du SFO clôturée sans poursuites)",
+          "year": 2021,
+          "period": "Révélations BBC Panorama en 2015 ; enquête SFO ouverte en 2017 et clôturée le 15 janvier 2021 ; nouvelle enquête journalistique en 2021",
+          "severity": "élevé",
+          "tags": [
+            "droits humains",
+            "lobbying"
+          ],
+          "summary": "En 2015, un ancien salarié a affirmé à l'émission BBC Panorama que BAT avait versé des pots-de-vin en Afrique de l'Est. En 2017, le Serious Fraud Office (SFO) britannique a ouvert une enquête sur des allégations de corruption, qu'il a clôturée le 15 janvier 2021 en estimant que les preuves ne satisfaisaient pas au seuil requis pour des poursuites. En 2021, une enquête conjointe du Bureau of Investigative Journalism, de BBC Panorama et de l'Université de Bath a publié des documents internes décrivant des opérations présumées de versements et de surveillance d'opposants. BAT a nié tout acte répréhensible.",
+          "sources": [
+            {
+              "label": "Serious Fraud Office — clôture de l'enquête BAT (15 janvier 2021)",
+              "url": "https://www.sfo.gov.uk/2021/01/15/sfo-closes-british-american-tobacco-bat-plc-investigation/"
+            },
+            {
+              "label": "The Bureau of Investigative Journalism — Smoke Screen: BAT, bribes and spies",
+              "url": "https://www.thebureauinvestigates.com/stories/2021-09-14/smoke-screen-british-american-tobacco-bribes-and-spies-in-the-tobacco-industry"
+            }
+          ]
+        },
+        {
+          "title": "Action en justice au Royaume-Uni pour travail des enfants dans les plantations de tabac au Malawi",
+          "year": 2020,
+          "period": "Plainte déposée en 2020 ; enquêtes journalistiques et d'ONG depuis 2018",
+          "severity": "élevé",
+          "tags": [
+            "droits humains"
+          ],
+          "summary": "À la suite d'une enquête du Guardian en 2018, une action collective a été engagée devant la Haute Cour de Londres par le cabinet Leigh Day, accusant British American Tobacco et Imperial Brands d'avoir tiré profit du travail d'enfants et de l'exploitation de travailleurs dans des plantations de tabac au Malawi. La plainte concernait plusieurs milliers d'adultes et d'enfants de la chaîne d'approvisionnement et faisait état de conditions dangereuses et de rémunérations très faibles. BAT a contesté ces allégations et mis en avant ses programmes de lutte contre le travail des enfants.",
+          "sources": [
+            {
+              "label": "Business & Human Rights Resource Centre — Lawsuit filed against BAT and Imperial Brands (Malawi)",
+              "url": "https://www.business-humanrights.org/en/latest-news/malawi-lawsuit-filed-in-uk-court-against-british-american-tobacco-and-imperial-brands-companies-alleged-to-be-profiting-from-child-labour-worker-exploitation-on-tobacco-farms-in-malawi/"
+            },
+            {
+              "label": "ONU — Malawi: child trafficking and forced labour on tobacco farms",
+              "url": "https://news.un.org/en/story/2022/12/1131902"
+            }
+          ]
+        },
+        {
+          "title": "Lobbying contre les régulations antitabac et interférence avec les politiques de santé publique",
+          "period": "Activités documentées des années 2000 aux années 2020",
+          "severity": "modéré",
+          "tags": [
+            "lobbying",
+            "santé"
+          ],
+          "summary": "BAT a fait l'objet de critiques répétées pour ses activités de lobbying visant à freiner ou affaiblir les réglementations antitabac, jugées contraires à l'esprit de l'article 5.3 de la Convention-cadre de l'OMS pour la lutte antitabac. Des recherches universitaires ont montré que l'industrie du tabac, BAT inclus, a fortement pesé sur l'élaboration de la directive européenne sur les produits du tabac (2014), contribuant à des retards et à un affaiblissement du texte. BAT défend la légitimité de sa participation aux débats publics.",
+          "sources": [
+            {
+              "label": "University of Bath — la directive tabac, dossier le plus lobbyé de l'histoire de l'UE",
+              "url": "https://www.bath.ac.uk/announcements/new-tobacco-directive-the-most-lobbied-dossier-in-eu-history/"
+            },
+            {
+              "label": "Tobacco Tactics (Université de Bath) — British American Tobacco",
+              "url": "https://www.tobaccotactics.org/article/british-american-tobacco/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bytedance-tiktok",
+      "name": "ByteDance (TikTok)",
+      "legalName": "ByteDance Ltd.",
+      "country": "Chine",
+      "founded": 2012,
+      "website": "https://www.bytedance.com",
+      "revenue": "Environ 155 milliards de dollars de chiffre d'affaires en 2024 (en hausse d'environ 29 %), avec un bénéfice estimé autour de 50 milliards de dollars pour 2025",
+      "description": "ByteDance est une entreprise technologique chinoise basée à Pékin, surtout connue pour le réseau social vidéo TikTok et son équivalent chinois Douyin. C'est l'une des entreprises non cotées les plus valorisées au monde.",
+      "brands": [
+        {
+          "name": "TikTok",
+          "category": "Réseau social vidéo"
+        },
+        {
+          "name": "Douyin",
+          "category": "Réseau social vidéo (Chine)"
+        },
+        {
+          "name": "CapCut",
+          "aliases": [
+            "Jianying"
+          ],
+          "category": "Montage vidéo"
+        },
+        {
+          "name": "Lemon8",
+          "category": "Réseau social lifestyle"
+        },
+        {
+          "name": "Toutiao",
+          "category": "Agrégateur d'actualités (Chine)"
+        },
+        {
+          "name": "TikTok Shop",
+          "category": "Commerce en ligne (e-commerce social)"
+        },
+        {
+          "name": "Lark",
+          "aliases": [
+            "Feishu"
+          ],
+          "category": "Collaboration et productivité d'entreprise"
+        },
+        {
+          "name": "Doubao",
+          "category": "Assistant d'intelligence artificielle (Chine)"
+        },
+        {
+          "name": "Xigua Video",
+          "category": "Plateforme vidéo (Chine)"
+        },
+        {
+          "name": "Resso",
+          "category": "Streaming musical"
+        },
+        {
+          "name": "Gauth",
+          "category": "Application éducative"
+        },
+        {
+          "name": "Pico",
+          "category": "Casques de réalité virtuelle"
+        }
+      ],
+      "scandals": [
+        {
+          "title": "Amende COPPA aux États-Unis (collecte de données d'enfants via Musical.ly)",
+          "year": 2019,
+          "severity": "modéré",
+          "tags": [
+            "données personnelles",
+            "protection des mineurs"
+          ],
+          "summary": "En février 2019, la Federal Trade Commission (FTC) américaine a sanctionné les exploitants de l'application Musical.ly (devenue TikTok) d'une amende de 5,7 millions de dollars, alors record dans une affaire de vie privée des enfants. L'application était accusée d'avoir collecté des données personnelles d'utilisateurs de moins de 13 ans sans le consentement parental requis par la loi COPPA.",
+          "sources": [
+            {
+              "label": "Federal Trade Commission – Musical.ly Agrees to Settle FTC Allegations",
+              "url": "https://www.ftc.gov/news-events/news/press-releases/2019/02/video-social-networking-app-musically-agrees-settle-ftc-allegations-it-violated-childrens-privacy"
+            },
+            {
+              "label": "Variety – TikTok to Pay Record $5.7 Million FTC Fine",
+              "url": "https://variety.com/2019/digital/news/tiktok-musically-ftc-fine-violating-child-privacy-law-1203151078/"
+            }
+          ]
+        },
+        {
+          "title": "Amende RGPD de 345 millions d'euros (paramètres des comptes de mineurs)",
+          "year": 2023,
+          "severity": "élevé",
+          "tags": [
+            "données personnelles",
+            "protection des mineurs",
+            "RGPD"
+          ],
+          "summary": "En septembre 2023, l'autorité irlandaise de protection des données (DPC), régulateur de référence de TikTok dans l'Union européenne, a infligé une amende de 345 millions d'euros. Elle reprochait notamment que les comptes de mineurs soient publics par défaut et des manquements dans la protection des données des 13-17 ans, pour des faits intervenus en 2020.",
+          "sources": [
+            {
+              "label": "L'Usine Digitale – TikTok écope d'une amende de 345 millions d'euros en Irlande",
+              "url": "https://www.usine-digitale.fr/article/vie-privee-des-enfants-tiktok-ecope-d-une-amende-de-345-millions-d-euros-en-irlande.N2171617"
+            },
+            {
+              "label": "Blog du Modérateur – Pourquoi TikTok écope d'une amende de 345 millions d'euros",
+              "url": "https://www.blogdumoderateur.com/pourquoi-tiktok-ecope-amende-345-millions-euros/"
+            }
+          ]
+        },
+        {
+          "title": "Amende RGPD de 530 millions d'euros (transferts de données vers la Chine)",
+          "year": 2025,
+          "severity": "élevé",
+          "tags": [
+            "données personnelles",
+            "transferts internationaux",
+            "RGPD"
+          ],
+          "summary": "En mai 2025, la DPC irlandaise a infligé à TikTok une amende de 530 millions d'euros. Elle reprochait à la plateforme un défaut de garanties suffisantes concernant les transferts de données d'utilisateurs européens vers la Chine, ainsi qu'un manque de transparence sur ces transferts et la possibilité d'un accès distant par du personnel situé en Chine, pour des faits entre 2020 et 2022.",
+          "sources": [
+            {
+              "label": "Blog du Modérateur – Pourquoi TikTok écope d'une amende de 530 millions d'euros",
+              "url": "https://www.blogdumoderateur.com/rgpd-pourquoi-tiktok-ecope-amende-530-millions-euros/"
+            },
+            {
+              "label": "Generation-NT – TikTok écope d'une amende d'un demi-milliard d'euros",
+              "url": "https://www.generation-nt.com/actualites/tiktok-amende-rgpd-donnees-personnelles-europe-consultation-chine-2057683"
+            }
+          ]
+        },
+        {
+          "title": "Loi de cession ou interdiction aux États-Unis",
+          "year": 2024,
+          "period": "2024-2026",
+          "severity": "élevé",
+          "tags": [
+            "sécurité nationale",
+            "régulation",
+            "géopolitique"
+          ],
+          "summary": "En avril 2024, les États-Unis ont adopté une loi (PAFACA) imposant à ByteDance de céder les activités américaines de TikTok sous peine d'interdiction, pour des motifs de sécurité nationale liés à l'actionnariat chinois. La Cour suprême a validé la loi en janvier 2025 ; après plusieurs reports d'application décidés par l'administration Trump, un accord de cession des activités américaines de TikTok à un consortium d'investisseurs (dont Oracle et Silver Lake) a été finalisé le 22 janvier 2026.",
+          "sources": [
+            {
+              "label": "Holland & Knight – U.S. Supreme Court Upholds TikTok Sale-or-Ban Law",
+              "url": "https://www.hklaw.com/en/insights/publications/2025/01/us-supreme-court-upholds-tiktok-sale-or-ban-law"
+            },
+            {
+              "label": "Wikipedia – Restrictions on TikTok in the United States",
+              "url": "https://en.wikipedia.org/wiki/Restrictions_on_TikTok_in_the_United_States"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "carlsberg",
+      "name": "Carlsberg",
+      "legalName": "Carlsberg A/S",
+      "country": "Danemark",
+      "founded": 1847,
+      "website": "https://www.carlsberggroup.com",
+      "revenue": "Chiffre d'affaires net d'environ 75 milliards DKK en 2024",
+      "description": "Carlsberg est l'un des plus grands groupes brassicoles mondiaux, produisant et commercialisant bière, boissons sans alcool et cidres. Son portefeuille combine des marques internationales (Carlsberg, Tuborg, Kronenbourg 1664) et de nombreuses marques régionales ; le rachat de Britvic, finalisé en janvier 2025, l'a renforcé dans les boissons rafraîchissantes.",
+      "brands": [
+        {
+          "name": "Carlsberg",
+          "aliases": [
+            "Carslberg",
+            "Carlberg"
+          ],
+          "category": "Bière",
+          "note": "Marque phare internationale, décline une version sans alcool (0.0)"
+        },
+        {
+          "name": "Tuborg",
+          "aliases": [
+            "Tüborg",
+            "Tubörg"
+          ],
+          "category": "Bière",
+          "note": "Deuxième marque internationale du groupe, origine danoise"
+        },
+        {
+          "name": "Kronenbourg",
+          "aliases": [
+            "Kronembourg",
+            "Cronenbourg"
+          ],
+          "category": "Bière",
+          "note": "Marque française, entrée chez Carlsberg en 2008"
+        },
+        {
+          "name": "1664",
+          "aliases": [
+            "1664 Blanc",
+            "Kronenbourg 1664"
+          ],
+          "category": "Bière",
+          "note": "Inclut la variante 1664 Blanc"
+        },
+        {
+          "name": "Grimbergen",
+          "aliases": [
+            "Grimberg"
+          ],
+          "category": "Bière",
+          "note": "Bière d'abbaye belge"
+        },
+        {
+          "name": "Tourtel Twist",
+          "aliases": [
+            "Tourtel",
+            "Tortel"
+          ],
+          "category": "Bière sans alcool",
+          "note": "Marque française de référence sur le sans-alcool aromatisé"
+        },
+        {
+          "name": "Somersby",
+          "aliases": [
+            "Sommersby",
+            "Somersbi"
+          ],
+          "category": "Cidre",
+          "note": "Marque internationale de cidre"
+        },
+        {
+          "name": "Holsten",
+          "aliases": [
+            "Holstein"
+          ],
+          "category": "Bière",
+          "note": "Marque allemande, détenue depuis 2004"
+        },
+        {
+          "name": "Skol",
+          "aliases": [
+            "Skøl",
+            "Scol"
+          ],
+          "category": "Bière",
+          "note": "Licence mondiale détenue par Carlsberg hors Afrique et Amérique du Sud"
+        },
+        {
+          "name": "Tetley's",
+          "aliases": [
+            "Tetleys",
+            "Tetley"
+          ],
+          "category": "Bière",
+          "note": "Ale anglaise"
+        },
+        {
+          "name": "Feldschlösschen",
+          "aliases": [
+            "Feldschlosschen",
+            "Feldschloesschen"
+          ],
+          "category": "Bière",
+          "note": "Marque suisse de référence, détenue depuis 2000"
+        },
+        {
+          "name": "Wernesgrüner",
+          "aliases": [
+            "Wernesgruner",
+            "Wernesgrun"
+          ],
+          "category": "Bière",
+          "note": "Pils allemande, acquise en 2020"
+        },
+        {
+          "name": "Ringnes",
+          "category": "Bière",
+          "note": "Marque norvégienne"
+        },
+        {
+          "name": "Brooklyn",
+          "aliases": [
+            "Brooklyn Lager",
+            "Brooklin"
+          ],
+          "category": "Bière",
+          "note": "Droits de la marque détenus pour l'Europe et une partie de l'Asie"
+        },
+        {
+          "name": "Robinsons",
+          "aliases": [
+            "Robinson's"
+          ],
+          "category": "Soft drink",
+          "note": "Sirops britanniques, intégrée via Britvic en 2025"
+        },
+        {
+          "name": "J2O",
+          "aliases": [
+            "J20",
+            "J-2-O"
+          ],
+          "category": "Soft drink",
+          "note": "Boisson aux jus de fruits, intégrée via Britvic en 2025"
+        },
+        {
+          "name": "Tango",
+          "category": "Soft drink",
+          "note": "Soda aux fruits britannique, intégré via Britvic en 2025"
+        }
+      ],
+      "scandals": [
+        {
+          "title": "Saisie puis expropriation de la filiale russe Baltika Breweries",
+          "year": 2023,
+          "period": "2023-2024",
+          "severity": "élevé",
+          "tags": [
+            "géopolitique",
+            "Russie",
+            "expropriation"
+          ],
+          "summary": "Après avoir annoncé son retrait de Russie en 2022, Carlsberg a vu sa filiale Baltika placée sous « administration temporaire » de l'État russe par un décret présidentiel du 16 juillet 2023, opération que le groupe a qualifiée de vol de son entreprise (près d'un milliard de dollars d'actifs dépréciés). En octobre 2023, Carlsberg a résilié ses accords de licence avec Baltika, résiliation jugée invalide par un tribunal russe. Le décret de saisie a été levé en décembre 2024 et le groupe a finalisé la cession via un rachat par des dirigeants pour environ 320 millions de dollars.",
+          "sources": [
+            {
+              "label": "Carlsberg Group — Divests shares in Baltika Breweries",
+              "url": "https://www.carlsberggroup.com/newsroom/carlsberg-group-divests-shares-in-baltika-breweries/"
+            },
+            {
+              "label": "Euronews — Why executives from Carlsberg's Russian brewery are facing 10 years in prison",
+              "url": "https://www.euronews.com/business/2023/11/20/why-executives-from-carlsbergs-russian-brewery-are-facing-10-years-in-prison"
+            }
+          ]
+        },
+        {
+          "title": "Entente sur le marché français de la bière (réseaux de grossistes)",
+          "year": 2004,
+          "period": "faits remontant à 1996",
+          "severity": "modéré",
+          "tags": [
+            "concurrence",
+            "alcool"
+          ],
+          "summary": "Le 29 septembre 2004, la Commission européenne a sanctionné Brasseries Kronenbourg et Heineken France pour un accord conclu en 1996 visant à mettre fin à une coûteuse guerre d'acquisition de grossistes et à équilibrer leurs réseaux de distribution. Kronenbourg a été condamnée à 1,5 million d'euros et Heineken à 1 million d'euros. À noter : à l'époque des faits, Kronenbourg appartenait au groupe Danone et non à Carlsberg, qui n'a acquis la marque qu'en 2008.",
+          "sources": [
+            {
+              "label": "EUR-Lex — Décision 2005/503 (affaire COMP/C.37.750)",
+              "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX%3A32005D0503"
+            },
+            {
+              "label": "Commission européenne — Communiqué IP/04/1153",
+              "url": "https://ec.europa.eu/commission/presscorner/detail/en/IP_04_1153"
+            }
+          ]
+        },
+        {
+          "title": "Pollution de l'eau imputée à la brasserie Gorkha au Népal",
+          "year": 2018,
+          "period": "2017-2018",
+          "severity": "modéré",
+          "tags": [
+            "environnement",
+            "pollution"
+          ],
+          "summary": "Une enquête de Danwatch et de la radio publique danoise, fondée sur des prélèvements effectués fin 2017 et début 2018, a révélé des niveaux de pollution des eaux usées dépassant les limites autorisées au Népal et au Danemark près de la brasserie Gorkha (détenue par Carlsberg). Carlsberg a d'abord contesté la représentativité des échantillons, puis a reconnu que la brasserie était une source de pollution, annonçant des investissements pour améliorer le traitement des eaux.",
+          "sources": [
+            {
+              "label": "Danwatch — Massive pollution at Carlsberg brewery in Nepal",
+              "url": "https://danwatch.dk/en/undersoegelse/massive-pollution-at-carlsberg-brewery-in-nepal/"
+            },
+            {
+              "label": "Business & Human Rights Resource Centre — pollution Gorkha brewery Nepal",
+              "url": "https://www.business-humanrights.org/en/latest-news/nepal-investigation-links-pollution-found-in-wastewater-samples-to-carlsberg-brewery-incl-co-comments/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "carrefour",
+      "name": "Carrefour",
+      "legalName": "Carrefour SA",
+      "country": "France",
+      "founded": 1959,
+      "website": "https://www.carrefour.com",
+      "revenue": "94,55 milliards d'euros de chiffre d'affaires TTC en 2024 (en hausse de 0,4 %)",
+      "description": "Carrefour est un groupe français de grande distribution, pionnier du format hypermarché en France en 1963. Présent dans une quarantaine de pays avec environ 14 000 magasins, son siège est situé à Massy (Essonne).",
+      "brands": [
+        {
+          "name": "Carrefour (hypermarchés)",
+          "aliases": [
+            "Carrefour Hyper",
+            "Carrefour hypermarché"
+          ],
+          "category": "Hypermarché",
+          "note": "Format historique du groupe, lancé en 1963 à Sainte-Geneviève-des-Bois."
+        },
+        {
+          "name": "Carrefour Market",
+          "aliases": [
+            "Carrefour Marché",
+            "Champion"
+          ],
+          "category": "Supermarché",
+          "note": "Ancienne enseigne Champion rebaptisée Carrefour Market."
+        },
+        {
+          "name": "Carrefour City",
+          "aliases": [
+            "Carrefour Cité"
+          ],
+          "category": "Proximité"
+        },
+        {
+          "name": "Carrefour Contact",
+          "category": "Proximité",
+          "note": "Magasins de proximité souvent en zone rurale ou périurbaine."
+        },
+        {
+          "name": "Carrefour Express",
+          "category": "Proximité"
+        },
+        {
+          "name": "Carrefour Montagne",
+          "category": "Proximité",
+          "note": "Magasins implantés dans les stations de montagne."
+        },
+        {
+          "name": "Proxi",
+          "category": "Proximité"
+        },
+        {
+          "name": "8 à Huit",
+          "aliases": [
+            "8àHuit",
+            "Huit à Huit"
+          ],
+          "category": "Proximité"
+        },
+        {
+          "name": "Promocash",
+          "aliases": [
+            "Promo Cash"
+          ],
+          "category": "Cash & carry / Grossiste",
+          "note": "Enseigne de vente en gros pour les professionnels de la restauration."
+        },
+        {
+          "name": "Supeco",
+          "aliases": [
+            "Supéco"
+          ],
+          "category": "Discount",
+          "note": "Format discount destiné aux particuliers et professionnels."
+        },
+        {
+          "name": "Atacadão",
+          "aliases": [
+            "Atacadao"
+          ],
+          "category": "Cash & carry / Hypermarché",
+          "note": "Principale enseigne du groupe au Brésil."
+        },
+        {
+          "name": "So.bio",
+          "aliases": [
+            "Sobio",
+            "So bio"
+          ],
+          "category": "Magasin bio spécialisé"
+        },
+        {
+          "name": "Bio c' Bon",
+          "aliases": [
+            "Bio c'Bon",
+            "Bio cbon"
+          ],
+          "category": "Magasin bio spécialisé",
+          "note": "Réseau de magasins bio repris par Carrefour en 2020."
+        },
+        {
+          "name": "Cora",
+          "category": "Hypermarché",
+          "note": "Enseigne d'hypermarchés acquise auprès du groupe Louis Delhaize ; rachat validé par l'Autorité de la concurrence en mars 2025."
+        },
+        {
+          "name": "Match",
+          "aliases": [
+            "Supermarché Match"
+          ],
+          "category": "Supermarché",
+          "note": "Enseigne de supermarchés acquise avec Cora auprès du groupe Louis Delhaize."
+        },
+        {
+          "name": "Reflets de France",
+          "aliases": [
+            "Reflet de France"
+          ],
+          "category": "Marque de distributeur",
+          "note": "Marque de produits du terroir français, créée en 1996."
+        },
+        {
+          "name": "Carrefour Bio",
+          "aliases": [
+            "Carrefour Biologique"
+          ],
+          "category": "Marque de distributeur",
+          "note": "Gamme de produits issus de l'agriculture biologique."
+        },
+        {
+          "name": "Carrefour Sélection",
+          "aliases": [
+            "Carrefour Selection"
+          ],
+          "category": "Marque de distributeur",
+          "note": "Gamme premium du distributeur."
+        },
+        {
+          "name": "Simpl",
+          "aliases": [
+            "Simpl'",
+            "Les Produits Blancs"
+          ],
+          "category": "Marque de distributeur",
+          "note": "Gamme de produits essentiels à bas prix, anciennement Les Produits Blancs jusqu'en 2020."
+        },
+        {
+          "name": "Carrefour Classic'",
+          "aliases": [
+            "Carrefour Classic"
+          ],
+          "category": "Marque de distributeur",
+          "note": "Marque propre cœur de gamme du groupe."
+        },
+        {
+          "name": "Carrefour Banque",
+          "aliases": [
+            "Carrefour Banque et Assurance"
+          ],
+          "category": "Services financiers"
+        }
+      ],
+      "scandals": [
+        {
+          "title": "Mort de João Alberto dans un magasin Carrefour au Brésil",
+          "year": 2020,
+          "severity": "élevé",
+          "tags": [
+            "conditions de travail",
+            "sécurité alimentaire"
+          ],
+          "summary": "Le 19 novembre 2020, João Alberto Silveira Freitas, un homme noir de 40 ans, est mort après avoir été roué de coups et asphyxié par deux agents de sécurité (employés par la société tierce Vector) sur le parking d'un magasin Carrefour à Porto Alegre. L'affaire a provoqué d'importantes manifestations contre le racisme au Brésil. En juin 2021, Carrefour a formalisé un accord (TAC) prévoyant une indemnisation et des mesures d'environ 115 millions de reais, et a réaffirmé son engagement contre le racisme. Plusieurs accusés ont été jugés pour homicide.",
+          "sources": [
+            {
+              "label": "Wikipédia (pt) – Assassinato de João Alberto Freitas",
+              "url": "https://pt.wikipedia.org/wiki/Assassinato_de_Jo%C3%A3o_Alberto_Freitas"
+            },
+            {
+              "label": "Sul21 – Carrefour pagará R$ 115 milhões",
+              "url": "https://sul21.com.br/geral-1/2021/06/carrefour-pagara-r-115-milhoes-pela-morte-de-joao-alberto-freitas/"
+            }
+          ]
+        },
+        {
+          "title": "Condamnation pour pratiques restrictives envers les fournisseurs (remise complémentaire de distribution)",
+          "year": 2017,
+          "severity": "modéré",
+          "tags": [
+            "relations fournisseurs"
+          ],
+          "summary": "À la suite d'une enquête de la DGCCRF, le tribunal de commerce de Paris a condamné Carrefour à une amende de 1,75 million d'euros et à cesser ses pratiques restrictives de concurrence envers ses fournisseurs. Il était reproché au groupe d'avoir exigé de ses fournisseurs une « remise complémentaire de distribution » destinée à financer le repositionnement de l'enseigne, présentée comme un préalable à l'ouverture des négociations commerciales.",
+          "sources": [
+            {
+              "label": "economie.gouv.fr / DGCCRF",
+              "url": "https://www.economie.gouv.fr/dgccrf/actualites-dgccrf/negociations-commerciales-une-enquete-de-la-dgccrf-conduit-la-condamnation-de-lenseigne-carrefour-une-amende-de-175-millions"
+            },
+            {
+              "label": "Le Monde du Droit",
+              "url": "https://www.lemondedudroit.fr/affaires/274-concurrence-distribution/74445-negociations-commerciales-condamnation-de-carrefour-a-une-amende-de-1-75-millions-d-euros.html"
+            }
+          ]
+        },
+        {
+          "title": "Amende de 6,1 millions d'euros pour non-respect de la date butoir des négociations commerciales",
+          "year": 2026,
+          "severity": "modéré",
+          "tags": [
+            "relations fournisseurs"
+          ],
+          "summary": "Le 10 avril 2026, la DGCCRF a annoncé une amende administrative de 6,1 millions d'euros visant Eureca Mayoristas, la centrale d'achats de Carrefour, pour 19 manquements à l'obligation de signer les conventions avec des fournisseurs français au plus tard le 1er mars 2025. Carrefour a contesté la décision, y voyant une « absurdité bureaucratique » et annonçant un recours juridique.",
+          "sources": [
+            {
+              "label": "Boursorama – négociations commerciales, amende de 6,1 M€",
+              "url": "https://www.boursorama.com/bourse/actualites/negociations-commerciales-la-centrale-d-achat-de-carrefour-ecope-de-6-1-millions-d-euros-d-amende-bc8e7a2ae08f3aa7236716ee1a0fe6d5"
+            },
+            {
+              "label": "Zonebourse",
+              "url": "https://www.zonebourse.com/actualite-bourse/carrefour-ecope-d-une-amende-de-6-1-meur-de-la-dgccrf-ce7e50d9d98df421"
+            }
+          ]
+        },
+        {
+          "title": "Scandale européen de la viande de cheval",
+          "year": 2013,
+          "severity": "modéré",
+          "tags": [
+            "sécurité alimentaire",
+            "publicité mensongère"
+          ],
+          "summary": "En février 2013, un scandale européen a révélé que des plats préparés étiquetés « pur bœuf » contenaient en réalité de la viande de cheval. Carrefour, comme d'autres distributeurs français (Auchan, Casino, Monoprix, Cora, Picard, Système U), a retiré de la vente des produits concernés fournis par Findus et Comigel en raison d'une non-conformité d'étiquetage. La fraude trouvait son origine chez des fournisseurs et intermédiaires ; un procès a abouti à des sanctions en 2019.",
+          "sources": [
+            {
+              "label": "UFC-Que Choisir – Fraudes à la viande de cheval",
+              "url": "https://www.quechoisir.org/actualite-fraudes-a-la-viande-de-cheval-le-proces-s-ouvre-enfin-n62871/"
+            },
+            {
+              "label": "Foodwatch – Procès de la viande de cheval",
+              "url": "https://www.foodwatch.org/fr/actualites/2019/proces-de-la-viande-de-cheval-les-sanctions-tombent-mais-rien-na-change-sur-le-fond-un-autre-scandale-est-possible"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "coca-cola",
       "name": "Coca-Cola",
       "legalName": "The Coca-Cola Company",
@@ -2163,6 +3711,267 @@ window.CAPITALISME_DATA = {
             {
               "label": "Wikipédia – Code international de commercialisation des substituts du lait maternel",
               "url": "https://fr.wikipedia.org/wiki/Code_international_de_commercialisation_des_substituts_du_lait_maternel"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "diageo",
+      "name": "Diageo",
+      "legalName": "Diageo plc",
+      "country": "Royaume-Uni",
+      "founded": 1997,
+      "website": "https://www.diageo.com",
+      "revenue": "Ventes nettes d'environ 20,2 milliards USD pour l'exercice clos le 30 juin 2025",
+      "description": "Diageo est l'un des premiers producteurs et distributeurs mondiaux de boissons alcoolisées (spiritueux, bière et prêts-à-boire), avec un portefeuille de plus de 200 marques. Le groupe est né en 1997 de la fusion entre le brasseur Guinness et le conglomérat Grand Metropolitan.",
+      "brands": [
+        {
+          "name": "Johnnie Walker",
+          "aliases": [
+            "Johnny Walker",
+            "Jonnie Walker"
+          ],
+          "category": "Whisky",
+          "note": "Scotch blended, marque phare (gammes Red, Black, Blue Label)"
+        },
+        {
+          "name": "J&B",
+          "aliases": [
+            "J and B",
+            "JB Rare"
+          ],
+          "category": "Whisky",
+          "note": "Scotch blended, très présent en France et en Espagne"
+        },
+        {
+          "name": "Bell's",
+          "aliases": [
+            "Bells"
+          ],
+          "category": "Whisky",
+          "note": "Scotch blended"
+        },
+        {
+          "name": "Buchanan's",
+          "aliases": [
+            "Buchanans"
+          ],
+          "category": "Whisky",
+          "note": "Scotch blended"
+        },
+        {
+          "name": "Talisker",
+          "aliases": [
+            "Taliskar"
+          ],
+          "category": "Whisky",
+          "note": "Single malt de l'île de Skye"
+        },
+        {
+          "name": "Lagavulin",
+          "aliases": [
+            "Lagavullin"
+          ],
+          "category": "Whisky",
+          "note": "Single malt d'Islay"
+        },
+        {
+          "name": "Cardhu",
+          "aliases": [
+            "Cardu"
+          ],
+          "category": "Whisky",
+          "note": "Single malt du Speyside"
+        },
+        {
+          "name": "Bulleit",
+          "aliases": [
+            "Bullet",
+            "Bulliet"
+          ],
+          "category": "Whisky",
+          "note": "Bourbon et rye américain"
+        },
+        {
+          "name": "Crown Royal",
+          "aliases": [
+            "Crown Royale"
+          ],
+          "category": "Whisky",
+          "note": "Whisky canadien"
+        },
+        {
+          "name": "Smirnoff",
+          "aliases": [
+            "Smirnov",
+            "Smirnof"
+          ],
+          "category": "Vodka",
+          "note": "L'une des vodkas les plus vendues au monde"
+        },
+        {
+          "name": "Cîroc",
+          "aliases": [
+            "Ciroc",
+            "Cïroc"
+          ],
+          "category": "Vodka",
+          "note": "Vodka premium à base de raisin"
+        },
+        {
+          "name": "Ketel One",
+          "aliases": [
+            "Ketel 1",
+            "Kettle One"
+          ],
+          "category": "Vodka",
+          "note": "Détenue via une coentreprise avec la famille Nolet"
+        },
+        {
+          "name": "Tanqueray",
+          "aliases": [
+            "Tanquerey"
+          ],
+          "category": "Gin"
+        },
+        {
+          "name": "Gordon's",
+          "aliases": [
+            "Gordons",
+            "Gordon"
+          ],
+          "category": "Gin"
+        },
+        {
+          "name": "Captain Morgan",
+          "aliases": [
+            "Capitain Morgan",
+            "Captin Morgan"
+          ],
+          "category": "Rhum"
+        },
+        {
+          "name": "Don Julio",
+          "aliases": [
+            "Don Julyo"
+          ],
+          "category": "Tequila"
+        },
+        {
+          "name": "Casamigos",
+          "aliases": [
+            "Casa Amigos",
+            "Casamigo"
+          ],
+          "category": "Tequila",
+          "note": "Acquise en 2017"
+        },
+        {
+          "name": "Baileys",
+          "aliases": [
+            "Bailey's",
+            "Baylis"
+          ],
+          "category": "Liqueur",
+          "note": "Crème de whisky irlandais"
+        },
+        {
+          "name": "Guinness",
+          "aliases": [
+            "Guiness",
+            "Guinnes"
+          ],
+          "category": "Bière",
+          "note": "Stout emblématique"
+        }
+      ],
+      "scandals": [
+        {
+          "title": "Sanction de la SEC pour corruption d'agents publics (FCPA)",
+          "year": 2011,
+          "period": "2003-2011",
+          "severity": "élevé",
+          "tags": [
+            "corruption",
+            "gouvernance",
+            "conformité"
+          ],
+          "summary": "En juillet 2011, la SEC américaine a sanctionné Diageo pour des paiements illicites versés sur plus de six ans à des agents publics en Inde, Thaïlande et Corée du Sud afin d'obtenir des avantages commerciaux, fiscaux et douaniers, en violation du Foreign Corrupt Practices Act. Diageo a accepté de payer plus de 16 millions USD (restitution de gains, intérêts et pénalité) et a réglé l'affaire sans poursuites du Department of Justice.",
+          "sources": [
+            {
+              "label": "SEC — Communiqué officiel 2011-158 (27 juillet 2011)",
+              "url": "https://www.sec.gov/news/press/2011/2011-158.htm"
+            },
+            {
+              "label": "BeverageDaily — Diageo in $16m settlement over bribery charges",
+              "url": "https://www.beveragedaily.com/Article/2011/08/01/Diageo-in-16m-settlement-over-bribery-charges/"
+            }
+          ]
+        },
+        {
+          "title": "Sanction de la SEC pour « channel stuffing » et information trompeuse des investisseurs",
+          "year": 2020,
+          "period": "2014-2020",
+          "severity": "modéré",
+          "tags": [
+            "information financière trompeuse",
+            "gouvernance",
+            "pratiques commerciales"
+          ],
+          "summary": "En février 2020, la SEC a sanctionné Diageo pour avoir omis de divulguer que sa filiale nord-américaine poussait ses distributeurs à acheter des produits en excès de la demande réelle (« channel stuffing ») afin d'atteindre ses objectifs internes et publier de meilleurs indicateurs de croissance. Diageo a accepté de payer 5 millions USD, sans reconnaître ni nier les faits.",
+          "sources": [
+            {
+              "label": "SEC — Communiqué officiel 2020-36 (19 février 2020)",
+              "url": "https://www.sec.gov/newsroom/press-releases/2020-36"
+            },
+            {
+              "label": "Law360 — Diageo To Pay $5M To Settle SEC Overshipping Action",
+              "url": "https://www.law360.com/articles/1245239/diageo-to-pay-5m-to-settle-sec-overshipping-action"
+            }
+          ]
+        },
+        {
+          "title": "Recours collectifs sur l'étiquetage « 100 % agave » des tequilas Don Julio et Casamigos",
+          "year": 2025,
+          "period": "depuis 2025, procédure en cours",
+          "severity": "modéré",
+          "tags": [
+            "publicité mensongère",
+            "étiquetage",
+            "alcool"
+          ],
+          "summary": "Depuis 2025, Diageo fait l'objet de plusieurs recours collectifs aux États-Unis alléguant, sur la base de tests isotopiques, que les tequilas Don Julio et Casamigos étiquetées « 100 % agave » contiendraient en réalité d'autres sucres. Diageo conteste fermement, qualifie les accusations d'infondées et affirme que ses produits étiquetés « 100 % agave » sont issus à 100 % d'agave bleue Weber ; le groupe a déposé des requêtes en rejet fin 2025. Aucune condamnation à ce stade.",
+          "sources": [
+            {
+              "label": "The Drinks Business — Diageo moves to dismiss 100% agave Tequila lawsuit (nov. 2025)",
+              "url": "https://www.thedrinksbusiness.com/2025/11/diageo-moves-to-dismiss-implausible-100-agave-tequila-lawsuit/"
+            },
+            {
+              "label": "Top Class Actions — Casamigos and Don Julio class action",
+              "url": "https://topclassactions.com/lawsuit-settlements/lawsuit-news/casamigos-and-don-julio-tequilas-arent-100-agave-as-advertised-class-action-lawsuit-claims/"
+            }
+          ]
+        },
+        {
+          "title": "Publicités jugées irresponsables et interdites par l'ASA (Royaume-Uni)",
+          "year": 2018,
+          "period": "2016-2018",
+          "severity": "faible",
+          "tags": [
+            "publicité",
+            "alcool",
+            "protection des mineurs"
+          ],
+          "summary": "L'autorité britannique de régulation de la publicité (ASA) a interdit plusieurs publicités de Diageo. En 2016, une publicité TV Captain Morgan a été bannie pour avoir suggéré que l'alcool améliore la popularité. En janvier 2018, une publicité Captain Morgan sur Snapchat a été interdite pour avoir pu cibler les moins de 18 ans, conduisant Diageo à suspendre mondialement ses dépenses publicitaires sur Snapchat. Le groupe a retiré les contenus tout en contestant certaines décisions.",
+          "sources": [
+            {
+              "label": "Marketing Week — Diageo hits back after 'irresponsible' Captain Morgan ad banned (2016)",
+              "url": "https://www.marketingweek.com/2016/08/31/diageo-hits-back-after-irresponsible-captain-morgan-ad-banned/"
+            },
+            {
+              "label": "CNBC — Diageo pulls Snapchat adverts globally (3 janv. 2018)",
+              "url": "https://www.cnbc.com/2018/01/03/diageo-pulls-snapchat-adverts-globally-as-uk-bans-captain-morgan-ad.html"
             }
           ]
         }
@@ -2909,6 +4718,369 @@ window.CAPITALISME_DATA = {
       ]
     },
     {
+      "id": "h-et-m",
+      "name": "H&M",
+      "legalName": "H & M Hennes & Mauritz AB",
+      "country": "Suède",
+      "founded": 1947,
+      "website": "https://hmgroup.com",
+      "revenue": "Chiffre d'affaires net d'environ 234,5 milliards de couronnes suédoises (SEK) pour l'exercice 2024.",
+      "description": "H&M Group est l'un des plus grands distributeurs mondiaux de mode, fondé en 1947 par Erling Persson et coté à Stockholm. Le groupe exploite plusieurs enseignes de prêt-à-porter et d'articles pour la maison.",
+      "brands": [
+        {
+          "name": "H&M",
+          "aliases": [
+            "H et M",
+            "HM",
+            "Hennes & Mauritz"
+          ],
+          "category": "Mode / Prêt-à-porter",
+          "note": "Enseigne principale du groupe."
+        },
+        {
+          "name": "H&M Home",
+          "aliases": [
+            "HM Home"
+          ],
+          "category": "Maison / Décoration",
+          "note": "Articles pour la maison."
+        },
+        {
+          "name": "H&M Move",
+          "category": "Vêtements de sport",
+          "note": "Ligne dédiée au sport et au mouvement."
+        },
+        {
+          "name": "H&M Beauty",
+          "category": "Beauté / Cosmétiques",
+          "note": "Cosmétiques et soins."
+        },
+        {
+          "name": "COS",
+          "aliases": [
+            "Collection of Style"
+          ],
+          "category": "Mode / Prêt-à-porter",
+          "note": "Positionnement plus haut de gamme et minimaliste."
+        },
+        {
+          "name": "Arket",
+          "aliases": [
+            "Arquet"
+          ],
+          "category": "Mode / Maison",
+          "note": "Mode et articles pour la maison, esprit nordique."
+        },
+        {
+          "name": "& Other Stories",
+          "aliases": [
+            "And Other Stories",
+            "Other Stories"
+          ],
+          "category": "Mode / Prêt-à-porter",
+          "note": "Mode féminine et accessoires."
+        },
+        {
+          "name": "Weekday",
+          "category": "Mode / Prêt-à-porter",
+          "note": "Mode jeune; intègre désormais la marque Monki et la défunte Cheap Monday."
+        },
+        {
+          "name": "Monki",
+          "category": "Mode / Prêt-à-porter",
+          "note": "Marque réorganisée à partir de 2025 et intégrée à l'univers Weekday (fermeture des boutiques physiques propres)."
+        },
+        {
+          "name": "Singular Society",
+          "category": "Mode / Maison",
+          "note": "Modèle par abonnement, produits durables."
+        }
+      ],
+      "scandals": [
+        {
+          "title": "Allégations de greenwashing autour de la collection « Conscious »",
+          "year": 2019,
+          "period": "2019-2022",
+          "severity": "modéré",
+          "tags": [
+            "greenwashing",
+            "publicité mensongère",
+            "environnement"
+          ],
+          "summary": "À partir de 2019, l'Autorité norvégienne de la consommation a estimé que la communication « durable » de la collection Conscious de H&M était insuffisamment étayée. En 2022, l'autorité néerlandaise de la concurrence (ACM) a conclu à des allégations environnementales « peu claires et insuffisamment justifiées »; H&M s'est engagée à retirer les labels « Conscious », à verser 500 000 euros à des organisations de durabilité et à se soumettre à un contrôle de ses allégations. La collection Conscious a été abandonnée en 2023.",
+          "sources": [
+            {
+              "label": "Dezeen – H&M Norway « greenwashing » Conscious collection",
+              "url": "https://www.dezeen.com/2019/08/02/hm-norway-greenwashing-conscious-fashion-collection-news/"
+            },
+            {
+              "label": "The Fashion Law – régulateur néerlandais et allégations de durabilité H&M",
+              "url": "https://www.thefashionlaw.com/dutch-regulator-says-hm-ads-include-unsubstantiated-sustainability-claims/"
+            }
+          ]
+        },
+        {
+          "title": "Polémique sur le coton du Xinjiang et boycott en Chine",
+          "year": 2021,
+          "severity": "modéré",
+          "tags": [
+            "droits humains",
+            "travail forcé",
+            "chaîne d'approvisionnement"
+          ],
+          "summary": "En mars 2021, une déclaration antérieure de H&M exprimant ses « préoccupations » sur le travail forcé présumé dans le Xinjiang et son refus de s'y approvisionner a refait surface, provoquant un important boycott en Chine. La marque a été retirée de grandes plateformes de e-commerce et d'applications cartographiques chinoises. L'épisode s'inscrivait dans un contexte de sanctions occidentales contre des responsables chinois et de tensions diplomatiques.",
+          "sources": [
+            {
+              "label": "CNBC – H&M retirée de plateformes chinoises",
+              "url": "https://www.cnbc.com/2021/03/25/backlash-on-nike-hm-in-china-over-comments-on-xinjiang-cotton.html"
+            },
+            {
+              "label": "Business & Human Rights Resource Centre – H&M et fournisseur chinois",
+              "url": "https://www.business-humanrights.org/en/latest-news/hm-ends-relationship-with-chinese-yarn-producer-over-accusations-of-forced-labour/"
+            }
+          ]
+        },
+        {
+          "title": "Effondrement du Rana Plaza et conditions de travail des fournisseurs",
+          "year": 2013,
+          "severity": "élevé",
+          "tags": [
+            "conditions de travail",
+            "droits humains",
+            "sécurité"
+          ],
+          "summary": "Plus gros acheteur de vêtements fabriqués au Bangladesh, H&M figurait parmi les grandes enseignes du secteur lors de l'effondrement du Rana Plaza en 2013 (plus de 1 100 morts). Le groupe a été l'un des premiers signataires de l'Accord sur la sécurité incendie et bâtiment au Bangladesh. Des ONG ont par la suite continué de pointer des salaires et des conditions de travail problématiques dans sa chaîne d'approvisionnement.",
+          "sources": [
+            {
+              "label": "Al Jazeera – marques accusées d'exploiter des travailleurs au Bangladesh",
+              "url": "https://www.aljazeera.com/news/2023/1/11/fashion-brands-paid-less-than-production-cost-to-bangladesh-firms"
+            },
+            {
+              "label": "Wikipédia (en) – Rana Plaza collapse",
+              "url": "https://en.wikipedia.org/wiki/Rana_Plaza_collapse"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "haleon",
+      "name": "Haleon",
+      "legalName": "Haleon plc",
+      "country": "Royaume-Uni",
+      "founded": 2022,
+      "website": "https://www.haleon.com",
+      "revenue": "Environ 11,2 milliards de livres sterling de chiffre d'affaires en 2024.",
+      "description": "Haleon est une multinationale britannique de santé grand public (produits en vente libre), née en juillet 2022 de la scission de la division consumer healthcare de GSK. Elle est présente dans plus de 170 marchés et opère dans cinq catégories principales : hygiène bucco-dentaire, antidouleur, vitamines et compléments, santé respiratoire et santé digestive.",
+      "brands": [
+        {
+          "name": "Sensodyne",
+          "aliases": [
+            "Sensodine",
+            "Sensodyn"
+          ],
+          "category": "Hygiène bucco-dentaire",
+          "note": "Dentifrices pour dents sensibles ; marque phare de Haleon."
+        },
+        {
+          "name": "Parodontax",
+          "aliases": [
+            "Paradontax",
+            "Corsodyl"
+          ],
+          "category": "Hygiène bucco-dentaire",
+          "note": "Dentifrices et bains de bouche pour la santé des gencives."
+        },
+        {
+          "name": "Aquafresh",
+          "aliases": [
+            "Aqua Fresh"
+          ],
+          "category": "Hygiène bucco-dentaire"
+        },
+        {
+          "name": "Polident / Corega",
+          "aliases": [
+            "Polident",
+            "Corega",
+            "Poligrip"
+          ],
+          "category": "Hygiène bucco-dentaire",
+          "note": "Soins des prothèses dentaires ; commercialisé sous le nom Corega dans une partie de l'Europe (dont la France) et Polident/Poligrip ailleurs."
+        },
+        {
+          "name": "Voltaren",
+          "aliases": [
+            "Voltarène",
+            "Voltaren Emulgel",
+            "Voltarol"
+          ],
+          "category": "Antidouleur (anti-inflammatoire topique, OTC)",
+          "note": "Gels et formes en vente libre à base de diclofénac ; vendu sous le nom Voltarol au Royaume-Uni."
+        },
+        {
+          "name": "Panadol",
+          "aliases": [
+            "Panadole"
+          ],
+          "category": "Antidouleur (paracétamol)",
+          "note": "Paracétamol commercialisé selon les marchés (forte présence hors France). En France, le paracétamol grand public le plus connu est le Doliprane de Sanofi, qui n'appartient pas à Haleon."
+        },
+        {
+          "name": "Advil",
+          "aliases": [
+            "Advile"
+          ],
+          "category": "Antidouleur (ibuprofène)",
+          "note": "Marque d'ibuprofène entrée dans le portefeuille via la coentreprise GSK-Pfizer ; la répartition peut varier selon les marchés."
+        },
+        {
+          "name": "Centrum",
+          "aliases": [
+            "Centrium"
+          ],
+          "category": "Vitamines, minéraux et compléments",
+          "note": "Multivitamines ; l'une des principales marques VMS du groupe."
+        },
+        {
+          "name": "Caltrate",
+          "category": "Vitamines, minéraux et compléments",
+          "note": "Compléments à base de calcium et vitamine D."
+        },
+        {
+          "name": "Otrivin / Otrivine",
+          "aliases": [
+            "Otrivin",
+            "Otrivine"
+          ],
+          "category": "Santé respiratoire (décongestionnant nasal)",
+          "note": "Sprays nasaux ; nom Otrivine sur certains marchés."
+        },
+        {
+          "name": "Theraflu",
+          "aliases": [
+            "Thera flu",
+            "Theraflu Pro"
+          ],
+          "category": "Santé respiratoire (rhume et grippe)"
+        },
+        {
+          "name": "Beechams",
+          "aliases": [
+            "Beecham",
+            "Beecham's"
+          ],
+          "category": "Santé respiratoire (rhume et grippe)",
+          "note": "Produits rhume/grippe en vente libre, principalement au Royaume-Uni."
+        },
+        {
+          "name": "Robitussin",
+          "aliases": [
+            "Robitusin"
+          ],
+          "category": "Santé respiratoire (sirop antitussif)",
+          "note": "A fait l'objet d'un règlement de class action aux États-Unis sur l'allégation « non-drowsy » (voir controverses)."
+        },
+        {
+          "name": "Flonase",
+          "aliases": [
+            "Flonaze",
+            "Flixonase"
+          ],
+          "category": "Santé respiratoire (spray nasal antiallergique)",
+          "note": "Commercialisé sous le nom Flixonase sur certains marchés."
+        },
+        {
+          "name": "ENO",
+          "aliases": [
+            "Eno"
+          ],
+          "category": "Santé digestive (antiacide)",
+          "note": "Poudre effervescente contre les brûlures d'estomac et l'indigestion."
+        },
+        {
+          "name": "Tums",
+          "aliases": [
+            "Tum's"
+          ],
+          "category": "Santé digestive (antiacide)",
+          "note": "Comprimés antiacides ; surtout commercialisé aux États-Unis."
+        }
+      ],
+      "scandals": [
+        {
+          "title": "Litige Zantac / ranitidine (NDMA) et différend d'indemnisation avec GSK et Pfizer",
+          "year": 2024,
+          "period": "2022-2025",
+          "severity": "élevé",
+          "tags": [
+            "santé",
+            "publicité mensongère"
+          ],
+          "summary": "Le médicament anti-acide Zantac (ranitidine) a fait l'objet de dizaines de milliers de plaintes aux États-Unis liées à la possible formation de NDMA, composé classé probablement cancérogène. Haleon, scindée de GSK en juillet 2022, a reçu de GSK puis de Pfizer des demandes d'indemnisation potentielle au titre des accords de la coentreprise pour le Zantac en vente libre ; Haleon a contesté toute responsabilité. En octobre 2024, GSK a annoncé des accords pour résoudre environ 80 000 dossiers (environ 93 % des plaintes la concernant aux États-Unis) pour un montant pouvant atteindre 2,2 milliards de dollars, tout en maintenant l'absence de lien de causalité établi. L'exposition juridique propre de Haleon reste contestée et non chiffrée.",
+          "sources": [
+            {
+              "label": "GSK — Statement: Zantac (ranitidine) litigation – settlement agreements reached",
+              "url": "https://www.gsk.com/en-gb/media/press-releases/statement-zantac-ranitidine-litigation-settlement-agreements-reached/"
+            },
+            {
+              "label": "Pharmaphorum — GSK, Sanofi and Haleon facing Zantac liability",
+              "url": "https://pharmaphorum.com/news/gsk-sanofi-and-haleon-facing-billions-of-dollars-in-zantac-liability"
+            }
+          ]
+        },
+        {
+          "title": "Règlement de class action aux États-Unis sur l'allégation « non-drowsy » du Robitussin",
+          "year": 2025,
+          "period": "2022-2025",
+          "severity": "modéré",
+          "tags": [
+            "publicité mensongère",
+            "santé"
+          ],
+          "summary": "Une action collective déposée en 2022 reprochait à Haleon (et auparavant à GSK) d'avoir commercialisé plusieurs sirops Robitussin comme « non-drowsy » (ne provoquant pas de somnolence) alors qu'ils contiennent du dextrométhorphane, substance pouvant causer de la somnolence. Sans reconnaissance de responsabilité, un règlement de 4,5 millions de dollars a reçu l'approbation finale du tribunal le 25 juillet 2025, couvrant les achats effectués entre février 2016 et janvier 2025.",
+          "sources": [
+            {
+              "label": "Top Class Actions — $4.5M Robitussin drowsiness false ad class action settlement",
+              "url": "https://topclassactions.com/lawsuit-settlements/lawsuit-news/4-5m-robitussin-drowsiness-false-ad-class-action-settlement/"
+            }
+          ]
+        },
+        {
+          "title": "Sanction en Australie pour publicité trompeuse du Voltaren Osteo Gel (activité héritée de GSK)",
+          "year": 2020,
+          "period": "2012-2020",
+          "severity": "modéré",
+          "tags": [
+            "publicité mensongère",
+            "santé"
+          ],
+          "summary": "En mai 2020, la Cour fédérale d'Australie a imposé au total 4,5 millions de dollars australiens de pénalités à Novartis (3 M$) et à GlaxoSmithKline Consumer Healthcare Australia (1,5 M$) pour avoir présenté de façon trompeuse, entre 2012 et 2017, le Voltaren Osteo Gel comme spécialement formulé et plus efficace contre l'arthrose que le Voltaren Emulgel, alors que les deux produits avaient le même principe actif, souvent à un prix supérieur. La sanction visait l'activité de santé grand public de GSK désormais intégrée à Haleon (la scission de Haleon date de juillet 2022, soit après ces faits).",
+          "sources": [
+            {
+              "label": "ACCC — GSK and Novartis to pay $4.5 million over Voltaren Osteo Gel claims",
+              "url": "https://www.accc.gov.au/media-release/gsk-and-novartis-to-pay-45-million-in-penalties-over-voltaren-osteo-gel-claims"
+            }
+          ]
+        },
+        {
+          "title": "Allégations publicitaires contestées du dentifrice Sensodyne",
+          "period": "2012-2026",
+          "severity": "faible",
+          "tags": [
+            "publicité mensongère"
+          ],
+          "summary": "La marque Sensodyne a fait l'objet de plusieurs contestations publicitaires dans différents pays, souvent à l'initiative du concurrent Colgate. Au Royaume-Uni, l'Advertising Standards Authority a examiné des allégations comme l'action « en 60 secondes » de Sensodyne Rapid Relief. En 2026, en Afrique du Sud, l'organe d'autorégulation a restreint l'usage de l'allégation « dentifrice n°1 recommandé par les dentistes ». Ces décisions portent sur la justification des allégations marketing et non sur la sécurité des produits.",
+          "sources": [
+            {
+              "label": "CosmeticsDesign-Europe — Sensodyne ads banned (Colgate vs GSK)",
+              "url": "https://www.cosmeticsdesign-europe.com/Article/2012/05/22/Colgate-and-GSK-at-each-other-s-throats-again-as-Sensodyne-ads-are-banned/"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "heineken",
       "name": "Heineken",
       "legalName": "Heineken N.V.",
@@ -3350,6 +5522,406 @@ window.CAPITALISME_DATA = {
       ]
     },
     {
+      "id": "inditex-zara",
+      "name": "Inditex (Zara)",
+      "legalName": "Industria de Diseño Textil, S.A. (Inditex)",
+      "country": "Espagne",
+      "founded": 1985,
+      "website": "https://www.inditex.com",
+      "revenue": "Environ 38,6 milliards d'euros de chiffre d'affaires pour l'exercice 2024 (clos le 31 janvier 2025).",
+      "description": "Inditex est le premier groupe mondial de mode dite « fast fashion », fondé par Amancio Ortega et dont le siège est à Arteixo (Galice). La première boutique Zara avait ouvert dès 1975, le holding Inditex étant constitué en 1985.",
+      "brands": [
+        {
+          "name": "Zara",
+          "aliases": [
+            "Zarra"
+          ],
+          "category": "Mode / Prêt-à-porter",
+          "note": "Marque principale et la plus connue du groupe."
+        },
+        {
+          "name": "Zara Home",
+          "category": "Maison / Décoration",
+          "note": "Linge de maison et décoration."
+        },
+        {
+          "name": "Pull&Bear",
+          "aliases": [
+            "Pull and Bear",
+            "Pull & Bear"
+          ],
+          "category": "Mode / Prêt-à-porter",
+          "note": "Cible une clientèle jeune."
+        },
+        {
+          "name": "Massimo Dutti",
+          "aliases": [
+            "Massimo Duti"
+          ],
+          "category": "Mode / Prêt-à-porter",
+          "note": "Positionnement plus haut de gamme; a intégré la marque Uterqüe en 2022."
+        },
+        {
+          "name": "Bershka",
+          "aliases": [
+            "Berksha",
+            "Bereshka"
+          ],
+          "category": "Mode / Prêt-à-porter",
+          "note": "Mode jeune et tendance."
+        },
+        {
+          "name": "Stradivarius",
+          "aliases": [
+            "Stradivarious"
+          ],
+          "category": "Mode / Prêt-à-porter",
+          "note": "Mode féminine jeune."
+        },
+        {
+          "name": "Oysho",
+          "aliases": [
+            "Oyosho"
+          ],
+          "category": "Lingerie / Vêtements de sport",
+          "note": "Lingerie, vêtements d'intérieur et sport."
+        },
+        {
+          "name": "Lefties",
+          "category": "Mode / Prêt-à-porter",
+          "note": "Enseigne à prix réduits du groupe."
+        }
+      ],
+      "scandals": [
+        {
+          "title": "Conditions de travail « analogues à l'esclavage » au Brésil",
+          "year": 2011,
+          "period": "2011-2015",
+          "severity": "élevé",
+          "tags": [
+            "conditions de travail",
+            "droits humains",
+            "sous-traitance"
+          ],
+          "summary": "En août 2011, des inspecteurs du travail brésiliens ont découvert des ouvriers, en majorité des migrants boliviens et péruviens, travaillant jusqu'à 16 heures par jour dans des ateliers de São Paulo fabriquant des vêtements pour Zara, dans des conditions qualifiées d'« analogues à l'esclavage ». Zara Brasil a fait l'objet de sanctions et d'amendes pour des dizaines d'infractions, et a contesté en justice sa responsabilité en invoquant la sous-traitance non autorisée. De nouvelles mises en cause de fournisseurs brésiliens ont été rapportées les années suivantes.",
+          "sources": [
+            {
+              "label": "SOMO – Zara Brasil et atteintes aux droits du travail",
+              "url": "https://www.somo.nl/fashion-brand-zara-once-again-associated-with-brazilian-labour-rights-abuses/"
+            },
+            {
+              "label": "European Coalition for Corporate Justice – Zara linked to Brazil labour rights abuses",
+              "url": "https://corporatejustice.org/case-album/30-zara-linked-to-brazil-labour-rights-abuses"
+            }
+          ]
+        },
+        {
+          "title": "Effondrement du Rana Plaza (industrie textile au Bangladesh)",
+          "year": 2013,
+          "severity": "élevé",
+          "tags": [
+            "conditions de travail",
+            "sécurité",
+            "droits humains"
+          ],
+          "summary": "Le 24 avril 2013, l'effondrement de l'immeuble du Rana Plaza près de Dacca (Bangladesh) a fait plus de 1 100 morts parmi des ouvriers du textile, devenant la catastrophe la plus meurtrière de l'histoire du secteur. Inditex figurait parmi les grandes enseignes s'approvisionnant au Bangladesh; à la suite du drame, le groupe a signé l'« Accord sur la sécurité incendie et bâtiment » contraignant. La sécurité des usines reste un sujet de débat selon les ONG.",
+          "sources": [
+            {
+              "label": "Wikipédia (en) – Rana Plaza collapse",
+              "url": "https://en.wikipedia.org/wiki/Rana_Plaza_collapse"
+            },
+            {
+              "label": "Clean Clothes Campaign – 11 ans après le Rana Plaza",
+              "url": "https://cleanclothes.org/news/2024/11-years-since-the-rana-plaza-collapse-factories-are-safer-but-the-root-causes-of-tragedy-persist"
+            }
+          ]
+        },
+        {
+          "title": "Soupçons de travail forcé des Ouïghours (Xinjiang)",
+          "year": 2021,
+          "period": "2021-2023",
+          "severity": "élevé",
+          "tags": [
+            "droits humains",
+            "travail forcé",
+            "chaîne d'approvisionnement"
+          ],
+          "summary": "En avril 2021, une enquête pour « recel de crimes contre l'humanité » a été ouverte en France après une plainte d'ONG (Sherpa, Éthique sur l'étiquette, Institut ouïghour d'Europe) visant notamment Inditex, accusé de profiter du travail forcé d'Ouïghours dans la région chinoise du Xinjiang. Des rapports ultérieurs (2023) ont de nouveau cité des marques du groupe. Inditex a affirmé ne pas s'approvisionner au Xinjiang et avoir cessé toute relation avec les fournisseurs mis en cause.",
+          "sources": [
+            {
+              "label": "Novethic – marques accusées de profiter du travail forcé des Ouïghours",
+              "url": "https://www.novethic.fr/actualite/gouvernance-dentreprise/entreprises-controversees/isr-rse/hugo-boss-decathlon-zara-h-m-une-quarantaine-de-marques-accusees-de-continuer-a-profiter-du-travail-force-des-ouighours-151947.html"
+            },
+            {
+              "label": "Le Courrier de l'Atlas – action menée contre Zara",
+              "url": "https://www.lecourrierdelatlas.com/travail-force-des-ouighours-une-action-menee-contre-zara/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jde-peet-s",
+      "name": "JDE Peet's",
+      "legalName": "JDE Peet's N.V.",
+      "groupNote": "Depuis 2026, JDE Peet's est passé sous le contrôle de l'américain Keurig Dr Pepper.",
+      "country": "Pays-Bas",
+      "founded": 2015,
+      "website": "https://www.jdepeets.com",
+      "revenue": "Environ 8,8 milliards d'euros de ventes en 2024",
+      "description": "JDE Peet's est un groupe néerlandais spécialisé dans le café et le thé, propriétaire de plus de 50 marques de boissons vendues dans le monde. Depuis le 1er avril 2026, le groupe appartient à l'américain Keurig Dr Pepper, qui prévoit de l'intégrer à une future société café indépendante issue d'une scission.",
+      "brands": [
+        {
+          "name": "L'Or",
+          "aliases": [
+            "L'OR",
+            "Lor",
+            "L'Or Espresso"
+          ],
+          "category": "Café en capsules",
+          "note": "Marque mondiale, capsules notamment compatibles Nespresso"
+        },
+        {
+          "name": "Senseo",
+          "aliases": [
+            "Senséo"
+          ],
+          "category": "Café en dosettes",
+          "note": "Système de dosettes souples co-développé avec Philips"
+        },
+        {
+          "name": "Tassimo",
+          "aliases": [
+            "Tasimo",
+            "Tassimmo"
+          ],
+          "category": "Café en capsules",
+          "note": "Système de boissons à capsules (T-Discs)"
+        },
+        {
+          "name": "Jacobs",
+          "aliases": [
+            "Jacob's",
+            "Jacobs Krönung"
+          ],
+          "category": "Café",
+          "note": "Forte présence en Allemagne et en Europe centrale et de l'Est"
+        },
+        {
+          "name": "Douwe Egberts",
+          "aliases": [
+            "Douwe Egbert",
+            "DE"
+          ],
+          "category": "Café",
+          "note": "Marque historique néerlandaise, origine du groupe"
+        },
+        {
+          "name": "Peet's Coffee",
+          "aliases": [
+            "Peets",
+            "Peet's"
+          ],
+          "category": "Café",
+          "note": "Marque américaine premium"
+        },
+        {
+          "name": "Jacques Vabre",
+          "aliases": [
+            "Jaques Vabre",
+            "J. Vabre"
+          ],
+          "category": "Café",
+          "note": "Marque française grand public"
+        },
+        {
+          "name": "Grand-Mère",
+          "aliases": [
+            "Grand Mère",
+            "Grand'Mère",
+            "Grandmère"
+          ],
+          "category": "Café",
+          "note": "Marque française grand public"
+        },
+        {
+          "name": "Maison du Café",
+          "aliases": [
+            "Maison Café"
+          ],
+          "category": "Café",
+          "note": "Marque française"
+        },
+        {
+          "name": "Maxwell House",
+          "aliases": [
+            "Maxwell",
+            "Maxwell-House"
+          ],
+          "category": "Café",
+          "note": "Détenue par JDE Peet's hors Amérique du Nord (droits par zones)"
+        },
+        {
+          "name": "Kenco",
+          "aliases": [
+            "Kenko"
+          ],
+          "category": "Café",
+          "note": "Marque britannique"
+        },
+        {
+          "name": "Moccona",
+          "aliases": [
+            "Mocona"
+          ],
+          "category": "Café",
+          "note": "Café soluble (Australie, Asie, Pays-Bas)"
+        },
+        {
+          "name": "Pickwick",
+          "aliases": [
+            "Pick wick"
+          ],
+          "category": "Thé",
+          "note": "Marque de thé (Pays-Bas et Europe)"
+        },
+        {
+          "name": "Super",
+          "aliases": [
+            "Super Coffee"
+          ],
+          "category": "Café",
+          "note": "Mélanges 3-en-1, forte présence en Asie du Sud-Est"
+        },
+        {
+          "name": "OldTown",
+          "aliases": [
+            "Old Town",
+            "OldTown White Coffee"
+          ],
+          "category": "Café",
+          "note": "White coffee, Asie du Sud-Est"
+        },
+        {
+          "name": "Kanis & Gunnink",
+          "aliases": [
+            "Kanis en Gunnink",
+            "Kanis Gunnink"
+          ],
+          "category": "Café",
+          "note": "Marque néerlandaise"
+        },
+        {
+          "name": "Friele",
+          "category": "Café",
+          "note": "Marque norvégienne"
+        },
+        {
+          "name": "Stumptown",
+          "aliases": [
+            "Stumptown Coffee Roasters"
+          ],
+          "category": "Café",
+          "note": "Café de spécialité (États-Unis)"
+        },
+        {
+          "name": "Pilão",
+          "aliases": [
+            "Pilao"
+          ],
+          "category": "Café",
+          "note": "Marque brésilienne"
+        }
+      ],
+      "scandals": [
+        {
+          "title": "Plainte OCDE pour travail forcé dans la chaîne d'approvisionnement de café au Brésil",
+          "year": 2018,
+          "period": "2016-2024",
+          "severity": "élevé",
+          "tags": [
+            "conditions de travail",
+            "droits humains",
+            "travail forcé"
+          ],
+          "summary": "En 2018, l'ONG Conectas et le syndicat ADERE-MG ont déposé une plainte auprès du Point de contact national de l'OCDE au Brésil visant plusieurs multinationales du café, dont Jacobs Douwe Egberts, Nestlé, Starbucks, McDonald's, Dunkin' et Illy, pour insuffisance de diligence face aux risques de travail forcé. La démarche faisait suite à des enquêtes de 2016 (Danwatch, Repórter Brasil) documentant des conditions « analogues à l'esclavage » dans des plantations du Minas Gerais. Une médiation a été engagée en 2022, mais JDE s'en est retirée en septembre 2024 faute de consensus.",
+          "sources": [
+            {
+              "label": "OECD Watch — Conectas & ADERE MG v. Jacobs Douwe Egberts",
+              "url": "https://www.oecdwatch.org/complaint/conectas-human-rights-adere-mg-v-jacobs-douwe-egberts/"
+            },
+            {
+              "label": "Business & Human Rights Resource Centre — plainte OCDE forced labour",
+              "url": "https://www.business-humanrights.org/en/latest-news/brazil-conectas-union-adere-mg-file-complaint-to-oecd-accusing-nestl%C3%A9-jacobs-douwe-egberts-starbucks-mcdonalds-dunkin-donuts-and-illy-of-forced-labour-in-their-supply-chains/"
+            }
+          ]
+        },
+        {
+          "title": "Déforestation liée à l'approvisionnement en café au Brésil",
+          "year": 2025,
+          "severity": "modéré",
+          "tags": [
+            "environnement",
+            "déforestation",
+            "approvisionnement"
+          ],
+          "summary": "En avril 2025, les ONG Coffee Watch et AidEnvironment ont publié un profil de risque identifiant des fermes de café au Brésil dont JDE Peet's s'approvisionnerait, liées à de la déforestation détectée par satellite après la date butoir du 31 décembre 2020 fixée par le règlement européen anti-déforestation (EUDR), créant selon les ONG un risque de non-conformité. JDE Peet's a répondu que les parcelles concernées ne pouvaient être reliées à ses opérations, la déforestation y ayant empêché toute récolte exploitable.",
+          "sources": [
+            {
+              "label": "Coffee Watch — Coffee Deforestation in Brazil",
+              "url": "https://coffeewatch.org/coffee-deforestation-in-brazil/"
+            },
+            {
+              "label": "ESM Magazine — JDE Peet's sees coffee industry struggling to meet EU deforestation law",
+              "url": "https://www.esmmagazine.com/supply-chain/jde-peets-sees-coffee-industry-struggling-to-meet-eu-deforestation-law-263649"
+            }
+          ]
+        },
+        {
+          "title": "Maintien d'activités en Russie après l'invasion de l'Ukraine",
+          "year": 2023,
+          "period": "2022-2024",
+          "severity": "modéré",
+          "tags": [
+            "géopolitique",
+            "éthique",
+            "gouvernance"
+          ],
+          "summary": "Après l'invasion de l'Ukraine en 2022, JDE Peet's a annoncé cesser de vendre ses marques internationales (Jacobs, L'Or, Tassimo) en Russie d'ici fin 2023, tout en conservant des marques locales et ses usines sur place. La direction a justifié ce maintien par la protection des salariés locaux et le risque de saisie. Ce choix a déclenché des appels au boycott en Scandinavie et, aux Pays-Bas, des demandes de députés de retirer le café Douwe Egberts du Parlement.",
+          "sources": [
+            {
+              "label": "DutchNews.nl — Ditch Douwe Egberts coffee in parliament because of Russia, MPs say",
+              "url": "https://www.dutchnews.nl/2023/08/ditch-douwe-egberts-coffee-in-parliament-because-of-russia-mps/"
+            },
+            {
+              "label": "Just Drinks — JDE Peet's to only sell local brands in Russia",
+              "url": "https://www.just-drinks.com/news/jde-peets-to-only-sell-local-brands-in-russia/"
+            }
+          ]
+        },
+        {
+          "title": "Conflit social « fire and rehire » à l'usine de Banbury (Royaume-Uni)",
+          "year": 2021,
+          "severity": "modéré",
+          "tags": [
+            "conditions de travail",
+            "relations sociales"
+          ],
+          "summary": "En 2021, près de 300 salariés de l'usine JDE de Banbury (Oxfordshire) se sont mis en grève contre une stratégie dite de « fire and rehire » (licenciement puis réembauche à des conditions dégradées), dénoncée par le syndicat Unite, certains salariés risquant de perdre jusqu'à 12 000 livres par an. Après plusieurs grèves, les adhérents ont voté en août 2021 en faveur d'un accord mettant fin au projet de « fire and rehire ».",
+          "sources": [
+            {
+              "label": "Unite the Union — JDE Banbury plant fire and rehire row",
+              "url": "https://www.unitetheunion.org/news-events/news/2021/may/jde-banbury-plant-loses-300-million-cups-of-coffee-in-fire-and-rehire-row-says-unite"
+            },
+            {
+              "label": "Business & Human Rights Resource Centre — Banbury fire and rehire",
+              "url": "https://www.business-humanrights.org/en/latest-news/uk-workers-set-to-strike-against-fire-and-rehire-strategy-allegedly-adopted-by-jacobs-douwe-egberts-to-impose-contract-with-worse-conditions-on-almost-300-workers-at-banbury-factory/"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "kellanova",
       "name": "Kellanova",
       "legalName": "Kellanova (ex-Kellogg's)",
@@ -3737,6 +6309,138 @@ window.CAPITALISME_DATA = {
             {
               "label": "CNN - Texas attorney general sues Tylenol makers, claiming links to autism",
               "url": "https://www.cnn.com/2025/10/28/health/tylenol-lawsuit-texas-ken-paxton"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kering",
+      "name": "Kering",
+      "legalName": "Kering SA",
+      "country": "France",
+      "founded": 1963,
+      "website": "https://www.kering.com",
+      "revenue": "Environ 17,2 milliards d'euros en 2024",
+      "description": "Kering est un groupe français de luxe dont le siège est à Paris, issu de l'entreprise fondée par François Pinault en 1963 (ex-PPR, renommée Kering en 2013). Il regroupe des maisons de mode, de maroquinerie et de joaillerie, parmi lesquelles Gucci, Saint Laurent et Bottega Veneta.",
+      "brands": [
+        {
+          "name": "Gucci",
+          "aliases": [
+            "Guccio Gucci"
+          ],
+          "category": "Mode et maroquinerie",
+          "note": "Principale maison du groupe en chiffre d'affaires."
+        },
+        {
+          "name": "Saint Laurent",
+          "aliases": [
+            "Yves Saint Laurent",
+            "YSL"
+          ],
+          "category": "Mode et maroquinerie"
+        },
+        {
+          "name": "Bottega Veneta",
+          "aliases": [
+            "Bottega"
+          ],
+          "category": "Mode et maroquinerie",
+          "note": "Maison italienne de maroquinerie."
+        },
+        {
+          "name": "Balenciaga",
+          "category": "Mode et maroquinerie"
+        },
+        {
+          "name": "Alexander McQueen",
+          "aliases": [
+            "McQueen"
+          ],
+          "category": "Mode et maroquinerie"
+        },
+        {
+          "name": "Brioni",
+          "category": "Mode (prêt-à-porter masculin)",
+          "note": "Maison italienne de tailoring."
+        },
+        {
+          "name": "Boucheron",
+          "category": "Joaillerie",
+          "note": "Joaillier de la place Vendôme à Paris."
+        },
+        {
+          "name": "Pomellato",
+          "category": "Joaillerie",
+          "note": "Joaillier italien."
+        },
+        {
+          "name": "Dodo",
+          "aliases": [
+            "DoDo"
+          ],
+          "category": "Joaillerie",
+          "note": "Marque de joaillerie italienne."
+        },
+        {
+          "name": "Qeelin",
+          "category": "Joaillerie",
+          "note": "Joaillier d'inspiration chinoise."
+        },
+        {
+          "name": "Ginori 1735",
+          "aliases": [
+            "Richard Ginori"
+          ],
+          "category": "Art de la table / Porcelaine",
+          "note": "Manufacture italienne de porcelaine."
+        },
+        {
+          "name": "Kering Eyewear",
+          "category": "Lunetterie",
+          "note": "Entité dédiée à la conception et distribution de lunettes des maisons du groupe."
+        },
+        {
+          "name": "Valentino",
+          "category": "Mode et maroquinerie",
+          "note": "Maison italienne dont Kering détient une participation, avec option d'achat de la totalité."
+        }
+      ],
+      "scandals": [
+        {
+          "title": "Redressement fiscal de Gucci en Italie",
+          "year": 2019,
+          "period": "2011-2017",
+          "severity": "élevé",
+          "tags": [
+            "fiscalité"
+          ],
+          "summary": "En mai 2019, Kering a conclu un accord avec l'administration fiscale italienne pour solder un contentieux portant sur l'existence d'un établissement stable de Gucci en Italie et sur les prix de transfert vers sa filiale suisse Luxury Goods International, sur la période 2011-2017. Le groupe a versé un montant total d'environ 1,25 milliard d'euros (impôts, pénalités et intérêts).",
+          "sources": [
+            {
+              "label": "Euronews – Évasion fiscale : 1,2 milliard d'euros d'amende pour Kering en Italie",
+              "url": "https://fr.euronews.com/2019/05/10/evasion-fiscale-1-2-milliard-d-euros-d-amende-pour-kering-en-italie"
+            }
+          ]
+        },
+        {
+          "title": "Campagne publicitaire controversée de Balenciaga",
+          "year": 2022,
+          "severity": "modéré",
+          "tags": [
+            "publicité",
+            "protection de l'enfance",
+            "réputation"
+          ],
+          "summary": "En novembre 2022, la maison Balenciaga (Kering) a diffusé une campagne montrant des enfants posant avec des ours en peluche aux accessoires évoquant le bondage, ainsi qu'un visuel comportant un document judiciaire relatif à la pornographie infantile. Après une vive polémique, Balenciaga a retiré la campagne, présenté des excuses publiques et engagé une procédure judiciaire contre le prestataire du décor, abandonnée par la suite.",
+          "sources": [
+            {
+              "label": "Good Morning America – Balenciaga issues apology for 'inappropriate' ad campaign featuring kids",
+              "url": "https://www.goodmorningamerica.com/style/story/balenciaga-pulls-controversial-ads-featuring-children-inappropriate-teddy-93823747"
+            },
+            {
+              "label": "Newsweek – Balenciaga Scandal Echoes Controversies Faced by Gucci, Burberry and More",
+              "url": "https://www.newsweek.com/fashion-scandals-balenciaga-gucci-burberry-1762640"
             }
           ]
         }
@@ -4485,6 +7189,512 @@ window.CAPITALISME_DATA = {
       ]
     },
     {
+      "id": "les-mousquetaires-intermarche",
+      "name": "Les Mousquetaires (Intermarché)",
+      "legalName": "ITM Entreprises (Groupement Les Mousquetaires)",
+      "country": "France",
+      "founded": 1969,
+      "website": "https://www.mousquetaires.com",
+      "revenue": "48,7 milliards € hors carburant en 2025 (environ 42,5 Md€ en 2024)",
+      "description": "Le Groupement Les Mousquetaires est un groupement de commerçants indépendants français fondé en 1969 par Jean-Pierre Le Roch, dont la holding ITM Entreprises a son siège à Bondoufle (Essonne). Il exploite notamment les enseignes Intermarché et Netto et possède un pôle industriel agroalimentaire, Agromousquetaires.",
+      "brands": [
+        {
+          "name": "Intermarché",
+          "aliases": [
+            "Intermarche",
+            "Inter",
+            "Intermarché Hyper",
+            "Intermarché Super"
+          ],
+          "category": "Supermarché",
+          "note": "Enseigne phare du groupement, déclinée en plusieurs formats (Hyper, Super, Contact, Express)."
+        },
+        {
+          "name": "Intermarché Express",
+          "aliases": [
+            "Intermarche Express"
+          ],
+          "category": "Supermarché",
+          "note": "Format de proximité urbaine en libre-service."
+        },
+        {
+          "name": "Intermarché Contact",
+          "aliases": [
+            "Intermarche Contact"
+          ],
+          "category": "Supermarché",
+          "note": "Format de proximité destiné à une clientèle rurale et familiale."
+        },
+        {
+          "name": "Netto",
+          "aliases": [
+            "Neto"
+          ],
+          "category": "Supermarché",
+          "note": "Enseigne de maxi-discount alimentaire."
+        },
+        {
+          "name": "Bricomarché",
+          "aliases": [
+            "Bricomarche",
+            "Brico Marché"
+          ],
+          "category": "Bricolage",
+          "note": "Enseigne de bricolage et jardinage, notamment implantée dans les villes petites et moyennes."
+        },
+        {
+          "name": "Brico Cash",
+          "aliases": [
+            "Bricocash",
+            "Brico-Cash"
+          ],
+          "category": "Bricolage",
+          "note": "Entrepôts de matériaux destinés aux particuliers avertis et aux professionnels."
+        },
+        {
+          "name": "Bricorama",
+          "aliases": [
+            "Brico Rama"
+          ],
+          "category": "Bricolage",
+          "note": "Enseigne de bricolage urbaine ; sa conversion vers Bricomarché a été annoncée en 2026."
+        },
+        {
+          "name": "Roady",
+          "aliases": [
+            "Roadi",
+            "Stationmarché"
+          ],
+          "category": "Automobile",
+          "note": "Centres auto (entretien et vente) ; succède à l'enseigne Stationmarché depuis 2004."
+        },
+        {
+          "name": "Rapid Pare-Brise",
+          "aliases": [
+            "Rapid Parebrise",
+            "Rapid Pare Brise"
+          ],
+          "category": "Automobile",
+          "note": "Réseau de réparation et remplacement de vitrage automobile."
+        },
+        {
+          "name": "Agromousquetaires",
+          "aliases": [
+            "Agro Mousquetaires",
+            "Agromousquetaire"
+          ],
+          "category": "Production agroalimentaire",
+          "note": "Pôle industriel du groupement réunissant des unités de production en France (environ 4,2 Md€ de CA en 2024)."
+        },
+        {
+          "name": "Pâturages",
+          "aliases": [
+            "Paturages"
+          ],
+          "category": "Marque de distributeur",
+          "note": "Produits laitiers."
+        },
+        {
+          "name": "Monique Ranou",
+          "aliases": [
+            "Monique Renou"
+          ],
+          "category": "Marque de distributeur",
+          "note": "Charcuterie et traiteur."
+        },
+        {
+          "name": "Chabrior",
+          "aliases": [
+            "Chabriord"
+          ],
+          "category": "Marque de distributeur",
+          "note": "Boulangerie, biscuits et céréales."
+        },
+        {
+          "name": "Saint-Éloi",
+          "aliases": [
+            "Saint Eloi",
+            "Saint-Eloi"
+          ],
+          "category": "Marque de distributeur",
+          "note": "Légumes et conserves."
+        },
+        {
+          "name": "Paquito",
+          "aliases": [
+            "Pacquito"
+          ],
+          "category": "Marque de distributeur",
+          "note": "Fruits, jus et boissons."
+        },
+        {
+          "name": "Top Budget",
+          "aliases": [
+            "TopBudget",
+            "Top-Budget"
+          ],
+          "category": "Marque de distributeur",
+          "note": "Gamme de produits premiers prix."
+        },
+        {
+          "name": "Fiorini",
+          "aliases": [
+            "Fiorinni"
+          ],
+          "category": "Marque de distributeur",
+          "note": "Spécialités d'inspiration italienne."
+        },
+        {
+          "name": "Apta",
+          "aliases": [
+            "Aptaa"
+          ],
+          "category": "Marque de distributeur",
+          "note": "Produits d'entretien et droguerie."
+        },
+        {
+          "name": "Labell",
+          "aliases": [
+            "Label",
+            "Labelle"
+          ],
+          "category": "Marque de distributeur",
+          "note": "Hygiène et beauté."
+        },
+        {
+          "name": "Bouton d'Or",
+          "aliases": [
+            "Bouton d'or",
+            "Bouton dOr"
+          ],
+          "category": "Marque de distributeur",
+          "note": "Surgelés, apéritif et condiments."
+        },
+        {
+          "name": "Odyssée",
+          "aliases": [
+            "Odyssee"
+          ],
+          "category": "Marque de distributeur",
+          "note": "Produits de la mer."
+        },
+        {
+          "name": "Canaillou",
+          "aliases": [
+            "Canaillous"
+          ],
+          "category": "Marque de distributeur",
+          "note": "Alimentation et accessoires pour animaux."
+        }
+      ],
+      "scandals": [
+        {
+          "title": "« Émeutes du Nutella » et amende pour vente à perte",
+          "year": 2018,
+          "severity": "modéré",
+          "tags": [
+            "publicité mensongère",
+            "sécurité alimentaire"
+          ],
+          "summary": "En janvier 2018, une promotion de -70 % sur le Nutella dans les magasins Intermarché a provoqué des bousculades et des rixes dans plusieurs points de vente en France, suivies de promotions comparables (couches, café, eau). Pour ces opérations, Intermarché a versé 375 000 € à la DGCCRF (répression des fraudes) pour non-respect de la législation sur la vente à perte. L'épisode a contribué à l'encadrement renforcé des promotions par la loi Alimentation (EGalim) de 2018.",
+          "sources": [
+            {
+              "label": "ICI (France Bleu/France 3) – amende de 375 000 €",
+              "url": "https://www.ici.fr/infos/economie-social/emeutes-au-nutella-intermarche-a-paye-375-000-euros-d-amende-a-la-repression-des-fraudes-1553695681"
+            },
+            {
+              "label": "Europe 1 – promotion Nutella tournant à l'émeute",
+              "url": "https://www.europe1.fr/societe/une-promo-sur-le-nutella-tourne-a-lemeute-dans-plusieurs-hypermarches-3556142"
+            }
+          ]
+        },
+        {
+          "title": "Abattoir de truies de Briec dénoncé par L214",
+          "year": 2021,
+          "severity": "élevé",
+          "tags": [
+            "sécurité alimentaire",
+            "conditions de travail",
+            "environnement"
+          ],
+          "summary": "En mai 2021, l'association L214 a diffusé des images tournées dans l'abattoir SBA de Briec (Finistère), une unité du groupe Les Mousquetaires fournissant Intermarché, montrant des pratiques d'étourdissement non conformes et des souffrances animales. L214 a porté plainte pour sévices graves et l'abattoir a suspendu son activité. Un procès s'est ouvert en 2022, visant l'établissement pour mauvais traitements ainsi que plusieurs salariés.",
+          "sources": [
+            {
+              "label": "L214 – enquête abattoir de Briec",
+              "url": "https://www.l214.com/communications/20210505-enquete-abattoir-briec-mousquetaires/"
+            },
+            {
+              "label": "Réussir / Les Marchés – ouverture du procès",
+              "url": "https://www.reussir.fr/lesmarches/video-de-l214-ouverture-du-proces-de-labattoir-de-briec-qui-fournit-intermarche"
+            }
+          ]
+        },
+        {
+          "title": "Amende de la centrale d'achat Aura (Intermarché, Auchan, Casino)",
+          "year": 2026,
+          "severity": "modéré",
+          "tags": [
+            "relations fournisseurs"
+          ],
+          "summary": "En 2026, la DGCCRF a sanctionné d'une amende de 5,46 millions d'euros la centrale d'achat Aura Retail, commune à Intermarché, Auchan et Casino, pour 18 manquements à l'obligation de signature des conventions avec ses fournisseurs avant la date limite du 1er mars 2025 fixée par la loi. Une amende complémentaire d'environ 147 000 € a visé son entité non alimentaire. Aura Retail a annoncé un recours, jugeant la sanction « disproportionnée » et le cadre réglementaire « incohérent ».",
+          "sources": [
+            {
+              "label": "LSA – amende de plus de 5,4 M€ pour la centrale Aura",
+              "url": "https://www.lsa-conso.fr/negociations-commerciales-la-centrale-d-achat-aura-intermarche-casino-et-auchan-sanctionnee-par-une-amende-de-plus-de-5-4-m,465043"
+            },
+            {
+              "label": "Boursorama (AFP) – 5,46 M€ d'amende",
+              "url": "https://www.boursorama.com/actualite-economique/actualites/negociations-commerciales-5-46-m-eur-d-amende-pour-la-centrale-d-intermarche-auchan-et-casino-a2b7a2a61b7265ba3a3b8592a090c842"
+            }
+          ]
+        },
+        {
+          "title": "Pratiques des centrales d'achat épinglées par une commission d'enquête du Sénat",
+          "year": 2026,
+          "severity": "modéré",
+          "tags": [
+            "relations fournisseurs",
+            "fiscalité"
+          ],
+          "summary": "Une commission d'enquête du Sénat, dont les conclusions ont été rendues en 2026, a dénoncé les pratiques des grandes centrales d'achat de la distribution, dont Aura Retail (Intermarché et Casino), à l'égard de leurs fournisseurs : facturation de prestations de services jugées parfois imposées ou superflues, recours à des structures basées à l'étranger (Belgique, Suisse) et déséquilibre du partage de la valeur au détriment des agriculteurs. Le rapport pointe plus d'un milliard d'euros captés via ces centrales de services. Les distributeurs contestent l'analyse.",
+          "sources": [
+            {
+              "label": "Sénat – rapport sur les marges des industriels et de la grande distribution",
+              "url": "https://www.senat.fr/rap/r25-632-1/r25-632-1_mono.html"
+            },
+            {
+              "label": "Agri Mutuel – la commission d'enquête du Sénat dénonce les pratiques des distributeurs",
+              "url": "https://www.agri-mutuel.com/politique-economie/la-commission-denquete-du-senat-denonce-les-pratiques-des-distributeurs-face-a-leurs-fournisseurs/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lvmh",
+      "name": "LVMH",
+      "legalName": "LVMH Moët Hennessy Louis Vuitton SE",
+      "country": "France",
+      "founded": 1987,
+      "website": "https://www.lvmh.com",
+      "revenue": "Environ 84,7 milliards d'euros en 2024",
+      "description": "LVMH est un groupe français de produits de luxe né en 1987 de la fusion de Louis Vuitton et de Moët Hennessy, dont le siège est à Paris. Premier groupe mondial du luxe, il réunit plus de 75 maisons réparties dans la mode, les parfums, les vins et spiritueux, la joaillerie et la distribution.",
+      "brands": [
+        {
+          "name": "Louis Vuitton",
+          "aliases": [
+            "LV",
+            "Vuitton"
+          ],
+          "category": "Mode et maroquinerie",
+          "note": "Maison fondatrice et principale du groupe."
+        },
+        {
+          "name": "Christian Dior",
+          "aliases": [
+            "Dior"
+          ],
+          "category": "Mode et maroquinerie",
+          "note": "Maison de couture et de parfums."
+        },
+        {
+          "name": "Celine",
+          "aliases": [
+            "Céline"
+          ],
+          "category": "Mode et maroquinerie"
+        },
+        {
+          "name": "Givenchy",
+          "category": "Mode et maroquinerie"
+        },
+        {
+          "name": "Fendi",
+          "category": "Mode et maroquinerie",
+          "note": "Maison italienne de luxe."
+        },
+        {
+          "name": "Loewe",
+          "category": "Mode et maroquinerie",
+          "note": "Maison espagnole de luxe."
+        },
+        {
+          "name": "Loro Piana",
+          "category": "Mode et maroquinerie",
+          "note": "Maison italienne spécialisée dans le cachemire et la laine."
+        },
+        {
+          "name": "Kenzo",
+          "category": "Mode et maroquinerie"
+        },
+        {
+          "name": "Berluti",
+          "category": "Mode et maroquinerie"
+        },
+        {
+          "name": "Rimowa",
+          "aliases": [
+            "RIMOWA"
+          ],
+          "category": "Bagagerie",
+          "note": "Fabricant allemand de bagages."
+        },
+        {
+          "name": "Sephora",
+          "category": "Distribution sélective / Beauté",
+          "note": "Chaîne de distribution de parfums et cosmétiques."
+        },
+        {
+          "name": "Le Bon Marché",
+          "aliases": [
+            "Bon Marché"
+          ],
+          "category": "Distribution / Grand magasin",
+          "note": "Grand magasin parisien."
+        },
+        {
+          "name": "Guerlain",
+          "category": "Parfums et cosmétiques"
+        },
+        {
+          "name": "Moët & Chandon",
+          "aliases": [
+            "Moet et Chandon",
+            "Moet"
+          ],
+          "category": "Vins et spiritueux",
+          "note": "Maison de champagne."
+        },
+        {
+          "name": "Dom Pérignon",
+          "aliases": [
+            "Dom Perignon"
+          ],
+          "category": "Vins et spiritueux",
+          "note": "Cuvée de prestige."
+        },
+        {
+          "name": "Veuve Clicquot",
+          "aliases": [
+            "Veuve Cliquot"
+          ],
+          "category": "Vins et spiritueux",
+          "note": "Maison de champagne."
+        },
+        {
+          "name": "Hennessy",
+          "category": "Vins et spiritueux",
+          "note": "Maison de cognac."
+        },
+        {
+          "name": "Krug",
+          "category": "Vins et spiritueux",
+          "note": "Maison de champagne."
+        },
+        {
+          "name": "Tiffany & Co.",
+          "aliases": [
+            "Tiffany"
+          ],
+          "category": "Joaillerie",
+          "note": "Joaillier américain acquis en 2021."
+        },
+        {
+          "name": "Bulgari",
+          "aliases": [
+            "Bvlgari"
+          ],
+          "category": "Joaillerie et montres",
+          "note": "Maison italienne de joaillerie."
+        },
+        {
+          "name": "TAG Heuer",
+          "aliases": [
+            "Tag Heuer",
+            "Heuer"
+          ],
+          "category": "Horlogerie",
+          "note": "Manufacture horlogère suisse."
+        },
+        {
+          "name": "Hublot",
+          "category": "Horlogerie",
+          "note": "Manufacture horlogère suisse."
+        },
+        {
+          "name": "Chaumet",
+          "category": "Joaillerie",
+          "note": "Joaillier parisien."
+        }
+      ],
+      "scandals": [
+        {
+          "title": "Affaire Squarcini : surveillance de journalistes",
+          "year": 2025,
+          "period": "2013-2016",
+          "severity": "élevé",
+          "tags": [
+            "droits humains",
+            "liberté de la presse",
+            "vie privée"
+          ],
+          "summary": "Entre 2013 et 2016, LVMH a eu recours à Bernard Squarcini, ancien chef du renseignement intérieur français, pour des opérations de surveillance visant notamment le journal Fakir et son fondateur François Ruffin. En mars 2025, le tribunal correctionnel de Paris a condamné Bernard Squarcini à quatre ans de prison dont deux avec sursis et à une amende. LVMH avait conclu en 2021 une transaction (convention judiciaire) ; Bernard Arnault, entendu comme témoin, a déclaré ne pas avoir eu connaissance de ces agissements.",
+          "sources": [
+            {
+              "label": "Franceinfo – Affaire Squarcini : Bernard Arnault entendu comme témoin",
+              "url": "https://www.franceinfo.fr/faits-divers/justice-proces/affaire-squarcini-lvmh-bernard-arnault-entendu-comme-temoin_6925091.html"
+            },
+            {
+              "label": "RSF – Procès « Squarcini » : RSF salue la condamnation des auteurs de la surveillance de Fakir",
+              "url": "https://rsf.org/en/squarcini-trial-rsf-welcomes-conviction-those-involved-surveillance-and-infiltration-fakir"
+            }
+          ]
+        },
+        {
+          "title": "Loro Piana placée sous administration judiciaire (sous-traitance)",
+          "year": 2025,
+          "severity": "élevé",
+          "tags": [
+            "conditions de travail",
+            "droits humains",
+            "sous-traitance"
+          ],
+          "summary": "Le 14 juillet 2025, le tribunal de Milan a placé la maison Loro Piana (LVMH) sous administration judiciaire pour un an, lui reprochant d'avoir « facilité par négligence » l'exploitation d'ouvriers, dont des travailleurs chinois en situation irrégulière, chez des sous-traitants opérant dans des ateliers aux conditions sanitaires dégradées. Des amendes et sanctions administratives ont été prononcées et l'activité de deux ateliers suspendue.",
+          "sources": [
+            {
+              "label": "France 24 – LVMH Italian fashion house Loro Piana put under court administration",
+              "url": "https://www.france24.com/en/live-news/20250714-lvmh-italian-fashion-house-loro-piana-put-under-court-administration"
+            },
+            {
+              "label": "Business & Human Rights Resource Centre – Loro Piana under judicial administration",
+              "url": "https://www.business-humanrights.org/en/latest-news/italy-lvmh-owned-loro-piana-under-judicial-administration-for-subcontracting-production-to-suppliers-allegedly-exploiting-workers/"
+            }
+          ]
+        },
+        {
+          "title": "Manufactures Dior placée sous administration judiciaire (sous-traitance)",
+          "year": 2024,
+          "severity": "élevé",
+          "tags": [
+            "conditions de travail",
+            "droits humains",
+            "sous-traitance"
+          ],
+          "summary": "Le 5 juin 2024, le tribunal de Milan a placé pour un an la société Manufactures Dior S.r.l. (LVMH) sous administration judiciaire, lui reprochant de ne pas avoir prévenu l'exploitation de travailleurs chez certains de ses sous-traitants chinois employant des ouvriers, dont des personnes en situation irrégulière, dans des conditions dégradées. La mesure visait à assainir la chaîne de production.",
+          "sources": [
+            {
+              "label": "FashionNetwork – Dior : une filiale italienne placée sous contrôle judiciaire",
+              "url": "https://fr.fashionnetwork.com/news/Dior-une-filiale-italienne-placee-sous-controle-judiciaire-pour-des-violations-presumees-du-droit-du-travail,1640462.html"
+            },
+            {
+              "label": "Business & Human Rights Resource Centre – Enquête sur Armani et Dior pour exploitation présumée",
+              "url": "https://www.business-humanrights.org/fr/derni%C3%A8res-actualit%C3%A9s/italie-un-enqu%C3%AAte-ouverte-sur-armani-et-dior-pour-exploitation-pr%C3%A9sum%C3%A9e-des-travailleurs-employ%C3%A9s-par-des-sous-traitants-chinois/"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "mars",
       "name": "Mars",
       "legalName": "Mars, Incorporated",
@@ -4725,6 +7935,584 @@ window.CAPITALISME_DATA = {
             {
               "label": "The Washington Post – le rebranding d'Uncle Ben's",
               "url": "https://www.washingtonpost.com/news/voraciously/wp/2020/09/23/uncle-bens-brand-evolves-into-bens-original-after-criticism-of-racial-stereotyping/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mcdonald-s",
+      "name": "McDonald's",
+      "legalName": "McDonald's Corporation",
+      "country": "États-Unis",
+      "founded": 1955,
+      "website": "https://www.mcdonalds.com",
+      "revenue": "Environ 26,9 milliards USD de chiffre d'affaires en 2025",
+      "description": "McDonald's Corporation est une chaîne américaine de restauration rapide fondée en 1955 par Ray Kroc, à partir d'un restaurant créé en 1940 par les frères Richard et Maurice McDonald. Son siège se situe à Chicago (Illinois) et l'enseigne exploite principalement un modèle de franchise dans plus de 100 pays.",
+      "brands": [
+        {
+          "name": "McDonald's",
+          "aliases": [
+            "McDo",
+            "McDonalds",
+            "Mc Donald's",
+            "MacDo"
+          ],
+          "category": "Restauration rapide",
+          "note": "Enseigne principale du groupe"
+        },
+        {
+          "name": "McCafé",
+          "aliases": [
+            "Mc Café",
+            "McCafe"
+          ],
+          "category": "Café",
+          "note": "Concept de café intégré aux restaurants McDonald's"
+        },
+        {
+          "name": "McDrive",
+          "aliases": [
+            "Drive McDo",
+            "McDrive"
+          ],
+          "category": "Restauration rapide",
+          "note": "Service de vente au volant (McDrive en France, McDrive-Thru à l'international)"
+        },
+        {
+          "name": "Happy Meal",
+          "aliases": [
+            "Joyeux Festin",
+            "Menu Enfant"
+          ],
+          "category": "Produit",
+          "note": "Menu enfant accompagné d'un jouet"
+        },
+        {
+          "name": "Big Mac",
+          "aliases": [
+            "BigMac",
+            "Big-Mac"
+          ],
+          "category": "Produit",
+          "note": "Hamburger emblématique de l'enseigne"
+        },
+        {
+          "name": "Chicken McNuggets",
+          "aliases": [
+            "McNuggets",
+            "Nuggets",
+            "Chicken Nuggets"
+          ],
+          "category": "Produit",
+          "note": "Beignets de poulet"
+        },
+        {
+          "name": "McMuffin",
+          "aliases": [
+            "Mc Muffin",
+            "Egg McMuffin"
+          ],
+          "category": "Produit",
+          "note": "Sandwich proposé au petit-déjeuner"
+        },
+        {
+          "name": "McFlurry",
+          "aliases": [
+            "Mc Flurry",
+            "McFlury"
+          ],
+          "category": "Produit",
+          "note": "Dessert glacé"
+        },
+        {
+          "name": "Filet-O-Fish",
+          "aliases": [
+            "Filet O Fish",
+            "Fish Filet",
+            "Filet-o-fish"
+          ],
+          "category": "Produit",
+          "note": "Sandwich au poisson pané"
+        },
+        {
+          "name": "Quarter Pounder",
+          "aliases": [
+            "Royal Cheese",
+            "Quarter-Pounder",
+            "McRoyal"
+          ],
+          "category": "Produit",
+          "note": "Hamburger commercialisé sous le nom Royal Cheese en France"
+        },
+        {
+          "name": "McChicken",
+          "aliases": [
+            "Mc Chicken"
+          ],
+          "category": "Produit",
+          "note": "Sandwich au poulet pané"
+        },
+        {
+          "name": "McWrap",
+          "aliases": [
+            "Mc Wrap",
+            "P'tit Wrap"
+          ],
+          "category": "Produit",
+          "note": "Galette roulée garnie"
+        },
+        {
+          "name": "Sundae",
+          "aliases": [
+            "McSundae"
+          ],
+          "category": "Produit",
+          "note": "Dessert glacé nappé de sauce"
+        },
+        {
+          "name": "McCroquettes",
+          "aliases": [
+            "Potato Cheese",
+            "Croquettes McDo"
+          ],
+          "category": "Produit",
+          "note": "Accompagnement proposé en France"
+        },
+        {
+          "name": "McFirst",
+          "aliases": [
+            "Mc First",
+            "Cheeseburger McDo"
+          ],
+          "category": "Produit",
+          "note": "Hamburgers d'entrée de gamme"
+        }
+      ],
+      "scandals": [
+        {
+          "title": "Redressement fiscal record en France (CJIP de 1,245 milliard d'euros)",
+          "year": 2022,
+          "period": "2009-2020",
+          "severity": "élevé",
+          "tags": [
+            "fiscalité"
+          ],
+          "summary": "Le 16 juin 2022, le tribunal judiciaire de Paris a validé une convention judiciaire d'intérêt public (CJIP) conclue entre des sociétés du groupe McDonald's et le Parquet national financier, mettant fin aux poursuites pour fraude fiscale sans condamnation pénale. McDonald's était soupçonné d'avoir réduit artificiellement ses bénéfices imposables en France entre 2009 et 2020 via des redevances versées à une filiale luxembourgeoise. Le montant total atteint 1,245 milliard d'euros, dont 508 millions d'euros d'amende d'intérêt public et 609 millions d'euros de redressements et pénalités d'impôt sur les sociétés. Il s'agit du plus important règlement de ce type en matière fiscale en France à ce jour.",
+          "sources": [
+            {
+              "label": "Justice.gouv.fr - texte de la CJIP McDonald's (mai 2022)",
+              "url": "https://www.justice.gouv.fr/sites/default/files/2023-05/CJIP_TJ_paris_macdo_20220531.pdf"
+            },
+            {
+              "label": "Communiqué presse Bercy / DGFiP (16 juin 2022)",
+              "url": "https://presse.economie.gouv.fr/16-06-2022-la-direction-generale-des-finances-publiques-salue-le-reglement-du-litige-relatif-a-limposition-de-mc-donalds-en-france/"
+            }
+          ]
+        },
+        {
+          "title": "Plainte internationale pour harcèlement sexuel devant l'OCDE",
+          "year": 2024,
+          "severity": "élevé",
+          "tags": [
+            "conditions de travail"
+          ],
+          "summary": "En 2024, une coalition internationale de syndicats a déposé une plainte devant les points de contact de l'OCDE, accusant McDonald's d'avoir échoué à enrayer un harcèlement sexuel décrit comme systématique dans ses restaurants. Des témoignages recueillis dans plusieurs pays (Australie, Brésil, Chili, Colombie, France, Royaume-Uni, États-Unis) font état de commentaires vulgaires, d'attouchements et de baisers forcés. En France, plusieurs procédures ont également visé l'enseigne, dont une décision prud'homale d'octobre 2024 condamnant un employeur du groupe à verser environ 39 000 euros pour licenciement nul après une plainte pour harcèlement.",
+          "sources": [
+            {
+              "label": "Europe 1 - plainte devant l'OCDE pour harcèlement sexuel",
+              "url": "https://www.europe1.fr/international/mcdonalds-poursuivi-devant-locde-pour-harcelement-sexuel-systematique-3969243"
+            },
+            {
+              "label": "Politis - condamnation aux prud'hommes (octobre 2024)",
+              "url": "https://www.politis.fr/articles/2024/10/justice-licenciee-apres-le-harcelement-sexuel-dun-manager-une-equipiere-fait-plier-mcdo-aux-prudhommes/"
+            }
+          ]
+        },
+        {
+          "title": "Procès « McLibel » contre des militants britanniques",
+          "year": 1997,
+          "period": "1990-1997",
+          "severity": "modéré",
+          "tags": [
+            "conditions de travail",
+            "publicité mensongère",
+            "environnement"
+          ],
+          "summary": "Dans l'affaire dite « McLibel », McDonald's a poursuivi en diffamation deux militants londoniens, Helen Steel et David Morris, après la diffusion d'un tract critiquant l'entreprise. Le procès, l'un des plus longs de l'histoire judiciaire anglaise, s'est conclu en 1997 : les militants ont été jugés diffamatoires sur certains points, mais le juge a retenu comme établis plusieurs reproches (publicité jugée trompeuse, bas salaires, hostilité à la syndicalisation). En 2005, la Cour européenne des droits de l'homme a estimé que le Royaume-Uni avait violé leur droit à un procès équitable et à la liberté d'expression.",
+          "sources": [
+            {
+              "label": "Wikipedia - McLibel case",
+              "url": "https://en.wikipedia.org/wiki/McLibel_case"
+            }
+          ]
+        },
+        {
+          "title": "Marketing auprès des enfants et critiques nutritionnelles (Happy Meal)",
+          "year": 2010,
+          "severity": "modéré",
+          "tags": [
+            "santé",
+            "publicité mensongère"
+          ],
+          "summary": "Le Happy Meal et son jouet font l'objet de critiques récurrentes de la part d'associations de consommateurs et de santé publique, qui jugent ce marketing destiné aux enfants déloyal et propice à l'obésité infantile. En 2010, le Center for Science in the Public Interest a menacé McDonald's de poursuites, et la ville de San Francisco a adopté une ordonnance interdisant les jouets gratuits dans les menus enfants ne respectant pas certains critères nutritionnels. McDonald's a depuis modifié la composition de ses menus enfants (ajout de fruits, réduction des portions de frites).",
+          "sources": [
+            {
+              "label": "CSPI - menace de poursuites sur les jouets du Happy Meal",
+              "url": "https://www.cspi.org/news/cspi-sue-mcdonalds-if-it-continues-using-toys-market-junk-food-children-20100622"
+            },
+            {
+              "label": "The Washington Post - Happy Meal et obésité infantile",
+              "url": "https://www.washingtonpost.com/news/voraciously/wp/2019/11/06/the-happy-meal-a-triumph-of-marketing-blamed-for-childhood-obesity-is-turning-40/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "meta",
+      "name": "Meta",
+      "legalName": "Meta Platforms, Inc.",
+      "country": "États-Unis",
+      "founded": 2004,
+      "website": "https://about.meta.com",
+      "revenue": "Chiffre d'affaires d'environ 164 milliards de dollars en 2024",
+      "description": "Meta Platforms, anciennement Facebook Inc. jusqu'en 2021, est un groupe technologique américain spécialisé dans les réseaux sociaux, la messagerie, la réalité virtuelle et l'intelligence artificielle. Il est dirigé par son cofondateur Mark Zuckerberg.",
+      "brands": [
+        {
+          "name": "Facebook",
+          "aliases": [
+            "FB",
+            "facebok",
+            "face book"
+          ],
+          "category": "Réseau social",
+          "note": "Plateforme historique du groupe."
+        },
+        {
+          "name": "Instagram",
+          "aliases": [
+            "Insta",
+            "instagrame",
+            "IG"
+          ],
+          "category": "Réseau social",
+          "note": "Acquis en 2012."
+        },
+        {
+          "name": "WhatsApp",
+          "aliases": [
+            "Whatsap",
+            "WhatsApp Messenger",
+            "watsapp"
+          ],
+          "category": "Messagerie instantanée",
+          "note": "Acquis en 2014."
+        },
+        {
+          "name": "Messenger",
+          "aliases": [
+            "Facebook Messenger",
+            "Messenger"
+          ],
+          "category": "Messagerie instantanée"
+        },
+        {
+          "name": "Threads",
+          "aliases": [
+            "Thread"
+          ],
+          "category": "Réseau social",
+          "note": "Lancé en 2023."
+        },
+        {
+          "name": "Meta Quest",
+          "aliases": [
+            "Oculus",
+            "Oculus Quest",
+            "Quest"
+          ],
+          "category": "Réalité virtuelle",
+          "note": "Casques VR, anciennement Oculus."
+        },
+        {
+          "name": "Reality Labs",
+          "aliases": [
+            "Reality Lab"
+          ],
+          "category": "Matériel et métavers",
+          "note": "Division réalité virtuelle et augmentée."
+        },
+        {
+          "name": "Ray-Ban Meta",
+          "aliases": [
+            "Ray-Ban Stories",
+            "lunettes Meta"
+          ],
+          "category": "Objets connectés",
+          "note": "Lunettes connectées, partenariat avec EssilorLuxottica."
+        },
+        {
+          "name": "Meta AI",
+          "aliases": [
+            "MetaAI",
+            "Llama"
+          ],
+          "category": "Intelligence artificielle",
+          "note": "Assistant et modèles Llama."
+        },
+        {
+          "name": "Facebook Marketplace",
+          "aliases": [
+            "Marketplace"
+          ],
+          "category": "Petites annonces en ligne"
+        },
+        {
+          "name": "Workplace",
+          "aliases": [
+            "Workplace from Meta"
+          ],
+          "category": "Collaboration en entreprise",
+          "note": "Arrêt progressif annoncé."
+        },
+        {
+          "name": "Meta for Business",
+          "aliases": [
+            "Meta Business Suite",
+            "Facebook Ads"
+          ],
+          "category": "Publicité en ligne"
+        }
+      ],
+      "scandals": [
+        {
+          "title": "Scandale Cambridge Analytica et amende de la FTC",
+          "year": 2018,
+          "period": "2018-2023",
+          "severity": "élevé",
+          "tags": [
+            "données personnelles",
+            "désinformation"
+          ],
+          "summary": "En mars 2018, il est révélé que la société Cambridge Analytica avait exploité, sans consentement, les données d'environ 87 millions d'utilisateurs Facebook à des fins de ciblage politique. En juillet 2019, la FTC américaine a infligé à Facebook une amende de 5 milliards de dollars et imposé un renforcement de la gouvernance de la vie privée. En décembre 2022, Meta a accepté de verser 725 millions de dollars pour clore une action collective liée à cette affaire.",
+          "sources": [
+            {
+              "label": "Wikipédia (fr) – Scandale Facebook-Cambridge Analytica",
+              "url": "https://fr.wikipedia.org/wiki/Scandale_Facebook-Cambridge_Analytica"
+            },
+            {
+              "label": "Le Temps – accord de 725 millions de dollars (2022)",
+              "url": "https://www.letemps.ch/monde/facebook-accepte-payer-725-millions-dollars-laffaire-cambridge-analytica"
+            }
+          ]
+        },
+        {
+          "title": "Amende RGPD record sur les transferts de données",
+          "year": 2023,
+          "severity": "élevé",
+          "tags": [
+            "données personnelles"
+          ],
+          "summary": "Le 22 mai 2023, la Commission irlandaise de protection des données (DPC) a infligé à Meta une amende de 1,2 milliard d'euros pour avoir transféré des données personnelles d'utilisateurs européens vers les États-Unis sans garanties suffisantes, en violation de l'article 46 du RGPD. Le régulateur a ordonné la suspension de ces transferts et une mise en conformité. Meta a annoncé faire appel, jugeant la décision injustifiée.",
+          "sources": [
+            {
+              "label": "L'Usine Digitale – amende de 1,2 milliard d'euros",
+              "url": "https://www.usine-digitale.fr/article/rgpd-meta-condamne-a-une-amende-record-de-1-2-milliard-d-euros.N2134196"
+            }
+          ]
+        },
+        {
+          "title": "Amende DMA sur le modèle « payer ou consentir »",
+          "year": 2025,
+          "severity": "modéré",
+          "tags": [
+            "données personnelles",
+            "concurrence"
+          ],
+          "summary": "Le 23 avril 2025, la Commission européenne a infligé à Meta une amende de 200 millions d'euros au titre du Digital Markets Act (DMA), estimant que son dispositif « payer ou consentir » mis en place entre mars et novembre 2024 ne laissait pas un vrai choix aux utilisateurs pour limiter la combinaison de leurs données. Meta a contesté la décision. En décembre 2025, le groupe s'est engagé à proposer aux utilisateurs européens une option de publicité moins personnalisée.",
+          "sources": [
+            {
+              "label": "Commission européenne – Digital Markets Act (avril 2025)",
+              "url": "https://digital-markets-act.ec.europa.eu/commission-finds-apple-and-meta-breach-digital-markets-act-2025-04-23_en"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "microsoft",
+      "name": "Microsoft",
+      "legalName": "Microsoft Corporation",
+      "country": "États-Unis",
+      "founded": 1975,
+      "website": "https://www.microsoft.com",
+      "revenue": "281,7 milliards de dollars de chiffre d'affaires sur l'exercice fiscal 2025 (clos le 30 juin 2025), en hausse d'environ 15 %",
+      "description": "Microsoft est une entreprise technologique américaine basée à Redmond (État de Washington), spécialisée dans les logiciels, le cloud computing, les jeux vidéo et le matériel informatique. C'est l'une des plus grandes capitalisations boursières mondiales.",
+      "brands": [
+        {
+          "name": "Windows",
+          "category": "Système d'exploitation"
+        },
+        {
+          "name": "Microsoft 365",
+          "aliases": [
+            "Office",
+            "Office 365",
+            "Word",
+            "Excel",
+            "PowerPoint",
+            "Outlook"
+          ],
+          "category": "Suite bureautique"
+        },
+        {
+          "name": "Xbox",
+          "aliases": [
+            "Xbox Series X",
+            "Xbox Series S",
+            "Game Pass"
+          ],
+          "category": "Jeux vidéo (console et service)"
+        },
+        {
+          "name": "Teams",
+          "aliases": [
+            "Microsoft Teams"
+          ],
+          "category": "Communication et collaboration"
+        },
+        {
+          "name": "LinkedIn",
+          "category": "Réseau social professionnel"
+        },
+        {
+          "name": "Surface",
+          "category": "Ordinateurs et tablettes"
+        },
+        {
+          "name": "GitHub",
+          "category": "Hébergement de code et développement"
+        },
+        {
+          "name": "Azure",
+          "aliases": [
+            "Microsoft Azure"
+          ],
+          "category": "Cloud computing"
+        },
+        {
+          "name": "Bing",
+          "category": "Moteur de recherche"
+        },
+        {
+          "name": "Copilot",
+          "aliases": [
+            "Microsoft Copilot"
+          ],
+          "category": "Assistant d'intelligence artificielle"
+        },
+        {
+          "name": "OneDrive",
+          "category": "Stockage cloud"
+        },
+        {
+          "name": "Outlook",
+          "aliases": [
+            "Hotmail"
+          ],
+          "category": "Messagerie électronique"
+        },
+        {
+          "name": "Skype",
+          "category": "Communication (service en cours d'arrêt)"
+        },
+        {
+          "name": "Activision Blizzard",
+          "aliases": [
+            "Call of Duty",
+            "Candy Crush",
+            "World of Warcraft"
+          ],
+          "category": "Jeux vidéo (studio et éditeur)"
+        },
+        {
+          "name": "Minecraft",
+          "aliases": [
+            "Mojang"
+          ],
+          "category": "Jeu vidéo"
+        },
+        {
+          "name": "Edge",
+          "aliases": [
+            "Microsoft Edge"
+          ],
+          "category": "Navigateur web"
+        }
+      ],
+      "scandals": [
+        {
+          "title": "Abus de position dominante (Windows Media Player et interopérabilité)",
+          "year": 2004,
+          "period": "2004-2013",
+          "severity": "élevé",
+          "tags": [
+            "concurrence",
+            "abus de position dominante"
+          ],
+          "summary": "En mars 2004, la Commission européenne a infligé à Microsoft une amende de 497 millions d'euros pour abus de position dominante, lui reprochant le couplage de Windows Media Player avec Windows et le refus de fournir des informations d'interopérabilité à ses concurrents. Microsoft a ensuite été à nouveau sanctionné pour non-respect de cette décision (899 millions d'euros en 2008), puis pour le non-respect d'un engagement sur le choix du navigateur (561 millions d'euros en 2013).",
+          "sources": [
+            {
+              "label": "EDRi – La Cour confirme l'amende de 497 millions d'euros",
+              "url": "https://edri.org/our-work/edrigramnumber5-18microsoft-decision-tpi/"
+            },
+            {
+              "label": "Jones Day – Commission fines Microsoft €561 Million for Breach of Commitments (2013)",
+              "url": "https://www.jonesday.com/en/insights/2013/03/antitrust-alert--european-commission-fines-microsoft-561-million-for-breach-of-commitments"
+            }
+          ]
+        },
+        {
+          "title": "Couplage de Teams avec Office (enquête concurrence UE)",
+          "year": 2024,
+          "period": "2023-2025",
+          "severity": "modéré",
+          "tags": [
+            "concurrence",
+            "couplage de produits"
+          ],
+          "summary": "À la suite d'une plainte de Slack en 2023, la Commission européenne a adressé en juin 2024 une communication des griefs à Microsoft, estimant que le couplage de Teams avec les suites Office 365 et Microsoft 365 enfreignait les règles de concurrence. En septembre 2025, la Commission a accepté des engagements de Microsoft (vente de versions d'Office sans Teams, à prix réduit), clôturant l'affaire sans amende.",
+          "sources": [
+            {
+              "label": "CNBC – Microsoft sidesteps EU fine with Teams unbundling deal",
+              "url": "https://www.cnbc.com/2025/09/12/microsoft-avoids-big-fine-as-eu-accepts-deal-to-unbundle-teams.html"
+            },
+            {
+              "label": "InhouseLegal – Another EU Antitrust Action Against Microsoft",
+              "url": "https://inhouse-legal.eu/antitrust-competition-law/another-eu-antitrust-action-against-microsoft-a-new-chapter-in-a-longstanding-saga/"
+            }
+          ]
+        },
+        {
+          "title": "Rachat d'Activision Blizzard sur fond de scandale de harcèlement",
+          "year": 2023,
+          "period": "2022-2023",
+          "severity": "modéré",
+          "tags": [
+            "conditions de travail",
+            "harcèlement",
+            "concurrence"
+          ],
+          "summary": "Microsoft a annoncé en janvier 2022 le rachat de l'éditeur de jeux Activision Blizzard pour environ 69 milliards de dollars, finalisé en octobre 2023 après de longues batailles avec les régulateurs (FTC américaine, autorité britannique CMA). L'opération est intervenue alors qu'Activision Blizzard faisait l'objet de poursuites pour harcèlement et discrimination salariale envers ses employées : l'éditeur a réglé en décembre 2023 un litige pour 54 millions de dollars avec une autorité californienne, et versé 35 millions de dollars à la SEC.",
+          "sources": [
+            {
+              "label": "Wikipedia – Acquisition of Activision Blizzard by Microsoft",
+              "url": "https://en.wikipedia.org/wiki/Acquisition_of_Activision_Blizzard_by_Microsoft"
+            },
+            {
+              "label": "Forbes – Activision Blizzard Will Pay SEC $35 Million",
+              "url": "https://www.forbes.com/sites/tylerroush/2023/02/03/activision-blizzard-will-pay-sec-35-million-to-settle-claims-over-its-workplace-misconduct-disclosures/"
             }
           ]
         }
@@ -5204,6 +8992,112 @@ window.CAPITALISME_DATA = {
             {
               "label": "Wikipédia (fr) - Nestlé",
               "url": "https://fr.wikipedia.org/wiki/Nestl%C3%A9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nike",
+      "name": "Nike",
+      "legalName": "NIKE, Inc.",
+      "country": "États-Unis",
+      "founded": 1964,
+      "website": "https://www.nike.com",
+      "revenue": "Environ 46,3 milliards de dollars de chiffre d'affaires pour l'exercice 2025 (clos le 31 mai 2025), en baisse de 10 % sur un an.",
+      "description": "NIKE, Inc. est le premier équipementier sportif mondial, dont le siège est à Beaverton (Oregon). Fondée en 1964 sous le nom de Blue Ribbon Sports par Bill Bowerman et Phil Knight, l'entreprise a pris le nom de Nike, Inc. en 1971.",
+      "brands": [
+        {
+          "name": "Nike",
+          "aliases": [
+            "Nikee",
+            "Nyke"
+          ],
+          "category": "Équipement sportif / Chaussures",
+          "note": "Marque principale, incluant les lignes Nike Sportswear et Nike Pro."
+        },
+        {
+          "name": "Jordan",
+          "aliases": [
+            "Air Jordan",
+            "Jordan Brand"
+          ],
+          "category": "Chaussures / Sportswear",
+          "note": "Marque issue de la collaboration avec Michael Jordan."
+        },
+        {
+          "name": "Converse",
+          "aliases": [
+            "Converse All Star",
+            "Chuck Taylor"
+          ],
+          "category": "Chaussures / Sneakers",
+          "note": "Filiale acquise par Nike en 2003."
+        }
+      ],
+      "scandals": [
+        {
+          "title": "Ateliers clandestins (« sweatshops ») en Asie",
+          "year": 1991,
+          "period": "années 1990",
+          "severity": "élevé",
+          "tags": [
+            "conditions de travail",
+            "droits humains",
+            "travail des enfants"
+          ],
+          "summary": "À partir de 1991, des militants et journalistes ont documenté des conditions de travail très dégradées dans des usines sous-traitantes de Nike en Indonésie, au Vietnam et ailleurs : salaires de misère, heures excessives, abus et, dans certains sous-traitants, recours au travail d'enfants. Nike a d'abord nié sa responsabilité avant de mettre en place, à la fin des années 1990, un code de conduite, des audits et davantage de transparence sur ses fournisseurs.",
+          "sources": [
+            {
+              "label": "Wikipédia (en) – Nike sweatshops",
+              "url": "https://en.wikipedia.org/wiki/Nike_sweatshops"
+            },
+            {
+              "label": "The World (PRX) – How Nike solved its sweatshop problem",
+              "url": "https://theworld.org/stories/2016/07/30/how-nike-solved-its-sweatshop-problem"
+            }
+          ]
+        },
+        {
+          "title": "Soupçons de travail forcé des Ouïghours et controverse sur le Xinjiang",
+          "year": 2021,
+          "period": "2020-2023",
+          "severity": "modéré",
+          "tags": [
+            "droits humains",
+            "travail forcé",
+            "chaîne d'approvisionnement"
+          ],
+          "summary": "En 2020-2021, Nike a été cité parmi les marques pointées du doigt pour un risque d'exposition au travail forcé d'Ouïghours dans sa chaîne d'approvisionnement. Sa déclaration affirmant ne pas s'approvisionner au Xinjiang a déclenché en mars 2021 un fort mouvement de boycott en Chine. En 2023, un médiateur canadien a ouvert une enquête sur l'usage allégué de travail forcé ouïghour. Nike a déclaré ne pas s'approvisionner dans la région et exiger le respect de ses standards par ses fournisseurs.",
+          "sources": [
+            {
+              "label": "CNBC – réactions en Chine contre Nike et H&M sur le coton du Xinjiang",
+              "url": "https://www.cnbc.com/2021/03/25/nike-faces-social-media-storm-in-china-over-xinjiang-statement.html"
+            },
+            {
+              "label": "Dezeen – enquête du médiateur canadien sur Nike et le travail forcé ouïghour",
+              "url": "https://www.dezeen.com/2023/07/13/canadian-ethics-ombudsperson-investigates-nikes-alleged-use-of-uyghur-forced-labour/"
+            }
+          ]
+        },
+        {
+          "title": "Enquête de la Commission européenne sur des avantages fiscaux aux Pays-Bas",
+          "year": 2019,
+          "period": "2019-2021",
+          "severity": "modéré",
+          "tags": [
+            "fiscalité",
+            "aides d'État"
+          ],
+          "summary": "En janvier 2019, la Commission européenne a ouvert une enquête approfondie pour déterminer si des rulings fiscaux accordés par les Pays-Bas à deux entités de Nike (Nike European Operations Netherlands et Converse Netherlands) constituaient une aide d'État illégale, en jugeant possibles des redevances « gonflées » réduisant indûment la base imposable. En 2021, le Tribunal de l'UE a rejeté le recours de Nike contre l'ouverture de cette procédure. Nike a affirmé respecter la réglementation fiscale en vigueur.",
+          "sources": [
+            {
+              "label": "Commission européenne – ouverture de l'enquête sur le traitement fiscal de Nike aux Pays-Bas",
+              "url": "https://europa.eu/rapid/press-release_IP-19-322_en.htm"
+            },
+            {
+              "label": "ICIJ – Nike échoue à stopper l'enquête de l'UE",
+              "url": "https://www.icij.org/investigations/paradise-papers/nike-fails-to-stop-eu-probe-on-billions-in-alleged-tax-dodging/"
             }
           ]
         }
@@ -5706,6 +9600,227 @@ window.CAPITALISME_DATA = {
       ]
     },
     {
+      "id": "philip-morris-marlboro",
+      "name": "Philip Morris (Marlboro)",
+      "legalName": "Philip Morris International Inc.",
+      "country": "États-Unis (société de droit du Delaware, siège à New York ; centre opérationnel à Lausanne, Suisse)",
+      "founded": 2008,
+      "website": "https://www.pmi.com",
+      "revenue": "Chiffre d'affaires net d'environ 37,9 milliards de dollars US en 2024.",
+      "description": "Philip Morris International (PMI) est l'un des plus grands fabricants mondiaux de produits du tabac et de la nicotine, présent dans environ 180 pays. Issu de la scission d'Altria en 2008, le groupe commercialise la marque Marlboro et d'autres cigarettes en dehors des États-Unis, ainsi qu'une gamme de produits dits « sans fumée » comme le tabac chauffé IQOS et les sachets de nicotine Zyn. Aux États-Unis, les mêmes marques (dont Marlboro) sont vendues par Philip Morris USA, filiale d'Altria, société distincte depuis 2008.",
+      "brands": [
+        {
+          "name": "Marlboro",
+          "aliases": [
+            "Malboro",
+            "Marlborough",
+            "Marlbro"
+          ],
+          "category": "Cigarettes",
+          "note": "Cigarette la plus vendue au monde. Vendue par PMI hors des États-Unis ; aux États-Unis, elle est commercialisée par Philip Morris USA (Altria), entité distincte."
+        },
+        {
+          "name": "Chesterfield",
+          "aliases": [
+            "Chesterfields",
+            "Chersterfield"
+          ],
+          "category": "Cigarettes",
+          "note": "Marque internationale de PMI bien connue en Europe."
+        },
+        {
+          "name": "L&M",
+          "aliases": [
+            "L et M",
+            "LM",
+            "L and M"
+          ],
+          "category": "Cigarettes",
+          "note": "L'une des principales marques internationales de PMI."
+        },
+        {
+          "name": "Philip Morris",
+          "aliases": [
+            "PM"
+          ],
+          "category": "Cigarettes",
+          "note": "Marque éponyme de cigarettes."
+        },
+        {
+          "name": "Parliament",
+          "aliases": [
+            "Parliaments",
+            "Parlement"
+          ],
+          "category": "Cigarettes"
+        },
+        {
+          "name": "Bond Street",
+          "aliases": [
+            "Bond",
+            "Bondstreet"
+          ],
+          "category": "Cigarettes"
+        },
+        {
+          "name": "IQOS",
+          "aliases": [
+            "Iqos",
+            "I-Qos",
+            "Ikos",
+            "IQOS Iluma"
+          ],
+          "category": "Tabac chauffé",
+          "note": "Dispositif électronique qui chauffe le tabac sans le brûler, lancé en 2014. PMI le commercialise comme produit « à risque réduit / exposition réduite », ce qui fait l'objet de controverses scientifiques."
+        },
+        {
+          "name": "HEETS",
+          "aliases": [
+            "Heets",
+            "Heatsticks"
+          ],
+          "category": "Tabac chauffé",
+          "note": "Bâtonnets de tabac (recharges) à utiliser avec les appareils IQOS, progressivement complétés/remplacés par Terea."
+        },
+        {
+          "name": "Terea",
+          "aliases": [
+            "TEREA",
+            "Térea"
+          ],
+          "category": "Tabac chauffé",
+          "note": "Recharges de tabac conçues pour les appareils IQOS Iluma."
+        },
+        {
+          "name": "VEEV",
+          "aliases": [
+            "Veev",
+            "Veeba",
+            "Veev One"
+          ],
+          "category": "Vape",
+          "note": "Gamme de produits de vapotage (e-cigarettes) de PMI."
+        },
+        {
+          "name": "Zyn",
+          "aliases": [
+            "ZYN",
+            "Zynn"
+          ],
+          "category": "Sachets de nicotine",
+          "note": "Sachets de nicotine sans tabac, entrés dans le portefeuille de PMI via l'acquisition de Swedish Match finalisée en 2022."
+        }
+      ],
+      "scandals": [
+        {
+          "title": "Campagne de lobbying contre la Convention-cadre de l'OMS pour la lutte antitabac",
+          "year": 2017,
+          "period": "années 2010-2020",
+          "severity": "élevé",
+          "tags": [
+            "lobbying",
+            "santé"
+          ],
+          "summary": "Une enquête de l'agence Reuters publiée en 2017 a documenté une campagne mondiale de PMI visant à affaiblir et contourner la Convention-cadre de l'OMS pour la lutte antitabac (FCTC), traité international destiné à réduire le tabagisme. Selon ces documents, le groupe a cherché à influencer la composition des délégations nationales et les conférences du traité. Des organisations de santé publique ont continué de dénoncer ces pratiques de lobbying. PMI revendique la légitimité de sa participation aux débats publics.",
+          "sources": [
+            {
+              "label": "Reuters / Corporate Accountability — Inside Philip Morris' campaign to subvert the global anti-smoking treaty",
+              "url": "https://corporateaccountability.org/media/inside-philip-morris-campaign-to-subvert-the-global-anti-smoking-treaty/"
+            },
+            {
+              "label": "Tobacco Tactics (Université de Bath) — Philip Morris International",
+              "url": "https://www.tobaccotactics.org/article/philip-morris-international/"
+            }
+          ]
+        },
+        {
+          "title": "Financement de la « Foundation for a Smoke-Free World » et refus de l'OMS",
+          "year": 2017,
+          "period": "2017-2024",
+          "severity": "élevé",
+          "tags": [
+            "santé",
+            "désinformation",
+            "lobbying"
+          ],
+          "summary": "En septembre 2017, PMI a annoncé soutenir la « Foundation for a Smoke-Free World » à hauteur d'environ 80 millions de dollars par an pendant douze ans. L'OMS a publié dès le 28 septembre 2017 une déclaration refusant tout partenariat, invoquant un conflit d'intérêts fondamental entre l'industrie du tabac et la santé publique. La communauté de santé publique a largement boycotté la fondation. En 2024, celle-ci a été renommée « Global Action to End Smoking », l'OMS réaffirmant son refus de coopérer.",
+          "sources": [
+            {
+              "label": "OMS — Déclaration sur la fondation financée par Philip Morris (28 sept. 2017)",
+              "url": "https://www.who.int/news/item/28-09-2017-who-statement-on-philip-morris-funded-foundation-for-a-smoke-free-world"
+            },
+            {
+              "label": "OMS — Alerte sur le changement de nom (2024)",
+              "url": "https://www.who.int/news/item/06-06-2024-alert-on-philip-morris-funded-foundation-name-change-to-global-action-to-end-smoking"
+            }
+          ]
+        },
+        {
+          "title": "Allégations de « risque réduit » de l'IQOS et débat scientifique",
+          "year": 2020,
+          "period": "depuis 2014",
+          "severity": "modéré",
+          "tags": [
+            "santé",
+            "publicité mensongère"
+          ],
+          "summary": "PMI commercialise son produit de tabac chauffé IQOS comme une alternative « à risque réduit / exposition réduite ». En 2020, la FDA américaine a autorisé certaines allégations d'« exposition réduite » aux substances nocives, tout en notant que les données de PMI ne démontraient pas de façon constante une réduction des risques de maladie chez l'humain. Des chercheurs, notamment de l'Université de Californie à San Francisco (UCSF), ont contesté la solidité des allégations de risque réduit, l'OMS soulignant que les effets à long terme restent incertains et que l'addiction persiste.",
+          "sources": [
+            {
+              "label": "FDA — Autorisations « exposition modifiée » pour des produits IQOS",
+              "url": "https://www.fda.gov/tobacco-products/ctp-newsroom/fda-renews-authorization-five-iqos-products-be-marketed-exposure-modification-claims"
+            },
+            {
+              "label": "UCSF Center for Tobacco Control — critique des allégations de risque réduit de l'IQOS",
+              "url": "https://tobacco.ucsf.edu/fda-should-not-authorize-philip-morris-international-market-iqos-claims-reduced-risk-or-reduced-exposure"
+            }
+          ]
+        },
+        {
+          "title": "Critiques de greenwashing autour du discours « avenir sans fumée »",
+          "year": 2016,
+          "period": "depuis 2016",
+          "severity": "modéré",
+          "tags": [
+            "désinformation",
+            "publicité mensongère"
+          ],
+          "summary": "Depuis l'annonce en 2016 d'un virage vers un « avenir sans fumée » (smoke-free), PMI est accusé par des chercheurs et organisations de santé publique de mener une opération d'image tout en continuant de vendre des milliards de cigarettes chaque année. Des enquêtes journalistiques ont rapporté que la filiale française du groupe a utilisé ce slogan pour promouvoir indirectement ses produits du tabac, et présenté le tabac chauffé comme « moins nocif » malgré l'incertitude scientifique sur les effets à long terme.",
+          "sources": [
+            {
+              "label": "The Examination — Philip Morris 'smoke-free world' campaign is propaganda, lawsuit alleges",
+              "url": "https://www.theexamination.org/articles/philip-morris-smoke-free-world-campaign-is-propaganda-lawsuit-alleges"
+            },
+            {
+              "label": "Tobacco Tactics — Philip Morris International",
+              "url": "https://www.tobaccotactics.org/article/philip-morris-international/"
+            }
+          ]
+        },
+        {
+          "title": "Recours juridiques contre les politiques antitabac (Uruguay et Australie)",
+          "year": 2016,
+          "period": "2010-2017",
+          "severity": "modéré",
+          "tags": [
+            "santé",
+            "lobbying"
+          ],
+          "summary": "PMI a engagé des procédures d'arbitrage international contre des États ayant adopté des mesures antitabac. Contre l'Uruguay (avertissements sanitaires et conditionnement), le tribunal du CIRDI a débouté PMI en juillet 2016 et l'a condamné à verser environ 7 millions de dollars à l'État au titre de ses frais. Contre l'Australie (loi sur le paquet neutre), le recours de Philip Morris Asia a été jugé irrecevable en 2015, le tribunal estimant qu'il s'agissait d'un abus de droit. Ces affaires sont citées comme exemples de contestation des régulations de santé publique.",
+          "sources": [
+            {
+              "label": "UNCTAD Investment Policy Hub — Philip Morris v. Uruguay (CIRDI)",
+              "url": "https://investmentpolicy.unctad.org/investment-dispute-settlement/cases/368/philip-morris-v-uruguay"
+            },
+            {
+              "label": "Philip Morris v. Uruguay — Wikipédia (EN)",
+              "url": "https://en.wikipedia.org/wiki/Philip_Morris_v._Uruguay"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "procter-et-gamble",
       "name": "Procter & Gamble",
       "legalName": "The Procter & Gamble Company (P&G)",
@@ -6139,6 +10254,648 @@ window.CAPITALISME_DATA = {
       ]
     },
     {
+      "id": "red-bull",
+      "name": "Red Bull",
+      "legalName": "Red Bull GmbH",
+      "country": "Autriche",
+      "founded": 1984,
+      "website": "https://www.redbull.com",
+      "revenue": "Chiffre d'affaires d'environ 11,2 milliards d'euros en 2024 (record ; environ 12,7 milliards de canettes vendues)",
+      "description": "Red Bull GmbH est un groupe autrichien de boissons, leader mondial de la boisson énergisante éponyme. Au-delà des boissons, il est très présent dans le sport (Formule 1, football) et les médias via Red Bull Media House.",
+      "brands": [
+        {
+          "name": "Red Bull",
+          "aliases": [
+            "RedBull",
+            "Red-Bull",
+            "Red Bul",
+            "Redbul"
+          ],
+          "category": "Boisson énergisante",
+          "note": "Produit phare, slogan « Red Bull donne des ailes »"
+        },
+        {
+          "name": "Red Bull Sugarfree",
+          "aliases": [
+            "Red Bull Sans Sucre",
+            "Sugar Free"
+          ],
+          "category": "Boisson énergisante",
+          "note": "Version sans sucre"
+        },
+        {
+          "name": "Red Bull Zero",
+          "aliases": [
+            "Red Bull Zéro"
+          ],
+          "category": "Boisson énergisante",
+          "note": "Version zéro sucre et zéro calorie"
+        },
+        {
+          "name": "Red Bull Editions",
+          "aliases": [
+            "Red Bull Summer Edition",
+            "Red Bull Winter Edition",
+            "Red Bull saveurs"
+          ],
+          "category": "Boisson énergisante",
+          "note": "Variantes aromatisées et saisonnières, avec ou sans sucre"
+        },
+        {
+          "name": "Organics by Red Bull",
+          "aliases": [
+            "Red Bull Organics",
+            "Organic by Red Bull"
+          ],
+          "category": "Soda",
+          "note": "Gamme de sodas bio (cola, tonic, ginger ale, bitter lemon), distincte de la boisson énergisante"
+        },
+        {
+          "name": "Red Bull Racing",
+          "aliases": [
+            "Oracle Red Bull Racing"
+          ],
+          "category": "Sport (Formule 1)",
+          "note": "Écurie de F1, rachat de Jaguar Racing en 2005"
+        },
+        {
+          "name": "Racing Bulls",
+          "aliases": [
+            "Toro Rosso",
+            "AlphaTauri",
+            "Visa Cash App RB"
+          ],
+          "category": "Sport (Formule 1)",
+          "note": "Deuxième écurie de F1 du groupe"
+        },
+        {
+          "name": "RB Leipzig",
+          "aliases": [
+            "RasenBallsport Leipzig"
+          ],
+          "category": "Club de football",
+          "note": "Club allemand fondé en 2009, contrôlé par Red Bull"
+        },
+        {
+          "name": "FC Red Bull Salzburg",
+          "aliases": [
+            "Red Bull Salzbourg",
+            "RB Salzburg"
+          ],
+          "category": "Club de football",
+          "note": "Club autrichien repris et rebaptisé en 2005"
+        },
+        {
+          "name": "New York Red Bulls",
+          "aliases": [
+            "NY Red Bulls"
+          ],
+          "category": "Club de football",
+          "note": "Club américain de MLS, repris des MetroStars en 2006"
+        },
+        {
+          "name": "Red Bull Bragantino",
+          "aliases": [
+            "RB Bragantino"
+          ],
+          "category": "Club de football",
+          "note": "Club brésilien rebaptisé en 2020"
+        },
+        {
+          "name": "Red Bull Media House",
+          "aliases": [
+            "Servus Media"
+          ],
+          "category": "Média",
+          "note": "Maison de médias et de production du groupe"
+        },
+        {
+          "name": "ServusTV",
+          "aliases": [
+            "Servus TV"
+          ],
+          "category": "Média",
+          "note": "Chaîne de télévision autrichienne"
+        }
+      ],
+      "scandals": [
+        {
+          "title": "Recours collectif « Red Bull gives you wings » (publicité mensongère)",
+          "year": 2014,
+          "severity": "modéré",
+          "tags": [
+            "publicité mensongère",
+            "santé",
+            "marketing"
+          ],
+          "summary": "Un recours collectif aux États-Unis reprochait à Red Bull des allégations marketing trompeuses (le slogan « Red Bull gives you wings » et les promesses d'amélioration des performances), les plaignants estimant que la boisson n'était pas plus efficace qu'un café. En 2014, Red Bull a accepté un règlement amiable doté d'un fonds pouvant atteindre 13 millions de dollars, permettant aux consommateurs américains de réclamer 10 dollars en espèces ou 15 dollars de produits. Red Bull a réglé le litige sans reconnaître de faute, affirmant que son marketing avait toujours été véridique.",
+          "sources": [
+            {
+              "label": "CBC News — Red Bull settles false advertising lawsuit for $13M",
+              "url": "https://www.cbc.ca/news/business/red-bull-settles-false-advertising-lawsuit-for-13m-1.2793536"
+            },
+            {
+              "label": "NBC News — Red Bull Drinkers Can Claim $10 Over 'Gives You Wings' Lawsuit",
+              "url": "https://www.nbcnews.com/business/consumer/red-bull-drinkers-can-claim-10-over-gives-you-wings-n221901"
+            }
+          ]
+        },
+        {
+          "title": "Affaire Vorayuth « Boss » Yoovidhya (délit de fuite mortel en Thaïlande)",
+          "year": 2012,
+          "period": "2012-2025",
+          "severity": "élevé",
+          "tags": [
+            "justice",
+            "gouvernance",
+            "famille fondatrice"
+          ],
+          "summary": "Vorayuth Yoovidhya, petit-fils du cofondateur de Red Bull Chaleo Yoovidhya, a percuté mortellement un policier à Bangkok en septembre 2012 avant de prendre la fuite. La procédure a été repoussée pendant des années ; en 2017, Vorayuth a quitté la Thaïlande et reste introuvable. En 2020, la révélation d'un classement sans suite a provoqué un scandale national ; en 2024-2025, la justice thaïlandaise a inculpé puis condamné plusieurs responsables pour avoir aidé l'intéressé à échapper aux poursuites. Il s'agit d'une affaire impliquant un membre de la famille fondatrice, et non une action du groupe Red Bull GmbH.",
+          "sources": [
+            {
+              "label": "Wikipedia — Death of Wichian Klanprasert",
+              "url": "https://en.wikipedia.org/wiki/Death_of_Wichian_Klanprasert"
+            },
+            {
+              "label": "BenarNews — Thai court charges ex-police chief, 7 others in Red Bull heir scandal (2024)",
+              "url": "https://www.benarnews.org/english/news/thai/red-bull-charges-08292024125242.html"
+            }
+          ]
+        },
+        {
+          "title": "Préoccupations sanitaires et restrictions de vente aux mineurs des boissons énergisantes",
+          "year": 2008,
+          "period": "depuis la fin des années 1990",
+          "severity": "modéré",
+          "tags": [
+            "santé",
+            "alcool",
+            "réglementation"
+          ],
+          "summary": "Les boissons énergisantes type Red Bull (caféine, taurine) font l'objet de préoccupations sanitaires, notamment pour les jeunes (effets cardiaques, troubles du sommeil). La France avait interdit Red Bull dès 1997 par précaution, interdiction levée en 2008 avec mise en place d'étiquetages d'avertissement. La Lituanie et la Lettonie interdisent la vente de boissons énergisantes riches en caféine aux moins de 18 ans, et un débat sur une restriction au niveau européen était relancé fin 2025. Ces mesures visent la catégorie des boissons énergisantes en général.",
+          "sources": [
+            {
+              "label": "France 24 — Twelve-year ban lifted on Original Red Bull (2008)",
+              "url": "https://www.france24.com/en/20080715-twelve-year-ban-lifted-original-red-bull-beverages"
+            },
+            {
+              "label": "Wikipedia — Age restrictions on energy drinks by country",
+              "url": "https://en.wikipedia.org/wiki/Age_restrictions_on_energy_drinks_by_country"
+            }
+          ]
+        },
+        {
+          "title": "Controverse RB Leipzig et règle allemande du « 50+1 »",
+          "year": 2009,
+          "period": "depuis 2009",
+          "severity": "modéré",
+          "tags": [
+            "gouvernance",
+            "football",
+            "multipropriété"
+          ],
+          "summary": "RB Leipzig, fondé par Red Bull en 2009, est accusé d'avoir contourné la règle allemande dite du « 50+1 » (qui garantit aux supporters la majorité des droits de vote) en limitant fortement le nombre de membres votants et en rendant l'adhésion coûteuse, laissant le contrôle de fait à Red Bull. Le club a suscité des protestations de supporters d'autres clubs allemands. La multipropriété de Red Bull (Leipzig et Salzbourg notamment) a aussi soulevé des questions de conformité aux règles de l'UEFA.",
+          "sources": [
+            {
+              "label": "Wikipedia — RB Leipzig",
+              "url": "https://en.wikipedia.org/wiki/RB_Leipzig"
+            },
+            {
+              "label": "ESPN — The issues with multi-club ownership",
+              "url": "https://www.espn.com/soccer/story/_/id/38008353/the-issues-multi-club-ownership-city-football-group-red-bull"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "restaurant-brands-burger-king",
+      "name": "Restaurant Brands (Burger King)",
+      "legalName": "Restaurant Brands International Inc. (RBI)",
+      "country": "Canada",
+      "founded": 2014,
+      "website": "https://www.rbi.com",
+      "revenue": "Environ 8,40 milliards de dollars US en 2024 (contre 7,02 milliards en 2023)",
+      "description": "Restaurant Brands International est l'un des plus grands groupes mondiaux de restauration rapide, né en décembre 2014 de la fusion de Burger King et Tim Hortons. Son siège est à Toronto (Canada) et la société est majoritairement contrôlée par le fonds d'investissement brésilien 3G Capital, qui détenait environ 30,8 % du capital fin 2024.",
+      "brands": [
+        {
+          "name": "Burger King",
+          "aliases": [
+            "BK",
+            "Burger-King",
+            "Burguer King"
+          ],
+          "category": "Restauration rapide",
+          "note": "Chaîne de hamburgers fondée en 1954, intégrée à RBI lors de la fusion de 2014."
+        },
+        {
+          "name": "Whopper",
+          "aliases": [
+            "Wopper",
+            "Le Whopper"
+          ],
+          "category": "Restauration rapide",
+          "note": "Hamburger emblématique de Burger King."
+        },
+        {
+          "name": "Tim Hortons",
+          "aliases": [
+            "Tim Horton's",
+            "Tim's",
+            "Timmies"
+          ],
+          "category": "Café",
+          "note": "Chaîne canadienne de cafés et beignes, co-fondatrice de RBI en 2014."
+        },
+        {
+          "name": "Timbits",
+          "aliases": [
+            "Tim Bits"
+          ],
+          "category": "Café",
+          "note": "Beignets en bouchées, produit signature de Tim Hortons."
+        },
+        {
+          "name": "Roll Up the Rim",
+          "aliases": [
+            "Roll Up the Rim to Win",
+            "Déroule le rebord pour gagner"
+          ],
+          "category": "Café",
+          "note": "Campagne promotionnelle historique de Tim Hortons lancée en 1986."
+        },
+        {
+          "name": "Popeyes",
+          "aliases": [
+            "Popeyes Louisiana Kitchen",
+            "Popeye's",
+            "Popeyes Chicken"
+          ],
+          "category": "Poulet frit",
+          "note": "Chaîne de poulet frit d'inspiration cajun, acquise par RBI en 2017."
+        },
+        {
+          "name": "Popeyes Chicken Sandwich",
+          "aliases": [
+            "Sandwich au poulet Popeyes"
+          ],
+          "category": "Poulet frit",
+          "note": "Sandwich devenu produit phare de Popeyes depuis 2019."
+        },
+        {
+          "name": "Firehouse Subs",
+          "aliases": [
+            "Firehouse",
+            "Fire House Subs"
+          ],
+          "category": "Restauration rapide",
+          "note": "Chaîne de sandwichs sous-marins, acquise par RBI en décembre 2021."
+        },
+        {
+          "name": "Carrols Restaurant Group",
+          "aliases": [
+            "Carrols"
+          ],
+          "category": "Restauration rapide",
+          "note": "Plus grand franchisé Burger King aux États-Unis, racheté par RBI en 2024 pour environ 1 milliard de dollars."
+        },
+        {
+          "name": "Burger King China",
+          "aliases": [
+            "BK China"
+          ],
+          "category": "Restauration rapide",
+          "note": "RBI a racheté début 2025 les participations de ses partenaires (~158 M$), devenant propriétaire de la quasi-totalité de l'activité."
+        },
+        {
+          "name": "Popeyes China",
+          "aliases": [
+            "Popeyes Chine"
+          ],
+          "category": "Poulet frit",
+          "note": "Activité reprise en propre par RBI en juin 2024."
+        },
+        {
+          "name": "Tim Hortons China",
+          "aliases": [
+            "Tims China",
+            "Tims Chine"
+          ],
+          "category": "Café",
+          "note": "Déploiement de Tim Hortons en Chine via une coentreprise."
+        }
+      ],
+      "scandals": [
+        {
+          "title": "Inversion fiscale lors de la fusion Burger King / Tim Hortons (2014)",
+          "year": 2014,
+          "period": "2014-2018",
+          "severity": "modéré",
+          "tags": [
+            "fiscalité"
+          ],
+          "summary": "En 2014, Burger King a fusionné avec la chaîne canadienne Tim Hortons dans une opération d'environ 11 à 12,5 milliards de dollars, créant Restaurant Brands International dont le siège a été établi au Canada. L'opération a été critiquée comme une « inversion fiscale » visant à réduire la charge fiscale américaine. Le groupe d'intérêt américain Americans for Tax Fairness a estimé que Burger King pourrait éviter jusqu'à 117 millions de dollars d'impôts américains sur des bénéfices à l'étranger et jusqu'à 275 millions supplémentaires entre 2015 et 2018. Les dirigeants ont nié que la fiscalité soit la motivation principale de la fusion.",
+          "sources": [
+            {
+              "label": "CBC News - Tim Hortons takeover will let Burger King skirt taxes, U.S. activist group says",
+              "url": "https://www.cbc.ca/news/business/burger-king-tim-hortons-deal-skirts-taxes-u-s-group-says-1.2871070"
+            },
+            {
+              "label": "NPR - BK's Big Deal Could Bring The King To Canada, Controversy Close Behind",
+              "url": "https://www.npr.org/2014/08/26/343484334/bks-big-deal-could-bring-the-king-to-canada-controversy-close-behind"
+            }
+          ]
+        },
+        {
+          "title": "Application Tim Hortons : collecte excessive de données de géolocalisation (Canada, 2022)",
+          "year": 2022,
+          "severity": "élevé",
+          "tags": [
+            "santé"
+          ],
+          "summary": "Le 1er juin 2022, le Commissariat à la protection de la vie privée du Canada et trois autorités provinciales (Québec, Colombie-Britannique, Alberta) ont conclu que l'application mobile Tim Hortons avait suivi et enregistré les déplacements des utilisateurs en continu, même application fermée, en violation des lois canadiennes sur la vie privée. L'application déduisait les lieux de domicile et de travail et générait des « événements » lors des passages près de concurrents ou de lieux fréquentés. L'enquête a relevé que la collecte s'est poursuivie pendant un an après l'abandon du projet publicitaire initial. Tim Hortons a indiqué avoir supprimé les données concernées et cessé cette pratique.",
+          "sources": [
+            {
+              "label": "Commissariat à la protection de la vie privée du Canada - Communiqué (1er juin 2022)",
+              "url": "https://www.priv.gc.ca/fr/nouvelles-du-commissariat/nouvelles-et-annonces/2022/nr-c_220601/"
+            },
+            {
+              "label": "CBC News - Tim Hortons app tracked too much personal information",
+              "url": "https://www.cbc.ca/news/business/tim-hortons-app-report-1.6473584"
+            }
+          ]
+        },
+        {
+          "title": "Clauses de non-débauchage (« no-poach ») entre franchises (2018-2020)",
+          "year": 2018,
+          "period": "2018-2020",
+          "severity": "modéré",
+          "tags": [
+            "conditions de travail"
+          ],
+          "summary": "À partir de 2018, plusieurs procureurs généraux américains ont enquêté sur des clauses dites « no-poach » empêchant les franchisés de Burger King, Popeyes et Tim Hortons (toutes marques de RBI) d'embaucher les salariés d'autres restaurants de la même enseigne, ce qui limitait la mobilité et les salaires des travailleurs. En mars 2020, ces trois enseignes ont accepté de cesser d'inclure et d'appliquer ces clauses et de modifier les contrats de franchise existants pour les en retirer.",
+          "sources": [
+            {
+              "label": "New Jersey Office of the Attorney General - Communiqué sur l'abandon des clauses no-poach",
+              "url": "https://www.njoag.gov/attorney-general-grewal-three-more-major-fast-food-companies-agree-to-stop-using-no-poach-agreements-that-restrict-worker-mobility-burger-king-popeyes-and-tim-hortons-are-latest-to-drop-provisi/"
+            },
+            {
+              "label": "Bloomberg Law - Burger King, Popeyes, Tim Hortons to End 'No Poach' Provisions",
+              "url": "https://news.bloomberglaw.com/daily-labor-report/burger-king-popeyes-tim-hortons-to-end-no-poach-provisions"
+            }
+          ]
+        },
+        {
+          "title": "Action collective sur la taille du Whopper dans la publicité (États-Unis, 2022-2025)",
+          "year": 2022,
+          "period": "2022-2025",
+          "severity": "faible",
+          "tags": [
+            "publicité mensongère"
+          ],
+          "summary": "En mars 2022, une action collective réunissant des plaignants de plusieurs États a été déposée en Floride, accusant Burger King de représenter le Whopper comme nettement plus gros dans sa publicité (environ 35 % plus volumineux) que le produit réellement servi. En 2024, le juge fédéral Roy Altman a refusé de rejeter l'affaire, estimant plausible qu'un consommateur raisonnable puisse être trompé par les publicités en magasin, tout en écartant les griefs visant les publicités télévisées et en ligne. Burger King soutient que les galettes de bœuf montrées dans ses publicités sont les mêmes que celles servies aux clients.",
+          "sources": [
+            {
+              "label": "NBC News - Judge allows lawsuit over Burger King's Whopper ads to move forward",
+              "url": "https://www.nbcnews.com/business/business-news/judge-allows-lawsuit-burger-kings-whopper-ads-move-forward-rcna205304"
+            },
+            {
+              "label": "Entrepreneur - Burger King Is Being Sued Over Whopper Size",
+              "url": "https://www.entrepreneur.com/business-news/burger-king-sued-over-deceptive-whopper-size-advertising/458253"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sanofi-opella",
+      "name": "Sanofi (Opella)",
+      "legalName": "Sanofi S.A.",
+      "groupNote": "La santé grand public de Sanofi (Doliprane…) est regroupée sous Opella, dont Sanofi a cédé le contrôle majoritaire au fonds CD&R (2024-2025).",
+      "country": "France",
+      "founded": 1973,
+      "website": "https://www.sanofi.com",
+      "revenue": "Chiffre d'affaires net d'environ 41,1 milliards d'euros en 2024.",
+      "description": "Sanofi est un groupe pharmaceutique français de dimension mondiale, dont le siège est à Paris, actif dans les médicaments (immunologie, vaccins, oncologie, maladies rares) et historiquement dans la santé grand public. Fondé en 1973, il est aujourd'hui l'un des premiers laboratoires mondiaux.",
+      "brands": [
+        {
+          "name": "Doliprane",
+          "aliases": [
+            "Dolipranetabs",
+            "Doliprane Tabs",
+            "Doliprane Codéine",
+            "Dolliprane"
+          ],
+          "category": "Antalgique / antipyrétique (paracétamol)",
+          "note": "Marque-phare d'Opella et médicament le plus vendu en France. La santé grand public de Sanofi a été regroupée sous Opella, dont Sanofi a cédé le contrôle au fonds américain CD&R (Clayton, Dubilier & Rice) : opération clôturée le 30 avril 2025, CD&R détenant 50 %, Sanofi conservant 48,2 % et Bpifrance 1,8 %."
+        },
+        {
+          "name": "Aspegic",
+          "aliases": [
+            "Aspégic",
+            "Aspirine Sanofi"
+          ],
+          "category": "Antalgique / antipyrétique (acide acétylsalicylique)",
+          "note": "Marque Opella, désormais sous contrôle de CD&R (voir Doliprane)."
+        },
+        {
+          "name": "Maalox",
+          "aliases": [
+            "Malox",
+            "Maalox Maux d'estomac"
+          ],
+          "category": "Antiacide / troubles gastriques",
+          "note": "Marque Opella."
+        },
+        {
+          "name": "Magné B6",
+          "aliases": [
+            "Magne B6",
+            "Magnévie B6",
+            "Magnesium B6",
+            "Magné-B6"
+          ],
+          "category": "Complément (magnésium / vitamine B6)",
+          "note": "Marque Opella."
+        },
+        {
+          "name": "Allegra",
+          "aliases": [
+            "Allégra",
+            "Telfast",
+            "fexofénadine"
+          ],
+          "category": "Antihistaminique / antiallergique",
+          "note": "Marque Opella."
+        },
+        {
+          "name": "Lysopaïne",
+          "aliases": [
+            "Lysopaine",
+            "Lyso païne"
+          ],
+          "category": "Maux de gorge (pastilles / collutoire)",
+          "note": "Marque Opella."
+        },
+        {
+          "name": "Mucosolvan",
+          "aliases": [
+            "ambroxol",
+            "Bisolvon"
+          ],
+          "category": "Toux / expectorant (ambroxol)",
+          "note": "Marque Opella."
+        },
+        {
+          "name": "Buscopan",
+          "aliases": [
+            "Buscapine",
+            "No-Spa",
+            "No Spa"
+          ],
+          "category": "Antispasmodique / douleurs digestives",
+          "note": "Marque Opella."
+        },
+        {
+          "name": "Dulcolax",
+          "aliases": [
+            "Dulco-Lax"
+          ],
+          "category": "Laxatif / transit",
+          "note": "Marque Opella."
+        },
+        {
+          "name": "Enterogermina",
+          "aliases": [
+            "Entérogermina"
+          ],
+          "category": "Probiotique / troubles digestifs",
+          "note": "Marque Opella."
+        },
+        {
+          "name": "Pharmaton",
+          "aliases": [
+            "Pharmaton Vitalité"
+          ],
+          "category": "Compléments alimentaires (vitamines et minéraux)",
+          "note": "Marque Opella."
+        },
+        {
+          "name": "Novanuit",
+          "aliases": [
+            "Nova Nuit"
+          ],
+          "category": "Complément (sommeil)",
+          "note": "Marque Opella."
+        }
+      ],
+      "scandals": [
+        {
+          "title": "Affaire de la Dépakine (valproate de sodium)",
+          "period": "Années 2000 à aujourd'hui (révélations publiques à partir de 2015-2016)",
+          "severity": "élevé",
+          "tags": [
+            "santé",
+            "publicité mensongère",
+            "droits humains"
+          ],
+          "summary": "La Dépakine (valproate de sodium), antiépileptique commercialisé par Sanofi depuis 1967, est mise en cause pour des malformations congénitales et des troubles neurodéveloppementaux chez des enfants exposés in utero. En janvier 2022, le tribunal judiciaire de Paris a reconnu Sanofi responsable d'un manque de vigilance et d'un défaut d'information dans le cadre de la première action de groupe en santé en France. Le 9 septembre 2024, le même tribunal a condamné Sanofi à verser près de 285 000 euros à Marine Martin (présidente de l'Apesac) et ses deux enfants, jugeant le laboratoire responsable d'un défaut d'information et du maintien en circulation d'un produit défectueux. Un dispositif public d'indemnisation des victimes a par ailleurs été mis en place par l'État via l'Oniam.",
+          "sources": [
+            {
+              "label": "Affaire de la Dépakine — Wikipédia",
+              "url": "https://fr.wikipedia.org/wiki/Affaire_de_la_D%C3%A9pakine"
+            },
+            {
+              "label": "Franceinfo — Sanofi condamné dans l'affaire Dépakine (sept. 2024)",
+              "url": "https://www.franceinfo.fr/sante/grossesse/depakine/sanofi-condamne-dans-l-affaire-depakine-pourquoi-ce-jugement-est-particulierement-important-notamment-pour-les-victimes_6775228.html"
+            }
+          ]
+        },
+        {
+          "title": "Mise en examen pour les rejets toxiques de l'usine de Mourenx",
+          "year": 2024,
+          "period": "Faits dénoncés entre 2012 et 2018, mise en examen fin novembre 2024",
+          "severity": "modéré",
+          "tags": [
+            "environnement",
+            "santé"
+          ],
+          "summary": "L'usine Sanofi de Mourenx (Pyrénées-Atlantiques), qui produit le principe actif de la Dépakine, a été accusée par France Nature Environnement de rejets atmosphériques excessifs (bromopropane et valproate de sodium) entre 2012 et 2018. Fin novembre 2024, Sanofi a été mis en examen pour délit d'obstacle à un contrôle administratif environnemental et pour deux infractions contraventionnelles (exploitation irrégulière d'une installation et non-déclaration d'incident industriel). Le groupe conteste les infractions reprochées.",
+          "sources": [
+            {
+              "label": "Vert.eco — Sanofi mis en examen pour les rejets toxiques de Mourenx",
+              "url": "https://vert.eco/rapports-de-force/sanofi-mis-en-examen-pour-des-rejets-toxiques-de-son-usine-de-mourenx-lentreprise-conteste-les-infractions/"
+            },
+            {
+              "label": "Apesac — Sanofi mis en examen dans l'enquête sur les rejets toxiques de Mourenx",
+              "url": "https://apesac.org/presse/dans-la-presse-2025/sanofi-qui-produit-la-depakine-mis-en-examen-dans-lenquete-portant-sur-des-rejets-toxiques-de-son-usine-de-mourenx/"
+            }
+          ]
+        },
+        {
+          "title": "Cession d'Opella (Doliprane) à un fonds américain et débat sur la souveraineté sanitaire",
+          "year": 2024,
+          "period": "Annonce en octobre 2024, clôture le 30 avril 2025",
+          "severity": "modéré",
+          "tags": [
+            "santé",
+            "lobbying"
+          ],
+          "summary": "En octobre 2024, Sanofi a annoncé la cession du contrôle d'Opella, sa filiale de santé grand public commercialisant notamment le Doliprane, au fonds d'investissement américain CD&R. L'opération, qui a rapporté environ 10 milliards d'euros nets à Sanofi, a suscité une vive polémique en France sur la souveraineté sanitaire et l'emploi. Un accord avec l'État a prévu l'entrée de Bpifrance au capital (1,8 %), le maintien des sites de Lisieux et Compiègne et des pénalités en cas de suppression d'emplois ou de baisse de production en France. La transaction a été clôturée le 30 avril 2025 (CD&R 50 %, Sanofi 48,2 %, Bpifrance 1,8 %).",
+          "sources": [
+            {
+              "label": "Ministère de l'Économie — Garanties sur le maintien et le développement d'Opella en France",
+              "url": "https://presse.economie.gouv.fr/letat-obtient-les-garanties-du-maintien-et-du-developpement-dopella-en-france/"
+            },
+            {
+              "label": "The Conversation — Doliprane : l'État pouvait-il empêcher la vente ?",
+              "url": "https://theconversation.com/doliprane-letat-pouvait-il-empecher-la-vente-242865"
+            }
+          ]
+        },
+        {
+          "title": "Litiges Zantac (ranitidine) et risque de NDMA",
+          "period": "À partir de 2019 ; transactions de règlement aux États-Unis annoncées en 2024",
+          "severity": "modéré",
+          "tags": [
+            "santé",
+            "publicité mensongère"
+          ],
+          "summary": "À partir de septembre 2019, des analyses ont révélé la présence de NDMA, substance classée cancérogène probable, dans des médicaments à base de ranitidine vendus notamment sous la marque Zantac, dont Sanofi commercialisait une version grand public. Sanofi a procédé à un rappel volontaire aux États-Unis et au Canada en octobre 2019, avant le retrait du marché américain de la ranitidine décidé par la FDA en avril 2020. Plusieurs fabricants (dont Sanofi, GSK et Pfizer) ont fait l'objet de milliers de plaintes ; un tribunal fédéral a écarté en décembre 2022 le lien scientifique allégué, et Sanofi a annoncé en 2024 des accords transactionnels couvrant la majorité des procès devant les tribunaux d'État. Sanofi a toujours contesté tout risque avéré pour les patients.",
+          "sources": [
+            {
+              "label": "Drugwatch — Zantac Lawsuits: Status, Eligibility & Settlements",
+              "url": "https://www.drugwatch.com/zantac/lawsuits/"
+            },
+            {
+              "label": "Sanofi — Communiqué : Sanofi prevails in Zantac arbitration (2023)",
+              "url": "https://www.sanofi.com/en/media-room/press-releases/2023/2023-06-20-05-30-00-2690713"
+            }
+          ]
+        },
+        {
+          "title": "Pénuries de médicaments et dépendance d'approvisionnement pour le paracétamol",
+          "period": "Récurrent dans les années 2010-2020, débat ravivé en 2024",
+          "severity": "modéré",
+          "tags": [
+            "santé",
+            "environnement"
+          ],
+          "summary": "La France a connu des tensions et pénuries récurrentes sur des médicaments courants, dont le paracétamol (Doliprane), en particulier lors de l'hiver 2022-2023. Aucune usine française ne produit plus la poudre de paracétamol depuis 2008, les fabricants comme Sanofi s'approvisionnant en Chine, en Inde et aux États-Unis, ce qui a alimenté le débat sur la dépendance et la souveraineté sanitaire. Cette fragilité a été au cœur des critiques lors de la cession d'Opella en 2024, l'accord avec l'État incluant un soutien au projet de relocalisation de la production de paracétamol porté par Seqens.",
+          "sources": [
+            {
+              "label": "L'Usine Nouvelle — Comment le principe actif du Doliprane s'est retrouvé délocalisé",
+              "url": "https://www.usinenouvelle.com/article/comment-le-principe-actif-de-doliprane-efferalgan-et-dafalgan-s-est-retrouve-delocalise-en-chine-et-aux-etats-unis.N976711"
+            },
+            {
+              "label": "Ministère de l'Économie — Garanties sur Opella (relocalisation du paracétamol)",
+              "url": "https://presse.economie.gouv.fr/letat-obtient-les-garanties-du-maintien-et-du-developpement-dopella-en-france/"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "savencia",
       "name": "Savencia",
       "legalName": "Savencia Fromage & Dairy (anciennement Bongrain / Soparind Bongrain)",
@@ -6395,6 +11152,178 @@ window.CAPITALISME_DATA = {
       ]
     },
     {
+      "id": "shell",
+      "name": "Shell",
+      "legalName": "Shell plc",
+      "country": "Royaume-Uni (Londres)",
+      "founded": 1907,
+      "website": "https://www.shell.com",
+      "revenue": "Environ 284 milliards de dollars de chiffre d'affaires en 2024, avec un bénéfice net d'environ 16 milliards de dollars.",
+      "description": "Shell est l'une des principales compagnies pétrolières et gazières mondiales (« major »), active dans l'exploration, la production, le raffinage, la distribution de carburants et de lubrifiants ainsi que dans l'énergie. Née en 1907 de la fusion de la néerlandaise Royal Dutch Petroleum et de la britannique Shell Transport and Trading, l'entreprise a abandonné « Royal Dutch » : le changement de nom de Royal Dutch Shell plc en Shell plc a été enregistré le 21 janvier 2022, et le siège a été transféré de La Haye (Pays-Bas) à Londres (Royaume-Uni).",
+      "brands": [
+        {
+          "name": "Shell",
+          "aliases": [
+            "stations-service Shell",
+            "Shell Recharge"
+          ],
+          "category": "Stations-service / distribution de carburants",
+          "note": "En France, Shell a cédé l'essentiel de son réseau de stations-service ; en 2025 l'entreprise a annoncé chercher un repreneur pour sa soixantaine de stations autoroutières françaises. La marque reste présente en France via les carburants et les lubrifiants."
+        },
+        {
+          "name": "Shell V-Power",
+          "aliases": [
+            "V-Power",
+            "VPower",
+            "Shell V Power"
+          ],
+          "category": "Carburant premium",
+          "note": "Carburant haut de gamme (essence et diesel) commercialisé en France et en Europe."
+        },
+        {
+          "name": "Shell FuelSave",
+          "aliases": [
+            "FuelSave",
+            "Fuel Save"
+          ],
+          "category": "Carburant standard",
+          "note": "Gamme de carburants standards de Shell."
+        },
+        {
+          "name": "Shell Helix",
+          "aliases": [
+            "Helix",
+            "Shell Helix Ultra"
+          ],
+          "category": "Lubrifiants / huiles moteur",
+          "note": "Principale gamme d'huiles moteur grand public de Shell hors États-Unis, vendue en France."
+        },
+        {
+          "name": "Pennzoil",
+          "aliases": [
+            "Pennzoil Quaker State"
+          ],
+          "category": "Lubrifiants / huiles moteur",
+          "note": "Marque d'huiles moteur détenue par Shell (rachat de Pennzoil-Quaker State en 2002), principalement présente aux États-Unis."
+        },
+        {
+          "name": "Quaker State",
+          "aliases": [
+            "QuakerState"
+          ],
+          "category": "Lubrifiants / huiles moteur",
+          "note": "Marque d'huiles moteur détenue par Shell, surtout commercialisée aux États-Unis."
+        }
+      ],
+      "scandals": [
+        {
+          "title": "Pollutions pétrolières dans le delta du Niger (Nigeria) et condamnation par la justice néerlandaise",
+          "year": 2021,
+          "period": "Années 1990-2023",
+          "severity": "élevé",
+          "tags": [
+            "environnement",
+            "droits humains"
+          ],
+          "summary": "Le delta du Niger a subi de nombreuses marées noires liées aux installations de la filiale nigériane de Shell. En janvier 2021, la cour d'appel de La Haye a jugé la filiale nigériane de Shell responsable de fuites de pipelines et a estimé que la maison mère avait manqué à son devoir de vigilance. Un accord conclu fin 2022 a prévu le versement de 15 millions d'euros aux communautés d'Oruma, Goi et Ikot Ada Udo, payés en janvier 2023. Auparavant, Shell avait accepté en 2015 un règlement d'environ 55 millions de livres pour la communauté de Bodo.",
+          "sources": [
+            {
+              "label": "Business & Human Rights Resource Centre — verdict de la cour d'appel néerlandaise (2021)",
+              "url": "https://www.business-humanrights.org/en/latest-news/nigeria-in-landmark-verdict-dutch-court-rules-shell-nigeria-responsible-for-niger-delta-oil-spills-royal-dutch-shell-violated-its-duty-of-care/"
+            },
+            {
+              "label": "CNBC — Dutch court rules Shell Nigeria responsible for oil leaks (2021)",
+              "url": "https://www.cnbc.com/2021/01/29/dutch-appeals-court-rules-shells-nigeria-unit-is-responsible-for-oil-leaks.html"
+            }
+          ]
+        },
+        {
+          "title": "Affaire Ken Saro-Wiwa et exécution de militants ogoni",
+          "year": 2009,
+          "period": "1995-2009",
+          "severity": "élevé",
+          "tags": [
+            "droits humains"
+          ],
+          "summary": "L'écrivain et militant Ken Saro-Wiwa, opposant à l'exploitation pétrolière en pays ogoni, et huit autres activistes ont été exécutés au Nigeria le 10 novembre 1995. Des plaignants ont accusé Shell de complicité avec les autorités nigérianes de l'époque. En juin 2009, Shell a accepté un règlement à l'amiable de 15,5 millions de dollars (affaire Wiwa v. Royal Dutch Shell, tribunal fédéral de New York), tout en niant toute responsabilité dans ces faits.",
+          "sources": [
+            {
+              "label": "Center for Constitutional Rights — Wiwa v. Royal Dutch Petroleum",
+              "url": "https://ccrjustice.org/home/what-we-do/our-cases/wiwa-et-al-v-royal-dutch-petroleum-et-al"
+            },
+            {
+              "label": "ASIL — Wiwa v. Shell: The $15.5 Million Settlement",
+              "url": "https://www.asil.org/insights/volume/13/issue/14/wiwa-v-shell-155-million-settlement"
+            }
+          ]
+        },
+        {
+          "title": "Procès climatique aux Pays-Bas (Milieudefensie / Les Amis de la Terre)",
+          "year": 2024,
+          "period": "2021-2024",
+          "severity": "élevé",
+          "tags": [
+            "climat",
+            "environnement"
+          ],
+          "summary": "En mai 2021, le tribunal de district de La Haye avait ordonné à Shell de réduire ses émissions nettes de CO2 de 45 % d'ici 2030 par rapport à 2019, dans une affaire intentée par l'ONG Milieudefensie (Les Amis de la Terre Pays-Bas). En appel, la cour de La Haye a infirmé cette décision le 12 novembre 2024, estimant qu'aucun pourcentage de réduction précis ne pouvait être imposé à Shell, tout en reconnaissant que l'entreprise a un devoir de vigilance pour contribuer à la lutte contre le changement climatique.",
+          "sources": [
+            {
+              "label": "Library of Congress — Appeals Court Overturns Landmark Climate Decision (2024)",
+              "url": "https://www.loc.gov/item/global-legal-monitor/2024-12-09/netherlands-appeals-court-overturns-landmark-climate-change-decision-that-ordered-royal-dutch-shell-to-reduce-co2-emissions/"
+            },
+            {
+              "label": "Climate Litigation Database (Sabin Center) — Milieudefensie et al. v. Royal Dutch Shell",
+              "url": "https://climatecasechart.com/non-us-case/milieudefensie-et-al-v-royal-dutch-shell-plc/"
+            }
+          ]
+        },
+        {
+          "title": "Publicités jugées trompeuses (accusations de greenwashing)",
+          "year": 2023,
+          "period": "2023-2024",
+          "severity": "modéré",
+          "tags": [
+            "publicité mensongère",
+            "climat",
+            "désinformation"
+          ],
+          "summary": "En 2023, l'autorité britannique de régulation de la publicité (Advertising Standards Authority, ASA) a interdit des publicités de Shell sur les énergies « plus propres », estimant qu'elles donnaient l'impression trompeuse qu'une part importante de l'activité de Shell portait sur des énergies bas-carbone sans préciser leur poids réel dans son modèle économique. L'ASA a reçu de nouvelles plaintes concernant des publicités de Shell en 2024.",
+          "sources": [
+            {
+              "label": "ASA — Ruling on Shell UK Ltd",
+              "url": "https://www.asa.org.uk/rulings/shell-uk-ltd-g24-1248246-shell-uk-ltd.html"
+            },
+            {
+              "label": "Freeths — Shell's green ads banned by ASA (2023)",
+              "url": "https://www.freeths.co.uk/insights-events/legal-articles/2023/shell-s-green-ads-banned-by-asa/"
+            }
+          ]
+        },
+        {
+          "title": "Affaire de corruption présumée OPL 245 au Nigeria (avec Eni)",
+          "year": 2021,
+          "period": "2011-2021",
+          "severity": "modéré",
+          "tags": [
+            "droits humains",
+            "lobbying"
+          ],
+          "summary": "L'affaire porte sur l'acquisition en 2011 par Shell et l'italien Eni du permis pétrolier offshore OPL 245 pour environ 1,3 milliard de dollars ; les procureurs soupçonnaient qu'une large part de cette somme ait été détournée vers des intermédiaires et des responsables nigérians. Le 17 mars 2021, un tribunal de Milan a acquitté l'ensemble des prévenus, dont Shell, Eni et leurs dirigeants, faute de preuve d'un accord de corruption ; ces acquittements sont devenus définitifs.",
+          "sources": [
+            {
+              "label": "CNBC — Italy court acquits Eni and Shell in Nigerian corruption case (2021)",
+              "url": "https://www.cnbc.com/2021/03/17/italy-court-acquits-eni-and-shell-in-nigerian-corruption-case.html"
+            },
+            {
+              "label": "OPL 245 bribery affair — Wikipédia (EN)",
+              "url": "https://en.wikipedia.org/wiki/OPL_245_bribery_affair"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "suntory-orangina-schweppes",
       "name": "Suntory (Orangina Schweppes)",
       "legalName": "Suntory (Orangina Schweppes / Suntory Beverage & Food France)",
@@ -6586,6 +11515,207 @@ window.CAPITALISME_DATA = {
             {
               "label": "France 24",
               "url": "https://www.france24.com/fr/20190910-etude-sodas-danger-light-sucres-maladie-circ-sante"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "totalenergies",
+      "name": "TotalEnergies",
+      "legalName": "TotalEnergies SE",
+      "country": "France (Courbevoie, La Défense)",
+      "founded": 1924,
+      "website": "https://totalenergies.com",
+      "revenue": "Chiffre d'affaires consolidé d'environ 195 milliards de dollars en 2024, pour un résultat net d'environ 15,8 milliards de dollars.",
+      "description": "TotalEnergies est une compagnie multi-énergies française, l'une des principales majors pétrolières et gazières mondiales. Fondée en 1924 sous le nom de Compagnie française des pétroles, devenue Total, puis renommée TotalEnergies en 2021, elle est présente dans les hydrocarbures, l'électricité et les énergies renouvelables.",
+      "brands": [
+        {
+          "name": "TotalEnergies",
+          "aliases": [
+            "Total Energies",
+            "Total Énergies",
+            "totalenergies"
+          ],
+          "category": "Stations-service et distribution de carburants",
+          "note": "Marque principale du groupe et enseigne des stations-service depuis le changement de nom en 2021."
+        },
+        {
+          "name": "Total",
+          "aliases": [
+            "Total Lubrifiants"
+          ],
+          "category": "Lubrifiants et ancienne marque historique",
+          "note": "Ancien nom de l'entreprise (jusqu'en 2021), toujours utilisé sur certaines gammes de produits."
+        },
+        {
+          "name": "Elf",
+          "aliases": [
+            "ELF",
+            "Elf lubrifiants"
+          ],
+          "category": "Lubrifiants et carburants",
+          "note": "Marque historique française (créée en 1967, fusionnée avec Total en 2000), aujourd'hui surtout utilisée pour des lubrifiants automobiles."
+        },
+        {
+          "name": "AS24",
+          "aliases": [
+            "AS 24",
+            "as24"
+          ],
+          "category": "Stations-service pour poids lourds (professionnels)",
+          "note": "Filiale du groupe dédiée au ravitaillement des transporteurs et professionnels de la route en Europe."
+        },
+        {
+          "name": "TotalEnergies Électricité et Gaz France",
+          "aliases": [
+            "Total Direct Énergie",
+            "Direct Énergie",
+            "fournisseur TotalEnergies"
+          ],
+          "category": "Fourniture d'électricité et de gaz aux particuliers",
+          "note": "Anciennement Total Direct Énergie (renommée en 2021) ; principal fournisseur alternatif d'électricité et de gaz en France."
+        },
+        {
+          "name": "Quartz",
+          "aliases": [
+            "Total Quartz",
+            "Quartz Ineo"
+          ],
+          "category": "Lubrifiants / huiles moteur",
+          "note": "Gamme grand public d'huiles moteur commercialisée par TotalEnergies."
+        },
+        {
+          "name": "Saft",
+          "aliases": [
+            "SAFT",
+            "Saft Groupe"
+          ],
+          "category": "Batteries (industrie et stockage d'énergie)",
+          "note": "Fabricant de batteries acquis par Total en 2016 ; activité majoritairement industrielle plutôt que grand public."
+        }
+      ],
+      "scandals": [
+        {
+          "title": "Projets pétroliers EACOP et Tilenga en Ouganda et Tanzanie",
+          "year": 2023,
+          "period": "depuis 2019 (projets) ; actions en justice en France engagées en 2019 puis en 2023",
+          "severity": "élevé",
+          "tags": [
+            "droits humains",
+            "environnement",
+            "climat"
+          ],
+          "summary": "TotalEnergies développe en Ouganda le projet pétrolier Tilenga et l'oléoduc chauffé EACOP (East African Crude Oil Pipeline, environ 1 443 km vers la Tanzanie), dont le groupe est l'actionnaire majoritaire. Des ONG (dont Les Amis de la Terre France et Survie) et des communautés locales dénoncent des déplacements de populations, des indemnisations jugées insuffisantes et des risques environnementaux, et ont engagé des actions en justice en France sur le fondement de la loi sur le devoir de vigilance. En juin 2023, 26 membres de communautés et cinq organisations ont déposé une action en réparation contre TotalEnergies. Le groupe affirme respecter des standards stricts et avoir mis en place des plans de compensation.",
+          "sources": [
+            {
+              "label": "Business & Human Rights Resource Centre — TotalEnergies lawsuit (Tilenga & EACOP)",
+              "url": "https://www.business-humanrights.org/en/latest-news/totalenergies-lawsuit-re-reparations-of-damages-caused-by-tilenga-et-eacop-projects-in-uganda-and-tanzania/"
+            },
+            {
+              "label": "TotalEnergies — page projets Tilenga et EACOP",
+              "url": "https://totalenergies.com/company/projects/oil/tilenga-and-eacop-projects-acting-transparently-uganda-tanzania"
+            }
+          ]
+        },
+        {
+          "title": "Connaissance précoce du réchauffement climatique et accusations de désinformation",
+          "year": 2021,
+          "period": "faits couvrant 1971-2021",
+          "severity": "élevé",
+          "tags": [
+            "climat",
+            "désinformation"
+          ],
+          "summary": "Une étude universitaire publiée en octobre 2021 dans la revue Global Environmental Change (« Early warnings and emerging accountability: Total's responses to global warming, 1971-2021 ») conclut que Total avait connaissance dès les années 1970 du risque climatique lié à ses activités, mais aurait par la suite minimisé ou occulté ce risque dans sa communication pendant plusieurs décennies. Ces travaux ont alimenté les accusations de désinformation climatique visant le groupe. TotalEnergies conteste avoir mené une politique de désinformation.",
+          "sources": [
+            {
+              "label": "Bonneuil, Choquet, Franta — Global Environmental Change (2021), ScienceDirect",
+              "url": "https://www.sciencedirect.com/science/article/pii/S0959378021001655"
+            }
+          ]
+        },
+        {
+          "title": "Plainte et condamnation partielle pour greenwashing (publicité sur la neutralité carbone)",
+          "year": 2025,
+          "period": "plainte déposée en mars 2022, jugement en octobre 2025",
+          "severity": "modéré",
+          "tags": [
+            "publicité mensongère",
+            "climat",
+            "désinformation"
+          ],
+          "summary": "En mars 2022, Greenpeace France, Les Amis de la Terre France et Notre Affaire à Tous ont assigné TotalEnergies pour « pratiques commerciales trompeuses », visant la campagne de communication accompagnant le changement de nom en 2021 et les allégations sur la « neutralité carbone » et le gaz présenté comme énergie de transition. Le 23 octobre 2025, le tribunal judiciaire de Paris a partiellement condamné TotalEnergies pour pratiques commerciales trompeuses liées à sa communication sur la neutralité carbone. Les ONG y ont vu un précédent juridique ; TotalEnergies a contesté l'analyse des plaignants.",
+          "sources": [
+            {
+              "label": "Reporterre — TotalEnergies condamné partiellement pour greenwashing",
+              "url": "https://reporterre.net/TotalEnergies-condamne-partiellement-pour-greenwashing"
+            },
+            {
+              "label": "Greenpeace France — TotalEnergies condamnée pour greenwashing",
+              "url": "https://www.greenpeace.fr/totalenergies-condamnee-greenwashing/"
+            }
+          ]
+        },
+        {
+          "title": "Naufrage de l'Erika et marée noire (1999)",
+          "year": 1999,
+          "period": "naufrage en 1999, condamnation définitive en 2012",
+          "severity": "élevé",
+          "tags": [
+            "environnement"
+          ],
+          "summary": "Le 12 décembre 1999, le pétrolier Erika, affrété par Total, fait naufrage au large de la Bretagne, provoquant une importante marée noire sur le littoral atlantique français. Au terme d'une longue procédure, la Cour de cassation a confirmé le 25 septembre 2012 la condamnation de Total, validant pour la première fois en France la notion de « préjudice écologique » ; le groupe a été condamné à une amende pénale et à d'importantes réparations civiles. Cette décision a fait jurisprudence.",
+          "sources": [
+            {
+              "label": "France 24 — La Cour de cassation confirme la condamnation de Total (Erika)",
+              "url": "https://www.france24.com/fr/20120925-france-cour-cassation-confirme-condamnation-total-naufrage-erika-pollution-maree-noire"
+            },
+            {
+              "label": "Ministère de la Justice — Le procès Erika",
+              "url": "https://www.justice.gouv.fr/actualites/actualite/proces-erika"
+            }
+          ]
+        },
+        {
+          "title": "Explosion de l'usine AZF de Toulouse (2001)",
+          "year": 2001,
+          "period": "explosion en 2001, condamnation définitive en 2017-2019",
+          "severity": "élevé",
+          "tags": [
+            "environnement",
+            "santé"
+          ],
+          "summary": "Le 21 septembre 2001, l'usine chimique AZF de Toulouse, exploitée par Grande Paroisse, filiale du groupe Total, est détruite par une explosion qui fait 31 morts et des milliers de blessés. Après une longue procédure, la justice a définitivement condamné en 2017-2019 Grande Paroisse et l'ancien directeur du site pour homicides et blessures involontaires ; la maison mère Total a échappé à des poursuites pénales propres. L'accident reste l'une des plus graves catastrophes industrielles françaises récentes.",
+          "sources": [
+            {
+              "label": "Franceinfo — La Cour de cassation confirme la condamnation (Grande Paroisse)",
+              "url": "https://www.franceinfo.fr/france/occitanie/haute-garonne/toulouse/azf-la-cour-de-cassation-confirme-definitivement-la-condamnation-de-l-ex-directeur-de-l-usine-et-de-grande-paroisse-pour-homicide-involontaire_3748585.html"
+            },
+            {
+              "label": "Explosion de l'usine AZF de Toulouse — Wikipédia",
+              "url": "https://fr.wikipedia.org/wiki/Explosion_de_l'usine_AZF_de_Toulouse"
+            }
+          ]
+        },
+        {
+          "title": "Maintien d'activités en Russie après l'invasion de l'Ukraine (Arctic LNG 2 / Novatek)",
+          "year": 2022,
+          "period": "depuis 2022",
+          "severity": "modéré",
+          "tags": [
+            "climat",
+            "droits humains"
+          ],
+          "summary": "Après le début de l'invasion de l'Ukraine en février 2022, TotalEnergies a été critiquée pour le maintien de participations dans des actifs russes, notamment dans la société gazière Novatek et le projet de gaz naturel liquéfié Arctic LNG 2. Le groupe a annoncé en 2022 cesser tout nouvel investissement et provisionner ses actifs concernés, mais a conservé pendant un temps des participations (dont Yamal LNG), ce qui lui a valu des critiques d'ONG et d'observateurs. TotalEnergies invoque des contraintes liées aux sanctions et aux contrats existants.",
+          "sources": [
+            {
+              "label": "Offshore Energy — TotalEnergies prend une dépréciation de 4,1 Md$ sur Arctic LNG 2",
+              "url": "https://www.offshore-energy.biz/totalenergies-takes-4-1b-impairment-charge-on-russian-arctic-lng-2-project/"
+            },
+            {
+              "label": "Global Energy Monitor — Arctic LNG 2 Terminal",
+              "url": "https://www.gem.wiki/Arctic_LNG_2_Terminal"
             }
           ]
         }
@@ -6823,6 +11953,201 @@ window.CAPITALISME_DATA = {
             {
               "label": "Forbes – Critics slam Unilever rebrand of Fair & Lovely (2020)",
               "url": "https://www.forbes.com/sites/jemimamcevoy/2020/07/02/critics-slam-unilever-rebrand-of-fair--lovely-skin-lightener-as-glow--lovely/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yum-brands-kfc-pizza-hut",
+      "name": "Yum! Brands (KFC, Pizza Hut)",
+      "legalName": "Yum! Brands, Inc.",
+      "country": "États-Unis",
+      "founded": 1997,
+      "website": "https://www.yum.com",
+      "revenue": "Environ 7,55 milliards de dollars de chiffre d'affaires en 2024",
+      "description": "Yum! Brands est une multinationale américaine de la restauration rapide basée à Louisville (Kentucky), issue en 1997 de la scission des restaurants de PepsiCo sous le nom de Tricon Global Restaurants (renommée Yum! Brands en 2002). Le groupe franchise ou exploite plus de 58 000 restaurants dans plus de 155 pays sous les enseignes KFC, Taco Bell, Pizza Hut et Habit Burger & Grill.",
+      "brands": [
+        {
+          "name": "KFC",
+          "aliases": [
+            "Kentucky Fried Chicken",
+            "K.F.C."
+          ],
+          "category": "Poulet frit",
+          "note": "Première marque du groupe en chiffre d'affaires. En Chine continentale, KFC est exploité par Yum China, société distincte depuis la scission de 2016."
+        },
+        {
+          "name": "Pizza Hut",
+          "aliases": [
+            "Pizza Hutt",
+            "PizzaHut"
+          ],
+          "category": "Pizza",
+          "note": "En Chine continentale, exploité par Yum China (société séparée)."
+        },
+        {
+          "name": "Taco Bell",
+          "aliases": [
+            "Tacobell",
+            "Taco-Bell"
+          ],
+          "category": "Restauration rapide",
+          "note": "Cuisine d'inspiration mexicaine ; principal moteur de croissance du groupe ces dernières années."
+        },
+        {
+          "name": "Habit Burger & Grill",
+          "aliases": [
+            "The Habit Burger Grill",
+            "The Habit"
+          ],
+          "category": "Restauration rapide",
+          "note": "Chaîne de burgers acquise en mars 2020 pour environ 375 M$ ; renommée Habit Burger & Grill en 2024."
+        },
+        {
+          "name": "WingStreet",
+          "aliases": [
+            "Wing Street"
+          ],
+          "category": "Poulet frit",
+          "note": "Ancienne sous-marque d'ailes de poulet adossée à Pizza Hut, progressivement abandonnée."
+        },
+        {
+          "name": "Dragontail Systems",
+          "aliases": [
+            "Dragontail"
+          ],
+          "category": "Technologie",
+          "note": "Société australienne de gestion des commandes en cuisine et de la livraison, acquise en 2021."
+        },
+        {
+          "name": "Tictuk Technologies",
+          "aliases": [
+            "Tictuk"
+          ],
+          "category": "Technologie",
+          "note": "Société israélienne de commande omnicanale et de marketing conversationnel, acquise en 2021."
+        },
+        {
+          "name": "Kvantum",
+          "aliases": [
+            "Kvantum Inc."
+          ],
+          "category": "Technologie",
+          "note": "Société d'analyse des consommateurs et de marketing fondée sur l'intelligence artificielle, acquise en 2021."
+        },
+        {
+          "name": "Heartstyles",
+          "category": "Formation",
+          "note": "Société de formation et de développement du leadership pour les managers de restaurants, acquise en 2020."
+        }
+      ],
+      "scandals": [
+        {
+          "title": "Viande périmée chez le fournisseur Shanghai Husi (OSI) en Chine",
+          "year": 2014,
+          "severity": "élevé",
+          "tags": [
+            "sécurité alimentaire",
+            "relations fournisseurs"
+          ],
+          "summary": "En juillet 2014, un reportage de la télévision chinoise a montré des employés de Shanghai Husi Food, filiale du groupe américain OSI, réutilisant de la viande périmée et modifiant les dates de péremption. KFC et Pizza Hut, comme McDonald's, figuraient parmi les clients approvisionnés. Yum! Brands a immédiatement rompu sa relation mondiale avec OSI. En 2016, un tribunal de Shanghai a condamné Shanghai Husi et une autre filiale d'OSI à des amendes et a infligé des peines de prison à dix employés ; les régulateurs ont par ailleurs infligé des amendes dépassant 24 millions de yuans.",
+          "sources": [
+            {
+              "label": "CNBC – Yum cuts ties with China meat plant after scandal",
+              "url": "https://www.cnbc.com/2014/07/23/yum-cuts-ties-with-china-meat-plant-after-scandal.html"
+            },
+            {
+              "label": "Food Safety News – OSI Group shrinks its footprint in China",
+              "url": "https://www.foodsafetynews.com/2014/09/osi-group-shrinks-its-footprint-in-china-to-get-expired-meat-scandal-behind-it/"
+            },
+            {
+              "label": "Fortune – Shanghai meat supplier fined over expired meat scandal",
+              "url": "https://fortune.com/2016/10/03/shanghai-meat-supplier-scandal/"
+            }
+          ]
+        },
+        {
+          "title": "Action collective sur la teneur en viande du « bœuf assaisonné » de Taco Bell",
+          "year": 2011,
+          "severity": "modéré",
+          "tags": [
+            "publicité mensongère",
+            "santé"
+          ],
+          "summary": "En janvier 2011, le cabinet d'avocats Beasley Allen a déposé une action collective devant un tribunal fédéral de Californie, alléguant que la garniture vendue par Taco Bell comme du « bœuf » ne contenait pas assez de viande pour répondre aux normes de l'USDA et serait composée en grande partie d'autres ingrédients. Taco Bell a démenti, affirmant que sa préparation contenait 88 % de bœuf, et a mené une campagne publique de réponse. Le cabinet a retiré sa plainte quelques mois plus tard après que Taco Bell a précisé sa communication ; aucune somme n'a été versée.",
+          "sources": [
+            {
+              "label": "NPR – Taco Bell faces lawsuit over 'seasoned beef'",
+              "url": "https://www.npr.org/2011/01/25/133218485/Taco-Bell-Faces-Lawsuit-Over-Seasoned-Beef"
+            },
+            {
+              "label": "NBC News – Taco Bell answers lawsuit: Yes, that is beef",
+              "url": "https://www.nbcnews.com/id/wbna41258574"
+            },
+            {
+              "label": "NPR – With lawsuit over, Taco Bell's mystery meat is a mystery no longer",
+              "url": "https://www.npr.org/sections/health-shots/2011/04/22/135539926/with-lawsuit-over-taco-bells-mystery-meat-is-a-mystery-no-longer"
+            }
+          ]
+        },
+        {
+          "title": "Emballages KFC liés à la déforestation et campagne de Greenpeace",
+          "year": 2012,
+          "severity": "modéré",
+          "tags": [
+            "environnement",
+            "relations fournisseurs"
+          ],
+          "summary": "En 2012, Greenpeace a mené une campagne accusant KFC de s'approvisionner en emballages (dont les seaux à poulet) auprès du fournisseur Asia Pulp & Paper, lié à la destruction de forêts tropicales en Indonésie. Des analyses en laboratoire avaient détecté des fibres de forêt tropicale dans certains emballages. KFC au Royaume-Uni a annoncé cesser de s'approvisionner auprès d'Asia Pulp & Paper, et Yum! Brands a adopté en 2013 une politique d'approvisionnement en papier visant à exclure les fibres issues de la destruction des forêts tropicales.",
+          "sources": [
+            {
+              "label": "Mongabay – After Greenpeace campaign, KFC UK says it will no longer source from Asia Pulp & Paper",
+              "url": "https://news.mongabay.com/2012/10/after-protracted-greenpeace-campaign-kfc-uk-says-it-will-no-longer-source-from-asia-pulp-paper/"
+            },
+            {
+              "label": "Mongabay – Yum! Brands announces 'greener' paper policy",
+              "url": "https://news.mongabay.com/2013/04/yum-brands-announces-greener-paper-policy/"
+            }
+          ]
+        },
+        {
+          "title": "Retrait du Better Chicken Commitment au Royaume-Uni",
+          "year": 2026,
+          "severity": "modéré",
+          "tags": [
+            "environnement",
+            "relations fournisseurs"
+          ],
+          "summary": "Le 19 février 2026, plusieurs chaînes de restauration au Royaume-Uni, dont les enseignes de Yum! Brands (KFC, Pizza Hut, Taco Bell UK & Irlande), ont annoncé se retirer du Better Chicken Commitment, un engagement de bien-être animal soutenu par des scientifiques, pour lancer un « Sustainable Chicken Forum ». Les entreprises invoquent des contraintes d'approvisionnement et des considérations environnementales liées aux races à croissance lente. Des organisations comme The Humane League, Compassion in World Farming et la RSPCA ont dénoncé un recul et un « welfare washing », appelant les groupes à réintégrer l'engagement initial.",
+          "sources": [
+            {
+              "label": "Yahoo Finance – KFC, Nando's and other chains withdraw from UK chicken welfare pledge",
+              "url": "https://finance.yahoo.com/news/kfc-nando-other-chains-withdraw-100247494.html"
+            },
+            {
+              "label": "Meat Management – Businesses drop Better Chicken Commitment in favour of Sustainable Chicken Forum",
+              "url": "https://meatmanagement.com/news/businesses-drop-better-chicken-commitment-in-favour-of-sustainable-chicken-forum/85712.article"
+            }
+          ]
+        },
+        {
+          "title": "Litiges récurrents sur les heures supplémentaires et les salaires aux États-Unis",
+          "year": 2009,
+          "period": "1997-2023",
+          "severity": "modéré",
+          "tags": [
+            "conditions de travail"
+          ],
+          "summary": "Depuis la fin des années 1990, Yum! Brands et ses enseignes (notamment Taco Bell) ont fait l'objet de plusieurs litiges aux États-Unis portant sur les heures supplémentaires, les pauses repas et les classifications de managers. Certaines affaires ont donné lieu à des règlements amiables (par exemple dans l'État de Washington, en Californie et au Colorado) et d'autres à des décisions de justice. Des actions de type PAGA ont continué à viser des franchises Taco Bell en Californie dans les années 2020.",
+          "sources": [
+            {
+              "label": "FastCasual – Yum Brands settles labor lawsuit",
+              "url": "https://www.fastcasual.com/news/yum-brands-settles-labor-lawsuit-2/"
+            },
+            {
+              "label": "Corporate Research Project – Yum Brands",
+              "url": "https://www.corp-research.org/yum-brands"
             }
           ]
         }
