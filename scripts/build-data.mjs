@@ -105,6 +105,20 @@ const DISPLAY_NAMES = {
   "La Vie (alimentation végétale)": "La Vie (végétal)",
   // Lot 6 — animalerie
   "VAFO Group": "VAFO (Carnilove, Brit)",
+  // Lot 7 — cosmétiques / soins
+  "Laverana GmbH & Co. KG": "Laverana (Lavera)",
+  "Lily Lolo Limited": "Lily Lolo",
+  "AS MADARA Cosmetics": "Madara",
+  "Hartmann Group (Paul Hartmann AG)": "Paul Hartmann (Kneipp)",
+  "WALA Heilmittel": "WALA (Dr. Hauschka)",
+  "Beiersdorf": "Beiersdorf (Nivea)",
+  "Logocos Naturkosmetik": "Logocos (Logona, Sante)",
+  "Laboratoires Embryolisse": "Embryolisse",
+  "La Rosée Cosmétiques": "La Rosée",
+  "Endro Cosmétiques": "Endro",
+  "Même Cosmetics": "Même",
+  "Eclo (Sustainable Beauty)": "Eclo",
+  "Microcosme (Avril Beauté)": "Microcosme (Avril)",
 };
 
 // Corrections factuelles post-recherche (clé = nom d'affichage du groupe).
@@ -132,6 +146,7 @@ const GROUP_NOTES = {
   "Kellanova": "Filiale du groupe Mars : l'acquisition de Kellanova par Mars a été finalisée en décembre 2025.",
   "Sanofi (Opella)": "La santé grand public de Sanofi (Doliprane…) est regroupée sous Opella, dont Sanofi a cédé le contrôle majoritaire au fonds CD&R (2024-2025).",
   "JDE Peet's": "Depuis 2026, JDE Peet's est passé sous le contrôle de l'américain Keurig Dr Pepper.",
+  "Logocos (Logona, Sante)": "Marques de cosmétiques bio allemandes brièvement détenues par L'Oréal (rachat de Logocos en 2018), puis revendues au fonds d'investissement CoBe Capital en mars 2023.",
 };
 
 /** Nettoyage générique si pas d'entrée explicite dans DISPLAY_NAMES. */

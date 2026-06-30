@@ -18679,6 +18679,1070 @@
         }
       ],
       "scandals": []
+    },
+    {
+      "group": {
+        "name": "Absolution",
+        "country": "France",
+        "founded": 2009,
+        "website": "https://www.absolution-cosmetics.com",
+        "revenue": null,
+        "description": "Marque française indépendante de cosmétiques bio et naturels haut de gamme, fondée à Paris par Isabelle Carron. Le capital reste majoritairement détenu par sa fondatrice, avec une entrée minoritaire des fonds Extendam et Rives Croissance en 2018."
+      },
+      "brands": [
+        {
+          "name": "Absolution",
+          "aliases": [
+            "Absolution Cosmetics",
+            "Absolution Paris"
+          ],
+          "category": "Cosmétiques",
+          "note": "Marque de soins bio et naturels créée en 2009 par Isabelle Carron. Société indépendante ; levée de fonds minoritaire d'1 M€ auprès d'Extendam et Rives Croissance en 2018."
+        }
+      ],
+      "scandals": []
+    },
+    {
+      "group": {
+        "name": "Nature & Stratégie",
+        "country": "France",
+        "founded": 2005,
+        "website": "https://www.nature-et-strategie.com",
+        "revenue": "≈40 M€ (2020)",
+        "description": "Groupe familial français de cosmétiques bio et produits d'entretien écologiques, basé à Somloire (Maine-et-Loire) et dirigé par Samuel Gabory. Il possède notamment les marques Coslys, Etamine du Lys et, depuis 2024, Acorelle, regroupées sous l'entité Comptoir des Lys."
+      },
+      "brands": [
+        {
+          "name": "Acorelle",
+          "aliases": [
+            "Acorelle Bio"
+          ],
+          "category": "Cosmétiques",
+          "note": "Marque française de cosmétiques bio et d'épilation, créée en 2006 par Régis Lelong (Laboratoire Odysud, Lot-et-Garonne). Rachetée en juillet 2024 par Comptoir des Lys (groupe Nature & Stratégie)."
+        },
+        {
+          "name": "Coslys",
+          "aliases": [
+            "Coslys Bio"
+          ],
+          "category": "Cosmétiques",
+          "note": "Marque française de cosmétiques et d'hygiène bio née en 2003 dans le Maine-et-Loire, appartenant au groupe Nature & Stratégie. Reste indépendante des grands groupes conventionnels."
+        }
+      ],
+      "scandals": []
+    },
+    {
+      "group": {
+        "name": "Microcosme (Avril Beauté)",
+        "country": "France",
+        "founded": 2012,
+        "website": "https://www.avril-beaute.fr",
+        "revenue": "39,4 M€ (2025)",
+        "description": "PME française indépendante basée dans les Hauts-de-France, fondée et dirigée par Alexis Dhellemmes. Elle édite la marque de cosmétiques bio à bas prix Avril, son unique marque, et n'appartient à aucun groupe plus large."
+      },
+      "brands": [
+        {
+          "name": "Avril",
+          "aliases": [
+            "Avril Beauté",
+            "Avril cosmétique",
+            "Avril bio"
+          ],
+          "category": "Cosmétiques",
+          "note": "Marque française de cosmétiques bio accessibles, créée à Roubaix en 2012 par Alexis Dhellemmes au sein de la PME Microcosme. Indépendante ; modèle low-cost (pas de publicité ni d'égérie)."
+        }
+      ],
+      "scandals": []
+    },
+    {
+      "group": {
+        "name": "Cosmondial",
+        "country": "Allemagne",
+        "founded": 2008,
+        "website": "https://cosmondial.com",
+        "revenue": null,
+        "description": "Entreprise familiale allemande de cosmétiques naturels fondée en 2008 par Silke et Stephan Becker. Elle édite les marques Benecos et GRN [GRÜN] et reste indépendante, gérée par la famille fondatrice."
+      },
+      "brands": [
+        {
+          "name": "Benecos",
+          "aliases": [
+            "benecos",
+            "Benecos Naturkosmetik"
+          ],
+          "category": "Maquillage",
+          "note": "Marque allemande de maquillage et soins bio à prix abordable, première marque de la société Cosmondial (lancée vers 2008). Certifiée Natrue/BDIH, fabriquée en Allemagne."
+        }
+      ],
+      "scandals": []
+    },
+    {
+      "group": {
+        "name": "Léa Nature",
+        "country": "France",
+        "founded": 1993,
+        "website": "https://www.leanature.com",
+        "revenue": "520 M€ (2025, estimé)",
+        "description": "Groupe français indépendant de produits bio et naturels (alimentation, cosmétique, hygiène, compléments), fondé en 1993 par Charles Kloboukoff et basé à Périgny, près de La Rochelle. Entreprise à mission, membre de 1% for the Planet, dont la branche cosmétique pèse environ 23% du chiffre d'affaires."
+      },
+      "brands": [
+        {
+          "name": "Boho Green Make-up",
+          "aliases": [
+            "Boho Green Makeup",
+            "Boho Green Make Up",
+            "Boho Cosmetics",
+            "Boho Green Beauty"
+          ],
+          "category": "Maquillage",
+          "note": "Marque française de maquillage bio et vegan, créée en 2012 par Vincent Honnart et Christèle Bombana. Intégrée au groupe Léa Nature en 2019."
+        },
+        {
+          "name": "Eau Thermale Jonzac",
+          "aliases": [
+            "Jonzac",
+            "Eau Thermale Jonzac by Léa Nature"
+          ],
+          "category": "Cosmétiques",
+          "note": "Marque de dermo-cosmétique bio à l'eau thermale, lancée en 2010-2011 par Léa Nature en partenariat avec la ville de Jonzac (Charente-Maritime)."
+        },
+        {
+          "name": "SO'BiO étic",
+          "aliases": [
+            "So'Bio étic",
+            "SO BiO étic",
+            "Sobio étic",
+            "So Bio etic"
+          ],
+          "category": "Cosmétiques",
+          "note": "Marque de cosmétiques et d'hygiène certifiés bio créée en 2008 par Léa Nature, vendue en grande distribution et magasins spécialisés."
+        },
+        {
+          "name": "Natessance",
+          "aliases": [
+            "Natessance Bio"
+          ],
+          "category": "Cosmétiques",
+          "note": "Marque de cosmétiques naturels et bio (soins capillaires, visage, corps) du groupe Léa Nature."
+        },
+        {
+          "name": "Floressance",
+          "aliases": [
+            "Floressance par Nature"
+          ],
+          "category": "Cosmétiques",
+          "note": "Marque de compléments alimentaires et de soins à base de plantes appartenant au groupe Léa Nature."
+        },
+        {
+          "name": "Eau Thermale Rochefort",
+          "aliases": [
+            "Rochefort"
+          ],
+          "category": "Cosmétiques",
+          "note": "Marque de dermo-cosmétique à l'eau thermale développée par Léa Nature, dans la lignée d'Eau Thermale Jonzac."
+        }
+      ],
+      "scandals": []
+    },
+    {
+      "group": {
+        "name": "Hartmann Group (Paul Hartmann AG)",
+        "country": "Allemagne",
+        "founded": 1818,
+        "website": "https://www.hartmann.info",
+        "revenue": "2,4 Md€ (2024)",
+        "description": "Groupe allemand de produits médicaux et de soins (pansements, incontinence, désinfection), basé à Heidenheim et fondé en 1818. Sa filiale cosmétique Kneipp (détenue à 100% depuis 2008) possède la marque française Cattier depuis 2011."
+      },
+      "brands": [
+        {
+          "name": "Cattier",
+          "aliases": [
+            "Cattier Paris",
+            "Pierre Cattier",
+            "Cattier Cosmetics"
+          ],
+          "category": "Cosmétiques",
+          "note": "Marque française pionnière des cosmétiques bio (argiles, soins), fondée en 1968 par Pierre Cattier. Rachetée en 2011 par Kneipp France, filiale du groupe Kneipp, lui-même détenu à 100% par l'allemand Paul Hartmann AG (Hartmann Group)."
+        }
+      ],
+      "scandals": [
+        {
+          "title": "Entente sur les prix des protections pour incontinence (Espagne)",
+          "year": 2016,
+          "period": "1996-2014",
+          "severity": "élevé",
+          "tags": [
+            "entente illicite",
+            "concurrence",
+            "santé",
+            "juridique",
+            "fiscalité"
+          ],
+          "summary": "La filiale espagnole Laboratorios Hartmann a participé, avec sept autres fabricants (Procter & Gamble, SCA/Essity, Indas, Ontex...) et la fédération Fenin, à une entente sur les prix des couches/protections pour adultes financées par la Sécurité sociale, de décembre 1996 à janvier 2014. L'autorité espagnole de la concurrence (CNMC) a sanctionné le cartel le 31 mai 2016 pour un total de 128,8 M€ (dont 4 M€ pour Laboratorios Hartmann). À partir de 2024, plusieurs régions espagnoles ont réclamé en justice plus de 1,75 Md€ de dommages-intérêts pour le surcoût (de l'ordre de 50%) supporté par les systèmes de santé publics.",
+          "sources": [
+            {
+              "label": "CNMC (communiqué officiel)",
+              "url": "https://www.cnmc.es/la-cnmc-multa-con-1288-millones-de-euros-ocho-fabricantes-de-panales-para-adultos-su-asociacion-y"
+            },
+            {
+              "label": "El Español / Crónica Global",
+              "url": "https://cronicaglobal.elespanol.com/business/20160531/multa-millones-formar-cartel-panales-para-adultos/128987110_0.html"
+            },
+            {
+              "label": "Litigo Partners (réclamation Catsalut 526 M€)",
+              "url": "https://litigopartners.com/en/catsalut-has-filed-a-claim-for-e526-million-against-two-manufacturers-of-adult-nappies/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group": {
+        "name": "Caudalie",
+        "country": "France",
+        "founded": 1995,
+        "website": "https://www.caudalie.com",
+        "revenue": "Environ 300 M$ (2023)",
+        "description": "Entreprise française familiale et indépendante de cosmétiques issus de la vigne (polyphénols de pépins de raisin), fondée en 1995 par Mathilde et Bertrand Thomas. Non cotée, elle revendique son indépendance et n'appartient à aucun groupe."
+      },
+      "brands": [
+        {
+          "name": "Caudalie",
+          "aliases": [
+            "Caudalie Paris"
+          ],
+          "category": "Soin de la peau",
+          "note": "Marque française de soins anti-âge à base de raisin, fondée en 1995 par Mathilde et Bertrand Thomas. Société familiale 100% indépendante, distribuée dans une soixantaine de pays."
+        }
+      ],
+      "scandals": []
+    },
+    {
+      "group": {
+        "name": "Laboratoire Science et Nature",
+        "country": "France",
+        "founded": 1972,
+        "website": "https://www.scienceetnature.fr",
+        "revenue": null,
+        "description": "Laboratoire familial et indépendant français de cosmétiques bio, fondé en 1972 et implanté dans les Deux-Sèvres. Entreprise à mission disposant d'un site de R&D et de production certifié HQE, il édite notamment la marque Centifolia."
+      },
+      "brands": [
+        {
+          "name": "Centifolia",
+          "aliases": [
+            "Centifolia Bio",
+            "Centifolia par Nature"
+          ],
+          "category": "Cosmétiques",
+          "note": "Marque française de cosmétiques bio d'origine végétale (soins depuis 1983), éditée par le Laboratoire Science et Nature, entreprise familiale indépendante."
+        }
+      ],
+      "scandals": []
+    },
+    {
+      "group": {
+        "name": "Charlotte Bio",
+        "country": "France",
+        "founded": 2015,
+        "website": "https://www.charlottebio.fr",
+        "revenue": null,
+        "description": "Marque française indépendante de maquillage et soins bio et vegan, créée en 2015 en Normandie par Stéphane (président-fondateur) et Marjorie. Marque indie (collectif WAFIB), n'appartenant à aucun groupe."
+      },
+      "brands": [
+        {
+          "name": "Charlotte Bio",
+          "aliases": [
+            "Charlotte Makeup Bio",
+            "Charlotte BIO"
+          ],
+          "category": "Maquillage",
+          "note": "Marque française de maquillage et soins bio, naturels et vegan, accessibles, créée en 2015 en Normandie. Indépendante ; produits fabriqués en France et en Italie, certifiés Ecocert/Cosmos."
+        }
+      ],
+      "scandals": []
+    },
+    {
+      "group": {
+        "name": "Clémence & Vivien",
+        "country": "France",
+        "founded": 2015,
+        "website": "https://www.clemenceetvivien.com",
+        "revenue": null,
+        "description": "Marque et entreprise française indépendante de cosmétiques naturels (savons à froid, déodorants, baumes), fondée en 2015 par Clémence Lefebvre et Vivien Goix. Production artisanale en France (région du Mans) ; aucune appartenance à un groupe."
+      },
+      "brands": [
+        {
+          "name": "Clémence & Vivien",
+          "aliases": [
+            "Clémence et Vivien"
+          ],
+          "category": "Hygiène",
+          "note": "Marque française de cosmétiques naturels et bio (déodorants, savons solides, baumes), créée en 2015 à Niort par Clémence Lefebvre et Vivien Goix. Indépendante ; produits certifiés Cruelty Free & Vegan (PETA)."
+        }
+      ],
+      "scandals": []
+    },
+    {
+      "group": {
+        "name": "Comme Avant",
+        "country": "France",
+        "founded": 2016,
+        "website": "https://www.comme-avant.bio/",
+        "revenue": "≈5 M€ (2022)",
+        "description": "Entreprise familiale indépendante fondée près de Marseille par Sophie et Nil, rejoints par leur famille. Fabrique à la main des cosmétiques solides bio, des produits ménagers et des vêtements durables, sans appartenance à un groupe."
+      },
+      "brands": [
+        {
+          "name": "Comme Avant",
+          "aliases": [
+            "Comme-Avant",
+            "Comme Avant Bio"
+          ],
+          "category": "Cosmétiques",
+          "note": "Marque marseillaise de cosmétiques solides bio et zéro déchet, née d'un savon à l'huile d'olive fabriqué pour soigner l'eczéma de leur fils. Entreprise familiale restée indépendante."
+        }
+      ],
+      "scandals": []
+    },
+    {
+      "group": {
+        "name": "Cut by Fred",
+        "country": "France",
+        "founded": 2018,
+        "website": "https://cutbyfred.com/",
+        "revenue": null,
+        "description": "Marque indépendante de soins capillaires d'origine naturelle et vegan, créée par le coiffeur Frédéric Birault. Produits conçus et fabriqués en France."
+      },
+      "brands": [
+        {
+          "name": "Cut by Fred",
+          "aliases": [
+            "CUT BY FRED",
+            "Cut By Fred"
+          ],
+          "category": "Cosmétiques",
+          "note": "Marque de soins capillaires clean et vegan lancée en 2018 par Frédéric Birault, coiffeur de célébrités. Entreprise indépendante, fabrication française."
+        }
+      ],
+      "scandals": []
+    },
+    {
+      "group": {
+        "name": "WALA Heilmittel",
+        "country": "Allemagne",
+        "founded": 1935,
+        "website": "https://www.wala.world/",
+        "revenue": null,
+        "description": "Entreprise allemande anthroposophique fondée en 1935 par Rudolf Hauschka, basée à Bad Boll/Eckwälden (Bade-Wurtemberg). Détenue à 100 % par la Fondation WALA (créée en 1986), donc sans actionnaires privés. Commercialise les médicaments WALA et les cosmétiques Dr. Hauschka. Environ 1 000 salariés."
+      },
+      "brands": [
+        {
+          "name": "Dr. Hauschka",
+          "aliases": [
+            "Dr Hauschka",
+            "Dr.Hauschka",
+            "Dr. Hauschka Kosmetik"
+          ],
+          "category": "Cosmétiques",
+          "note": "Marque de cosmétique naturelle créée par WALA, basée sur les principes anthroposophiques. Détenue par WALA Heilmittel GmbH, elle-même propriété de la Fondation WALA depuis 1986."
+        }
+      ],
+      "scandals": [
+        {
+          "title": "Fondements anthroposophiques et critiques de pseudoscience",
+          "severity": "modéré",
+          "tags": [
+            "pseudoscience",
+            "santé",
+            "anthroposophie"
+          ],
+          "summary": "WALA produit, à côté des cosmétiques Dr. Hauschka, des médicaments anthroposophiques. La médecine anthroposophique (dont la thérapie au gui contre le cancer) est largement critiquée par la communauté scientifique pour son manque de preuves d'efficacité et son caractère jugé pseudoscientifique. La controverse porte sur les remèdes anthroposophiques, non sur la sûreté des cosmétiques eux-mêmes.",
+          "sources": [
+            {
+              "label": "Wikipédia - Médecine anthroposophique",
+              "url": "https://fr.wikipedia.org/wiki/M%C3%A9decine_anthroposophique"
+            },
+            {
+              "label": "Psiram - Wala Heilmittel GmbH",
+              "url": "https://www.psiram.com/fr/index.php/Wala_Heilmittel_GmbH"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group": {
+        "name": "Eclo (Sustainable Beauty)",
+        "country": "France",
+        "founded": 2021,
+        "website": "https://eclobeauty.com/",
+        "revenue": "≈1 M€ (2025, est.)",
+        "description": "Jeune marque française indépendante de maquillage 100 % naturel et régénératif, créée à Rennes en 2021 par Priscille Charton, Julien Callède (cofondateur de Made.com) et Marin Susac. Exploitée par la société Sustainable Beauty ; capital détenu majoritairement par les fondateurs avec des investisseurs minoritaires (capital-risque)."
+      },
+      "brands": [
+        {
+          "name": "Eclo",
+          "aliases": [
+            "Eclo Beauty",
+            "Éclo"
+          ],
+          "category": "Cosmétiques",
+          "note": "Marque de maquillage naturel, biodégradable et made in France (fabrication à Dinard). Startup indépendante financée par des levées de fonds, contrôlée par ses fondateurs."
+        }
+      ],
+      "scandals": []
+    },
+    {
+      "group": {
+        "name": "Laboratoires Embryolisse",
+        "country": "France",
+        "founded": 1950,
+        "website": "https://embryolisse.fr/",
+        "revenue": "≈30 M€ (objectif annoncé)",
+        "description": "Laboratoire dermo-cosmétique français créé en 1950, repris à la fin des années 1990 par Nazoura et Alain Cassam-Chenaï qui dirigent toujours l'entreprise. Familiale et indépendante, elle a ouvert son capital en 2023 au fonds MBO Partenaires (MBO & Co) comme actionnaire minoritaire (≈16 M€)."
+      },
+      "brands": [
+        {
+          "name": "Embryolisse",
+          "aliases": [
+            "Laboratoires Embryolisse",
+            "Embryolisse Lait-Crème Concentré"
+          ],
+          "category": "Cosmétiques",
+          "note": "Marque française historique (Lait-Crème Concentré depuis 1950), célèbre auprès des maquilleurs. Entreprise familiale indépendante dirigée par les Cassam-Chenaï, avec MBO Partenaires en minoritaire depuis 2023."
+        }
+      ],
+      "scandals": [
+        {
+          "title": "Condamnation pour pratiques commerciales trompeuses (\"rétinol végétal\")",
+          "year": 2024,
+          "severity": "faible",
+          "tags": [
+            "publicité mensongère",
+            "allégations",
+            "justice"
+          ],
+          "summary": "Saisi par l'association de consommateurs CLCV, le tribunal judiciaire de Nanterre a condamné Embryolisse pour pratiques commerciales trompeuses au sujet de son \"Lait-Crème rétinol-like\". La publicité évoquait un \"rétinol végétal\" alors que le rétinol n'était pas présent dans l'émulsion. Le tribunal a ordonné le retrait de l'allégation et condamné la société à verser 3 000 € à la CLCV au titre du préjudice collectif.",
+          "sources": [
+            {
+              "label": "L'Informé",
+              "url": "https://www.linforme.com/grande-conso/article/les-pratiques-trompeuses-d-embryolisse-b-capital-rachete-partir-les-telex-de-l-informe_3431.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group": {
+        "name": "Endro Cosmétiques",
+        "country": "France",
+        "founded": 2019,
+        "website": "https://www.endro-cosmetiques.com/",
+        "revenue": "≈14 M€ (2024, est.)",
+        "description": "Entreprise indépendante créée en 2019 à Lannion (Bretagne) par le couple Boris Le Goffic et Marion Le Goualher. Conçoit et fabrique des cosmétiques 100 % d'origine naturelle, bio et vegan, notamment des déodorants solides zéro déchet."
+      },
+      "brands": [
+        {
+          "name": "Endro",
+          "aliases": [
+            "Endro Cosmétiques",
+            "Endro Cosmetiques"
+          ],
+          "category": "Cosmétiques",
+          "note": "Marque bretonne de cosmétiques solides et zéro déchet (déodorants, soins). Entreprise indépendante en forte croissance, fabrication à Lannion."
+        }
+      ],
+      "scandals": []
+    },
+    {
+      "group": {
+        "name": "La Canopée",
+        "country": "France",
+        "founded": 2017,
+        "website": "https://www.la-canopee.com/",
+        "revenue": null,
+        "description": "Marque indépendante de cosmétiques 100 % d'origine naturelle et vegan, créée à Grasse en 2017 par les sœurs Munoz Ruiz (Cécile, ingénieure chimiste, et Juliette, designer). Produits formulés et fabriqués dans ses propres ateliers à Grasse."
+      },
+      "brands": [
+        {
+          "name": "La Canopée",
+          "aliases": [
+            "La Canopee",
+            "La Canopée Cosmétique"
+          ],
+          "category": "Cosmétiques",
+          "note": "Marque de soins naturels et vegan made in France, fondée par deux sœurs à Grasse. Entreprise revendiquant son indépendance."
+        }
+      ],
+      "scandals": []
+    },
+    {
+      "group": {
+        "name": "LAO Care",
+        "country": "France",
+        "founded": 2019,
+        "website": "https://lao-care.com/",
+        "revenue": null,
+        "description": "Marque française indépendante de soins capillaires naturels créée en 2019 par Lisa Schino. Développe ses propres technologies brevetées de réparation de la fibre capillaire ; produits 100 % d'origine naturelle et vegan fabriqués à Lannion (Bretagne)."
+      },
+      "brands": [
+        {
+          "name": "Lao Care",
+          "aliases": [
+            "LAO Care",
+            "Lao",
+            "Lao Care ®"
+          ],
+          "category": "Cosmétiques",
+          "note": "Marque de soins capillaires bio (notamment au chanvre), brevetés et fabriqués en France. Startup indépendante."
+        }
+      ],
+      "scandals": []
+    },
+    {
+      "group": {
+        "name": "La Rosée Cosmétiques",
+        "country": "France",
+        "founded": 2014,
+        "website": "https://www.larosee-cosmetiques.com",
+        "revenue": "85 M€ (2024)",
+        "description": "PME française de dermo-cosmétique naturelle fondée à Lyon par deux pharmaciennes, Coline Bertrand et Mahault de Guibert. Marque indépendante, devenue l'une des premières marques de dermo-cosmétique en pharmacie en France."
+      },
+      "brands": [
+        {
+          "name": "La Rosée",
+          "aliases": [
+            "La Rosee",
+            "Larosée",
+            "La Rosée Cosmétiques"
+          ],
+          "category": "Cosmétiques",
+          "note": "Marque française de cosmétiques naturels et solides, vendue en pharmacie. Reste indépendante en 2026 : le family office de Ségolène Frère (FG Bros) est entré au capital en 2024 pour une participation minoritaire (~20 %), sans prise de contrôle."
+        }
+      ],
+      "scandals": []
+    },
+    {
+      "group": {
+        "name": "Laverana GmbH & Co. KG",
+        "country": "Allemagne",
+        "founded": 1987,
+        "website": "https://www.lavera.com",
+        "revenue": null,
+        "description": "Entreprise familiale allemande de cosmétiques naturels certifiés, basée à Wennigsen (région de Hanovre), fondée par Thomas Haase. Pionnière de la green beauty, elle est restée indépendante malgré plusieurs offres de rachat."
+      },
+      "brands": [
+        {
+          "name": "Lavera",
+          "aliases": [
+            "lavera",
+            "Lavera Naturkosmetik",
+            "Laverana"
+          ],
+          "category": "Cosmétiques",
+          "note": "Marque phare de cosmétiques naturels du groupe familial allemand Laverana GmbH & Co. KG. Société indépendante, contrôlée par la famille Haase."
+        }
+      ],
+      "scandals": []
+    },
+    {
+      "group": {
+        "name": "Lily Lolo Limited",
+        "country": "Royaume-Uni",
+        "founded": 2005,
+        "website": "https://www.lilylolo.co.uk",
+        "revenue": null,
+        "description": "Entreprise familiale britannique indépendante fondée par Vikki Khan, spécialisée dans le maquillage minéral et la cosmétique propre (clean makeup)."
+      },
+      "brands": [
+        {
+          "name": "Lily Lolo",
+          "aliases": [
+            "Lily Lolo Mineral Cosmetics",
+            "LilyLolo",
+            "Lily Lolo Clean Makeup"
+          ],
+          "category": "Cosmétiques",
+          "note": "Marque britannique de maquillage minéral créée en 2005, du nom des sœurs de la fondatrice. Reste une entreprise familiale indépendante (Lily Lolo Limited), non rachetée par un grand groupe."
+        }
+      ],
+      "scandals": []
+    },
+    {
+      "group": {
+        "name": "Logocos Naturkosmetik",
+        "country": "Allemagne",
+        "founded": 1978,
+        "website": "https://www.logona.de",
+        "revenue": null,
+        "description": "Pionnier allemand de la cosmétique naturelle, basé à Salzhemmendorf (région de Hanovre), propriétaire des marques Logona, Sante et Heliotrop. Racheté par L'Oréal en 2018 puis revendu à la société d'investissement américaine CoBe Capital en mars 2023 ; l'entreprise opère de nouveau de façon autonome depuis."
+      },
+      "brands": [
+        {
+          "name": "Logona",
+          "aliases": [
+            "LOGONA",
+            "Logona Naturkosmetik"
+          ],
+          "category": "Cosmétiques",
+          "note": "Marque allemande historique de cosmétique naturelle (Logocos). Détenue par L'Oréal de 2018 à 2023, puis revendue avec Logocos à CoBe Capital en mars 2023 : Logona n'appartient donc PLUS à L'Oréal en 2026."
+        },
+        {
+          "name": "Sante",
+          "aliases": [
+            "SANTE",
+            "Sante Naturkosmetik"
+          ],
+          "category": "Cosmétiques",
+          "note": "Marque grand public de cosmétique naturelle du groupe Logocos. Comme Logona, détenue par L'Oréal de 2018 à 2023 puis cédée à CoBe Capital en mars 2023 ; n'appartient plus à L'Oréal en 2026."
+        }
+      ],
+      "scandals": []
+    },
+    {
+      "group": {
+        "name": "AS MADARA Cosmetics",
+        "country": "Lettonie",
+        "founded": 2006,
+        "website": "https://www.madaracosmetics.com",
+        "revenue": null,
+        "description": "Fabricant letton indépendant de cosmétiques naturels et bio, fondé par Lotte Tisenkopfa-Iltnere, intégré verticalement avec sa propre usine et son laboratoire à Riga. Coté au Nasdaq Baltic (First North) depuis 2017 et certifié B Corp."
+      },
+      "brands": [
+        {
+          "name": "Madara",
+          "aliases": [
+            "MÁDARA",
+            "Madara Cosmetics",
+            "Mádara"
+          ],
+          "category": "Cosmétiques",
+          "note": "Marque lettone de cosmétiques naturels nordiques. Société cotée (Nasdaq Baltic) mais restée indépendante, contrôlée par ses fondateurs (les époux Iltners/Tisenkopfa-Iltnere, ~48 % des droits de vote)."
+        }
+      ],
+      "scandals": []
+    },
+    {
+      "group": {
+        "name": "Martine Cosmetics",
+        "country": "France",
+        "founded": 2018,
+        "website": "https://martinecosmetics.com",
+        "revenue": null,
+        "description": "Marque française de maquillage créée par l'influenceuse et entrepreneure Gaëlle Garcia Diaz, baptisée en hommage à sa grand-mère. Marque détenue par sa fondatrice, qui a repris l'intégralité du contrôle en rachetant l'incubateur belge Azurtis Digital."
+      },
+      "brands": [
+        {
+          "name": "Martine Cosmetics",
+          "aliases": [
+            "Martine",
+            "Martine Skin",
+            "Martine Cosmétiques"
+          ],
+          "category": "Cosmétiques",
+          "note": "Marque de cosmétiques d'influenceuse fondée et possédée par Gaëlle Garcia Diaz. Indépendante : initialement accompagnée par l'incubateur Azurtis Digital, racheté ensuite par la fondatrice pour reprendre 100 % des rênes."
+        }
+      ],
+      "scandals": []
+    },
+    {
+      "group": {
+        "name": "Même Cosmetics",
+        "country": "France",
+        "founded": 2017,
+        "website": "https://www.memecosmetics.fr",
+        "revenue": null,
+        "description": "Marque française indépendante de soins et de maquillage pour les personnes touchées par le cancer, fondée par Judith Levy Keller et Juliette Couturier. Produits fabriqués en France et développés avec des oncologues et dermatologues."
+      },
+      "brands": [
+        {
+          "name": "Même",
+          "aliases": [
+            "Meme",
+            "Même Cosmetics",
+            "Même Cosmétiques"
+          ],
+          "category": "Cosmétiques",
+          "note": "Première marque de cosmétiques pensée pour les personnes en traitement contre le cancer. Marque française indépendante, détenue par ses fondatrices."
+        }
+      ],
+      "scandals": []
+    },
+    {
+      "group": {
+        "name": "Beiersdorf",
+        "country": "Allemagne",
+        "founded": 1882,
+        "website": "https://www.beiersdorf.com",
+        "revenue": "~9,8 milliards € (2024)",
+        "description": "Groupe multinational allemand de soins de la peau et d'adhésifs, basé à Hambourg, propriétaire des marques Nivea, Eucerin, Labello, La Prairie, Coppertone, Hansaplast et Tesa. Coté en bourse mais contrôlé majoritairement par le holding Maxingvest AG (famille Herz, Tchibo)."
+      },
+      "brands": [
+        {
+          "name": "Nivea",
+          "aliases": [
+            "NIVEA",
+            "Nivea Men",
+            "Nivéa"
+          ],
+          "category": "Cosmétiques",
+          "note": "Marque emblématique de soins de la peau du groupe allemand Beiersdorf, dont elle est le produit historique (crème lancée en 1911). Beiersdorf est contrôlé par le holding Maxingvest (famille Herz)."
+        }
+      ],
+      "scandals": [
+        {
+          "title": "Publicités Nivea jugées racistes et colorisme (Afrique de l'Ouest)",
+          "year": 2017,
+          "severity": "modéré",
+          "tags": [
+            "racisme",
+            "colorisme",
+            "publicité",
+            "société"
+          ],
+          "summary": "Nivea (Beiersdorf) a été accusée de racisme et de colorisme pour une campagne publicitaire en Afrique de l'Ouest vantant une lotion promettant une peau « visiblement plus claire ». La campagne a déclenché des appels au boycott (#pullitdownnow), notamment au Ghana. Auparavant, en 2011, une autre pub Nivea (« Re-civilize yourself ») avait déjà suscité une polémique raciste.",
+          "sources": [
+            {
+              "label": "NPR",
+              "url": "https://www.npr.org/sections/goatsandsoda/2017/10/20/558875377/nivea-ad-for-visibly-fairer-skin-sparks-controversy-in-west-africa"
+            },
+            {
+              "label": "Quartz Africa",
+              "url": "https://qz.com/africa/1106557/nivea-accused-of-racism-with-fair-skin-advertising-campaign-in-africa"
+            }
+          ]
+        },
+        {
+          "title": "Produits éclaircissants « whitening » maintenus hors d'Occident",
+          "year": 2020,
+          "severity": "modéré",
+          "tags": [
+            "colorisme",
+            "santé",
+            "société",
+            "marketing"
+          ],
+          "summary": "Pendant le mouvement Black Lives Matter, plusieurs géants de la cosmétique dont Nivea ont promis d'abandonner les termes « whitening » et « fairness ». Une enquête de CNN a montré que des produits Nivea restaient commercialisés comme « whitening » / « extra whitening » en Inde, retirés seulement après sollicitation de Beiersdorf par CNN.",
+          "sources": [
+            {
+              "label": "CNN",
+              "url": "https://www.cnn.com/style/article/as-equals-white-lies-skin-whitening-fairness-beauty-companies-intl-cmd/index.html"
+            }
+          ]
+        },
+        {
+          "title": "Plainte pour greenwashing sur la « neutralité climatique »",
+          "year": 2023,
+          "severity": "modéré",
+          "tags": [
+            "greenwashing",
+            "environnement",
+            "justice",
+            "climat"
+          ],
+          "summary": "L'ONG environnementale allemande Deutsche Umwelthilfe (DUH) a engagé des poursuites contre Beiersdorf (fabricant de Nivea), aux côtés de BP, Shell, TotalEnergies et d'autres, pour des allégations de « neutralité climatique » jugées trompeuses. La DUH dénonce une « fausse protection du climat » masquant des émissions persistantes via des mécanismes de compensation opaques.",
+          "sources": [
+            {
+              "label": "Clean Energy Wire",
+              "url": "https://www.cleanenergywire.org/news/ngo-takes-legal-action-against-companies-fake-climate-neutrality-claims"
+            }
+          ]
+        },
+        {
+          "title": "Rappels de crèmes solaires pour contamination au benzène",
+          "year": 2021,
+          "severity": "modéré",
+          "tags": [
+            "santé",
+            "sécurité produit",
+            "rappel"
+          ],
+          "summary": "Beiersdorf a rappelé plusieurs lots de crèmes solaires en aérosol Coppertone après la détection de benzène, un cancérigène avéré ; des rappels de produits solaires Nivea pour le même motif ont aussi eu lieu (Australie/Nouvelle-Zélande). Le groupe (avec Bayer) a réglé une class action Coppertone pour ~2,3 M$.",
+          "sources": [
+            {
+              "label": "Cosmetics Business",
+              "url": "https://www.cosmeticsbusiness.com/news/article_page/Beiersdorf_recalls_5_Coppertone_sunscreen_products_over_carcinogenic_benzene_discovery/179732"
+            },
+            {
+              "label": "Global Cosmetics News",
+              "url": "https://www.globalcosmeticsnews.com/beiersdorf-and-bayer-settle-coppertone-class-action-for-us2-3-million/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group": {
+        "name": "On The Wild Side",
+        "country": "France",
+        "founded": 2018,
+        "website": "https://onthewildsidecosmetics.com",
+        "revenue": null,
+        "description": "Marque française indépendante de cosmétiques bio et naturels, basée à Bordeaux, fondée par Anne-Sophie Nardy (ex-L'Occitane et L'Oréal). Certifiée B Corp, elle utilise des ingrédients de plantes sauvages récoltées à la main."
+      },
+      "brands": [
+        {
+          "name": "On The Wild Side",
+          "aliases": [
+            "On the Wild Side",
+            "OnTheWildSide",
+            "OTWS"
+          ],
+          "category": "Cosmétiques",
+          "note": "Marque française de cosmétique naturelle « super bio ». Reste indépendante, dirigée par sa fondatrice Anne-Sophie Nardy ; financée par des levées de fonds auprès de business angels, sans rachat par un groupe."
+        }
+      ],
+      "scandals": []
+    },
+    {
+      "group": {
+        "name": "oOlution",
+        "country": "France",
+        "founded": 2013,
+        "website": "https://www.oolution.com",
+        "revenue": null,
+        "description": "Marque française indépendante de cosmétiques 100 % naturels, vegan et sans huile de palme, fondée par Anne-Marie Gabelica (ingénieure agronome et biochimiste, ex-L'Oréal). Produits fabriqués en France, engagée contre la déforestation."
+      },
+      "brands": [
+        {
+          "name": "Oolution",
+          "aliases": [
+            "oOlution",
+            "OOlution",
+            "Oolution Cosmétiques"
+          ],
+          "category": "Cosmétiques",
+          "note": "Marque française de soins naturels vegan, sans huile de palme et à emballages consignés. Indépendante, détenue par sa fondatrice Anne-Marie Gabelica."
+        }
+      ],
+      "scandals": []
+    },
+    {
+      "group": {
+        "name": "Groupe Finoli",
+        "country": "France",
+        "founded": 2008,
+        "website": "https://finoli.fr",
+        "revenue": "Patyka ~30 M€ (2024)",
+        "description": "Groupe industriel français fondé par Pierre Juhen, Grégory Declercq et Alexandre Benamran, actif dans la beauté, le bien-être et la santé via plus de trente acquisitions. Le groupe finance le développement de ses marques sur fonds propres."
+      },
+      "brands": [
+        {
+          "name": "Patyka",
+          "aliases": [
+            "Patyka Cosmetics",
+            "Patika"
+          ],
+          "category": "Cosmétiques",
+          "note": "Pionnier français du soin anti-âge bio, créé à Paris en 2002. Racheté en 2013 par le groupe Finoli, qui en assure depuis le développement (marque restée indépendante des grands groupes cosmétiques)."
+        }
+      ],
+      "scandals": []
+    },
+    {
+      "group": {
+        "name": "Pomponne",
+        "country": "France",
+        "founded": 2019,
+        "website": "https://www.pomponne-makeup.com",
+        "revenue": null,
+        "description": "Marque française indépendante de maquillage-soin clean, vegan et fabriqué en France, fondée par Agathe et Charline, deux docteures en pharmacie. Lancée via une campagne de financement participatif (Ulule) en 2020."
+      },
+      "brands": [
+        {
+          "name": "Pomponne",
+          "aliases": [
+            "Pomponne Makeup",
+            "Pomponne Beauté",
+            "Pompone"
+          ],
+          "category": "Cosmétiques",
+          "note": "Maquillage-soin 2-en-1 naturel créé en 2019/2020 par deux pharmaciennes. Marque indépendante (société AGATHE & CHARLINE), distribuée en ligne et chez des revendeurs comme Printemps et Nuoo."
+        }
+      ],
+      "scandals": []
+    },
+    {
+      "group": {
+        "name": "Skin & Out",
+        "country": "France",
+        "founded": 2019,
+        "website": "https://www.skinandout.com",
+        "revenue": "~1 M€ (CA estimé)",
+        "description": "Marque française indépendante de soins et compléments alimentaires anti-acné, fondée fin 2019 par les sœurs Amélie et Fleur Desazars. Reste contrôlée par ses fondatrices, avec une participation minoritaire des fondateurs de Caudalie."
+      },
+      "brands": [
+        {
+          "name": "Skin & Out",
+          "aliases": [
+            "Skin and Out",
+            "Skin&Out",
+            "Skinout"
+          ],
+          "category": "Cosmétiques",
+          "note": "Marque de soins et compléments contre l'acné lancée fin 2019. Indépendante : Mathilde et Bertrand Thomas (fondateurs de Caudalie) y ont investi 1,5 M€ en 2021 en tant qu'actionnaires minoritaires, sans prise de contrôle."
+        }
+      ],
+      "scandals": []
+    },
+    {
+      "group": {
+        "name": "Kresk (Didier Tabary)",
+        "country": "France",
+        "founded": 2024,
+        "website": "https://www.svr.com",
+        "revenue": "SVR ~140 M€ (2023)",
+        "description": "Family office de l'entrepreneur breton Didier Tabary (également propriétaire de Filorga), dont le pôle cosmétique Kresk Développement détient les Laboratoires SVR. Tabary est devenu unique propriétaire de SVR en 2024."
+      },
+      "brands": [
+        {
+          "name": "SVR",
+          "aliases": [
+            "Laboratoires SVR",
+            "Laboratoire SVR",
+            "S V R"
+          ],
+          "category": "Cosmétiques",
+          "note": "Laboratoire de dermo-cosmétique français fondé en 1962, distribué en pharmacie. Repris en 2014 par HLD et Didier Tabary après une procédure de sauvegarde ; Tabary en est devenu l'unique propriétaire en 2024 via sa holding Kresk, après le rachat de la part de HLD."
+        }
+      ],
+      "scandals": []
+    },
+    {
+      "group": {
+        "name": "Good Brands",
+        "country": "France",
+        "founded": 2018,
+        "website": "https://typology.com",
+        "revenue": null,
+        "description": "Groupe de beauté et bien-être créé par Ning Li (cofondateur de Made.com) pour réunir ses marques, dont Typology et, depuis 2025, la marque de parfum Sujet. Modèle centré sur le digital, l'innovation et la transparence."
+      },
+      "brands": [
+        {
+          "name": "Typology",
+          "aliases": [
+            "Typology.com",
+            "Typologie"
+          ],
+          "category": "Cosmétiques",
+          "note": "Marque française de cosmétiques minimalistes fabriqués en France, fondée en 2019 par Ning Li. Première marque du groupe Good Brands ; financée par des fonds de capital-risque (Alven, firstminute, Xavier Niel, Marc Simoncini), elle reste indépendante des grands groupes."
+        }
+      ],
+      "scandals": []
+    },
+    {
+      "group": {
+        "name": "Puig",
+        "country": "Espagne",
+        "founded": 1914,
+        "website": "https://www.puig.com",
+        "revenue": "4,79 Md€ (2024)",
+        "description": "Groupe familial espagnol de parfums, mode et beauté fondé en 1914 à Barcelone par Antonio Puig Castelló, coté en Bourse depuis mai 2024. Propriétaire de marques comme Rabanne, Carolina Herrera, Jean Paul Gaultier, Charlotte Tilbury et d'un pôle dermo-cosmétique."
+      },
+      "brands": [
+        {
+          "name": "Uriage",
+          "aliases": [
+            "Laboratoires dermatologiques d'Uriage",
+            "Laboratoires Uriage",
+            "Uriage Eau Thermale"
+          ],
+          "category": "Cosmétiques",
+          "note": "Laboratoire dermo-cosmétique français (eau thermale d'Uriage), ~205 M€ de CA en 2024. Racheté en juin 2011 à la famille Bouchara par la holding de la famille Puig (Corporacion Exea) avec M3 Invest ; intégré au pôle dermo-cosmétique de Puig."
+        }
+      ],
+      "scandals": [
+        {
+          "title": "Expérimentation animale via le marché chinois",
+          "year": 2024,
+          "severity": "faible",
+          "tags": [
+            "expérimentation animale",
+            "éthique",
+            "transparence"
+          ],
+          "summary": "Le groupe Puig n'est pas considéré comme 'cruelty-free' par les associations de défense animale car certaines de ses marques sont commercialisées en Chine continentale, où la réglementation peut imposer des tests sur animaux pour certaines catégories de produits. La question porte sur la cohérence du groupe propriétaire plutôt que sur une marque en particulier.",
+          "sources": [
+            {
+              "label": "Cruelty-Free Kitty",
+              "url": "https://www.crueltyfreekitty.com/news/charlotte-tilbury-is-now-owned-by-a-parent-company-that-isnt-cruelty-free/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group": {
+        "name": "Weleda",
+        "country": "Suisse",
+        "founded": 1921,
+        "website": "https://www.weleda.com",
+        "revenue": null,
+        "description": "Entreprise suisse-allemande de cosmétiques naturels et de médicaments anthroposophiques, fondée en 1920-1921 à Arlesheim (Suisse) et Schwäbisch Gmünd (Allemagne) dans la mouvance de Rudolf Steiner et Ita Wegman. Produits formulés selon les principes de l'anthroposophie."
+      },
+      "brands": [
+        {
+          "name": "Weleda",
+          "aliases": [
+            "Weleda AG"
+          ],
+          "category": "Cosmétiques",
+          "note": "Marque pionnière de la cosmétique naturelle anthroposophique. Entreprise détenue par des structures liées au mouvement anthroposophique (dont la Société anthroposophique et la clinique d'Arlesheim) ; elle ne dépend d'aucun grand groupe cosmétique."
+        }
+      ],
+      "scandals": [
+        {
+          "title": "Passé de Weleda sous le régime nazi (1933-1945)",
+          "year": 1943,
+          "period": "1933-1945",
+          "severity": "élevé",
+          "tags": [
+            "histoire",
+            "nazisme",
+            "camps de concentration",
+            "éthique"
+          ],
+          "summary": "En 1943, Weleda a livré une crème antigel à la Wehrmacht, remise au médecin SS Sigmund Rascher, qui menait des expériences d'hypothermie sur des détenus du camp de Dachau. Des études récentes (notamment celle de l'historienne Anne Sudrow publiée en septembre 2025 à la demande du mémorial de Dachau) ont aussi documenté l'approvisionnement de Weleda en plantes auprès d'une exploitation gérée par les SS à Dachau. L'entreprise affirme qu'aucune preuve n'établit l'usage de la crème dans ces expériences et que ses responsables ignoraient les expérimentations humaines.",
+          "sources": [
+            {
+              "label": "RTS",
+              "url": "https://www.rts.ch/info/economie/2025/article/la-marque-de-cosmetique-weleda-epinglee-pour-son-passe-avec-le-regime-nazi-28997166.html"
+            },
+            {
+              "label": "Wikipedia (Weleda)",
+              "url": "https://en.wikipedia.org/wiki/Weleda"
+            },
+            {
+              "label": "Weleda (communication officielle 1933-1945)",
+              "url": "https://www.weleda.fr/weleda/notre-histoire/weleda-entre-1933-et-1945"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group": {
+        "name": "Cosm'Etika France",
+        "country": "France",
+        "founded": 2012,
+        "website": "https://zaomakeup.com",
+        "revenue": "~5,4 M€ (2023)",
+        "description": "Groupe cosmétique français basé à Génissieux (Drôme), spécialisé dans la beauté naturelle, bio et engagée. Il réunit plusieurs marques : Zao Make-up, Lamazuna (cosmétiques solides, rachetée en 2024) et Cap Bambou (intégrée fin 2024)."
+      },
+      "brands": [
+        {
+          "name": "Zao",
+          "aliases": [
+            "Zao Make-up",
+            "Zao Make-Up",
+            "Zao Essence of Nature",
+            "Zao Makeup"
+          ],
+          "category": "Cosmétiques",
+          "note": "Première marque de maquillage 100% naturel, bio (Cosmébio), vegan et rechargeable, au packaging en bambou, cofondée en 2012. Marque historique du groupe Cosm'Etika France."
+        }
+      ],
+      "scandals": []
     }
   ]
 }
